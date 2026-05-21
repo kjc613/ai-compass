@@ -347,6 +347,19 @@ h3 {
   column-gap: 10px;
   row-gap: 3px;
   align-items: start;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.pick-card:hover,
+.pick-card:focus-visible {
+  border-color: rgba(15, 118, 110, 0.42);
+  box-shadow: 0 14px 34px rgba(23, 32, 38, 0.08);
+  transform: scale(1.02);
+}
+
+.pick-card:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.18);
+  outline-offset: 2px;
 }
 
 .pick-card img {
@@ -426,6 +439,19 @@ select {
   padding: 0 14px;
   white-space: nowrap;
   font-weight: 700;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.tab-button:hover,
+.tab-button:focus-visible {
+  border-color: rgba(15, 118, 110, 0.42);
+  box-shadow: 0 8px 20px rgba(23, 32, 38, 0.08);
+  transform: scale(1.06);
+}
+
+.tab-button:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.18);
+  outline-offset: 2px;
 }
 
 .tab-button.active {
@@ -455,6 +481,21 @@ select {
   min-height: 232px;
   display: flex;
   flex-direction: column;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.tool-card:hover,
+.tool-card:focus-visible {
+  border-color: rgba(15, 118, 110, 0.42);
+  box-shadow: 0 16px 38px rgba(23, 32, 38, 0.1);
+  transform: scale(1.02);
+}
+
+.tool-card:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.18);
+  outline-offset: 2px;
 }
 
 .card-top {
@@ -517,10 +558,6 @@ select {
   font-weight: 700;
 }
 
-.card-link {
-  color: var(--accent-dark);
-  font-weight: 800;
-}
 
 .news-layout {
   display: grid;

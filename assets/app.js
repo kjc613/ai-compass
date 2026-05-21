@@ -30,7 +30,6 @@ const translations = {
     categoriesLabel: "业务分类",
     allCategory: "全部",
     featured: "精选",
-    visit: "访问官网",
     noResultsTitle: "没有找到匹配项",
     noResultsText: "换个关键词试试，比如 API、视频、搜索、办公或智能体。",
     newsEyebrow: "Daily AI News",
@@ -72,7 +71,6 @@ const translations = {
     categoriesLabel: "Business categories",
     allCategory: "All",
     featured: "Featured",
-    visit: "Visit website",
     noResultsTitle: "No matches found",
     noResultsText: "Try another keyword such as API, video, search, productivity, or agents.",
     newsEyebrow: "Daily AI News",
@@ -421,8 +419,11 @@ function renderDirectory() {
 
   for (const tool of tools) {
     const copy = toolCopy(tool);
-    const card = document.createElement("article");
+    const card = document.createElement("a");
     card.className = "tool-card";
+    card.href = tool.url;
+    card.target = "_blank";
+    card.rel = "noopener";
     card.innerHTML = `
       <div class="card-top">
         <div class="tool-logo" aria-hidden="true">
@@ -434,7 +435,6 @@ function renderDirectory() {
       <h3>${escapeHtml(displayName(tool))}</h3>
       <p>${escapeHtml(copy.summary)}</p>
       <div class="tags">${copy.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
-      <a class="card-link" href="${tool.url}" target="_blank" rel="noopener">${text("visit")}</a>
     `;
     directoryGrid.append(card);
   }
