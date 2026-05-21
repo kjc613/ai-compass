@@ -7,7 +7,7 @@ const translations = {
     navNews: "资讯",
     heroEyebrow: "AI company directory",
     heroTitle: "把分散的 AI 官网、产品入口和新闻更新收进一个导航页。",
-    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，帮助用户快速找到合适的 AI 工具。",
+    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，优先整理官方入口，降低误入假冒官网和仿冒下载页的风险。",
     heroPrimary: "浏览 AI 导航",
     heroSecondary: "查看今日资讯",
     overviewLabel: "站点概览",
@@ -49,7 +49,7 @@ const translations = {
     navNews: "News",
     heroEyebrow: "AI company directory",
     heroTitle: "One navigation page for AI websites, product entrances, and daily news.",
-    heroText: "Browse AI companies by business category, including foundation models, image and video tools, developer platforms, search, productivity, voice, and multimodal products.",
+    heroText: "Browse AI companies by business category with official entrances prioritized, reducing the risk of landing on impersonation sites or misleading download pages.",
     heroPrimary: "Browse directory",
     heroSecondary: "Read AI news",
     overviewLabel: "Site overview",
@@ -91,6 +91,7 @@ const categoryLabels = {
   "搜索问答": "Search & Q&A",
   "图像与设计": "Image & Design",
   "视频与创意": "Video & Creative",
+  "生成工作流": "Generation Workflows",
   "模型与社区": "Model Hubs & Communities",
   "开发者工具": "Developer Tools",
   "语音与音频": "Voice & Audio",
@@ -106,6 +107,7 @@ const categoryDescriptions = {
     "大模型与 API": "通用模型、推理接口、多模态 API 和企业模型服务，是构建 AI 产品的底座。",
     "图像与设计": "覆盖图像生成、海报设计、品牌素材和创意视觉，适合设计与营销团队。",
     "视频与创意": "用于短视频、数字人、视频翻译和创意片段生产，适合内容团队。",
+    "生成工作流": "节点式生成、模型管线、画布编辑和本地创作工作台，适合深度视觉工作流。",
     "开发者工具": "面向代码生成、工程协作、模型调用和 AI 开发流程提效。",
     "AI 应用构建": "用于搭建聊天应用、智能体、RAG 和全栈 AI 原型。",
     "智能体与自动化": "把 AI 接入业务流程、SaaS 工具和自动化任务，适合运营与企业效率。",
@@ -121,6 +123,7 @@ const categoryDescriptions = {
     "大模型与 API": "General models, inference APIs, multimodal endpoints, and enterprise model services for building AI products.",
     "图像与设计": "Image generation, posters, brand assets, and creative visuals for design and marketing teams.",
     "视频与创意": "Short videos, avatars, video translation, and creative clip production for content teams.",
+    "生成工作流": "Node-based generation, model pipelines, canvas editing, and local creative workbenches for advanced visual workflows.",
     "开发者工具": "Coding, engineering collaboration, model access, and AI development workflow acceleration.",
     "AI 应用构建": "Tooling for chat apps, agents, RAG systems, and full-stack AI prototypes.",
     "智能体与自动化": "Connect AI to business processes, SaaS apps, and automated tasks for operations and enterprise productivity.",
@@ -326,43 +329,49 @@ function renderOverview() {
   const priority = [
     "大模型与 API",
     "AI 应用构建",
-    "图像与设计",
-    "视频与创意",
+    "开发者工具",
     "智能体与自动化",
-    "知识库与检索"
+    "生成工作流",
+    "图像与设计"
   ];
 
   overviewGrid.innerHTML = "";
   for (const category of priority) {
-    const article = document.createElement("article");
-    article.className = "overview-card";
-    article.innerHTML = `
+    const button = document.createElement("button");
+    button.className = "overview-card";
+    button.type = "button";
+    button.setAttribute("aria-label", `${labelCategory(category)} ${categoryCounts[category] || 0}`);
+    button.innerHTML = `
       <span class="overview-count">${categoryCounts[category] || 0}</span>
       <h4>${escapeHtml(labelCategory(category))}</h4>
       <p>${escapeHtml(categoryDescriptions[state.language][category])}</p>
     `;
-    overviewGrid.append(article);
+    button.addEventListener("click", () => selectCategory(category, true));
+    overviewGrid.append(button);
   }
 }
 
 function renderPicks() {
   const picks = state.tools
-    .filter((tool) => tool.featured)
-    .slice(0, 12);
+    .filter((tool) => Number.isFinite(tool.editorPickRank))
+    .sort((a, b) => a.editorPickRank - b.editorPickRank)
+    .slice(0, 16);
 
   pickStrip.innerHTML = "";
   for (const tool of picks) {
     const copy = toolCopy(tool);
     const link = document.createElement("a");
+    const reason = state.language === "en" ? tool.editorPickReasonEn || tool.editorPickReason : tool.editorPickReason;
+    const fallbackReason = reason || copy.tags.slice(0, 3).join(" / ");
     link.className = "pick-card";
     link.href = tool.url;
     link.target = "_blank";
     link.rel = "noopener";
     link.innerHTML = `
       <img src="${faviconUrl(tool.url)}" alt="" loading="lazy">
-      <span>${escapeHtml(tool.name)}</span>
+      <span>${escapeHtml(displayName(tool))}</span>
       <small>${escapeHtml(labelCategory(tool.category))}</small>
-      <p>${escapeHtml(copy.tags.slice(0, 3).join(" / "))}</p>
+      <p>${escapeHtml(fallbackReason)}</p>
     `;
     pickStrip.append(link);
   }
@@ -373,6 +382,10 @@ function labelCategory(category) {
   return state.language === "en" ? categoryLabels[category] || category : category;
 }
 
+function displayName(tool) {
+  return state.language === "en" ? tool.nameEn || tool.name : tool.name;
+}
+
 function renderTabs() {
   categoryTabs.innerHTML = "";
   for (const category of getCategories()) {
@@ -380,12 +393,17 @@ function renderTabs() {
     button.className = `tab-button${category === state.activeCategory ? " active" : ""}`;
     button.type = "button";
     button.textContent = labelCategory(category);
-    button.addEventListener("click", () => {
-      state.activeCategory = category;
-      renderTabs();
-      renderDirectory();
-    });
+    button.addEventListener("click", () => selectCategory(category));
     categoryTabs.append(button);
+  }
+}
+
+function selectCategory(category, shouldScroll = false) {
+  state.activeCategory = category;
+  renderTabs();
+  renderDirectory();
+  if (shouldScroll) {
+    categoryTabs.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 }
 
@@ -409,11 +427,11 @@ function renderDirectory() {
       <div class="card-top">
         <div class="tool-logo" aria-hidden="true">
           <img src="${faviconUrl(tool.url)}" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
-          <span>${escapeHtml(tool.name.slice(0, 2))}</span>
+          <span>${escapeHtml(displayName(tool).slice(0, 2))}</span>
         </div>
         ${tool.featured ? `<span class="badge">${text("featured")}</span>` : ""}
       </div>
-      <h3>${escapeHtml(tool.name)}</h3>
+      <h3>${escapeHtml(displayName(tool))}</h3>
       <p>${escapeHtml(copy.summary)}</p>
       <div class="tags">${copy.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
       <a class="card-link" href="${tool.url}" target="_blank" rel="noopener">${text("visit")}</a>
@@ -440,6 +458,7 @@ function matchesQuery(tool) {
   const enCopy = englishToolCopy[tool.name] || {};
   const haystack = [
     tool.name,
+    tool.nameEn,
     tool.category,
     categoryLabels[tool.category],
     tool.summary,

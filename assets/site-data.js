@@ -63,7 +63,10 @@ window.SITE_DATA = {
         "引用",
         "研究"
       ],
-      "featured": true
+      "featured": true,
+      "editorPickRank": 5,
+      "editorPickReason": "AI 搜索和研究问答代表产品",
+      "editorPickReasonEn": "Representative AI search and research Q&A product"
     },
     {
       "name": "Midjourney",
@@ -76,7 +79,10 @@ window.SITE_DATA = {
         "创意",
         "艺术"
       ],
-      "featured": true
+      "featured": true,
+      "editorPickRank": 8,
+      "editorPickReason": "AI 图像创作代表产品",
+      "editorPickReasonEn": "Representative AI image creation product"
     },
     {
       "name": "Runway",
@@ -89,7 +95,10 @@ window.SITE_DATA = {
         "创意",
         "营销"
       ],
-      "featured": true
+      "featured": true,
+      "editorPickRank": 10,
+      "editorPickReason": "AI 视频创作代表产品",
+      "editorPickReasonEn": "Representative AI video creation product"
     },
     {
       "name": "Stability AI",
@@ -167,7 +176,10 @@ window.SITE_DATA = {
         "演示",
         "图像"
       ],
-      "featured": false
+      "featured": true,
+      "editorPickRank": 9,
+      "editorPickReason": "大众设计和内容创作高频入口",
+      "editorPickReasonEn": "High-frequency entry for design and content creation"
     },
     {
       "name": "GitHub Copilot",
@@ -180,7 +192,10 @@ window.SITE_DATA = {
         "代码",
         "开发者"
       ],
-      "featured": true
+      "featured": true,
+      "editorPickRank": 15,
+      "editorPickReason": "覆盖面最广的代码助手之一",
+      "editorPickReasonEn": "One of the most widely adopted code assistants"
     },
     {
       "name": "Cursor",
@@ -193,7 +208,10 @@ window.SITE_DATA = {
         "代码库",
         "开发者"
       ],
-      "featured": true
+      "featured": true,
+      "editorPickRank": 12,
+      "editorPickReason": "AI IDE 热门入口",
+      "editorPickReasonEn": "Popular AI IDE entry point"
     },
     {
       "name": "xAI",
@@ -232,7 +250,10 @@ window.SITE_DATA = {
         "API",
         "大模型"
       ],
-      "featured": false
+      "featured": true,
+      "editorPickRank": 4,
+      "editorPickReason": "中文开发者和推理模型关注度高",
+      "editorPickReasonEn": "High attention among Chinese developers and reasoning model users"
     },
     {
       "name": "MiniMax",
@@ -258,7 +279,10 @@ window.SITE_DATA = {
         "搜索",
         "写作"
       ],
-      "featured": false
+      "featured": true,
+      "editorPickRank": 7,
+      "editorPickReason": "中文长文档和搜索问答入口",
+      "editorPickReasonEn": "Chinese long-document and search Q&A entry point"
     },
     {
       "name": "智谱清言",
@@ -271,7 +295,15 @@ window.SITE_DATA = {
         "智能体",
         "企业"
       ],
-      "featured": false
+      "featured": false,
+      "nameEn": "ChatGLM",
+      "summaryEn": "Zhipu AI's chat product and model service entry point for Chinese conversation, agents, and enterprise applications.",
+      "tagsEn": [
+        "Chinese",
+        "ChatGLM",
+        "Agents",
+        "Enterprise"
+      ]
     },
     {
       "name": "通义千问",
@@ -284,7 +316,15 @@ window.SITE_DATA = {
         "API",
         "企业"
       ],
-      "featured": false
+      "featured": false,
+      "nameEn": "Qwen Chat",
+      "summaryEn": "Alibaba Cloud's Qwen AI product entry, covering chat, productivity, developer APIs, and enterprise scenarios.",
+      "tagsEn": [
+        "Alibaba Cloud",
+        "Chinese",
+        "API",
+        "Enterprise"
+      ]
     },
     {
       "name": "文心一言",
@@ -297,7 +337,15 @@ window.SITE_DATA = {
         "中文",
         "智能体"
       ],
-      "featured": false
+      "featured": false,
+      "nameEn": "ERNIE Bot",
+      "summaryEn": "Baidu's ERNIE Bot product entry, connecting search, content generation, productivity, and agent use cases.",
+      "tagsEn": [
+        "Baidu",
+        "Search",
+        "Chinese",
+        "Agents"
+      ]
     },
     {
       "name": "Gemini",
@@ -310,7 +358,10 @@ window.SITE_DATA = {
         "多模态",
         "搜索"
       ],
-      "featured": false
+      "featured": true,
+      "editorPickRank": 3,
+      "editorPickReason": "Google 生态和多模态入口",
+      "editorPickReasonEn": "Google ecosystem and multimodal AI entry point"
     },
     {
       "name": "Meta AI",
@@ -1031,6 +1082,1276 @@ window.SITE_DATA = {
         "Decisioning"
       ],
       "featured": false
+    },
+    {
+      "name": "Codex",
+      "url": "https://openai.com/codex/",
+      "category": "开发者工具",
+      "summary": "OpenAI 的云端编程智能体入口，适合代码生成、功能实现、重构、测试和 Pull Request 协作。",
+      "summaryEn": "OpenAI coding agent for building features, refactoring, testing, and collaborating on pull requests.",
+      "tags": [
+        "编程智能体",
+        "代码生成",
+        "重构",
+        "OpenAI"
+      ],
+      "tagsEn": [
+        "Coding Agent",
+        "Code Generation",
+        "Refactoring",
+        "OpenAI"
+      ],
+      "featured": true,
+      "editorPickRank": 13,
+      "editorPickReason": "OpenAI 编程智能体入口",
+      "editorPickReasonEn": "OpenAI coding agent entry point"
+    },
+    {
+      "name": "Claude Code",
+      "url": "https://www.anthropic.com/product/claude-code",
+      "category": "开发者工具",
+      "summary": "Anthropic 的命令行编程智能体，面向代码理解、多文件修改、终端任务和工程协作。",
+      "summaryEn": "Anthropic command-line coding agent for code understanding, multi-file edits, terminal tasks, and engineering work.",
+      "tags": [
+        "Claude",
+        "命令行",
+        "代码库",
+        "智能体"
+      ],
+      "tagsEn": [
+        "Claude",
+        "CLI",
+        "Codebase",
+        "Agent"
+      ],
+      "featured": true,
+      "editorPickRank": 14,
+      "editorPickReason": "开发者智能体高热度工具",
+      "editorPickReasonEn": "High-attention developer agent tool"
+    },
+    {
+      "name": "Windsurf",
+      "url": "https://windsurf.com/",
+      "category": "开发者工具",
+      "summary": "面向开发者的 AI IDE，支持代码库理解、多文件编辑、自动补全和代理式编程流程。",
+      "summaryEn": "AI IDE for codebase understanding, multi-file editing, autocomplete, and agentic development workflows.",
+      "tags": [
+        "AI IDE",
+        "代码库",
+        "补全",
+        "开发者"
+      ],
+      "tagsEn": [
+        "AI IDE",
+        "Codebase",
+        "Autocomplete",
+        "Developers"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Gemini CLI",
+      "url": "https://google-gemini.github.io/gemini-cli/",
+      "category": "开发者工具",
+      "summary": "Google Gemini 的终端工具入口，适合在命令行中进行代码问答、文件操作和开发辅助。",
+      "summaryEn": "Terminal tool for using Gemini in command-line coding, file workflows, and developer assistance.",
+      "tags": [
+        "Gemini",
+        "CLI",
+        "开发者",
+        "终端"
+      ],
+      "tagsEn": [
+        "Gemini",
+        "CLI",
+        "Developers",
+        "Terminal"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Continue",
+      "url": "https://www.continue.dev/",
+      "category": "开发者工具",
+      "summary": "可接入多种模型的 AI 编程助手，适合团队在 IDE 内构建自定义代码辅助流程。",
+      "summaryEn": "AI coding assistant that connects to multiple models and supports custom IDE coding workflows.",
+      "tags": [
+        "IDE",
+        "多模型",
+        "代码助手",
+        "团队"
+      ],
+      "tagsEn": [
+        "IDE",
+        "Multi-model",
+        "Code Assistant",
+        "Teams"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Sourcegraph Cody",
+      "url": "https://sourcegraph.com/cody",
+      "category": "开发者工具",
+      "summary": "面向大型代码库的 AI 编程助手，适合代码搜索、上下文问答、生成和重构。",
+      "summaryEn": "AI coding assistant for large codebases, code search, context Q&A, generation, and refactoring.",
+      "tags": [
+        "代码搜索",
+        "大型代码库",
+        "重构",
+        "企业"
+      ],
+      "tagsEn": [
+        "Code Search",
+        "Large Codebases",
+        "Refactoring",
+        "Enterprise"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Tabnine",
+      "url": "https://www.tabnine.com/",
+      "category": "开发者工具",
+      "summary": "面向企业和个人开发者的代码补全与代码生成工具，强调 IDE 集成和团队代码规范。",
+      "summaryEn": "Code completion and generation tool for developers, with IDE integrations and team-aware coding assistance.",
+      "tags": [
+        "代码补全",
+        "IDE",
+        "企业",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Code Completion",
+        "IDE",
+        "Enterprise",
+        "Developers"
+      ],
+      "featured": false
+    },
+    {
+      "name": "JetBrains AI",
+      "url": "https://www.jetbrains.com/ai/",
+      "category": "开发者工具",
+      "summary": "JetBrains IDE 内置 AI 能力入口，支持代码解释、生成、重构、测试和文档编写。",
+      "summaryEn": "AI features inside JetBrains IDEs for code explanation, generation, refactoring, tests, and documentation.",
+      "tags": [
+        "JetBrains",
+        "IDE",
+        "测试",
+        "重构"
+      ],
+      "tagsEn": [
+        "JetBrains",
+        "IDE",
+        "Tests",
+        "Refactoring"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Bolt",
+      "url": "https://bolt.new/",
+      "category": "AI 应用构建",
+      "summary": "浏览器内的 AI 应用开发环境，适合快速生成、运行和迭代 Web 应用原型。",
+      "summaryEn": "Browser-based AI app development environment for generating, running, and iterating web app prototypes.",
+      "tags": [
+        "应用生成",
+        "Web",
+        "原型",
+        "全栈"
+      ],
+      "tagsEn": [
+        "App Generation",
+        "Web",
+        "Prototype",
+        "Full-stack"
+      ],
+      "featured": true
+    },
+    {
+      "name": "v0",
+      "url": "https://v0.dev/",
+      "category": "AI 应用构建",
+      "summary": "Vercel 的 AI 前端生成工具，适合生成界面、组件、页面原型和 React 代码。",
+      "summaryEn": "Vercel AI frontend generator for interfaces, components, page prototypes, and React code.",
+      "tags": [
+        "前端",
+        "React",
+        "界面生成",
+        "原型"
+      ],
+      "tagsEn": [
+        "Frontend",
+        "React",
+        "UI Generation",
+        "Prototype"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Base44",
+      "url": "https://base44.com/",
+      "category": "AI 应用构建",
+      "summary": "通过自然语言构建业务应用和内部工具的平台，适合快速做管理后台和流程工具。",
+      "summaryEn": "Platform for building business apps and internal tools from natural language.",
+      "tags": [
+        "应用构建",
+        "内部工具",
+        "业务应用",
+        "低代码"
+      ],
+      "tagsEn": [
+        "App Building",
+        "Internal Tools",
+        "Business Apps",
+        "Low-code"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Dify",
+      "url": "https://dify.ai/",
+      "category": "AI 应用构建",
+      "summary": "LLM 应用开发平台，支持聊天应用、工作流、RAG、模型接入和应用运营。",
+      "summaryEn": "LLM app development platform for chat apps, workflows, RAG, model access, and app operations.",
+      "tags": [
+        "RAG",
+        "工作流",
+        "聊天应用",
+        "模型接入"
+      ],
+      "tagsEn": [
+        "RAG",
+        "Workflow",
+        "Chat Apps",
+        "Model Access"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Coze",
+      "url": "https://www.coze.com/",
+      "category": "AI 应用构建",
+      "summary": "智能体与聊天应用构建平台，适合搭建机器人、知识问答和自动化应用。",
+      "summaryEn": "Agent and chat app builder for bots, knowledge Q&A, and automated AI applications.",
+      "tags": [
+        "智能体",
+        "机器人",
+        "聊天应用",
+        "工作流"
+      ],
+      "tagsEn": [
+        "Agents",
+        "Bots",
+        "Chat Apps",
+        "Workflow"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Flowise",
+      "url": "https://flowiseai.com/",
+      "category": "AI 应用构建",
+      "summary": "可视化 LLM 应用搭建工具，适合用节点方式构建聊天、RAG 和多步骤工作流。",
+      "summaryEn": "Visual LLM app builder for chat, RAG, and multi-step workflows.",
+      "tags": [
+        "可视化",
+        "RAG",
+        "工作流",
+        "LLM 应用"
+      ],
+      "tagsEn": [
+        "Visual Builder",
+        "RAG",
+        "Workflow",
+        "LLM Apps"
+      ],
+      "featured": false
+    },
+    {
+      "name": "CrewAI",
+      "url": "https://www.crewai.com/",
+      "category": "智能体与自动化",
+      "summary": "多智能体应用构建平台，适合把不同角色的 AI 协作组织成业务流程。",
+      "summaryEn": "Multi-agent app platform for organizing AI roles into collaborative business workflows.",
+      "tags": [
+        "多智能体",
+        "流程",
+        "协作",
+        "自动化"
+      ],
+      "tagsEn": [
+        "Multi-agent",
+        "Workflow",
+        "Collaboration",
+        "Automation"
+      ],
+      "featured": false
+    },
+    {
+      "name": "n8n AI",
+      "url": "https://n8n.io/ai/",
+      "category": "智能体与自动化",
+      "summary": "自动化工作流平台的 AI 能力入口，适合连接业务系统、模型和数据处理流程。",
+      "summaryEn": "AI workflow automation platform for connecting business systems, models, and data processing flows.",
+      "tags": [
+        "工作流",
+        "自动化",
+        "集成",
+        "AI 节点"
+      ],
+      "tagsEn": [
+        "Workflow",
+        "Automation",
+        "Integration",
+        "AI Nodes"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Manus",
+      "url": "https://manus.im/",
+      "category": "智能体与自动化",
+      "summary": "通用任务智能体入口，面向研究、分析、网页操作和多步骤任务处理。",
+      "summaryEn": "General-purpose task agent for research, analysis, web operations, and multi-step tasks.",
+      "tags": [
+        "通用智能体",
+        "研究",
+        "任务执行",
+        "自动化"
+      ],
+      "tagsEn": [
+        "General Agent",
+        "Research",
+        "Task Execution",
+        "Automation"
+      ],
+      "featured": true,
+      "editorPickRank": 16,
+      "editorPickReason": "通用任务智能体代表入口",
+      "editorPickReasonEn": "Representative general-purpose task agent"
+    },
+    {
+      "name": "Genspark",
+      "url": "https://www.genspark.ai/",
+      "category": "搜索问答",
+      "summary": "面向研究和内容整理的 AI 搜索入口，适合生成主题页面、资料汇总和问答结果。",
+      "summaryEn": "AI search and research entry for topic pages, summaries, and source-backed answers.",
+      "tags": [
+        "AI 搜索",
+        "研究",
+        "资料整理",
+        "问答"
+      ],
+      "tagsEn": [
+        "AI Search",
+        "Research",
+        "Summaries",
+        "Q&A"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Felo",
+      "url": "https://felo.ai/",
+      "category": "搜索问答",
+      "summary": "跨语言 AI 搜索与研究工具，适合资料检索、知识整理和多语言问答。",
+      "summaryEn": "Cross-language AI search and research tool for information retrieval, knowledge organization, and Q&A.",
+      "tags": [
+        "AI 搜索",
+        "跨语言",
+        "研究",
+        "知识整理"
+      ],
+      "tagsEn": [
+        "AI Search",
+        "Cross-language",
+        "Research",
+        "Knowledge"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Phind",
+      "url": "https://www.phind.com/",
+      "category": "搜索问答",
+      "summary": "面向开发者的问题搜索与代码问答工具，适合查技术资料、错误排查和代码解释。",
+      "summaryEn": "Developer-focused search and code Q&A tool for technical research, debugging, and code explanations.",
+      "tags": [
+        "开发者搜索",
+        "代码问答",
+        "调试",
+        "技术资料"
+      ],
+      "tagsEn": [
+        "Developer Search",
+        "Code Q&A",
+        "Debugging",
+        "Technical Research"
+      ],
+      "featured": false
+    },
+    {
+      "name": "You.com",
+      "url": "https://you.com/",
+      "category": "搜索问答",
+      "summary": "AI 搜索和助手平台，适合通用搜索、研究问答、写作辅助和信息整理。",
+      "summaryEn": "AI search and assistant platform for general search, research Q&A, writing, and information organization.",
+      "tags": [
+        "AI 搜索",
+        "助手",
+        "研究",
+        "写作"
+      ],
+      "tagsEn": [
+        "AI Search",
+        "Assistant",
+        "Research",
+        "Writing"
+      ],
+      "featured": false
+    },
+    {
+      "name": "秘塔 AI 搜索",
+      "url": "https://metaso.cn/",
+      "category": "搜索问答",
+      "summary": "中文 AI 搜索工具，适合资料检索、来源整理、学术搜索和中文知识问答。",
+      "summaryEn": "Chinese AI search tool for source-backed research, academic search, and Chinese Q&A.",
+      "tags": [
+        "中文搜索",
+        "资料检索",
+        "学术",
+        "问答"
+      ],
+      "tagsEn": [
+        "Chinese Search",
+        "Research",
+        "Academic",
+        "Q&A"
+      ],
+      "featured": true,
+      "nameEn": "Metaso AI Search"
+    },
+    {
+      "name": "Consensus",
+      "url": "https://consensus.app/",
+      "category": "搜索问答",
+      "summary": "学术论文检索与证据问答工具，适合研究人员快速查看论文结论和证据来源。",
+      "summaryEn": "Academic search and evidence Q&A tool for quickly reviewing paper findings and sources.",
+      "tags": [
+        "学术",
+        "论文",
+        "证据",
+        "研究"
+      ],
+      "tagsEn": [
+        "Academic",
+        "Papers",
+        "Evidence",
+        "Research"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Elicit",
+      "url": "https://elicit.com/",
+      "category": "搜索问答",
+      "summary": "AI 研究助手，适合文献检索、论文摘要、研究问题拆解和证据表格整理。",
+      "summaryEn": "AI research assistant for literature search, paper summaries, research questions, and evidence tables.",
+      "tags": [
+        "文献",
+        "论文摘要",
+        "研究助手",
+        "证据表"
+      ],
+      "tagsEn": [
+        "Literature",
+        "Paper Summaries",
+        "Research Assistant",
+        "Evidence Tables"
+      ],
+      "featured": false
+    },
+    {
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google/",
+      "category": "知识库与检索",
+      "summary": "Google 的资料理解与笔记工具，适合围绕上传资料进行问答、摘要和知识整理。",
+      "summaryEn": "Google tool for understanding uploaded sources, Q&A, summaries, and knowledge organization.",
+      "tags": [
+        "资料问答",
+        "笔记",
+        "摘要",
+        "Google"
+      ],
+      "tagsEn": [
+        "Source Q&A",
+        "Notes",
+        "Summaries",
+        "Google"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Glean",
+      "url": "https://www.glean.com/",
+      "category": "知识库与检索",
+      "summary": "企业知识搜索和 AI 助手平台，适合连接公司文档、应用和内部知识库。",
+      "summaryEn": "Enterprise search and AI assistant platform for company documents, apps, and internal knowledge.",
+      "tags": [
+        "企业搜索",
+        "知识库",
+        "内部资料",
+        "助手"
+      ],
+      "tagsEn": [
+        "Enterprise Search",
+        "Knowledge Base",
+        "Internal Docs",
+        "Assistant"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ChatPDF",
+      "url": "https://www.chatpdf.com/",
+      "category": "知识库与检索",
+      "summary": "PDF 问答工具，适合快速阅读报告、论文、合同和长文档。",
+      "summaryEn": "PDF Q&A tool for reading reports, papers, contracts, and long documents.",
+      "tags": [
+        "PDF",
+        "文档问答",
+        "阅读",
+        "摘要"
+      ],
+      "tagsEn": [
+        "PDF",
+        "Document Q&A",
+        "Reading",
+        "Summaries"
+      ],
+      "featured": false
+    },
+    {
+      "name": "豆包",
+      "url": "https://www.doubao.com/",
+      "category": "办公效率",
+      "summary": "字节跳动旗下 AI 助手入口，覆盖聊天、写作、阅读、图片和日常办公场景。",
+      "summaryEn": "ByteDance AI assistant for chat, writing, reading, images, and everyday productivity.",
+      "tags": [
+        "中文",
+        "写作",
+        "助手",
+        "办公"
+      ],
+      "tagsEn": [
+        "Chinese",
+        "Writing",
+        "Assistant",
+        "Productivity"
+      ],
+      "featured": true,
+      "editorPickRank": 6,
+      "editorPickReason": "国内高频使用的 AI 助手",
+      "editorPickReasonEn": "High-frequency AI assistant in China",
+      "nameEn": "Doubao"
+    },
+    {
+      "name": "腾讯元宝",
+      "url": "https://yuanbao.tencent.com/",
+      "category": "办公效率",
+      "summary": "腾讯 AI 助手入口，适合中文问答、资料整理、写作、办公和微信生态相关场景。",
+      "summaryEn": "Tencent AI assistant for Chinese Q&A, document organization, writing, productivity, and Tencent ecosystem scenarios.",
+      "tags": [
+        "中文",
+        "腾讯",
+        "写作",
+        "办公"
+      ],
+      "tagsEn": [
+        "Chinese",
+        "Tencent",
+        "Writing",
+        "Productivity"
+      ],
+      "featured": false,
+      "nameEn": "Tencent Yuanbao"
+    },
+    {
+      "name": "夸克 AI",
+      "url": "https://www.quark.cn/",
+      "category": "搜索问答",
+      "summary": "夸克的 AI 搜索和内容助手入口，适合中文搜索、学习资料、文档处理和问答。",
+      "summaryEn": "Quark AI search and content assistant for Chinese search, study materials, document workflows, and Q&A.",
+      "tags": [
+        "中文搜索",
+        "学习",
+        "文档",
+        "问答"
+      ],
+      "tagsEn": [
+        "Chinese Search",
+        "Study",
+        "Documents",
+        "Q&A"
+      ],
+      "featured": false,
+      "nameEn": "Quark AI"
+    },
+    {
+      "name": "讯飞星火",
+      "url": "https://xinghuo.xfyun.cn/",
+      "category": "大模型与 API",
+      "summary": "科大讯飞大模型产品入口，覆盖中文对话、办公、教育、语音和行业应用。",
+      "summaryEn": "iFlytek large model product entry for Chinese chat, productivity, education, voice, and industry applications.",
+      "tags": [
+        "中文",
+        "语音",
+        "教育",
+        "行业应用"
+      ],
+      "tagsEn": [
+        "Chinese",
+        "Voice",
+        "Education",
+        "Industry Apps"
+      ],
+      "featured": false,
+      "nameEn": "iFlytek Spark"
+    },
+    {
+      "name": "商量 SenseChat",
+      "url": "https://chat.sensetime.com/",
+      "category": "大模型与 API",
+      "summary": "商汤大模型助手入口，适合中文对话、办公、创作和多模态能力体验。",
+      "summaryEn": "SenseTime AI assistant for Chinese chat, productivity, creative work, and multimodal capabilities.",
+      "tags": [
+        "中文",
+        "多模态",
+        "助手",
+        "创作"
+      ],
+      "tagsEn": [
+        "Chinese",
+        "Multimodal",
+        "Assistant",
+        "Creative"
+      ],
+      "featured": false,
+      "nameEn": "SenseChat"
+    },
+    {
+      "name": "可灵 AI",
+      "url": "https://klingai.com/",
+      "category": "视频与创意",
+      "summary": "AI 视频与图像生成平台，适合短视频创作、镜头生成、视觉素材和创意内容制作。",
+      "summaryEn": "AI video and image generation platform for short videos, shots, visual assets, and creative production.",
+      "tags": [
+        "视频生成",
+        "图像生成",
+        "创意",
+        "短视频"
+      ],
+      "tagsEn": [
+        "Video Generation",
+        "Image Generation",
+        "Creative",
+        "Short Video"
+      ],
+      "featured": true,
+      "nameEn": "Kling AI"
+    },
+    {
+      "name": "即梦 AI",
+      "url": "https://jimeng.jianying.com/",
+      "category": "图像与设计",
+      "summary": "面向图像和视频创意生成的工具，适合视觉灵感、海报素材和短视频内容制作。",
+      "summaryEn": "Creative image and video generation tool for visual ideas, poster assets, and short-form content.",
+      "tags": [
+        "图像",
+        "视频",
+        "创意",
+        "素材"
+      ],
+      "tagsEn": [
+        "Image",
+        "Video",
+        "Creative",
+        "Assets"
+      ],
+      "featured": false,
+      "nameEn": "Jimeng AI"
+    },
+    {
+      "name": "稿定 AI",
+      "url": "https://www.gaoding.com/ai",
+      "category": "图像与设计",
+      "summary": "面向设计和电商视觉的 AI 工具集合，适合海报、商品图、抠图和营销素材制作。",
+      "summaryEn": "AI design toolkit for posters, product images, background removal, and commerce visuals.",
+      "tags": [
+        "设计",
+        "电商",
+        "海报",
+        "图片处理"
+      ],
+      "tagsEn": [
+        "Design",
+        "Commerce",
+        "Posters",
+        "Image Editing"
+      ],
+      "featured": false,
+      "nameEn": "Gaoding AI"
+    },
+    {
+      "name": "Krea",
+      "url": "https://www.krea.ai/",
+      "category": "图像与设计",
+      "summary": "实时图像生成和创意视觉平台，适合概念设计、风格探索和视觉素材迭代。",
+      "summaryEn": "Real-time image generation and creative visual platform for concept design, style exploration, and asset iteration.",
+      "tags": [
+        "实时生成",
+        "图像",
+        "设计",
+        "风格"
+      ],
+      "tagsEn": [
+        "Real-time",
+        "Image",
+        "Design",
+        "Style"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Recraft",
+      "url": "https://www.recraft.ai/",
+      "category": "图像与设计",
+      "summary": "AI 设计工具，适合品牌视觉、图标、矢量素材、插画和一致风格的创意资产。",
+      "summaryEn": "AI design tool for brand visuals, icons, vector assets, illustrations, and consistent creative styles.",
+      "tags": [
+        "品牌视觉",
+        "矢量",
+        "插画",
+        "图标"
+      ],
+      "tagsEn": [
+        "Brand Visuals",
+        "Vector",
+        "Illustration",
+        "Icons"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Murf",
+      "url": "https://murf.ai/",
+      "category": "语音与音频",
+      "summary": "AI 配音和语音生成平台，适合课程、产品视频、旁白和多语言内容制作。",
+      "summaryEn": "AI voiceover and speech generation platform for courses, product videos, narration, and multilingual content.",
+      "tags": [
+        "配音",
+        "语音生成",
+        "旁白",
+        "多语言"
+      ],
+      "tagsEn": [
+        "Voiceover",
+        "Speech Generation",
+        "Narration",
+        "Multilingual"
+      ],
+      "featured": false
+    },
+    {
+      "name": "AssemblyAI",
+      "url": "https://www.assemblyai.com/",
+      "category": "语音与音频",
+      "summary": "语音识别和音频智能 API，适合转写、摘要、说话人识别和音频内容分析。",
+      "summaryEn": "Speech recognition and audio intelligence API for transcription, summaries, speaker labels, and audio analysis.",
+      "tags": [
+        "转写",
+        "API",
+        "音频分析",
+        "语音识别"
+      ],
+      "tagsEn": [
+        "Transcription",
+        "API",
+        "Audio Analysis",
+        "Speech Recognition"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Otter.ai",
+      "url": "https://otter.ai/",
+      "category": "办公效率",
+      "summary": "会议转写与摘要工具，适合会议记录、行动项整理、团队同步和知识留存。",
+      "summaryEn": "Meeting transcription and summary tool for notes, action items, team syncs, and knowledge capture.",
+      "tags": [
+        "会议",
+        "转写",
+        "摘要",
+        "团队"
+      ],
+      "tagsEn": [
+        "Meetings",
+        "Transcription",
+        "Summaries",
+        "Teams"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Hermes Agent",
+      "url": "https://hermes-ai.net/",
+      "category": "智能体与自动化",
+      "summary": "Nous Research 的自托管长期任务智能体，强调记忆、技能积累、跨会话运行和本地/服务器部署。",
+      "summaryEn": "Nous Research self-hosted long-running agent focused on memory, skill accumulation, cross-session work, and local or server deployment.",
+      "tags": [
+        "自托管",
+        "长期任务",
+        "记忆",
+        "技能系统"
+      ],
+      "tagsEn": [
+        "Self-hosted",
+        "Long-running",
+        "Memory",
+        "Skills"
+      ],
+      "featured": true
+    },
+    {
+      "name": "OpenClaw",
+      "url": "https://openclaw.ai/",
+      "category": "智能体与自动化",
+      "summary": "本地运行的自主任务智能体平台，适合连接模型、浏览器、文件和外部工具完成多步骤自动化。",
+      "summaryEn": "Local autonomous agent platform for connecting models, browsers, files, and external tools to complete multi-step automation.",
+      "tags": [
+        "本地智能体",
+        "浏览器控制",
+        "多步骤任务",
+        "工具调用"
+      ],
+      "tagsEn": [
+        "Local Agent",
+        "Browser Control",
+        "Multi-step Tasks",
+        "Tool Use"
+      ],
+      "featured": true
+    },
+    {
+      "name": "AgentGPT",
+      "url": "https://agentgpt.reworkd.ai/",
+      "category": "智能体与自动化",
+      "summary": "浏览器里的任务型智能体实验入口，适合快速体验目标拆解、计划生成和连续执行流程。",
+      "summaryEn": "Browser-based task agent experiment for goal decomposition, planning, and iterative execution.",
+      "tags": [
+        "任务智能体",
+        "计划生成",
+        "浏览器",
+        "实验工具"
+      ],
+      "tagsEn": [
+        "Task Agent",
+        "Planning",
+        "Browser",
+        "Experiment"
+      ],
+      "featured": false
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://agpt.co/",
+      "category": "智能体与自动化",
+      "summary": "自动化智能体平台，适合构建、运行和管理可重复执行的 AI 工作流。",
+      "summaryEn": "Agent automation platform for building, running, and managing repeatable AI workflows.",
+      "tags": [
+        "智能体",
+        "工作流",
+        "自动化",
+        "任务执行"
+      ],
+      "tagsEn": [
+        "Agent",
+        "Workflow",
+        "Automation",
+        "Task Execution"
+      ],
+      "featured": false
+    },
+    {
+      "name": "SmythOS",
+      "url": "https://smythos.com/",
+      "category": "智能体与自动化",
+      "summary": "面向业务流程的智能体构建平台，适合把模型、工具、数据和团队操作串成可运行流程。",
+      "summaryEn": "Business-focused agent builder for connecting models, tools, data, and team operations into runnable workflows.",
+      "tags": [
+        "智能体构建",
+        "业务流程",
+        "工具连接",
+        "团队"
+      ],
+      "tagsEn": [
+        "Agent Builder",
+        "Business Workflow",
+        "Tool Connections",
+        "Teams"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Dust",
+      "url": "https://dust.tt/",
+      "category": "智能体与自动化",
+      "summary": "企业 AI 助手和工作流平台，适合把内部知识、团队工具和重复任务连接到可控助手中。",
+      "summaryEn": "Enterprise AI assistant and workflow platform for connecting internal knowledge, team tools, and recurring tasks.",
+      "tags": [
+        "企业助手",
+        "工作流",
+        "知识连接",
+        "团队工具"
+      ],
+      "tagsEn": [
+        "Enterprise Assistant",
+        "Workflow",
+        "Knowledge",
+        "Team Tools"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Superagent",
+      "url": "https://www.superagent.sh/",
+      "category": "智能体与自动化",
+      "summary": "智能体构建与部署平台，适合把模型、检索、工具调用和业务动作封装为可复用助手。",
+      "summaryEn": "Agent building and deployment platform for packaging models, retrieval, tool use, and business actions into reusable assistants.",
+      "tags": [
+        "智能体构建",
+        "部署",
+        "检索",
+        "工具调用"
+      ],
+      "tagsEn": [
+        "Agent Builder",
+        "Deployment",
+        "Retrieval",
+        "Tool Use"
+      ],
+      "featured": false
+    },
+    {
+      "name": "OpenHands",
+      "url": "https://www.all-hands.dev/",
+      "category": "开发者工具",
+      "summary": "面向软件工程任务的编程智能体，适合代码修改、命令执行、问题排查和仓库级任务处理。",
+      "summaryEn": "Software engineering agent for code changes, command execution, debugging, and repository-level tasks.",
+      "tags": [
+        "编程智能体",
+        "软件工程",
+        "命令执行",
+        "代码库"
+      ],
+      "tagsEn": [
+        "Coding Agent",
+        "Software Engineering",
+        "Command Execution",
+        "Codebase"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Aider",
+      "url": "https://aider.chat/",
+      "category": "开发者工具",
+      "summary": "命令行结对编程工具，适合在本地 Git 仓库中进行多文件修改、提交和代码迭代。",
+      "summaryEn": "Command-line pair programming tool for multi-file edits, commits, and code iteration in local Git repositories.",
+      "tags": [
+        "命令行",
+        "结对编程",
+        "Git",
+        "多文件修改"
+      ],
+      "tagsEn": [
+        "CLI",
+        "Pair Programming",
+        "Git",
+        "Multi-file Edits"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Devin",
+      "url": "https://devin.ai/",
+      "category": "开发者工具",
+      "summary": "面向工程团队的软件工程智能体，适合分派开发任务、修复问题、运行测试和交付代码变更。",
+      "summaryEn": "Software engineering agent for assigning development tasks, fixing issues, running tests, and delivering code changes.",
+      "tags": [
+        "软件工程智能体",
+        "任务交付",
+        "测试",
+        "代码变更"
+      ],
+      "tagsEn": [
+        "Software Engineering Agent",
+        "Task Delivery",
+        "Testing",
+        "Code Changes"
+      ],
+      "featured": true
+    },
+    {
+      "name": "ComfyUI",
+      "url": "https://www.comfy.org/",
+      "category": "生成工作流",
+      "summary": "节点式生成工作流引擎，适合构建可控的图像、视频、3D、多模型和批处理创作流程。",
+      "summaryEn": "Node-based generation workflow engine for controllable image, video, 3D, multi-model, and batch creative pipelines.",
+      "tags": [
+        "节点工作流",
+        "图像生成",
+        "视频生成",
+        "本地部署"
+      ],
+      "tagsEn": [
+        "Node Workflow",
+        "Image Generation",
+        "Video Generation",
+        "Local Deployment"
+      ],
+      "featured": true,
+      "editorPickRank": 11,
+      "editorPickReason": "生成工作流和可控视觉创作核心工具",
+      "editorPickReasonEn": "Core tool for generation workflows and controllable visual creation"
+    },
+    {
+      "name": "Invoke",
+      "url": "https://invoke.ai/",
+      "category": "生成工作流",
+      "summary": "面向专业创作团队的图像生成工作台，适合画布编辑、模型管理、流程化视觉生产和团队协作。",
+      "summaryEn": "Image generation workspace for creative teams, with canvas editing, model management, production workflows, and collaboration.",
+      "tags": [
+        "图像工作台",
+        "画布编辑",
+        "模型管理",
+        "创意生产"
+      ],
+      "tagsEn": [
+        "Image Workspace",
+        "Canvas Editing",
+        "Model Management",
+        "Creative Production"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Fooocus",
+      "url": "https://github.com/lllyasviel/Fooocus",
+      "category": "生成工作流",
+      "summary": "简化提示词和参数配置的图像生成工具，适合快速出图、风格探索和低门槛视觉创作。",
+      "summaryEn": "Image generation tool that simplifies prompting and settings for fast outputs, style exploration, and accessible visual creation.",
+      "tags": [
+        "快速出图",
+        "图像生成",
+        "提示词",
+        "视觉创作"
+      ],
+      "tagsEn": [
+        "Fast Generation",
+        "Image Generation",
+        "Prompting",
+        "Visual Creation"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Stable Diffusion WebUI",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "category": "生成工作流",
+      "summary": "经典 Stable Diffusion Web 界面，适合图像生成、插件扩展、ControlNet、批处理和本地工作流。",
+      "summaryEn": "Classic Stable Diffusion web interface for image generation, extensions, ControlNet, batching, and local workflows.",
+      "tags": [
+        "Stable Diffusion",
+        "插件",
+        "ControlNet",
+        "本地工作流"
+      ],
+      "tagsEn": [
+        "Stable Diffusion",
+        "Extensions",
+        "ControlNet",
+        "Local Workflow"
+      ],
+      "featured": false
+    },
+    {
+      "name": "SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "category": "生成工作流",
+      "summary": "多后端图像生成界面，适合管理复杂参数、队列、批量生成和可扩展视觉工作流。",
+      "summaryEn": "Multi-backend image generation interface for complex settings, queues, batch generation, and extensible visual workflows.",
+      "tags": [
+        "多后端",
+        "队列",
+        "批量生成",
+        "视觉工作流"
+      ],
+      "tagsEn": [
+        "Multi-backend",
+        "Queues",
+        "Batch Generation",
+        "Visual Workflow"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Diffusers",
+      "url": "https://huggingface.co/docs/diffusers/index",
+      "category": "生成工作流",
+      "summary": "Hugging Face 的扩散模型库，适合开发者构建图像、视频、音频和 3D 生成管线。",
+      "summaryEn": "Hugging Face diffusion model library for building image, video, audio, and 3D generation pipelines.",
+      "tags": [
+        "扩散模型",
+        "开发库",
+        "生成管线",
+        "Hugging Face"
+      ],
+      "tagsEn": [
+        "Diffusion Models",
+        "Developer Library",
+        "Generation Pipelines",
+        "Hugging Face"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Civitai",
+      "url": "https://civitai.com/",
+      "category": "模型与社区",
+      "summary": "视觉模型、LoRA、工作流和创作素材社区，适合发现图像生成模型和 ComfyUI 工作流资源。",
+      "summaryEn": "Community for visual models, LoRAs, workflows, and creative assets, useful for finding image models and ComfyUI workflows.",
+      "tags": [
+        "模型社区",
+        "LoRA",
+        "工作流",
+        "视觉素材"
+      ],
+      "tagsEn": [
+        "Model Community",
+        "LoRA",
+        "Workflows",
+        "Visual Assets"
+      ],
+      "featured": true
+    },
+    {
+      "name": "OpenArt",
+      "url": "https://openart.ai/",
+      "category": "图像与设计",
+      "summary": "AI 图像创作平台，适合图像生成、风格探索、编辑、角色素材和创意参考。",
+      "summaryEn": "AI image creation platform for generation, style exploration, editing, character assets, and creative references.",
+      "tags": [
+        "图像生成",
+        "编辑",
+        "风格",
+        "角色素材"
+      ],
+      "tagsEn": [
+        "Image Generation",
+        "Editing",
+        "Style",
+        "Character Assets"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Playground AI",
+      "url": "https://playground.com/",
+      "category": "图像与设计",
+      "summary": "面向日常设计和视觉创作的 AI 图像平台，适合快速生成海报、社媒图和创意素材。",
+      "summaryEn": "AI image platform for everyday design and visual creation, including posters, social graphics, and creative assets.",
+      "tags": [
+        "图像生成",
+        "设计",
+        "社媒图",
+        "素材"
+      ],
+      "tagsEn": [
+        "Image Generation",
+        "Design",
+        "Social Graphics",
+        "Assets"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Scenario",
+      "url": "https://www.scenario.com/",
+      "category": "图像与设计",
+      "summary": "面向游戏和互动内容的 AI 资产生成平台，适合角色、道具、风格一致资产和团队创作。",
+      "summaryEn": "AI asset generation platform for games and interactive content, including characters, props, style-consistent assets, and team workflows.",
+      "tags": [
+        "游戏资产",
+        "角色",
+        "风格一致",
+        "团队"
+      ],
+      "tagsEn": [
+        "Game Assets",
+        "Characters",
+        "Style Consistency",
+        "Teams"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "category": "办公效率",
+      "summary": "OpenAI 的通用 AI 助手入口，覆盖对话、写作、搜索、图像、语音、文件分析和日常生产力任务。",
+      "summaryEn": "OpenAI general AI assistant for chat, writing, search, images, voice, file analysis, and everyday productivity.",
+      "tags": [
+        "AI 助手",
+        "写作",
+        "搜索",
+        "多模态"
+      ],
+      "tagsEn": [
+        "AI Assistant",
+        "Writing",
+        "Search",
+        "Multimodal"
+      ],
+      "featured": true,
+      "editorPickRank": 1,
+      "editorPickReason": "最主流的通用 AI 助手入口",
+      "editorPickReasonEn": "The most mainstream general-purpose AI assistant"
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "category": "办公效率",
+      "summary": "Anthropic 的 AI 助手入口，适合长文档阅读、写作、代码辅助、分析和知识工作。",
+      "summaryEn": "Anthropic AI assistant for long document reading, writing, coding help, analysis, and knowledge work.",
+      "tags": [
+        "AI 助手",
+        "长文档",
+        "写作",
+        "代码"
+      ],
+      "tagsEn": [
+        "AI Assistant",
+        "Long Documents",
+        "Writing",
+        "Coding"
+      ],
+      "featured": true,
+      "editorPickRank": 2,
+      "editorPickReason": "知识工作和长文档场景热度高",
+      "editorPickReasonEn": "Popular for knowledge work and long-document tasks"
     }
   ],
   "newsData": {
