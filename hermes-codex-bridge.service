@@ -1,0 +1,17 @@
+[Unit]
+Description=Hermes OpenAI Bridge
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/kjc613/.hermes/codex-bridge
+EnvironmentFile=/home/kjc613/.hermes/codex-bridge/.env
+ExecStart=/usr/bin/npm start
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
