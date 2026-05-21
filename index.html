@@ -17,7 +17,6 @@
         <div class="nav-links">
           <a href="#directory" data-i18n="navDirectory">导航</a>
           <a href="#news" data-i18n="navNews">资讯</a>
-          <a href="#monetize" data-i18n="navAds">广告合作</a>
         </div>
         <button class="language-toggle" id="languageToggle" type="button" aria-label="Switch language">EN</button>
       </nav>
@@ -26,7 +25,7 @@
         <div class="hero-copy">
           <p class="eyebrow" data-i18n="heroEyebrow">AI company directory</p>
           <h1 data-i18n="heroTitle">把分散的 AI 官网、产品入口和新闻更新收进一个导航页。</h1>
-          <p class="hero-text" data-i18n="heroText">按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，并预留广告与联盟推广位。</p>
+          <p class="hero-text" data-i18n="heroText">按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，帮助用户快速找到合适的 AI 工具。</p>
           <div class="hero-actions">
             <a class="button primary" href="#directory" data-i18n="heroPrimary">浏览 AI 导航</a>
             <a class="button secondary" href="#news" data-i18n="heroSecondary">查看今日资讯</a>
@@ -50,14 +49,6 @@
     </header>
 
     <main>
-      <section class="ad-band" aria-label="顶部广告位" data-i18n-aria="topAdLabel">
-        <div>
-          <strong data-i18n="adATitle">广告位 A</strong>
-          <span data-i18n="adAText">适合放 Google AdSense 横幅、AI SaaS 联盟链接或付费推荐。</span>
-        </div>
-        <a href="#monetize" data-i18n="adALink">查看变现方案</a>
-      </section>
-
       <section class="section" id="directory">
         <div class="section-heading">
           <p class="eyebrow" data-i18n="directoryEyebrow">Directory</p>
@@ -104,40 +95,15 @@
         <div class="section-heading">
           <p class="eyebrow" data-i18n="newsEyebrow">Daily AI News</p>
           <h2 data-i18n="newsTitle">每日 AI 资讯</h2>
-          <p id="newsUpdated">自动读取 RSS 数据源，可由 GitHub Actions 每天更新。</p>
+          <p id="newsUpdated">自动读取 RSS 数据源，可由定时任务每天更新。</p>
         </div>
         <div class="news-grid" id="newsGrid"></div>
-        <aside class="side-ad" aria-label="侧边广告位" data-i18n-aria="sideAdLabel">
-          <strong data-i18n="adBTitle">广告位 B</strong>
-          <span data-i18n="adBText">可放付费榜单、赞助商卡片、Newsletter 订阅或 AI 课程推广。</span>
-        </aside>
-      </section>
-
-      <section class="section monetize" id="monetize">
-        <div class="section-heading">
-          <p class="eyebrow" data-i18n="monetizeEyebrow">Monetization</p>
-          <h2 data-i18n="monetizeTitle">广告与盈利设计</h2>
-        </div>
-        <div class="monetize-grid">
-          <article>
-            <h3 data-i18n="displayAdsTitle">展示广告</h3>
-            <p data-i18n="displayAdsText">等网站有稳定访问量后接入 Google AdSense、Carbon Ads 或国内广告平台。当前页面已预留横幅和侧栏位。</p>
-          </article>
-          <article>
-            <h3 data-i18n="affiliateTitle">联盟推广</h3>
-            <p data-i18n="affiliateText">把支持 affiliate 的 AI 工具放入推荐位，通过注册、购买或订阅获得佣金。</p>
-          </article>
-          <article>
-            <h3 data-i18n="paidListingTitle">付费收录</h3>
-            <p data-i18n="paidListingText">允许 AI 产品提交资料，审核后进入“精选”或分类置顶，按月收费。</p>
-          </article>
-        </div>
       </section>
     </main>
 
     <footer class="footer">
       <span>AI Compass</span>
-      <span data-i18n="footerText">静态部署友好：GitHub Pages / Cloudflare Pages / Netlify / Vercel 均可免费托管。</span>
+      <span data-i18n="footerText">持续整理 AI 产品入口、能力分类和行业资讯。</span>
     </footer>
 
     <script src="assets/site-data.js?v=4"></script>

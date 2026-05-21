@@ -98,7 +98,7 @@ window.SITE_DATA = {
       "summary": "Stable Diffusion 背后的 AI 公司，提供图像、视频、音频和 3D 相关模型能力。",
       "tags": [
         "Stable Diffusion",
-        "开源",
+        "模型社区",
         "图像",
         "模型"
       ],
@@ -107,10 +107,10 @@ window.SITE_DATA = {
     {
       "name": "Hugging Face",
       "url": "https://huggingface.co/",
-      "category": "开源与模型社区",
-      "summary": "模型、数据集和 Spaces 社区平台，适合发现开源模型、部署 Demo 和协作实验。",
+      "category": "模型与社区",
+      "summary": "模型、数据集和 Spaces 社区平台，适合发现社区模型、部署 Demo 和协作实验。",
       "tags": [
-        "开源",
+        "模型社区",
         "模型社区",
         "数据集",
         "Spaces"
@@ -121,10 +121,10 @@ window.SITE_DATA = {
       "name": "Replicate",
       "url": "https://replicate.com/",
       "category": "开发者工具",
-      "summary": "通过 API 运行开源 AI 模型的平台，适合快速试验图像、音频、视频和语言模型。",
+      "summary": "通过 API 运行模型社区 AI 模型的平台，适合快速试验图像、音频、视频和语言模型。",
       "tags": [
         "API",
-        "开源模型",
+        "社区模型",
         "部署",
         "开发者"
       ],
@@ -376,10 +376,10 @@ window.SITE_DATA = {
       "name": "Together AI",
       "url": "https://www.together.ai/",
       "category": "大模型与 API",
-      "summary": "面向开源模型推理、微调和训练的云平台，适合开发者和 AI 初创团队快速构建。",
+      "summary": "面向社区模型推理、微调和训练的云平台，适合开发者和 AI 初创团队快速构建。",
       "summaryEn": "Cloud platform for open model inference, fine-tuning, and training, useful for developers and AI startups.",
       "tags": [
-        "开源模型",
+        "社区模型",
         "推理",
         "微调",
         "API"
@@ -416,7 +416,7 @@ window.SITE_DATA = {
       "name": "Fireworks AI",
       "url": "https://fireworks.ai/",
       "category": "大模型与 API",
-      "summary": "为开源和专有模型提供推理、微调与部署服务，适合构建稳定的生产级 AI API。",
+      "summary": "为模型社区和专有模型提供推理、微调与部署服务，适合构建稳定的生产级 AI API。",
       "summaryEn": "Inference, fine-tuning, and deployment platform for open and proprietary models in production AI APIs.",
       "tags": [
         "推理",
@@ -676,7 +676,7 @@ window.SITE_DATA = {
       "name": "Jasper",
       "url": "https://www.jasper.ai/",
       "category": "营销与内容",
-      "summary": "面向品牌和营销团队的 AI 内容平台，支持广告文案、博客、活动和品牌语气管理。",
+      "summary": "面向品牌和营销团队的 AI 内容平台，支持营销文案、博客、活动和品牌语气管理。",
       "summaryEn": "AI content platform for brand and marketing teams, supporting ad copy, blogs, campaigns, and brand voice governance.",
       "tags": [
         "营销",
@@ -696,7 +696,7 @@ window.SITE_DATA = {
       "name": "Copy.ai",
       "url": "https://www.copy.ai/",
       "category": "营销与内容",
-      "summary": "AI 营销文案与销售流程平台，适合内容规模化、邮件、广告和 GTM 自动化。",
+      "summary": "AI 营销文案与销售流程平台，适合内容规模化、邮件、素材和 GTM 自动化。",
       "summaryEn": "AI marketing copy and sales workflow platform for content scaling, emails, ads, and GTM automation.",
       "tags": [
         "文案",
@@ -936,16 +936,16 @@ window.SITE_DATA = {
       "name": "Weaviate",
       "url": "https://weaviate.io/",
       "category": "知识库与检索",
-      "summary": "开源向量数据库和 AI 原生检索平台，适合构建语义搜索和 RAG 应用。",
+      "summary": "模型社区向量数据库和 AI 原生检索平台，适合构建语义搜索和 RAG 应用。",
       "summaryEn": "Open-source vector database and AI-native retrieval platform for semantic search and RAG applications.",
       "tags": [
-        "开源",
+        "模型社区",
         "向量数据库",
         "RAG",
         "检索"
       ],
       "tagsEn": [
-        "Open Source",
+        "Model Community",
         "Vector DB",
         "RAG",
         "Retrieval"

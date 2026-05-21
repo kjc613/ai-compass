@@ -5,25 +5,20 @@ const translations = {
     navLabel: "主导航",
     navDirectory: "导航",
     navNews: "资讯",
-    navAds: "广告合作",
     heroEyebrow: "AI company directory",
     heroTitle: "把分散的 AI 官网、产品入口和新闻更新收进一个导航页。",
-    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态硬件等业务属性自动归类展示，并预留广告与联盟推广位。",
+    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，帮助用户快速找到合适的 AI 工具。",
     heroPrimary: "浏览 AI 导航",
     heroSecondary: "查看今日资讯",
     overviewLabel: "站点概览",
     metricTools: "AI 厂商入口",
     metricCategories: "业务分类",
     metricNews: "每日资讯",
-    topAdLabel: "顶部广告位",
-    adATitle: "广告位 A",
-    adAText: "适合放 Google AdSense 横幅、AI SaaS 联盟链接或付费推荐。",
-    adALink: "查看变现方案",
     directoryEyebrow: "Directory",
     directoryTitle: "AI 厂商导航",
     directoryText: "搜索品牌、官网、能力标签，或切换业务分类快速找到对应工具。",
     categoryOverviewTitle: "重点分类概览",
-    categoryOverviewText: "先按业务目标理解 AI 工具生态，再进入具体厂商。",
+    categoryOverviewText: "先按业务目标理解 AI 工具体系，再进入具体厂商。",
     editorPicksTitle: "编辑推荐",
     editorPicksText: "更适合新用户优先了解的高频入口。",
     searchLabel: "搜索",
@@ -37,23 +32,12 @@ const translations = {
     featured: "精选",
     visit: "访问官网",
     noResultsTitle: "没有找到匹配项",
-    noResultsText: "换个关键词试试，比如 API、视频、搜索、办公或开源。",
+    noResultsText: "换个关键词试试，比如 API、视频、搜索、办公或智能体。",
     newsEyebrow: "Daily AI News",
     newsTitle: "每日 AI 资讯",
     newsUpdated: "最近更新：{date}。资讯源来自官方博客、研究机构和技术媒体 RSS。",
     readOriginal: "点击查看原文。",
-    sideAdLabel: "侧边广告位",
-    adBTitle: "广告位 B",
-    adBText: "可放付费榜单、赞助商卡片、Newsletter 订阅或 AI 课程推广。",
-    monetizeEyebrow: "Monetization",
-    monetizeTitle: "广告与盈利设计",
-    displayAdsTitle: "展示广告",
-    displayAdsText: "等网站有稳定访问量后接入 Google AdSense、Carbon Ads 或国内广告平台。当前页面已预留横幅和侧栏位。",
-    affiliateTitle: "联盟推广",
-    affiliateText: "把支持 affiliate 的 AI 工具放入推荐位，通过注册、购买或订阅获得佣金。",
-    paidListingTitle: "付费收录",
-    paidListingText: "允许 AI 产品提交资料，审核后进入“精选”或分类置顶，按月收费。",
-    footerText: "静态部署友好：GitHub Pages / Cloudflare Pages / Netlify / Vercel 均可免费托管。",
+    footerText: "持续整理 AI 产品入口、能力分类和行业资讯。",
     toggleLabel: "切换到英文",
     toggleText: "EN"
   },
@@ -63,7 +47,6 @@ const translations = {
     navLabel: "Primary navigation",
     navDirectory: "Directory",
     navNews: "News",
-    navAds: "Advertise",
     heroEyebrow: "AI company directory",
     heroTitle: "One navigation page for AI websites, product entrances, and daily news.",
     heroText: "Browse AI companies by business category, including foundation models, image and video tools, developer platforms, search, productivity, voice, and multimodal products.",
@@ -73,10 +56,6 @@ const translations = {
     metricTools: "AI company links",
     metricCategories: "Business categories",
     metricNews: "Daily news items",
-    topAdLabel: "Top ad slot",
-    adATitle: "Ad Slot A",
-    adAText: "Reserved for Google AdSense banners, AI SaaS affiliate links, or sponsored recommendations.",
-    adALink: "View monetization",
     directoryEyebrow: "Directory",
     directoryTitle: "AI Company Directory",
     directoryText: "Search by brand, website, capability tag, or switch business categories to find the right AI tool.",
@@ -95,23 +74,12 @@ const translations = {
     featured: "Featured",
     visit: "Visit website",
     noResultsTitle: "No matches found",
-    noResultsText: "Try another keyword such as API, video, search, productivity, or open source.",
+    noResultsText: "Try another keyword such as API, video, search, productivity, or agents.",
     newsEyebrow: "Daily AI News",
     newsTitle: "Daily AI News",
     newsUpdated: "Last updated: {date}. Sources include official blogs, research teams, and technology media RSS feeds.",
     readOriginal: "Read the original story.",
-    sideAdLabel: "Sidebar ad slot",
-    adBTitle: "Ad Slot B",
-    adBText: "Use this space for sponsored rankings, partner cards, newsletter signup, or AI course promotions.",
-    monetizeEyebrow: "Monetization",
-    monetizeTitle: "Advertising and Monetization",
-    displayAdsTitle: "Display Ads",
-    displayAdsText: "After traffic becomes stable, add Google AdSense, Carbon Ads, or regional ad networks. Banner and sidebar slots are already reserved.",
-    affiliateTitle: "Affiliate Links",
-    affiliateText: "Place affiliate-friendly AI tools in recommended positions and earn commissions from signups, purchases, or subscriptions.",
-    paidListingTitle: "Paid Listings",
-    paidListingText: "Let AI products submit profiles, review them, and sell featured or category-top placement on a monthly basis.",
-    footerText: "Static deployment friendly: GitHub Pages, Cloudflare Pages, Netlify, and Vercel all offer free hosting options.",
+    footerText: "Track AI product entrances, capability categories, and industry news.",
     toggleLabel: "Switch to Chinese",
     toggleText: "中"
   }
@@ -123,7 +91,7 @@ const categoryLabels = {
   "搜索问答": "Search & Q&A",
   "图像与设计": "Image & Design",
   "视频与创意": "Video & Creative",
-  "开源与模型社区": "Open Source & Model Hubs",
+  "模型与社区": "Model Hubs & Communities",
   "开发者工具": "Developer Tools",
   "语音与音频": "Voice & Audio",
   "营销与内容": "Marketing & Content",
@@ -145,9 +113,9 @@ const categoryDescriptions = {
     "办公效率": "写作、演示、文档、会议和个人知识管理相关 AI 工具。",
     "搜索问答": "AI 搜索、资料查证、对话助手和多模型问答入口。",
     "语音与音频": "语音生成、配音、转写、音乐和音频编辑。",
-    "营销与内容": "品牌文案、广告素材、活动内容和销售流程自动化。",
+    "营销与内容": "品牌文案、素材创作、活动内容和销售流程自动化。",
     "数据与企业 AI": "数据标注、模型评测、机器学习治理和企业决策 AI 平台。",
-    "开源与模型社区": "模型、数据集、开源 Demo 和开发者社区生态。"
+    "模型与社区": "模型、数据集、在线 Demo 和开发者社区生态。"
   },
   en: {
     "大模型与 API": "General models, inference APIs, multimodal endpoints, and enterprise model services for building AI products.",
@@ -160,9 +128,9 @@ const categoryDescriptions = {
     "办公效率": "AI tools for writing, slides, documents, meetings, and personal knowledge management.",
     "搜索问答": "AI search, source-backed research, chat assistants, and multi-model Q&A entry points.",
     "语音与音频": "Voice generation, dubbing, transcription, music, and audio editing.",
-    "营销与内容": "Brand copy, ad assets, campaign content, and sales workflow automation.",
+    "营销与内容": "Brand copy, creative assets, campaign content, and sales workflow automation.",
     "数据与企业 AI": "Data labeling, model evaluation, ML governance, and enterprise decision AI platforms.",
-    "开源与模型社区": "Models, datasets, open demos, and developer community ecosystems."
+    "模型与社区": "Models, datasets, demos, and developer community ecosystems."
   }
 };
 
@@ -197,11 +165,11 @@ const englishToolCopy = {
   },
   "Stability AI": {
     summary: "The company behind Stable Diffusion, offering image, video, audio, and 3D model capabilities.",
-    tags: ["Stable Diffusion", "Open Source", "Image", "Models"]
+    tags: ["Stable Diffusion", "Model Community", "Image", "Models"]
   },
   "Hugging Face": {
     summary: "Community platform for models, datasets, and Spaces, ideal for discovering open models and building demos.",
-    tags: ["Open Source", "Model Hub", "Datasets", "Spaces"]
+    tags: ["Model Community", "Model Hub", "Datasets", "Spaces"]
   },
   Replicate: {
     summary: "Platform for running open AI models through APIs, useful for fast experiments across image, audio, video, and language models.",
@@ -389,7 +357,7 @@ function renderPicks() {
     link.className = "pick-card";
     link.href = tool.url;
     link.target = "_blank";
-    link.rel = "noopener sponsored";
+    link.rel = "noopener";
     link.innerHTML = `
       <img src="${faviconUrl(tool.url)}" alt="" loading="lazy">
       <span>${escapeHtml(tool.name)}</span>
@@ -448,7 +416,7 @@ function renderDirectory() {
       <h3>${escapeHtml(tool.name)}</h3>
       <p>${escapeHtml(copy.summary)}</p>
       <div class="tags">${copy.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
-      <a class="card-link" href="${tool.url}" target="_blank" rel="noopener sponsored">${text("visit")}</a>
+      <a class="card-link" href="${tool.url}" target="_blank" rel="noopener">${text("visit")}</a>
     `;
     directoryGrid.append(card);
   }
