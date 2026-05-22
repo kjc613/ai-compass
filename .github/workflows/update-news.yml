@@ -1,6 +1,6 @@
 name: Update AI news
 
-on:
+于:
   schedule:
     - cron: "0 23 * * *"
   workflow_dispatch:
@@ -13,7 +13,7 @@ env:
   NEWS_LIMIT: 60
   TRANSLATE_NEWS: true
   TRANSLATION_PROVIDER: qwen
-  QWEN_MODEL: qwen-plus
+  QWEN_MODEL: qwen-plus-2025-07-28
   QWEN_BASE_URL: https://dashscope-intl.aliyuncs.com/compatible-mode/v1
 
 jobs:
