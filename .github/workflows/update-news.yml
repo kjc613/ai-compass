@@ -11,6 +11,8 @@ permissions:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   NEWS_LIMIT: 60
+  TRANSLATE_NEWS: true
+  OPENAI_MODEL: gpt-4.1-mini
 
 jobs:
   update-news:
@@ -26,6 +28,8 @@ jobs:
 
       - name: Update news data
         run: npm run update-news
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v7
