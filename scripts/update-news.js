@@ -1,8 +1,11 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const newsLimit = Number(process.env.NEWS_LIMIT || 60);
-const translateNews = process.env.TRANSLATE_NEWS === "true" && Boolean(process.env.OPENAI_API_KEY);
-const translationModel = process.env.OPENAI_MODEL || "gpt-4.1-mini";
+const translationProvider = (process.env.TRANSLATION_PROVIDER || detectTranslationProvider()).toLowerCase();
+const translateNews = process.env.TRANSLATE_NEWS === "true" && Boolean(translationProvider);
+const openaiModel = process.env.OPENAI_MODEL || "gpt-4.1-mini";
+const qwenModel = process.env.QWEN_MODEL || "qwen-plus";
+const qwenBaseUrl = process.env.QWEN_BASE_URL || "https://dashscope-intl.aliyuncs.com/compatible-mode/v1";
 
 const feeds = [
   { source: "OpenAI News", url: "https://openai.com/news/rss.xml", focused: true },
@@ -91,7 +94,7 @@ async function translateNewsItems(items) {
   }));
 
   if (!translateNews) {
-    console.warn("News translation skipped. Set TRANSLATE_NEWS=true and OPENAI_API_KEY to enable it.");
+    console.warn("News translation skipped. Set TRANSLATE_NEWS=true and configure QWEN_API_KEY or OPENAI_API_KEY to enable it.");
     return normalizedItems;
   }
 
@@ -120,74 +123,67 @@ async function translateNewsItems(items) {
 }
 
 async function translateBatch(batch) {
-  const response = await fetch("https://api.openai.com/v1/responses", {
+  const endpoint = translationProvider === "qwen"
+    ? `${qwenBaseUrl.replace(/\/$/, "")}/chat/completions`
+    : "https://api.openai.com/v1/chat/completions";
+  const apiKey = translationProvider === "qwen" ? process.env.QWEN_API_KEY : process.env.OPENAI_API_KEY;
+  const model = translationProvider === "qwen" ? qwenModel : openaiModel;
+  const response = await fetch(endpoint, {
     method: "POST",
     headers: {
-      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
+      "Authorization": `Bearer ${apiKey}`,
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
-      model: translationModel,
-      instructions: "Translate AI news titles and summaries into concise Simplified Chinese. Preserve product names, company names, model names, and URLs. Return JSON only.",
-      input: JSON.stringify({
-        items: batch.map((item, index) => ({
-          index,
-          title: item.titleEn || item.title,
-          summary: item.summaryEn || item.summary || ""
-        }))
-      }),
-      text: {
-        format: {
-          type: "json_schema",
-          name: "ai_news_translations",
-          schema: {
-            type: "object",
-            additionalProperties: false,
-            properties: {
-              items: {
-                type: "array",
-                items: {
-                  type: "object",
-                  additionalProperties: false,
-                  properties: {
-                    index: { type: "integer" },
-                    titleZh: { type: "string" },
-                    summaryZh: { type: "string" }
-                  },
-                  required: ["index", "titleZh", "summaryZh"]
+      model,
+      temperature: 0.1,
+      response_format: { type: "json_object" },
+      messages: [
+        {
+          role: "system",
+          content: "Translate AI news titles and summaries into concise Simplified Chinese. Preserve product names, company names, model names, and URLs. Return valid JSON only."
+        },
+        {
+          role: "user",
+          content: JSON.stringify({
+            schema: {
+              items: [
+                {
+                  index: 0,
+                  titleZh: "中文标题",
+                  summaryZh: "中文摘要"
                 }
-              }
+              ]
             },
-            required: ["items"]
-          },
-          strict: true
+            items: batch.map((item, index) => ({
+              index,
+              title: item.titleEn || item.title,
+              summary: item.summaryEn || item.summary || ""
+            }))
+          })
         }
-      }
+      ]
     })
   });
 
   if (!response.ok) {
-    throw new Error(`OpenAI translation failed: ${response.status} ${response.statusText}`);
+    throw new Error(`${translationProvider} translation failed: ${response.status} ${response.statusText}`);
   }
 
   const body = await response.json();
-  const content = extractResponseText(body);
+  const content = extractChatCompletionText(body);
   const parsed = JSON.parse(content);
   return Array.isArray(parsed.items) ? parsed.items : [];
 }
 
-function extractResponseText(body) {
-  if (typeof body.output_text === "string") return body.output_text;
+function extractChatCompletionText(body) {
+  return body.choices?.[0]?.message?.content || "";
+}
 
-  const chunks = [];
-  for (const output of body.output || []) {
-    for (const content of output.content || []) {
-      if (typeof content.text === "string") {
-        chunks.push(content.text);
-      }
-    }
-  }
-  return chunks.join("");
+function detectTranslationProvider() {
+  if (process.env.QWEN_API_KEY) return "qwen";
+  if (process.env.OPENAI_API_KEY) return "openai";
+  return "";
 }
 
 function matchAll(value, regex) {
