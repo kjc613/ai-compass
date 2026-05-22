@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-05-21T11:12:53.216Z",
+  "updatedAt": "2026-05-22T00:00:46.503Z",
   "items": [
+    {
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "url": "https://www.technologyreview.com/author/mat-honan/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-21T20:41:05.000Z",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
+    },
+    {
+      "title": "Scaling creativity in the age of AI",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/a-more-accurate-way-to-measure-consumer-engagement",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-21T19:16:43.000Z",
+      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through "
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-05-21T14:30:45.000Z",
+      "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "source": "OpenAI News",
+      "publishedAt": "2026-05-21T12:00:00.000Z",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+    },
     {
       "title": "We’re announcing new community investments in Missouri.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
@@ -23,6 +51,13 @@
       "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
     },
     {
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "source": "OpenAI News",
@@ -37,25 +72,11 @@
       "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
     },
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI News",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
-    },
-    {
       "title": "Introducing OpenAI for Singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
       "source": "OpenAI News",
       "publishedAt": "2026-05-19T20:30:00.000Z",
       "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
-    },
-    {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "url": "https://www.technologyreview.com/author/mat-honan/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-05-19T20:15:18.000Z",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him ove"
     },
     {
       "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
@@ -105,27 +126,6 @@
       "source": "Google AI Blog",
       "publishedAt": "2026-05-19T17:45:00.000Z",
       "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI."
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers."
-    },
-    {
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "url": "https://io.google/2026/",
-      "source": "VentureBeat AI",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typ"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "source": "OpenAI News",
-      "publishedAt": "2026-05-19T10:45:00.000Z",
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
     }
   ]
 }
