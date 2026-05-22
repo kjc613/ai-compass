@@ -1,6 +1,8 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const newsLimit = Number(process.env.NEWS_LIMIT || 60);
+const translateNews = process.env.TRANSLATE_NEWS === "true" && Boolean(process.env.OPENAI_API_KEY);
+const translationModel = process.env.OPENAI_MODEL || "gpt-4.1-mini";
 
 const feeds = [
   { source: "OpenAI News", url: "https://openai.com/news/rss.xml", focused: true },
@@ -54,7 +56,7 @@ if (!items.length) {
   console.warn("No news items were fetched. Keeping the previous news data.");
   await writeSiteDataModule(previousNewsData);
 } else {
-  const newsData = { updatedAt: new Date().toISOString(), items };
+  const newsData = { updatedAt: new Date().toISOString(), items: await translateNewsItems(items) };
   await writeFile("data/news.json", JSON.stringify(newsData, null, 2) + "\n");
   await writeSiteDataModule(newsData);
 }
@@ -71,12 +73,121 @@ function parseFeed(xml, feed) {
 
     return {
       title,
+      titleEn: title,
       url,
       source: feed.source,
       publishedAt,
-      summary: summary.slice(0, 160)
+      summary: summary.slice(0, 160),
+      summaryEn: summary.slice(0, 160)
     };
   }).filter((item) => item.title && item.url && (feed.focused || isAiRelevant(item)));
+}
+
+async function translateNewsItems(items) {
+  const normalizedItems = items.map((item) => ({
+    ...item,
+    titleEn: item.titleEn || item.title,
+    summaryEn: item.summaryEn || item.summary
+  }));
+
+  if (!translateNews) {
+    console.warn("News translation skipped. Set TRANSLATE_NEWS=true and OPENAI_API_KEY to enable it.");
+    return normalizedItems;
+  }
+
+  const translatedItems = [...normalizedItems];
+  const batchSize = 10;
+
+  for (let index = 0; index < normalizedItems.length; index += batchSize) {
+    const batch = normalizedItems.slice(index, index + batchSize);
+    try {
+      const translations = await translateBatch(batch);
+      for (const translation of translations) {
+        const targetIndex = index + Number(translation.index);
+        if (!Number.isInteger(targetIndex) || !translatedItems[targetIndex]) continue;
+        translatedItems[targetIndex] = {
+          ...translatedItems[targetIndex],
+          titleZh: translation.titleZh || translatedItems[targetIndex].title,
+          summaryZh: translation.summaryZh || translatedItems[targetIndex].summary
+        };
+      }
+    } catch (error) {
+      console.warn(`Skipping news translation batch ${index / batchSize + 1}: ${error.message}`);
+    }
+  }
+
+  return translatedItems;
+}
+
+async function translateBatch(batch) {
+  const response = await fetch("https://api.openai.com/v1/responses", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      model: translationModel,
+      instructions: "Translate AI news titles and summaries into concise Simplified Chinese. Preserve product names, company names, model names, and URLs. Return JSON only.",
+      input: JSON.stringify({
+        items: batch.map((item, index) => ({
+          index,
+          title: item.titleEn || item.title,
+          summary: item.summaryEn || item.summary || ""
+        }))
+      }),
+      text: {
+        format: {
+          type: "json_schema",
+          name: "ai_news_translations",
+          schema: {
+            type: "object",
+            additionalProperties: false,
+            properties: {
+              items: {
+                type: "array",
+                items: {
+                  type: "object",
+                  additionalProperties: false,
+                  properties: {
+                    index: { type: "integer" },
+                    titleZh: { type: "string" },
+                    summaryZh: { type: "string" }
+                  },
+                  required: ["index", "titleZh", "summaryZh"]
+                }
+              }
+            },
+            required: ["items"]
+          },
+          strict: true
+        }
+      }
+    })
+  });
+
+  if (!response.ok) {
+    throw new Error(`OpenAI translation failed: ${response.status} ${response.statusText}`);
+  }
+
+  const body = await response.json();
+  const content = extractResponseText(body);
+  const parsed = JSON.parse(content);
+  return Array.isArray(parsed.items) ? parsed.items : [];
+}
+
+function extractResponseText(body) {
+  if (typeof body.output_text === "string") return body.output_text;
+
+  const chunks = [];
+  for (const output of body.output || []) {
+    for (const content of output.content || []) {
+      if (typeof content.text === "string") {
+        chunks.push(content.text);
+      }
+    }
+  }
+  return chunks.join("");
 }
 
 function matchAll(value, regex) {
