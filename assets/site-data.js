@@ -2355,63 +2355,14 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-05-22T00:00:46.503Z",
+    "updatedAt": "2026-05-21T02:45:13.753Z",
     "items": [
       {
-        "title": "Roundtables: Can AI Learn to Understand the World?",
-        "url": "https://www.technologyreview.com/author/mat-honan/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T20:41:05.000Z",
-        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
-      },
-      {
-        "title": "Scaling creativity in the age of AI",
-        "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/a-more-accurate-way-to-measure-consumer-engagement",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T19:16:43.000Z",
-        "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through "
-      },
-      {
-        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-        "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T14:30:45.000Z",
-        "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
-      },
-      {
-        "title": "AdventHealth advances whole-person care with OpenAI",
-        "url": "https://openai.com/index/adventhealth",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-21T12:00:00.000Z",
-        "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-      },
-      {
-        "title": "We’re announcing new community investments in Missouri.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-20T20:40:00.000Z",
-        "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-      },
-      {
-        "title": "100 things we announced at I/O 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-20T19:30:00.000Z",
-        "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
-      },
-      {
-        "title": "A new experiment brings better group meetings to Google Beam",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-20T16:45:00.000Z",
-        "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
-      },
-      {
-        "title": "How Ramp engineers accelerate code review with Codex",
-        "url": "https://openai.com/index/ramp",
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
         "source": "OpenAI News",
         "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
       },
       {
         "title": "The next phase of OpenAI’s Education for Countries",
@@ -2421,11 +2372,11 @@ window.SITE_DATA = {
         "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes"
       },
       {
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+        "title": "How Ramp engineers accelerate code review with Codex",
+        "url": "https://openai.com/index/ramp",
         "source": "OpenAI News",
         "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
+        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
       },
       {
         "title": "Introducing OpenAI for Singapore",
@@ -2435,6 +2386,13 @@ window.SITE_DATA = {
         "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
       },
       {
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "url": "https://www.technologyreview.com/author/mat-honan/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-19T20:15:18.000Z",
+        "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him ove"
+      },
+      {
         "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
         "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
         "source": "Hugging Face Blog",
@@ -2442,46 +2400,88 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "I/O 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced."
+        "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+        "url": "https://openai.com/index/advancing-content-provenance",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-19T10:45:00.000Z",
+        "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
       },
       {
-        "title": "How AI Mode is changing the way people search in the U.S.",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries."
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "url": "https://x.com/elonmusk/status/2056474896641782077?s=20",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-19T00:53:10.000Z",
+        "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his "
       },
       {
-        "title": "New ways to create and get things done in Google Workspace",
-        "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox."
+        "title": "Introducing the Ettin Reranker Family",
+        "url": "https://huggingface.co/blog/ettin-reranker",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-19T00:00:00.000Z",
+        "summary": ""
       },
       {
-        "title": "I/O 2026: Welcome to the agentic Gemini era",
-        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini."
+        "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T16:00:21.000Z",
+        "summary": ""
       },
       {
-        "title": "Gemini 3.5: frontier intelligence with action",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action."
+        "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T15:12:46.000Z",
+        "summary": ""
       },
       {
-        "title": "A new era for AI Search",
-        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI."
+        "title": "The Open Agent Leaderboard",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T14:12:58.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-18T10:00:00.000Z",
+        "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+      },
+      {
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-16T00:00:00.000Z",
+        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+      },
+      {
+        "title": "How data science teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      },
+      {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "url": "https://openai.com/index/databricks",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
+      },
+      {
+        "title": "A new personal finance experience in ChatGPT",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance"
+      },
+      {
+        "title": "How sales teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work in"
       }
     ]
   }

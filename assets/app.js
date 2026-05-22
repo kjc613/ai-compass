@@ -243,6 +243,8 @@ const state = {
   language: localStorage.getItem("ai-compass-language") || "zh"
 };
 
+const newsDisplayLimit = 48;
+
 const categoryTabs = document.querySelector("#categoryTabs");
 const directoryGrid = document.querySelector("#directoryGrid");
 const searchInput = document.querySelector("#searchInput");
@@ -259,9 +261,9 @@ function init() {
   state.tools = aiTools;
   state.news = newsData.items || [];
 
-  document.querySelector("#toolCount").textContent = state.tools.length;
-  document.querySelector("#categoryCount").textContent = getCategories().length - 1;
-  document.querySelector("#newsCount").textContent = state.news.length;
+  setText("#toolCount", state.tools.length);
+  setText("#categoryCount", getCategories().length - 1);
+  setText("#newsCount", state.news.length);
 
   applyLanguage();
   renderOverview();
@@ -270,26 +272,32 @@ function init() {
   renderDirectory();
   renderNews();
 
-  searchInput.addEventListener("input", (event) => {
-    state.query = event.target.value.trim().toLowerCase();
-    renderDirectory();
-  });
+  if (searchInput) {
+    searchInput.addEventListener("input", (event) => {
+      state.query = event.target.value.trim().toLowerCase();
+      renderDirectory();
+    });
+  }
 
-  sortSelect.addEventListener("change", (event) => {
-    state.sort = event.target.value;
-    renderDirectory();
-  });
+  if (sortSelect) {
+    sortSelect.addEventListener("change", (event) => {
+      state.sort = event.target.value;
+      renderDirectory();
+    });
+  }
 
-  languageToggle.addEventListener("click", () => {
-    state.language = state.language === "zh" ? "en" : "zh";
-    localStorage.setItem("ai-compass-language", state.language);
-    applyLanguage();
-    renderOverview();
-    renderPicks();
-    renderTabs();
-    renderDirectory();
-    renderNews();
-  });
+  if (languageToggle) {
+    languageToggle.addEventListener("click", () => {
+      state.language = state.language === "zh" ? "en" : "zh";
+      localStorage.setItem("ai-compass-language", state.language);
+      applyLanguage();
+      renderOverview();
+      renderPicks();
+      renderTabs();
+      renderDirectory();
+      renderNews();
+    });
+  }
 }
 
 function applyLanguage() {
@@ -309,9 +317,11 @@ function applyLanguage() {
     element.setAttribute("aria-label", t[element.dataset.i18nAria]);
   }
 
-  languageToggle.textContent = t.toggleText;
-  languageToggle.setAttribute("aria-label", t.toggleLabel);
-  document.querySelector("#newsUpdated").textContent = t.newsUpdated.replace("{date}", formatDate(window.SITE_DATA.newsData.updatedAt));
+  if (languageToggle) {
+    languageToggle.textContent = t.toggleText;
+    languageToggle.setAttribute("aria-label", t.toggleLabel);
+  }
+  setText("#newsUpdated", t.newsUpdated.replace("{date}", formatDate(window.SITE_DATA.newsData.updatedAt)));
 }
 
 function getCategories() {
@@ -319,6 +329,8 @@ function getCategories() {
 }
 
 function renderOverview() {
+  if (!overviewGrid) return;
+
   const categoryCounts = state.tools.reduce((counts, tool) => {
     counts[tool.category] = (counts[tool.category] || 0) + 1;
     return counts;
@@ -350,6 +362,8 @@ function renderOverview() {
 }
 
 function renderPicks() {
+  if (!pickStrip) return;
+
   const picks = state.tools
     .filter((tool) => Number.isFinite(tool.editorPickRank))
     .sort((a, b) => a.editorPickRank - b.editorPickRank)
@@ -385,6 +399,8 @@ function displayName(tool) {
 }
 
 function renderTabs() {
+  if (!categoryTabs) return;
+
   categoryTabs.innerHTML = "";
   for (const category of getCategories()) {
     const button = document.createElement("button");
@@ -400,12 +416,14 @@ function selectCategory(category, shouldScroll = false) {
   state.activeCategory = category;
   renderTabs();
   renderDirectory();
-  if (shouldScroll) {
+  if (shouldScroll && categoryTabs) {
     categoryTabs.scrollIntoView({ behavior: "smooth", block: "start" });
   }
 }
 
 function renderDirectory() {
+  if (!directoryGrid) return;
+
   const tools = state.tools
     .filter((tool) => state.activeCategory === "全部" || tool.category === state.activeCategory)
     .filter((tool) => matchesQuery(tool))
@@ -441,8 +459,10 @@ function renderDirectory() {
 }
 
 function renderNews() {
+  if (!newsGrid) return;
+
   newsGrid.innerHTML = "";
-  for (const item of state.news.slice(0, 10)) {
+  for (const item of state.news.slice(0, newsDisplayLimit)) {
     const card = document.createElement("article");
     card.className = "news-card";
     card.innerHTML = `
@@ -511,6 +531,13 @@ function formatDate(value) {
 
 function text(key) {
   return translations[state.language][key];
+}
+
+function setText(selector, value) {
+  const element = document.querySelector(selector);
+  if (element) {
+    element.textContent = value;
+  }
 }
 
 function escapeHtml(value) {
