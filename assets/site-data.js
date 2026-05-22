@@ -2355,427 +2355,547 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-05-22T04:23:38.897Z",
+    "updatedAt": "2026-05-22T04:55:24.886Z",
     "items": [
       {
         "title": "Amazon Nova Act is now HIPAA eligible",
+        "titleEn": "Amazon Nova Act is now HIPAA eligible",
         "url": "https://aws.amazon.com/nova/act/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T22:22:28.000Z",
-        "summary": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started."
+        "summary": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started.",
+        "summaryEn": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started."
       },
       {
         "title": "Roundtables: Can AI Learn to Understand the World?",
+        "titleEn": "Roundtables: Can AI Learn to Understand the World?",
         "url": "https://www.technologyreview.com/author/mat-honan/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-21T20:41:05.000Z",
-        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
+        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm",
+        "summaryEn": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
       },
       {
         "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+        "titleEn": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
         "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T20:15:18.000Z",
-        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk fil"
+        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk fil",
+        "summaryEn": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk fil"
       },
       {
         "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+        "titleEn": "In desperate times, graduates find hope in humiliating tech CEOs",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T20:00:06.000Z",
-        "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuine"
+        "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuine",
+        "summaryEn": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuine"
       },
       {
         "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+        "titleEn": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
         "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
         "source": "Google DeepMind Blog",
         "publishedAt": "2026-05-21T19:46:42.000Z",
-        "summary": ""
+        "summary": "",
+        "summaryEn": ""
       },
       {
         "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+        "titleEn": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
         "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T19:45:00.000Z",
-        "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a"
+        "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a",
+        "summaryEn": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a"
       },
       {
         "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+        "titleEn": "Six search engines worth trying now that Google isn’t really Google anymore",
         "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T19:19:05.000Z",
-        "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
+        "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+        "summaryEn": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
       },
       {
         "title": "Scaling creativity in the age of AI",
+        "titleEn": "Scaling creativity in the age of AI",
         "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/a-more-accurate-way-to-measure-consumer-engagement",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-21T19:16:43.000Z",
-        "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through "
+        "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through ",
+        "summaryEn": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through "
       },
       {
         "title": "Intelligent radiology workflow optimization with AI agents",
+        "titleEn": "Intelligent radiology workflow optimization with AI agents",
         "url": "https://theimagingwire.com/2023/05/17/effects-on-healthcare-of-cherry-picking/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T19:11:09.000Z",
-        "summary": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current wor"
+        "summary": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current wor",
+        "summaryEn": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current wor"
       },
       {
         "title": "Google checks websites for llms.txt in new agentic browsing audit",
+        "titleEn": "Google checks websites for llms.txt in new agentic browsing audit",
         "url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T19:07:33.000Z",
-        "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article "
+        "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article ",
+        "summaryEn": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article "
       },
       {
         "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+        "titleEn": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
         "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T17:30:45.000Z",
-        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with th"
+        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with th",
+        "summaryEn": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with th"
       },
       {
         "title": "This AI guitar pedal let me roll my own effects",
+        "titleEn": "This AI guitar pedal let me roll my own effects",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T17:00:00.000Z",
-        "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend"
+        "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend",
+        "summaryEn": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend"
       },
       {
         "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
+        "titleEn": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
         "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T16:32:09.000Z",
-        "summary": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the "
+        "summary": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the ",
+        "summaryEn": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the "
       },
       {
         "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
+        "titleEn": "Building multi-tenant agents with Amazon Bedrock AgentCore",
         "url": "https://aws.amazon.com/bedrock/agentcore/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T16:16:09.000Z",
-        "summary": "This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenge"
+        "summary": "This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenge",
+        "summaryEn": "This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenge"
       },
       {
         "title": "The first AI proof worthy of math's top journal landed and it won't be the last",
+        "titleEn": "The first AI proof worthy of math's top journal landed and it won't be the last",
         "url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T16:11:50.000Z",
-        "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from alg"
+        "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from alg",
+        "summaryEn": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from alg"
       },
       {
         "title": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
+        "titleEn": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
         "url": "https://www.oplog.io/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T16:04:17.000Z",
-        "summary": "In this post, we show you how OPLOG developed three AI agents using the Strands Agents SDK, deployed them to Amazon Bedrock AgentCore, and integrated Amazon Bed"
+        "summary": "In this post, we show you how OPLOG developed three AI agents using the Strands Agents SDK, deployed them to Amazon Bedrock AgentCore, and integrated Amazon Bed",
+        "summaryEn": "In this post, we show you how OPLOG developed three AI agents using the Strands Agents SDK, deployed them to Amazon Bedrock AgentCore, and integrated Amazon Bed"
       },
       {
         "title": "Build an AI-powered recruitment assistant using Amazon Bedrock",
+        "titleEn": "Build an AI-powered recruitment assistant using Amazon Bedrock",
         "url": "https://www.peoplemanagement.co.uk/article/1929340/uk-recruiters-lose-two-days-per-hire-admin-report-finds",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-21T16:00:30.000Z",
-        "summary": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates p"
+        "summary": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates p",
+        "summaryEn": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates p"
       },
       {
         "title": "Spotify is launching AI-generated remixes",
+        "titleEn": "Spotify is launching AI-generated remixes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T15:54:03.000Z",
-        "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre"
+        "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre",
+        "summaryEn": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre"
       },
       {
         "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
+        "titleEn": "Spotify Studio’s AI agent creates a daily podcast just for you",
         "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T15:47:29.000Z",
-        "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated co"
+        "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated co",
+        "summaryEn": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated co"
       },
       {
         "title": "AI video is moving beyond clip slop",
+        "titleEn": "AI video is moving beyond clip slop",
         "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T15:30:00.000Z",
-        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a w"
+        "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a w",
+        "summaryEn": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a w"
       },
       {
         "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "titleEn": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
         "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "Spotify will let you generate daily or weekly briefs based on your prompts"
+        "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+        "summaryEn": "Spotify will let you generate daily or weekly briefs based on your prompts"
       },
       {
         "title": "Spotify takes on Google’s NotebookLM with its new app",
+        "titleEn": "Spotify takes on Google’s NotebookLM with its new app",
         "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
+        "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+        "summaryEn": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
       },
       {
         "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "titleEn": "Spotify launches an ElevenLabs-powered audiobook creation tool",
         "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
+        "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+        "summaryEn": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
       },
       {
         "title": "US Cyber Command races to deploy AI on top-secret networks",
+        "titleEn": "US Cyber Command races to deploy AI on top-secret networks",
         "url": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T15:20:44.000Z",
-        "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI sy"
+        "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI sy",
+        "summaryEn": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI sy"
       },
       {
         "title": "Cohere open-sources its strongest model yet",
+        "titleEn": "Cohere open-sources its strongest model yet",
         "url": "https://the-decoder.com/cohere-open-sources-its-strongest-model-yet/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T15:17:35.000Z",
-        "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere"
+        "summary": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere",
+        "summaryEn": "The Canadian AI company Cohere is releasing its most powerful language model to date, Command A+, as open source under an Apache 2.0 license. The article Cohere"
       },
       {
         "title": "Anthropic is about to become the first profitable AI lab",
+        "titleEn": "Anthropic is about to become the first profitable AI lab",
         "url": "https://the-decoder.com/anthropic-is-about-to-become-the-first-profitable-ai-lab/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T15:15:30.000Z",
-        "summary": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q"
+        "summary": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q",
+        "summaryEn": "Anthropic is approaching its first profitable quarter, the Wall Street Journal reports - with a projected operating profit of $559 million on $10.9 billion in Q"
       },
       {
         "title": "OpenAI could file confidential IPO paperwork within days",
+        "titleEn": "OpenAI could file confidential IPO paperwork within days",
         "url": "https://the-decoder.com/openai-could-file-confidential-ipo-paperwork-within-days/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T15:12:36.000Z",
-        "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could "
+        "summary": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could ",
+        "summaryEn": "OpenAI is also preparing an IPO, according to the Wall Street Journal, and could file confidential paperwork with the SEC within days. The article OpenAI could "
       },
       {
         "title": "SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead",
+        "titleEn": "SpaceX IPO filing shows billions in AI losses, a $2 trillion valuation target, and turbine spending that signals more data center conflicts ahead",
         "url": "https://the-decoder.com/spacex-ipo-filing-shows-billions-in-ai-losses-a-2-trillion-valuation-target-and-turbine-spending-that-signals-more-data-center-conflicts-ahead/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T15:10:21.000Z",
-        "summary": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and "
+        "summary": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and ",
+        "summaryEn": "SpaceX has filed for what could be the largest IPO ever, targeting a valuation of up to $2 trillion. The filing reveals xAI losses of $6.36 billion in 2025 and "
       },
       {
         "title": "SAP taps Mistral AI to help customers migrate legacy software",
+        "titleEn": "SAP taps Mistral AI to help customers migrate legacy software",
         "url": "https://the-decoder.com/sap-taps-mistral-ai-to-help-customers-migrate-legacy-software/",
         "source": "The Decoder",
         "publishedAt": "2026-05-21T14:59:18.000Z",
-        "summary": "SAP uses Mistral AI models to simplify the migration to S/4HANA. The article SAP taps Mistral AI to help customers migrate legacy software appeared first on The"
+        "summary": "SAP uses Mistral AI models to simplify the migration to S/4HANA. The article SAP taps Mistral AI to help customers migrate legacy software appeared first on The",
+        "summaryEn": "SAP uses Mistral AI models to simplify the migration to S/4HANA. The article SAP taps Mistral AI to help customers migrate legacy software appeared first on The"
       },
       {
         "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "titleEn": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
         "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-05-21T14:30:45.000Z",
-        "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
+        "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i",
+        "summaryEn": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
       },
       {
         "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+        "titleEn": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
         "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T14:00:00.000Z",
-        "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
+        "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+        "summaryEn": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
       },
       {
         "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+        "titleEn": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
         "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T14:00:00.000Z",
-        "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services."
+        "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services.",
+        "summaryEn": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services."
       },
       {
         "title": "Musk v. Altman: Much ado about nothing",
+        "titleEn": "Musk v. Altman: Much ado about nothing",
         "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T14:00:00.000Z",
-        "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “z"
+        "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “z",
+        "summaryEn": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “z"
       },
       {
         "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+        "titleEn": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
         "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T13:52:23.000Z",
-        "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it"
+        "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it",
+        "summaryEn": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it"
       },
       {
         "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+        "titleEn": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
         "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T13:38:42.000Z",
-        "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
+        "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+        "summaryEn": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
       },
       {
         "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+        "titleEn": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
         "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T13:35:52.000Z",
-        "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. "
+        "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. ",
+        "summaryEn": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. "
       },
       {
         "title": "I can’t believe how fast Google vibe coded my first Android app",
+        "titleEn": "I can’t believe how fast Google vibe coded my first Android app",
         "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T13:00:00.000Z",
-        "summary": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked awa"
+        "summary": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked awa",
+        "summaryEn": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked awa"
       },
       {
         "title": "AdventHealth advances whole-person care with OpenAI",
+        "titleEn": "AdventHealth advances whole-person care with OpenAI",
         "url": "https://openai.com/index/adventhealth",
         "source": "OpenAI News",
         "publishedAt": "2026-05-21T12:00:00.000Z",
-        "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+        "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+        "summaryEn": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
       },
       {
         "title": "Meta lays off thousands of employees to offset AI investments",
+        "titleEn": "Meta lays off thousands of employees to offset AI investments",
         "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
         "source": "The Verge AI",
         "publishedAt": "2026-05-21T09:20:46.000Z",
-        "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email f"
+        "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email f",
+        "summaryEn": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email f"
       },
       {
         "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+        "titleEn": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
         "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T00:28:31.000Z",
-        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
+        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "summaryEn": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
       },
       {
         "title": "Anthropic says it’s about to have its first profitable quarter",
+        "titleEn": "Anthropic says it’s about to have its first profitable quarter",
         "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-21T00:21:21.000Z",
-        "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+        "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+        "summaryEn": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
       },
       {
         "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
+        "titleEn": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
         "url": "https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/03-features/openai/sagemaker-inference-openai-api.ipynb",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-20T23:59:57.000Z",
-        "summary": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, "
+        "summary": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, ",
+        "summaryEn": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, "
       },
       {
         "title": "Clouted wants to take the guesswork out of making short videos go viral",
+        "titleEn": "Clouted wants to take the guesswork out of making short videos go viral",
         "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T22:30:45.000Z",
-        "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
+        "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+        "summaryEn": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
       },
       {
         "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+        "titleEn": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
         "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T22:26:08.000Z",
-        "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials "
+        "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials ",
+        "summaryEn": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials "
       },
       {
         "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+        "titleEn": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
         "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T22:03:51.000Z",
-        "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
+        "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+        "summaryEn": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
       },
       {
         "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+        "titleEn": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
         "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T21:55:49.000Z",
-        "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+        "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+        "summaryEn": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
       },
       {
         "title": "Anthropic will pay xAI $1.25B per month for compute",
+        "titleEn": "Anthropic will pay xAI $1.25B per month for compute",
         "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T21:29:22.000Z",
-        "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
+        "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+        "summaryEn": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
       },
       {
         "title": "We’re announcing new community investments in Missouri.",
+        "titleEn": "We’re announcing new community investments in Missouri.",
         "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
         "source": "Google AI Blog",
         "publishedAt": "2026-05-20T20:40:00.000Z",
-        "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+        "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+        "summaryEn": "We’re helping build the state’s next-generation workforce and investing in energy programs."
       },
       {
         "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+        "titleEn": "OpenAI claims it solved an 80-year-old math problem — for real this time",
         "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T20:28:27.000Z",
-        "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing clai"
+        "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing clai",
+        "summaryEn": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing clai"
       },
       {
         "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+        "titleEn": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
         "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T19:47:20.000Z",
-        "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
+        "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+        "summaryEn": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
       },
       {
         "title": "100 things we announced at I/O 2026",
+        "titleEn": "100 things we announced at I/O 2026",
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
         "source": "Google AI Blog",
         "publishedAt": "2026-05-20T19:30:00.000Z",
-        "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
+        "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
+        "summaryEn": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
       },
       {
         "title": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
+        "titleEn": "Deepseek wants to take on Claude Code and OpenAI's Codex with \"Deepseek Code\"",
         "url": "https://the-decoder.com/deepseek-wants-to-take-on-claude-code-and-openais-codex-with-deepseek-code/",
         "source": "The Decoder",
         "publishedAt": "2026-05-20T18:48:47.000Z",
-        "summary": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Curso"
+        "summary": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Curso",
+        "summaryEn": "Deepseek is building a new team in Beijing to develop its own AI code agent, working title \"Deepseek Code,\" a direct competitor to Claude Code, Codex, and Curso"
       },
       {
         "title": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
+        "titleEn": "LinkedIn's war on AI slop is not just a policy update—it is an admission that the platform lost control of its feed",
         "url": "https://the-decoder.com/linkedins-war-on-ai-slop-is-not-just-a-policy-update-it-is-an-admission-that-the-platform-lost-control-of-its-feed/",
         "source": "The Decoder",
         "publishedAt": "2026-05-20T18:21:23.000Z",
-        "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of th"
+        "summary": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of th",
+        "summaryEn": "Linkedin is cracking down on AI-generated junk content it calls \"AI slop.\" In early tests, the platform says it correctly flagged generic posts 94 percent of th"
       },
       {
         "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
+        "titleEn": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
         "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-02-gartner-predicts-80-percent-of-enterprise-software-and-applications-will-be-multimodal-by-2030-up-from-less-than-10-in-2024",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-20T18:01:29.000Z",
-        "summary": "If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually groun"
+        "summary": "If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually groun",
+        "summaryEn": "If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually groun"
       },
       {
         "title": "OpenAI barrels toward IPO that may happen in September",
+        "titleEn": "OpenAI barrels toward IPO that may happen in September",
         "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-05-20T17:24:24.000Z",
-        "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
+        "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+        "summaryEn": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
       },
       {
         "title": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
+        "titleEn": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
         "url": "https://aws.amazon.com/blogs/machine-learning/introducing-bidirectional-streaming-for-real-time-inference-on-amazon-sagemaker-ai/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-20T17:10:17.000Z",
-        "summary": "Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in"
+        "summary": "Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in",
+        "summaryEn": "Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in"
       },
       {
         "title": "A new experiment brings better group meetings to Google Beam",
+        "titleEn": "A new experiment brings better group meetings to Google Beam",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
         "source": "Google AI Blog",
         "publishedAt": "2026-05-20T16:45:00.000Z",
-        "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
+        "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+        "summaryEn": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected."
       },
       {
         "title": "How Ramp engineers accelerate code review with Codex",
+        "titleEn": "How Ramp engineers accelerate code review with Codex",
         "url": "https://openai.com/index/ramp",
         "source": "OpenAI News",
         "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+        "summaryEn": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
       },
       {
         "title": "The next phase of OpenAI’s Education for Countries",
+        "titleEn": "The next phase of OpenAI’s Education for Countries",
         "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
         "source": "OpenAI News",
         "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes"
+        "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes",
+        "summaryEn": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes"
       },
       {
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "titleEn": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
         "source": "OpenAI News",
         "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
+        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic",
+        "summaryEn": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
       }
     ]
   }
