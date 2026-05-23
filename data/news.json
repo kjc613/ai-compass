@@ -1,6 +1,87 @@
 {
-  "updatedAt": "2026-05-22T23:58:25.621Z",
+  "updatedAt": "2026-05-23T23:49:50.664Z",
   "items": [
+    {
+      "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+      "titleEn": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+      "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-23T17:10:59.000Z",
+      "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 ",
+      "summaryEn": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 "
+    },
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "titleEn": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-23T15:08:00.000Z",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "summaryEn": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+    },
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "titleEn": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "summaryEn": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+    },
+    {
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "titleEn": "Google’s new anything-to-anything AI model is wild",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-23T11:00:00.000Z",
+      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events d",
+      "summaryEn": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events d"
+    },
+    {
+      "title": "One of the world's top law schools draws a hard line against AI in legal education",
+      "titleEn": "One of the world's top law schools draws a hard line against AI in legal education",
+      "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-23T10:55:03.000Z",
+      "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed.",
+      "summaryEn": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed."
+    },
+    {
+      "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+      "titleEn": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
+      "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-23T10:17:48.000Z",
+      "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats ",
+      "summaryEn": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats "
+    },
+    {
+      "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+      "titleEn": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
+      "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-23T09:16:10.000Z",
+      "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep u",
+      "summaryEn": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep u"
+    },
+    {
+      "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+      "titleEn": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
+      "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-23T07:42:10.000Z",
+      "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in syste",
+      "summaryEn": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in syste"
+    },
+    {
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "titleEn": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-05-23T00:02:03.000Z",
+      "summary": "",
+      "summaryEn": ""
+    },
     {
       "title": "AI is being used to resurrect the voices of dead pilots",
       "titleEn": "AI is being used to resurrect the voices of dead pilots",
@@ -164,15 +245,6 @@
       "summaryEn": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent."
     },
     {
-      "title": "California governor signs first US executive order to protect workers from AI job loss",
-      "titleEn": "California governor signs first US executive order to protect workers from AI job loss",
-      "url": "https://the-decoder.com/california-governor-signs-first-us-executive-order-to-protect-workers-from-ai-job-loss/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T13:36:27.000Z",
-      "summary": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governo",
-      "summaryEn": "California's governor just signed the first executive order by a US governor aimed at protecting workers from AI-driven job loss. The article California governo"
-    },
-    {
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "titleEn": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
@@ -180,15 +252,6 @@
       "publishedAt": "2026-05-22T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with ",
       "summaryEn": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with "
-    },
-    {
-      "title": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-      "titleEn": "Trump pulls AI safety order after last-minute calls from Musk, Zuckerberg, and Sacks",
-      "url": "https://the-decoder.com/trump-pulls-ai-safety-order-after-last-minute-calls-from-musk-zuckerberg-and-sacks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T11:26:47.000Z",
-      "summary": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would hav",
-      "summaryEn": "Trump killed an executive order on AI safety at the last minute after calls from Elon Musk, Mark Zuckerberg, and former advisor David Sacks. The order would hav"
     },
     {
       "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
@@ -299,15 +362,6 @@
       "summaryEn": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current wor"
     },
     {
-      "title": "Google checks websites for llms.txt in new agentic browsing audit",
-      "titleEn": "Google checks websites for llms.txt in new agentic browsing audit",
-      "url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-21T19:07:33.000Z",
-      "summary": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article ",
-      "summaryEn": "Google is testing how well websites handle AI agents through a new experimental category called \"Agentic Browsing\" in its Lighthouse analysis tool. The article "
-    },
-    {
       "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "titleEn": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
@@ -344,15 +398,6 @@
       "summaryEn": "This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenge"
     },
     {
-      "title": "The first AI proof worthy of math's top journal landed and it won't be the last",
-      "titleEn": "The first AI proof worthy of math's top journal landed and it won't be the last",
-      "url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-21T16:11:50.000Z",
-      "summary": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from alg",
-      "summaryEn": "A reasoning model from OpenAI has disproved a conjecture by mathematician Paul Erdős on unit-distance geometry that stood open since 1946 - using tools from alg"
-    },
-    {
       "title": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
       "titleEn": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
       "url": "https://www.oplog.io/",
@@ -380,15 +425,6 @@
       "summaryEn": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre"
     },
     {
-      "title": "Spotify Studio’s AI agent creates a daily podcast just for you",
-      "titleEn": "Spotify Studio’s AI agent creates a daily podcast just for you",
-      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-21T15:47:29.000Z",
-      "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated co",
-      "summaryEn": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated co"
-    },
-    {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "titleEn": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
@@ -414,15 +450,6 @@
       "publishedAt": "2026-05-21T15:27:00.000Z",
       "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
       "summaryEn": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-    },
-    {
-      "title": "US Cyber Command races to deploy AI on top-secret networks",
-      "titleEn": "US Cyber Command races to deploy AI on top-secret networks",
-      "url": "https://the-decoder.com/us-cyber-command-races-to-deploy-ai-on-top-secret-networks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-21T15:20:44.000Z",
-      "summary": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI sy",
-      "summaryEn": "US Cyber Command has launched a task force to run AI models from OpenAI, Google, and others on the most classified Pentagon and NSA networks. The trigger: AI sy"
     },
     {
       "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
@@ -488,15 +515,6 @@
       "summaryEn": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
     },
     {
-      "title": "Anthropic says it’s about to have its first profitable quarter",
-      "titleEn": "Anthropic says it’s about to have its first profitable quarter",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T00:21:21.000Z",
-      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-      "summaryEn": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
-    },
-    {
       "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
       "titleEn": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
       "url": "https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/03-features/openai/sagemaker-inference-openai-api.ipynb",
@@ -504,15 +522,6 @@
       "publishedAt": "2026-05-20T23:59:57.000Z",
       "summary": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, ",
       "summaryEn": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, "
-    },
-    {
-      "title": "Clouted wants to take the guesswork out of making short videos go viral",
-      "titleEn": "Clouted wants to take the guesswork out of making short videos go viral",
-      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-20T22:30:45.000Z",
-      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-      "summaryEn": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
     },
     {
       "title": "We’re announcing new community investments in Missouri.",
@@ -531,15 +540,6 @@
       "publishedAt": "2026-05-20T19:30:00.000Z",
       "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights.",
       "summaryEn": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
-    },
-    {
-      "title": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
-      "titleEn": "Multimodal evaluators: MLLM-as-a-judge for image-to-text tasks in Strands Evals",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-07-02-gartner-predicts-80-percent-of-enterprise-software-and-applications-will-be-multimodal-by-2030-up-from-less-than-10-in-2024",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-05-20T18:01:29.000Z",
-      "summary": "If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually groun",
-      "summaryEn": "If you’re building visual shopping, image or document understanding, or chart analysis, you need a way to verify whether your model’s response is actually groun"
     }
   ]
 }
