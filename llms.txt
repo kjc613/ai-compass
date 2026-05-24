@@ -1,0 +1,30 @@
+# AI Compass
+
+AI Compass is a Chinese and English AI tools directory and daily AI news site.
+
+Site URL: https://kjc613.github.io/ai-compass/
+Sitemap: https://kjc613.github.io/ai-compass/sitemap.xml
+News page: https://kjc613.github.io/ai-compass/news.html
+
+Main topics:
+- AI tools and official website links
+- AI coding tools and developer workflows
+- AI agents and automation
+- AI image, video, voice, and generation workflows
+- Daily AI news from official blogs and technology media
+
+Important category pages:
+- https://kjc613.github.io/ai-compass/categories/agents-automation.html
+- https://kjc613.github.io/ai-compass/categories/ai-app-builders.html
+- https://kjc613.github.io/ai-compass/categories/data-enterprise-ai.html
+- https://kjc613.github.io/ai-compass/categories/developer-tools.html
+- https://kjc613.github.io/ai-compass/categories/foundation-models-api.html
+- https://kjc613.github.io/ai-compass/categories/generation-workflows.html
+- https://kjc613.github.io/ai-compass/categories/image-design.html
+- https://kjc613.github.io/ai-compass/categories/knowledge-retrieval.html
+- https://kjc613.github.io/ai-compass/categories/marketing-content.html
+- https://kjc613.github.io/ai-compass/categories/model-community.html
+- https://kjc613.github.io/ai-compass/categories/productivity.html
+- https://kjc613.github.io/ai-compass/categories/search-qa.html
+- https://kjc613.github.io/ai-compass/categories/video-creative.html
+- https://kjc613.github.io/ai-compass/categories/voice-audio.html

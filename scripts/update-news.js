@@ -1,12 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const newsLimit = Number(process.env.NEWS_LIMIT || 60);
-const translationProvider = (process.env.TRANSLATION_PROVIDER || detectTranslationProvider()).toLowerCase();
-const translateNews = process.env.TRANSLATE_NEWS === "true" && Boolean(translationProvider);
-const openaiModel = process.env.OPENAI_MODEL || "gpt-4.1-mini";
-const qwenModel = process.env.QWEN_MODEL || "qwen-plus";
-const qwenBaseUrl = process.env.QWEN_BASE_URL || "https://dashscope-intl.aliyuncs.com/compatible-mode/v1";
-
 const feeds = [
   { source: "OpenAI News", url: "https://openai.com/news/rss.xml", focused: true },
   { source: "Anthropic News", url: "https://www.anthropic.com/news/rss.xml", focused: true },
@@ -59,7 +53,7 @@ if (!items.length) {
   console.warn("No news items were fetched. Keeping the previous news data.");
   await writeSiteDataModule(previousNewsData);
 } else {
-  const newsData = { updatedAt: new Date().toISOString(), items: await translateNewsItems(items) };
+  const newsData = { updatedAt: new Date().toISOString(), items };
   await writeFile("data/news.json", JSON.stringify(newsData, null, 2) + "\n");
   await writeSiteDataModule(newsData);
 }
@@ -76,114 +70,12 @@ function parseFeed(xml, feed) {
 
     return {
       title,
-      titleEn: title,
       url,
       source: feed.source,
       publishedAt,
-      summary: summary.slice(0, 160),
-      summaryEn: summary.slice(0, 160)
+      summary: summary.slice(0, 160)
     };
   }).filter((item) => item.title && item.url && (feed.focused || isAiRelevant(item)));
-}
-
-async function translateNewsItems(items) {
-  const normalizedItems = items.map((item) => ({
-    ...item,
-    titleEn: item.titleEn || item.title,
-    summaryEn: item.summaryEn || item.summary
-  }));
-
-  if (!translateNews) {
-    console.warn("News translation skipped. Set TRANSLATE_NEWS=true and configure QWEN_API_KEY or OPENAI_API_KEY to enable it.");
-    return normalizedItems;
-  }
-
-  const translatedItems = [...normalizedItems];
-  const batchSize = 10;
-
-  for (let index = 0; index < normalizedItems.length; index += batchSize) {
-    const batch = normalizedItems.slice(index, index + batchSize);
-    try {
-      const translations = await translateBatch(batch);
-      for (const translation of translations) {
-        const targetIndex = index + Number(translation.index);
-        if (!Number.isInteger(targetIndex) || !translatedItems[targetIndex]) continue;
-        translatedItems[targetIndex] = {
-          ...translatedItems[targetIndex],
-          titleZh: translation.titleZh || translatedItems[targetIndex].title,
-          summaryZh: translation.summaryZh || translatedItems[targetIndex].summary
-        };
-      }
-    } catch (error) {
-      console.warn(`Skipping news translation batch ${index / batchSize + 1}: ${error.message}`);
-    }
-  }
-
-  return translatedItems;
-}
-
-async function translateBatch(batch) {
-  const endpoint = translationProvider === "qwen"
-    ? `${qwenBaseUrl.replace(/\/$/, "")}/chat/completions`
-    : "https://api.openai.com/v1/chat/completions";
-  const apiKey = translationProvider === "qwen" ? process.env.QWEN_API_KEY : process.env.OPENAI_API_KEY;
-  const model = translationProvider === "qwen" ? qwenModel : openaiModel;
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "Authorization": `Bearer ${apiKey}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      model,
-      temperature: 0.1,
-      response_format: { type: "json_object" },
-      messages: [
-        {
-          role: "system",
-          content: "Translate AI news titles and summaries into concise Simplified Chinese. Preserve product names, company names, model names, and URLs. Return valid JSON only."
-        },
-        {
-          role: "user",
-          content: JSON.stringify({
-            schema: {
-              items: [
-                {
-                  index: 0,
-                  titleZh: "中文标题",
-                  summaryZh: "中文摘要"
-                }
-              ]
-            },
-            items: batch.map((item, index) => ({
-              index,
-              title: item.titleEn || item.title,
-              summary: item.summaryEn || item.summary || ""
-            }))
-          })
-        }
-      ]
-    })
-  });
-
-  if (!response.ok) {
-    throw new Error(`${translationProvider} translation failed: ${response.status} ${response.statusText}`);
-  }
-
-  const body = await response.json();
-  const content = extractChatCompletionText(body);
-  const parsed = JSON.parse(content);
-  return Array.isArray(parsed.items) ? parsed.items : [];
-}
-
-function extractChatCompletionText(body) {
-  return body.choices?.[0]?.message?.content || "";
-}
-
-function detectTranslationProvider() {
-  if (process.env.QWEN_API_KEY) return "qwen";
-  if (process.env.OPENAI_API_KEY) return "openai";
-  return "";
 }
 
 function matchAll(value, regex) {

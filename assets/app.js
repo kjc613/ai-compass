@@ -322,6 +322,7 @@ function applyLanguage() {
     languageToggle.setAttribute("aria-label", t.toggleLabel);
   }
   setText("#newsUpdated", t.newsUpdated.replace("{date}", formatDate(window.SITE_DATA.newsData.updatedAt)));
+  window.applySeoLanguage?.(state.language);
 }
 
 function getCategories() {
@@ -463,30 +464,15 @@ function renderNews() {
 
   newsGrid.innerHTML = "";
   for (const item of state.news.slice(0, newsDisplayLimit)) {
-    const copy = newsCopy(item);
     const card = document.createElement("article");
     card.className = "news-card";
     card.innerHTML = `
       <span class="news-meta">${escapeHtml(item.source)} · ${formatDate(item.publishedAt)}</span>
-      <h3><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(copy.title)}</a></h3>
-      <p>${escapeHtml(copy.summary || text("readOriginal"))}</p>
+      <h3><a href="${item.url}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3>
+      <p>${escapeHtml(item.summary || text("readOriginal"))}</p>
     `;
     newsGrid.append(card);
   }
-}
-
-function newsCopy(item) {
-  if (state.language === "zh") {
-    return {
-      title: item.titleZh || item.title || item.titleEn,
-      summary: item.summaryZh || item.summary || item.summaryEn
-    };
-  }
-
-  return {
-    title: item.titleEn || item.title || item.titleZh,
-    summary: item.summaryEn || item.summary || item.summaryZh
-  };
 }
 
 function matchesQuery(tool) {
