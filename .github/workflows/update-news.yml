@@ -1,6 +1,6 @@
 name: Update AI news
 
-on:
+于:
   schedule:
     - cron: "0 23 * * *"
   workflow_dispatch:
