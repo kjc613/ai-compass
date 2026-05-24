@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-05-24T00:37:41.725Z",
+  "updatedAt": "2026-05-24T23:51:52.834Z",
   "items": [
+    {
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-24T21:39:21.000Z",
+      "summary": "We're in the transition period -- all of us."
+    },
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-24T15:00:00.000Z",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
+    },
+    {
+      "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+      "url": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-24T13:28:45.000Z",
+      "summary": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four tim"
+    },
+    {
+      "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent",
+      "url": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-24T12:54:07.000Z",
+      "summary": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And G"
+    },
+    {
+      "title": "Hackers are learning to exploit chatbot ‘personalities’",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-24T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arriv"
+    },
+    {
+      "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
+      "url": "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-24T10:17:46.000Z",
+      "summary": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different"
+    },
+    {
+      "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+      "url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-24T08:51:02.000Z",
+      "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwel"
+    },
+    {
+      "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
+      "url": "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-24T08:06:35.000Z",
+      "summary": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The alg"
+    },
     {
       "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
       "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
@@ -93,13 +149,6 @@
       "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section wo"
     },
     {
-      "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
-      "url": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T19:07:55.000Z",
-      "summary": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance r"
-    },
-    {
       "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
       "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
       "source": "TechCrunch AI",
@@ -114,32 +163,11 @@
       "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
     },
     {
-      "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
-      "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T17:51:50.000Z",
-      "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in i"
-    },
-    {
-      "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
-      "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T17:18:58.000Z",
-      "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's "
-    },
-    {
       "title": "Elon, stop trying to make Grok happen",
       "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "source": "The Verge AI",
       "publishedAt": "2026-05-22T17:17:06.000Z",
       "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reu"
-    },
-    {
-      "title": "OpenAI Appshots turn any Mac window into context for Codex",
-      "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T16:56:20.000Z",
-      "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it th"
     },
     {
       "title": "You can no longer Google the word ‘disregard’",
@@ -182,13 +210,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-05-22T14:20:00.000Z",
       "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like T"
-    },
-    {
-      "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
-      "url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-22T14:18:32.000Z",
-      "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent."
     },
     {
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
@@ -324,13 +345,6 @@
       "summary": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates p"
     },
     {
-      "title": "Spotify is launching AI-generated remixes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-21T15:54:03.000Z",
-      "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre"
-    },
-    {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "source": "TechCrunch AI",
@@ -380,25 +394,11 @@
       "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it"
     },
     {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T13:38:42.000Z",
-      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
-    },
-    {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
       "source": "OpenAI News",
       "publishedAt": "2026-05-21T12:00:00.000Z",
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
-    },
-    {
-      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T00:28:31.000Z",
-      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
     },
     {
       "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
