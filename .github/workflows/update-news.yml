@@ -11,10 +11,6 @@ permissions:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   NEWS_LIMIT: 60
-  TRANSLATE_NEWS: true
-  TRANSLATION_PROVIDER: qwen
-  QWEN_MODEL: qwen-plus-2025-07-28
-  QWEN_BASE_URL: https://dashscope-intl.aliyuncs.com/compatible-mode/v1
 
 jobs:
   update-news:
@@ -30,8 +26,6 @@ jobs:
 
       - name: Update news data
         run: npm run update-news
-        env:
-          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v7
