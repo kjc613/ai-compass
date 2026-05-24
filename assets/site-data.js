@@ -11,7 +11,14 @@ window.SITE_DATA = {
         "多模态",
         "语音"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "Home of ChatGPT, GPT models, developer APIs, voice, and multimodal capabilities for general AI apps and enterprise integration.",
+      "tagsEn": [
+        "ChatGPT",
+        "API",
+        "Multimodal",
+        "Voice"
+      ]
     },
     {
       "name": "Anthropic",
@@ -24,7 +31,14 @@ window.SITE_DATA = {
         "企业",
         "写作"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "Official home of Claude models for conversation, writing, coding, enterprise knowledge work, and API access.",
+      "tagsEn": [
+        "Claude",
+        "API",
+        "Enterprise",
+        "Writing"
+      ]
     },
     {
       "name": "Google AI",
@@ -37,7 +51,14 @@ window.SITE_DATA = {
         "研究",
         "开发者"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "Google's AI product and research hub, covering Gemini, developer tools, research updates, and ecosystem resources.",
+      "tagsEn": [
+        "Gemini",
+        "Search",
+        "Research",
+        "Developers"
+      ]
     },
     {
       "name": "Microsoft Copilot",
@@ -50,7 +71,14 @@ window.SITE_DATA = {
         "生产力",
         "企业"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "AI assistant for personal and Microsoft 365 workflows, useful for productivity, search, writing, and collaboration.",
+      "tagsEn": [
+        "Office",
+        "Copilot",
+        "Productivity",
+        "Enterprise"
+      ]
     },
     {
       "name": "Perplexity",
@@ -66,7 +94,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 5,
       "editorPickReason": "AI 搜索和研究问答代表产品",
-      "editorPickReasonEn": "Representative AI search and research Q&A product"
+      "editorPickReasonEn": "Representative AI search and research Q&A product",
+      "summaryEn": "AI search and answer engine built around cited sources, useful for research, fact-checking, and topic tracking.",
+      "tagsEn": [
+        "AI Search",
+        "Q&A",
+        "Citations",
+        "Research"
+      ]
     },
     {
       "name": "Midjourney",
@@ -82,7 +117,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 8,
       "editorPickReason": "AI 图像创作代表产品",
-      "editorPickReasonEn": "Representative AI image creation product"
+      "editorPickReasonEn": "Representative AI image creation product",
+      "summaryEn": "AI image generation platform for concept visuals, posters, art direction, and brand inspiration.",
+      "tagsEn": [
+        "Image Generation",
+        "Design",
+        "Creative",
+        "Art"
+      ]
     },
     {
       "name": "Runway",
@@ -98,7 +140,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 10,
       "editorPickReason": "AI 视频创作代表产品",
-      "editorPickReasonEn": "Representative AI video creation product"
+      "editorPickReasonEn": "Representative AI video creation product",
+      "summaryEn": "AI video generation and editing platform for creators, marketing teams, and visual production workflows.",
+      "tagsEn": [
+        "Video Generation",
+        "Editing",
+        "Creative",
+        "Marketing"
+      ]
     },
     {
       "name": "Stability AI",
@@ -111,7 +160,14 @@ window.SITE_DATA = {
         "图像",
         "模型"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "The company behind Stable Diffusion, offering image, video, audio, and 3D model capabilities.",
+      "tagsEn": [
+        "Stable Diffusion",
+        "Model Community",
+        "Image",
+        "Models"
+      ]
     },
     {
       "name": "Hugging Face",
@@ -124,7 +180,14 @@ window.SITE_DATA = {
         "数据集",
         "Spaces"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "Community platform for models, datasets, and Spaces, ideal for discovering open models and building demos.",
+      "tagsEn": [
+        "Model Community",
+        "Model Hub",
+        "Datasets",
+        "Spaces"
+      ]
     },
     {
       "name": "Replicate",
@@ -137,7 +200,14 @@ window.SITE_DATA = {
         "部署",
         "开发者"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "Platform for running open AI models through APIs, useful for fast experiments across image, audio, video, and language models.",
+      "tagsEn": [
+        "API",
+        "Open Models",
+        "Deployment",
+        "Developers"
+      ]
     },
     {
       "name": "ElevenLabs",
@@ -150,7 +220,14 @@ window.SITE_DATA = {
         "音频",
         "克隆"
       ],
-      "featured": true
+      "featured": true,
+      "summaryEn": "AI voice generation, dubbing, voice cloning, and audio application platform.",
+      "tagsEn": [
+        "Voice Generation",
+        "Dubbing",
+        "Audio",
+        "Cloning"
+      ]
     },
     {
       "name": "Notion AI",
@@ -163,7 +240,14 @@ window.SITE_DATA = {
         "写作",
         "协作"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "AI writing, summarization, knowledge-base Q&A, and collaboration features inside Notion workspaces.",
+      "tagsEn": [
+        "Notes",
+        "Knowledge Base",
+        "Writing",
+        "Collaboration"
+      ]
     },
     {
       "name": "Canva AI",
@@ -179,7 +263,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 9,
       "editorPickReason": "大众设计和内容创作高频入口",
-      "editorPickReasonEn": "High-frequency entry for design and content creation"
+      "editorPickReasonEn": "High-frequency entry for design and content creation",
+      "summaryEn": "AI design tools for non-designers, covering copy, images, presentations, and marketing assets.",
+      "tagsEn": [
+        "Design",
+        "Marketing",
+        "Presentations",
+        "Images"
+      ]
     },
     {
       "name": "GitHub Copilot",
@@ -195,7 +286,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 15,
       "editorPickReason": "覆盖面最广的代码助手之一",
-      "editorPickReasonEn": "One of the most widely adopted code assistants"
+      "editorPickReasonEn": "One of the most widely adopted code assistants",
+      "summaryEn": "AI coding assistant for code completion, chat, review, and engineering workflows.",
+      "tagsEn": [
+        "Coding",
+        "IDE",
+        "Code",
+        "Developers"
+      ]
     },
     {
       "name": "Cursor",
@@ -211,7 +309,180 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 12,
       "editorPickReason": "AI IDE 热门入口",
-      "editorPickReasonEn": "Popular AI IDE entry point"
+      "editorPickReasonEn": "Popular AI IDE entry point",
+      "summaryEn": "AI-first code editor for codebase Q&A, generation, refactoring, and multi-file edits.",
+      "tagsEn": [
+        "AI IDE",
+        "Coding",
+        "Codebase",
+        "Developers"
+      ]
+    },
+    {
+      "name": "Trae",
+      "url": "https://www.trae.ai/",
+      "category": "开发者工具",
+      "summary": "AI 原生 IDE 与自主编程智能体入口，支持 IDE 协作、SOLO 模式、多智能体、MCP 工具集成和项目级代码生成。",
+      "summaryEn": "AI-native IDE and autonomous coding agent for IDE collaboration, SOLO mode, multi-agent workflows, MCP tool integration, and project-level code generation.",
+      "tags": [
+        "AI IDE",
+        "编程智能体",
+        "SOLO",
+        "MCP"
+      ],
+      "tagsEn": [
+        "AI IDE",
+        "Coding Agent",
+        "SOLO",
+        "MCP"
+      ],
+      "featured": true,
+      "editorPickRank": 16,
+      "editorPickReason": "AI 原生 IDE 与 SOLO 编程智能体",
+      "editorPickReasonEn": "AI-native IDE with SOLO coding agent"
+    },
+    {
+      "name": "Google Antigravity",
+      "url": "https://antigravity.google/",
+      "category": "开发者工具",
+      "summary": "Google 的 AI 原生开发平台与 IDE，面向代理式软件开发、代码补全、命令式编辑和多智能体工程流程。",
+      "summaryEn": "Google AI-native development platform and IDE for agentic software development, completion, command editing, and multi-agent engineering workflows.",
+      "tags": [
+        "AI IDE",
+        "Gemini",
+        "智能体",
+        "开发者"
+      ],
+      "tagsEn": [
+        "AI IDE",
+        "Gemini",
+        "Agents",
+        "Developers"
+      ],
+      "featured": true,
+      "editorPickRank": 18,
+      "editorPickReason": "Google AI 原生开发平台",
+      "editorPickReasonEn": "Google AI-native development platform"
+    },
+    {
+      "name": "Jules",
+      "url": "https://jules.google/",
+      "category": "开发者工具",
+      "summary": "Google 的异步编程智能体，可在云端克隆代码库、执行开发任务、验证变更并用于修复问题或添加功能。",
+      "summaryEn": "Google asynchronous coding agent that clones repositories in the cloud, performs development tasks, verifies changes, and helps fix issues or add features.",
+      "tags": [
+        "编程智能体",
+        "异步任务",
+        "Google",
+        "GitHub"
+      ],
+      "tagsEn": [
+        "Coding Agent",
+        "Async Tasks",
+        "Google",
+        "GitHub"
+      ],
+      "featured": true,
+      "editorPickRank": 19,
+      "editorPickReason": "Google 异步编程智能体",
+      "editorPickReasonEn": "Google asynchronous coding agent"
+    },
+    {
+      "name": "Cline",
+      "url": "https://cline.bot/",
+      "category": "开发者工具",
+      "summary": "开源 IDE 编程智能体，能在编辑器中读写文件、执行命令、调用浏览器并在用户确认下完成多步骤工程任务。",
+      "summaryEn": "Open-source IDE coding agent that can read and edit files, run commands, use the browser, and complete multi-step engineering tasks with user approval.",
+      "tags": [
+        "开源",
+        "VS Code",
+        "编程智能体",
+        "多模型"
+      ],
+      "tagsEn": [
+        "Open Source",
+        "VS Code",
+        "Coding Agent",
+        "Multi-model"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Roo Code",
+      "url": "https://roocode.com/",
+      "category": "开发者工具",
+      "summary": "面向 VS Code 的 AI 开发团队式编程代理，支持多模型、工具调用、代码修改和项目级自动化任务。",
+      "summaryEn": "AI development-team style coding agent for VS Code with multi-model support, tool use, code edits, and project-level automation.",
+      "tags": [
+        "VS Code",
+        "编程智能体",
+        "多模型",
+        "自动化"
+      ],
+      "tagsEn": [
+        "VS Code",
+        "Coding Agent",
+        "Multi-model",
+        "Automation"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Qoder",
+      "url": "https://qoder.com/",
+      "category": "开发者工具",
+      "summary": "面向自主编码、知识工程和开发者生产力的 AI 软件开发平台，强调任务运行时、验证和交付链路。",
+      "summaryEn": "AI software development platform for autonomous coding, knowledge engineering, and developer productivity with task runtime, verification, and delivery workflows.",
+      "tags": [
+        "编程智能体",
+        "任务运行时",
+        "代码生成",
+        "验证"
+      ],
+      "tagsEn": [
+        "Coding Agent",
+        "Task Runtime",
+        "Code Generation",
+        "Verification"
+      ]
+    },
+    {
+      "name": "Qodo",
+      "url": "https://www.qodo.ai/",
+      "category": "开发者工具",
+      "summary": "AI 代码质量与代码审查平台，覆盖 PR 审查、测试生成、IDE 辅助、CLI 智能体和上下文引擎。",
+      "summaryEn": "AI code quality and review platform covering pull request review, test generation, IDE assistance, CLI agents, and context engines.",
+      "tags": [
+        "代码审查",
+        "测试生成",
+        "代码质量",
+        "企业"
+      ],
+      "tagsEn": [
+        "Code Review",
+        "Test Generation",
+        "Code Quality",
+        "Enterprise"
+      ]
+    },
+    {
+      "name": "OpenCode",
+      "url": "https://opencode.ai/",
+      "category": "开发者工具",
+      "summary": "终端里的 AI 编程代理，适合多模型代码修改、命令行开发流程和本地工程任务。",
+      "summaryEn": "Terminal-based AI coding agent for multi-model code edits, command-line development workflows, and local engineering tasks.",
+      "tags": [
+        "终端",
+        "编程智能体",
+        "多模型",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Terminal",
+        "Coding Agent",
+        "Multi-model",
+        "Developers"
+      ]
     },
     {
       "name": "xAI",
@@ -224,7 +495,14 @@ window.SITE_DATA = {
         "实时信息",
         "对话"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "Home of Grok models and xAI products, covering chat, real-time information, and developer APIs.",
+      "tagsEn": [
+        "Grok",
+        "API",
+        "Real-time Info",
+        "Chat"
+      ]
     },
     {
       "name": "Mistral AI",
@@ -237,7 +515,14 @@ window.SITE_DATA = {
         "企业",
         "欧洲"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "European AI model company offering open-weight models, enterprise platforms, and developer APIs.",
+      "tagsEn": [
+        "Open Models",
+        "API",
+        "Enterprise",
+        "Europe"
+      ]
     },
     {
       "name": "DeepSeek",
@@ -253,7 +538,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 4,
       "editorPickReason": "中文开发者和推理模型关注度高",
-      "editorPickReasonEn": "High attention among Chinese developers and reasoning model users"
+      "editorPickReasonEn": "High attention among Chinese developers and reasoning model users",
+      "summaryEn": "Provider of chat, reasoning, and API services, useful for Chinese-language scenarios and developer integration.",
+      "tagsEn": [
+        "Chinese",
+        "Reasoning",
+        "API",
+        "LLM"
+      ]
     },
     {
       "name": "MiniMax",
@@ -266,7 +558,14 @@ window.SITE_DATA = {
         "智能体",
         "API"
       ],
-      "featured": false
+      "featured": false,
+      "summaryEn": "AI capabilities across text, voice, video, and agents for consumer products and developer use cases.",
+      "tagsEn": [
+        "Voice",
+        "Video",
+        "Agents",
+        "API"
+      ]
     },
     {
       "name": "Kimi",
@@ -282,7 +581,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 7,
       "editorPickReason": "中文长文档和搜索问答入口",
-      "editorPickReasonEn": "Chinese long-document and search Q&A entry point"
+      "editorPickReasonEn": "Chinese long-document and search Q&A entry point",
+      "summaryEn": "Moonshot AI assistant for long-document reading, search Q&A, writing, and Chinese knowledge work.",
+      "tagsEn": [
+        "Long Documents",
+        "Chinese",
+        "Search",
+        "Writing"
+      ]
     },
     {
       "name": "智谱清言",
@@ -361,7 +667,14 @@ window.SITE_DATA = {
       "featured": true,
       "editorPickRank": 3,
       "editorPickReason": "Google 生态和多模态入口",
-      "editorPickReasonEn": "Google ecosystem and multimodal AI entry point"
+      "editorPickReasonEn": "Google ecosystem and multimodal AI entry point",
+      "summaryEn": "Google's AI assistant for chat, information organization, multimodal queries, and productivity tasks.",
+      "tagsEn": [
+        "Google",
+        "Assistant",
+        "Multimodal",
+        "Search"
+      ]
     },
     {
       "name": "Meta AI",
@@ -482,6 +795,186 @@ window.SITE_DATA = {
         "API"
       ],
       "featured": false
+    },
+    {
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai/",
+      "category": "大模型与 API",
+      "summary": "统一访问多家大模型的路由与 API 平台，适合比较模型价格、能力、上下文长度和备用模型策略。",
+      "summaryEn": "Unified model routing and API platform for comparing providers, pricing, capabilities, context length, and fallback model strategies.",
+      "tags": [
+        "模型路由",
+        "API",
+        "多模型",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Model Router",
+        "API",
+        "Multi-model",
+        "Developers"
+      ],
+      "featured": true,
+      "editorPickRank": 17,
+      "editorPickReason": "多模型 API 路由入口",
+      "editorPickReasonEn": "Multi-model API routing entry point"
+    },
+    {
+      "name": "Baseten",
+      "url": "https://www.baseten.co/",
+      "category": "大模型与 API",
+      "summary": "面向生产环境的 AI 推理平台，支持部署、优化和管理开源、自定义与微调模型，适合高性能模型 API 和企业推理服务。",
+      "summaryEn": "Production AI inference platform for deploying, optimizing, and managing open-source, custom, and fine-tuned models for high-performance model APIs and enterprise inference.",
+      "tags": [
+        "推理平台",
+        "模型部署",
+        "API",
+        "企业"
+      ],
+      "tagsEn": [
+        "Inference Platform",
+        "Model Deployment",
+        "API",
+        "Enterprise"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Novita AI",
+      "url": "https://novita.ai/",
+      "category": "大模型与 API",
+      "summary": "AI 原生云与模型 API 平台，提供 LLM、图像、音频、视频、视觉等 200+ 模型的 Serverless API 和 GPU 能力。",
+      "summaryEn": "AI-native cloud and model API platform offering serverless APIs and GPU capabilities for 200+ LLM, image, audio, video, and vision models.",
+      "tags": [
+        "模型 API",
+        "Serverless",
+        "多模态",
+        "GPU"
+      ],
+      "tagsEn": [
+        "Model API",
+        "Serverless",
+        "Multimodal",
+        "GPU"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Hyperbolic",
+      "url": "https://www.hyperbolic.ai/",
+      "category": "大模型与 API",
+      "summary": "开放式 AI 云平台，提供按需 GPU、Serverless 推理、专用端点和 OpenAI 兼容 API，适合开源模型训练与部署。",
+      "summaryEn": "Open-access AI cloud with on-demand GPUs, serverless inference, dedicated endpoints, and OpenAI-compatible APIs for training and deploying open models.",
+      "tags": [
+        "GPU 云",
+        "Serverless 推理",
+        "OpenAI API",
+        "开源模型"
+      ],
+      "tagsEn": [
+        "GPU Cloud",
+        "Serverless Inference",
+        "OpenAI API",
+        "Open Models"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Cerebras Inference",
+      "url": "https://www.cerebras.ai/inference",
+      "category": "大模型与 API",
+      "summary": "Cerebras 的高速推理云，提供 OpenAI API 兼容接口，面向低延迟、高吞吐的聊天、代码、自动化和智能体场景。",
+      "summaryEn": "High-speed inference cloud from Cerebras with OpenAI-compatible APIs for low-latency, high-throughput chat, coding, automation, and agentic workloads.",
+      "tags": [
+        "高速推理",
+        "OpenAI API",
+        "低延迟",
+        "芯片"
+      ],
+      "tagsEn": [
+        "Fast Inference",
+        "OpenAI API",
+        "Low Latency",
+        "AI Chip"
+      ],
+      "featured": true
+    },
+    {
+      "name": "SambaCloud",
+      "url": "https://sambanova.ai/products/sambacloud",
+      "category": "大模型与 API",
+      "summary": "SambaNova 的云端推理平台，支持大型开源模型和 OpenAI 兼容端点，强调高速推理、数据隐私和企业部署。",
+      "summaryEn": "SambaNova cloud inference platform for large open-source models and OpenAI-compatible endpoints, focused on fast inference, data privacy, and enterprise deployment.",
+      "tags": [
+        "推理云",
+        "开源模型",
+        "OpenAI API",
+        "企业"
+      ],
+      "tagsEn": [
+        "Inference Cloud",
+        "Open Models",
+        "OpenAI API",
+        "Enterprise"
+      ]
+    },
+    {
+      "name": "fal",
+      "url": "https://fal.ai/",
+      "category": "大模型与 API",
+      "summary": "生成式媒体模型 API 平台，提供图像、视频、音频、3D 等大量生产可用模型的统一 API，适合创意应用开发者。",
+      "summaryEn": "Generative media model API platform with unified access to production-ready image, video, audio, and 3D models for creative app developers.",
+      "tags": [
+        "媒体模型 API",
+        "图像",
+        "视频",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Media Model API",
+        "Image",
+        "Video",
+        "Developers"
+      ],
+      "featured": true
+    },
+    {
+      "name": "RunPod",
+      "url": "https://www.runpod.io/",
+      "category": "大模型与 API",
+      "summary": "AI 开发者云平台，提供 GPU Pods、Serverless、集群和推理部署能力，适合训练、微调、ComfyUI 和生产推理。",
+      "summaryEn": "AI developer cloud with GPU pods, serverless, clusters, and inference deployment for training, fine-tuning, ComfyUI, and production inference.",
+      "tags": [
+        "GPU 云",
+        "Serverless",
+        "模型部署",
+        "ComfyUI"
+      ],
+      "tagsEn": [
+        "GPU Cloud",
+        "Serverless",
+        "Model Deployment",
+        "ComfyUI"
+      ]
+    },
+    {
+      "name": "Modal",
+      "url": "https://modal.com/",
+      "category": "大模型与 API",
+      "summary": "面向 AI 应用和模型服务的 Serverless 云平台，可运行 GPU 任务、推理服务、批处理和 Python 工作负载。",
+      "summaryEn": "Serverless cloud platform for AI apps and model services, supporting GPU jobs, inference services, batch processing, and Python workloads.",
+      "tags": [
+        "Serverless",
+        "GPU",
+        "Python",
+        "模型服务"
+      ],
+      "tagsEn": [
+        "Serverless",
+        "GPU",
+        "Python",
+        "Model Serving"
+      ]
     },
     {
       "name": "Poe",
@@ -782,6 +1275,63 @@ window.SITE_DATA = {
         "Productivity"
       ],
       "featured": true
+    },
+    {
+      "name": "Napkin AI",
+      "url": "https://www.napkin.ai/",
+      "category": "办公效率",
+      "summary": "把文字转成商业图示和视觉表达的 AI 工具，适合报告、演示、白皮书和知识说明图。",
+      "summaryEn": "AI tool that turns text into business visuals and diagrams for reports, presentations, white papers, and knowledge explanation.",
+      "tags": [
+        "图示",
+        "演示",
+        "商业表达",
+        "文档"
+      ],
+      "tagsEn": [
+        "Diagrams",
+        "Presentations",
+        "Business Storytelling",
+        "Documents"
+      ]
+    },
+    {
+      "name": "Granola",
+      "url": "https://www.granola.ai/",
+      "category": "办公效率",
+      "summary": "AI 会议笔记工具，适合把会议录音、手写笔记和上下文整理成结构化纪要与行动项。",
+      "summaryEn": "AI meeting notes tool for turning meeting audio, notes, and context into structured summaries and action items.",
+      "tags": [
+        "会议笔记",
+        "总结",
+        "行动项",
+        "办公"
+      ],
+      "tagsEn": [
+        "Meeting Notes",
+        "Summaries",
+        "Action Items",
+        "Productivity"
+      ]
+    },
+    {
+      "name": "Fireflies.ai",
+      "url": "https://fireflies.ai/",
+      "category": "办公效率",
+      "summary": "AI 会议助手，用于自动加入会议、录音、转写、总结、提取行动项并建立可搜索会议档案。",
+      "summaryEn": "AI meeting assistant for joining meetings, recording, transcribing, summarizing, extracting action items, and building searchable meeting archives.",
+      "tags": [
+        "会议助手",
+        "转写",
+        "总结",
+        "团队"
+      ],
+      "tagsEn": [
+        "Meeting Assistant",
+        "Transcription",
+        "Summaries",
+        "Teams"
+      ]
     },
     {
       "name": "Grammarly",
@@ -1310,6 +1860,83 @@ window.SITE_DATA = {
       "featured": false
     },
     {
+      "name": "Firebase Studio",
+      "url": "https://firebase.google.com/docs/studio",
+      "category": "AI 应用构建",
+      "summary": "Google 的云端代理式开发环境，支持用提示、图片或草图快速生成 AI 优先的全栈应用原型。",
+      "summaryEn": "Google cloud-based agentic development environment for rapidly generating AI-forward full-stack app prototypes from prompts, images, or sketches.",
+      "tags": [
+        "Google",
+        "应用原型",
+        "全栈",
+        "Gemini"
+      ],
+      "tagsEn": [
+        "Google",
+        "App Prototyping",
+        "Full-stack",
+        "Gemini"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Rork",
+      "url": "https://rork.com/",
+      "category": "AI 应用构建",
+      "summary": "通过对话创建移动应用的 AI 工具，面向 React Native/Expo 原型、移动 MVP 和应用商店发布流程。",
+      "summaryEn": "AI tool for creating mobile apps through conversation, focused on React Native/Expo prototypes, mobile MVPs, and app store shipping workflows.",
+      "tags": [
+        "移动应用",
+        "React Native",
+        "MVP",
+        "应用构建"
+      ],
+      "tagsEn": [
+        "Mobile Apps",
+        "React Native",
+        "MVP",
+        "App Building"
+      ]
+    },
+    {
+      "name": "Figma Make",
+      "url": "https://www.figma.com/solutions/ai-app-generator/",
+      "category": "AI 应用构建",
+      "summary": "Figma 的 AI 应用生成入口，可将想法或设计转成可交互原型、网页应用和 UI 代码。",
+      "summaryEn": "Figma AI app generator for turning ideas or designs into interactive prototypes, web apps, and UI code.",
+      "tags": [
+        "Figma",
+        "原型",
+        "UI",
+        "应用生成"
+      ],
+      "tagsEn": [
+        "Figma",
+        "Prototype",
+        "UI",
+        "App Generation"
+      ]
+    },
+    {
+      "name": "Magic Patterns",
+      "url": "https://www.magicpatterns.com/",
+      "category": "AI 应用构建",
+      "summary": "面向产品团队的 AI 界面生成与原型工具，适合快速生成 UI、组件、流程和可分享原型。",
+      "summaryEn": "AI interface generation and prototyping tool for product teams, useful for UI, components, flows, and shareable prototypes.",
+      "tags": [
+        "UI 生成",
+        "原型",
+        "产品团队",
+        "组件"
+      ],
+      "tagsEn": [
+        "UI Generation",
+        "Prototype",
+        "Product Teams",
+        "Components"
+      ]
+    },
+    {
       "name": "Dify",
       "url": "https://dify.ai/",
       "category": "AI 应用构建",
@@ -1471,6 +2098,63 @@ window.SITE_DATA = {
         "Knowledge"
       ],
       "featured": false
+    },
+    {
+      "name": "Comet",
+      "url": "https://www.perplexity.ai/comet/",
+      "category": "搜索问答",
+      "summary": "Perplexity 的 AI 浏览器入口，面向网页理解、跨标签页问答、搜索、任务执行和浏览器内助手工作流。",
+      "summaryEn": "Perplexity AI browser for page understanding, cross-tab Q&A, search, task execution, and in-browser assistant workflows.",
+      "tags": [
+        "AI 浏览器",
+        "Perplexity",
+        "搜索",
+        "网页助手"
+      ],
+      "tagsEn": [
+        "AI Browser",
+        "Perplexity",
+        "Search",
+        "Web Assistant"
+      ]
+    },
+    {
+      "name": "Dia",
+      "url": "https://www.diabrowser.com/",
+      "category": "搜索问答",
+      "summary": "The Browser Company 的 AI 浏览器，围绕网页上下文、技能、侧边栏助手和浏览器内工作流构建。",
+      "summaryEn": "AI browser from The Browser Company built around page context, skills, side-panel assistance, and browser-native workflows.",
+      "tags": [
+        "AI 浏览器",
+        "网页助手",
+        "技能",
+        "工作流"
+      ],
+      "tagsEn": [
+        "AI Browser",
+        "Web Assistant",
+        "Skills",
+        "Workflow"
+      ]
+    },
+    {
+      "name": "Fellou",
+      "url": "https://fellou.ai/",
+      "category": "搜索问答",
+      "summary": "Agentic AI 浏览器，面向深度搜索、网页自动化、多步骤任务和跨网站操作。",
+      "summaryEn": "Agentic AI browser for deep search, web automation, multi-step tasks, and cross-site operations.",
+      "tags": [
+        "AI 浏览器",
+        "深度搜索",
+        "自动化",
+        "智能体"
+      ],
+      "tagsEn": [
+        "AI Browser",
+        "Deep Search",
+        "Automation",
+        "Agents"
+      ]
     },
     {
       "name": "Phind",
@@ -1763,6 +2447,103 @@ window.SITE_DATA = {
       "nameEn": "Kling AI"
     },
     {
+      "name": "Google Flow",
+      "url": "https://labs.google/flow/",
+      "category": "视频与创意",
+      "summary": "Google 面向 Veo、Imagen 和 Gemini 的 AI 电影制作工具，适合生成镜头、场景和具有连续性的故事片段。",
+      "summaryEn": "Google AI filmmaking tool built for Veo, Imagen, and Gemini, useful for generating shots, scenes, and consistent story clips.",
+      "tags": [
+        "Veo",
+        "视频生成",
+        "电影制作",
+        "Google"
+      ],
+      "tagsEn": [
+        "Veo",
+        "Video Generation",
+        "Filmmaking",
+        "Google"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Hailuo AI",
+      "url": "https://hailuoai.video/",
+      "category": "视频与创意",
+      "summary": "MiniMax 的 AI 视频生成产品入口，支持文本/图像生成视频，适合短片、创意镜头和营销视频测试。",
+      "summaryEn": "MiniMax AI video generation product for text-to-video and image-to-video, useful for short clips, creative shots, and marketing video tests.",
+      "tags": [
+        "MiniMax",
+        "视频生成",
+        "图生视频",
+        "短片"
+      ],
+      "tagsEn": [
+        "MiniMax",
+        "Video Generation",
+        "Image-to-video",
+        "Short Clips"
+      ],
+      "featured": true
+    },
+    {
+      "name": "PixVerse",
+      "url": "https://app.pixverse.ai/",
+      "category": "视频与创意",
+      "summary": "AI 视频生成平台，适合文本/图片生成视频、角色动作、创意短片和社交媒体视频制作。",
+      "summaryEn": "AI video generation platform for text/image-to-video, character motion, creative clips, and social video production.",
+      "tags": [
+        "视频生成",
+        "图生视频",
+        "短视频",
+        "创意"
+      ],
+      "tagsEn": [
+        "Video Generation",
+        "Image-to-video",
+        "Short Video",
+        "Creative"
+      ]
+    },
+    {
+      "name": "Higgsfield",
+      "url": "https://higgsfield.ai/",
+      "category": "视频与创意",
+      "summary": "面向社交视频、广告和创作者的 AI 视频与图像生成平台，包含镜头运动、UGC、虚拟形象和工作流能力。",
+      "summaryEn": "AI video and image generation platform for social video, ads, and creators, with camera motion, UGC, avatars, and workflow tools.",
+      "tags": [
+        "视频生成",
+        "广告素材",
+        "UGC",
+        "创作者"
+      ],
+      "tagsEn": [
+        "Video Generation",
+        "Ad Creative",
+        "UGC",
+        "Creators"
+      ]
+    },
+    {
+      "name": "LTX Studio",
+      "url": "https://ltx.studio/",
+      "category": "视频与创意",
+      "summary": "AI 视频与故事板创作平台，适合从脚本、分镜、镜头控制到成片流程的创意制作。",
+      "summaryEn": "AI video and storyboard creation platform for script, shot planning, camera control, and end-to-end creative production.",
+      "tags": [
+        "故事板",
+        "视频生成",
+        "分镜",
+        "创意制作"
+      ],
+      "tagsEn": [
+        "Storyboard",
+        "Video Generation",
+        "Shot Planning",
+        "Creative Production"
+      ]
+    },
+    {
       "name": "即梦 AI",
       "url": "https://jimeng.jianying.com/",
       "category": "图像与设计",
@@ -1843,6 +2624,44 @@ window.SITE_DATA = {
         "Icons"
       ],
       "featured": false
+    },
+    {
+      "name": "Freepik AI",
+      "url": "https://www.freepik.com/",
+      "category": "图像与设计",
+      "summary": "集素材库、AI 图像、视频、放大、编辑和品牌视觉工作流于一体的创意平台。",
+      "summaryEn": "Creative platform combining asset libraries, AI image, video, upscaling, editing, and brand visual workflows.",
+      "tags": [
+        "素材库",
+        "AI 图像",
+        "视频",
+        "设计"
+      ],
+      "tagsEn": [
+        "Assets",
+        "AI Image",
+        "Video",
+        "Design"
+      ]
+    },
+    {
+      "name": "Lovart",
+      "url": "https://www.lovart.ai/",
+      "category": "图像与设计",
+      "summary": "AI 设计智能体，面向品牌视觉、海报、广告图、产品图和多轮设计工作流。",
+      "summaryEn": "AI design agent for brand visuals, posters, ad creatives, product images, and iterative design workflows.",
+      "tags": [
+        "设计智能体",
+        "品牌视觉",
+        "海报",
+        "广告图"
+      ],
+      "tagsEn": [
+        "Design Agent",
+        "Brand Visuals",
+        "Posters",
+        "Ad Creative"
+      ]
     },
     {
       "name": "Murf",
@@ -2248,6 +3067,64 @@ window.SITE_DATA = {
       "featured": true
     },
     {
+      "name": "Ollama",
+      "url": "https://ollama.com/",
+      "category": "模型与社区",
+      "summary": "本地运行开源大模型的常用工具，适合个人电脑、服务器和开发环境中的本地推理、模型测试和隐私敏感场景。",
+      "summaryEn": "Popular tool for running open models locally on personal computers, servers, and development environments for local inference and privacy-sensitive work.",
+      "tags": [
+        "本地模型",
+        "开源模型",
+        "推理",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Local Models",
+        "Open Models",
+        "Inference",
+        "Developers"
+      ],
+      "featured": true
+    },
+    {
+      "name": "LM Studio",
+      "url": "https://lmstudio.ai/",
+      "category": "模型与社区",
+      "summary": "本地大模型桌面应用，适合下载、运行、聊天和测试开源模型，也可提供本地 OpenAI 兼容 API。",
+      "summaryEn": "Desktop app for downloading, running, chatting with, and testing open models locally, including local OpenAI-compatible APIs.",
+      "tags": [
+        "本地模型",
+        "桌面应用",
+        "OpenAI API",
+        "开发者"
+      ],
+      "tagsEn": [
+        "Local Models",
+        "Desktop App",
+        "OpenAI API",
+        "Developers"
+      ]
+    },
+    {
+      "name": "Open WebUI",
+      "url": "https://openwebui.com/",
+      "category": "模型与社区",
+      "summary": "面向 Ollama 和多模型后端的本地/自托管 Web UI，适合团队搭建私有聊天、知识库和模型工作台。",
+      "summaryEn": "Local and self-hosted web UI for Ollama and multi-model backends, useful for private chat, knowledge bases, and model workbenches.",
+      "tags": [
+        "自托管",
+        "Ollama",
+        "知识库",
+        "团队"
+      ],
+      "tagsEn": [
+        "Self-hosted",
+        "Ollama",
+        "Knowledge Base",
+        "Teams"
+      ]
+    },
+    {
       "name": "OpenArt",
       "url": "https://openart.ai/",
       "category": "图像与设计",
@@ -2355,427 +3232,133 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-05-24T00:37:41.725Z",
+    "updatedAt": "2026-05-21T02:45:13.753Z",
     "items": [
       {
-        "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
-        "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-23T17:10:59.000Z",
-        "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 "
-      },
-      {
-        "title": "Ferrari is using IBM’s AI to create F1 superfans",
-        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-23T15:08:00.000Z",
-        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
-      },
-      {
-        "title": "Elon Musk has given up on solar power (on Earth)",
-        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-23T13:00:00.000Z",
-        "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
-      },
-      {
-        "title": "Google’s new anything-to-anything AI model is wild",
-        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-23T11:00:00.000Z",
-        "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events d"
-      },
-      {
-        "title": "One of the world's top law schools draws a hard line against AI in legal education",
-        "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-23T10:55:03.000Z",
-        "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed."
-      },
-      {
-        "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
-        "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-23T10:17:48.000Z",
-        "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats "
-      },
-      {
-        "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
-        "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-23T09:16:10.000Z",
-        "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep u"
-      },
-      {
-        "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
-        "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-23T07:42:10.000Z",
-        "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in syste"
-      },
-      {
-        "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-23T00:02:03.000Z",
-        "summary": ""
-      },
-      {
-        "title": "AI is being used to resurrect the voices of dead pilots",
-        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T23:03:33.000Z",
-        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
-      },
-      {
-        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-        "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T21:02:36.000Z",
-        "summary": "You can now disco ball-ify your entire Pixel home screen, says Google."
-      },
-      {
-        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T20:40:48.000Z",
-        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
-      },
-      {
-        "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-22T20:39:54.000Z",
-        "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section wo"
-      },
-      {
-        "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
-        "url": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-22T19:07:55.000Z",
-        "summary": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance r"
-      },
-      {
-        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-        "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T18:17:07.000Z",
-        "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside "
-      },
-      {
-        "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-22T18:00:00.000Z",
-        "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
-      },
-      {
-        "title": "OpenAI launches a ChatGPT Powerpoint plugin and warns it might accidentally delete your content",
-        "url": "https://the-decoder.com/openai-launches-a-chatgpt-powerpoint-plugin-and-warns-it-might-accidentally-delete-your-content/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-22T17:51:50.000Z",
-        "summary": "OpenAI brings ChatGPT directly into PowerPoint. A new beta plugin creates presentations from notes, documents, or images and edits existing slides. The add-in i"
-      },
-      {
-        "title": "Deepseek reportedly prioritizes AGI research over quick profits despite billions in funding",
-        "url": "https://the-decoder.com/deepseek-reportedly-prioritizes-agi-research-over-quick-profits-despite-billions-in-funding/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-22T17:18:58.000Z",
-        "summary": "Deepseek is about to raise around $10 billion, which would value the Chinese AI startup at roughly $45 billion. Founder Liang Wenfeng is telling investors he's "
-      },
-      {
-        "title": "Elon, stop trying to make Grok happen",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-22T17:17:06.000Z",
-        "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reu"
-      },
-      {
-        "title": "OpenAI Appshots turn any Mac window into context for Codex",
-        "url": "https://the-decoder.com/openai-appshots-turn-any-mac-window-into-context-for-codex/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-22T16:56:20.000Z",
-        "summary": "With the new Codex feature Appshots, Mac users can send the contents of any app window to OpenAI's coding assistant Codex at the press of a button, giving it th"
-      },
-      {
-        "title": "You can no longer Google the word ‘disregard’",
-        "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T16:16:48.000Z",
-        "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
-      },
-      {
-        "title": "We tried Google’s AI glasses and they’re almost there",
-        "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T15:37:15.000Z",
-        "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
-      },
-      {
-        "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-22T15:25:59.000Z",
-        "summary": ""
-      },
-      {
-        "title": "SpaceX files to go public, and the math requires a little faith",
-        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-22T14:30:00.000Z",
-        "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside "
-      },
-      {
-        "title": "The literary world isn’t prepared for AI",
-        "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-22T14:30:00.000Z",
-        "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was "
-      },
-      {
-        "title": "Spotify says its AI remix tool is for superfans, but I’m not convinced",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-22T14:20:00.000Z",
-        "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like T"
-      },
-      {
-        "title": "OpenAI burned through $1.22 per dollar earned even after stripping out stock-based compensation",
-        "url": "https://the-decoder.com/openai-burned-through-1-22-per-dollar-earned-even-after-stripping-out-stock-based-compensation/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-22T14:18:32.000Z",
-        "summary": "OpenAI pulled in about $5.7 billion in Q1 2026 revenue but still lost $1.22 for every dollar earned, putting its adjusted operating margin at minus 122 percent."
-      },
-      {
-        "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-22T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with "
-      },
-      {
-        "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
-        "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-22T11:05:25.000Z",
-        "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some work"
-      },
-      {
-        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
         "source": "OpenAI News",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deploymen"
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
       },
       {
-        "title": "How Virgin Atlantic ships faster with Codex",
-        "url": "https://openai.com/index/virgin-atlantic",
+        "title": "The next phase of OpenAI’s Education for Countries",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
         "source": "OpenAI News",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes"
       },
       {
-        "title": "Amazon Nova Act is now HIPAA eligible",
-        "url": "https://aws.amazon.com/nova/act/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T22:22:28.000Z",
-        "summary": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started."
+        "title": "How Ramp engineers accelerate code review with Codex",
+        "url": "https://openai.com/index/ramp",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
       },
       {
-        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "title": "Introducing OpenAI for Singapore",
+        "url": "https://openai.com/index/introducing-openai-for-singapore",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-19T20:30:00.000Z",
+        "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+      },
+      {
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
         "url": "https://www.technologyreview.com/author/mat-honan/",
         "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T20:41:05.000Z",
-        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
+        "publishedAt": "2026-05-19T20:15:18.000Z",
+        "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him ove"
       },
       {
-        "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-        "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-21T20:15:18.000Z",
-        "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk fil"
-      },
-      {
-        "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-21T20:00:06.000Z",
-        "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuine"
-      },
-      {
-        "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-        "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-05-21T19:46:42.000Z",
+        "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-19T18:38:09.000Z",
         "summary": ""
       },
       {
-        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-        "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T19:45:00.000Z",
-        "summary": "Spotify is partnering with Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a"
-      },
-      {
-        "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-        "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T19:19:05.000Z",
-        "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
-      },
-      {
-        "title": "Scaling creativity in the age of AI",
-        "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/a-more-accurate-way-to-measure-consumer-engagement",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T19:16:43.000Z",
-        "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through "
-      },
-      {
-        "title": "Intelligent radiology workflow optimization with AI agents",
-        "url": "https://theimagingwire.com/2023/05/17/effects-on-healthcare-of-cherry-picking/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T19:11:09.000Z",
-        "summary": "Many healthcare organizations report that traditional worklist systems rely on rigid rules that ignore critical context, radiologist specialization, current wor"
-      },
-      {
-        "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-        "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T17:30:45.000Z",
-        "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with th"
-      },
-      {
-        "title": "This AI guitar pedal let me roll my own effects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-21T17:00:00.000Z",
-        "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend"
-      },
-      {
-        "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T16:32:09.000Z",
-        "summary": "This post shows you how to use Amazon Bedrock AgentCore Runtime with Model Context Protocol (MCP) support to connect Amazon Quick with AWS services through the "
-      },
-      {
-        "title": "Building multi-tenant agents with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T16:16:09.000Z",
-        "summary": "This post explores&nbsp;design considerations for architecting multi-tenant agentic applications and the framework needed to address SaaS architecture challenge"
-      },
-      {
-        "title": "Build AI agents for business intelligence with Amazon Bedrock AgentCore",
-        "url": "https://www.oplog.io/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T16:04:17.000Z",
-        "summary": "In this post, we show you how OPLOG developed three AI agents using the Strands Agents SDK, deployed them to Amazon Bedrock AgentCore, and integrated Amazon Bed"
-      },
-      {
-        "title": "Build an AI-powered recruitment assistant using Amazon Bedrock",
-        "url": "https://www.peoplemanagement.co.uk/article/1929340/uk-recruiters-lose-two-days-per-hire-admin-report-finds",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-21T16:00:30.000Z",
-        "summary": "In this post, we demonstrate how to build an AI-powered recruitment assistant using Amazon Bedrock that brings efficiencies to candidate evaluation, generates p"
-      },
-      {
-        "title": "Spotify is launching AI-generated remixes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-21T15:54:03.000Z",
-        "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for stre"
-      },
-      {
-        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-        "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "Spotify will let you generate daily or weekly briefs based on your prompts"
-      },
-      {
-        "title": "Spotify takes on Google’s NotebookLM with its new app",
-        "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
-      },
-      {
-        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-        "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T15:27:00.000Z",
-        "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-      },
-      {
-        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-        "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-21T14:30:45.000Z",
-        "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
-      },
-      {
-        "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-        "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T14:00:00.000Z",
-        "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
-      },
-      {
-        "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-        "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T14:00:00.000Z",
-        "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services."
-      },
-      {
-        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-        "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T13:52:23.000Z",
-        "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it"
-      },
-      {
-        "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-        "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T13:38:42.000Z",
-        "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
-      },
-      {
-        "title": "AdventHealth advances whole-person care with OpenAI",
-        "url": "https://openai.com/index/adventhealth",
+        "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+        "url": "https://openai.com/index/advancing-content-provenance",
         "source": "OpenAI News",
-        "publishedAt": "2026-05-21T12:00:00.000Z",
-        "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+        "publishedAt": "2026-05-19T10:45:00.000Z",
+        "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
       },
       {
-        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-        "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-21T00:28:31.000Z",
-        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "url": "https://x.com/elonmusk/status/2056474896641782077?s=20",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-19T00:53:10.000Z",
+        "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his "
       },
       {
-        "title": "Announcing OpenAI-compatible API support for Amazon SageMaker AI endpoints",
-        "url": "https://github.com/aws-samples/sagemaker-genai-hosting-examples/blob/main/03-features/openai/sagemaker-inference-openai-api.ipynb",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-05-20T23:59:57.000Z",
-        "summary": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, "
+        "title": "Introducing the Ettin Reranker Family",
+        "url": "https://huggingface.co/blog/ettin-reranker",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-19T00:00:00.000Z",
+        "summary": ""
       },
       {
-        "title": "We’re announcing new community investments in Missouri.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-20T20:40:00.000Z",
-        "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+        "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T16:00:21.000Z",
+        "summary": ""
       },
       {
-        "title": "100 things we announced at I/O 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-05-20T19:30:00.000Z",
-        "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
+        "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T15:12:46.000Z",
+        "summary": ""
+      },
+      {
+        "title": "The Open Agent Leaderboard",
+        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-18T14:12:58.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-18T10:00:00.000Z",
+        "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+      },
+      {
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-16T00:00:00.000Z",
+        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+      },
+      {
+        "title": "How data science teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+      },
+      {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "url": "https://openai.com/index/databricks",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
+      },
+      {
+        "title": "A new personal finance experience in ChatGPT",
+        "url": "https://openai.com/index/personal-finance-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance"
+      },
+      {
+        "title": "How sales teams use Codex",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-15T00:00:00.000Z",
+        "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work in"
       }
     ]
   }

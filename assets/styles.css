@@ -690,6 +690,44 @@ select {
   line-height: 1.65;
 }
 
+.guide-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.guide-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: 0 10px 28px rgba(23, 32, 38, 0.04);
+  padding: 18px;
+  color: inherit;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.guide-card:hover,
+.guide-card:focus-visible {
+  border-color: rgba(15, 118, 110, 0.42);
+  box-shadow: 0 14px 34px rgba(23, 32, 38, 0.08);
+  transform: translateY(-2px);
+}
+
+.guide-card:focus-visible {
+  outline: 3px solid rgba(15, 118, 110, 0.18);
+  outline-offset: 2px;
+}
+
+.guide-card span {
+  color: var(--accent-dark);
+  font-weight: 850;
+}
+
+.guide-card p {
+  color: var(--muted);
+  line-height: 1.68;
+}
+
 .breadcrumb {
   display: flex;
   align-items: center;
@@ -765,7 +803,8 @@ select {
   .news-layout,
   .monetize-grid,
   .news-page .news-grid,
-  .static-card-grid {
+  .static-card-grid,
+  .guide-grid {
     grid-template-columns: 1fr;
   }
 

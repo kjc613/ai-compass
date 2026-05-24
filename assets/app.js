@@ -477,21 +477,44 @@ function renderNews() {
 
 function matchesQuery(tool) {
   const enCopy = englishToolCopy[tool.name] || {};
-  const haystack = [
+  const query = state.query;
+  if (!query) return true;
+
+  const nameHaystack = [
     tool.name,
     tool.nameEn,
+    domainText(tool.url)
+  ].join(" ").toLowerCase();
+
+  const keywordHaystack = [
     tool.category,
     categoryLabels[tool.category],
-    tool.summary,
-    tool.summaryEn,
-    enCopy.summary,
-    tool.url,
     ...(tool.tags || []),
     ...(tool.tagsEn || []),
     ...(enCopy.tags || [])
   ].join(" ").toLowerCase();
 
-  return haystack.includes(state.query);
+  if (/^[a-z0-9]{1,3}$/.test(query)) {
+    return nameHaystack.includes(query) || keywordTokens(keywordHaystack).includes(query);
+  }
+
+  const primaryHaystack = [
+    nameHaystack,
+    keywordHaystack
+  ].join(" ");
+
+  if (query.length <= 3) {
+    return primaryHaystack.includes(query);
+  }
+
+  const fullHaystack = [
+    primaryHaystack,
+    tool.summary,
+    tool.summaryEn,
+    enCopy.summary
+  ].join(" ").toLowerCase();
+
+  return fullHaystack.includes(query);
 }
 
 function toolCopy(tool) {
@@ -553,4 +576,18 @@ function escapeHtml(value) {
 function faviconUrl(value) {
   const domain = new URL(value).hostname;
   return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+}
+
+function domainText(value) {
+  try {
+    return new URL(value).hostname.replace(/^www\./, "");
+  } catch {
+    return value || "";
+  }
+}
+
+function keywordTokens(value) {
+  return value
+    .split(/[^a-z0-9]+/i)
+    .filter(Boolean);
 }
