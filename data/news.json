@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-05-24T23:51:52.834Z",
+  "updatedAt": "2026-05-25T23:56:24.922Z",
   "items": [
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T16:00:00.000Z",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+    },
+    {
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T15:09:41.000Z",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to i"
+    },
+    {
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-25T15:05:07.000Z",
+      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the po"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T14:30:00.000Z",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. A"
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-25T14:00:00.000Z",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+    },
+    {
+      "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+      "url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-25T13:40:07.000Z",
+      "summary": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI model"
+    },
+    {
+      "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-25T10:41:19.000Z",
+      "summary": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hund"
+    },
+    {
+      "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+      "url": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-25T09:05:34.000Z",
+      "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs delive"
+    },
+    {
+      "title": "AI models often give the right answers but point to the wrong sources",
+      "url": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-25T07:30:09.000Z",
+      "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right"
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "source": "OpenAI News",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+    },
+    {
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-05-25T00:00:00.000Z",
+      "summary": ""
+    },
     {
       "title": "Everyone is navigating AI security in real time — even Google",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -84,34 +161,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-05-23T11:00:00.000Z",
       "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events d"
-    },
-    {
-      "title": "One of the world's top law schools draws a hard line against AI in legal education",
-      "url": "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-23T10:55:03.000Z",
-      "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed."
-    },
-    {
-      "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
-      "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-23T10:17:48.000Z",
-      "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats "
-    },
-    {
-      "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
-      "url": "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-23T09:16:10.000Z",
-      "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep u"
-    },
-    {
-      "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
-      "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-23T07:42:10.000Z",
-      "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in syste"
     },
     {
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
@@ -226,18 +275,18 @@
       "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some work"
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source": "OpenAI News",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deploymen"
-    },
-    {
       "title": "How Virgin Atlantic ships faster with Codex",
       "url": "https://openai.com/index/virgin-atlantic",
       "source": "OpenAI News",
       "publishedAt": "2026-05-22T00:00:00.000Z",
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI News",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deploymen"
     },
     {
       "title": "Amazon Nova Act is now HIPAA eligible",
@@ -310,13 +359,6 @@
       "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with th"
     },
     {
-      "title": "This AI guitar pedal let me roll my own effects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-21T17:00:00.000Z",
-      "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend"
-    },
-    {
       "title": "Integrating AWS API MCP Server with Amazon Quick using Amazon Bedrock AgentCore Runtime",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html",
       "source": "AWS Machine Learning Blog",
@@ -359,39 +401,11 @@
       "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
     },
     {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T15:27:00.000Z",
-      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-    },
-    {
       "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
       "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "source": "MIT Technology Review",
       "publishedAt": "2026-05-21T14:30:45.000Z",
       "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O i"
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00.000Z",
-      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T14:00:00.000Z",
-      "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services."
-    },
-    {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-21T13:52:23.000Z",
-      "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it"
     },
     {
       "title": "AdventHealth advances whole-person care with OpenAI",
@@ -406,20 +420,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-05-20T23:59:57.000Z",
       "summary": "Today, Amazon SageMaker AI introduces OpenAI-compatible API support for real-time inference endpoints. If you use the OpenAI SDK, LangChain, or Strands Agents, "
-    },
-    {
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-20T20:40:00.000Z",
-      "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-20T19:30:00.000Z",
-      "summary": "This year at Google I/O 2026, we announced Gemini Omni, Google Antigravity, Universal Cart and so much more. Here are the highlights."
     }
   ]
 }
