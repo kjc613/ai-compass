@@ -9,7 +9,8 @@
     "build-data": "node scripts/build-site-data.js",
     "build-seo": "node scripts/build-seo-pages.js",
     "build": "node scripts/build-static.js",
-    "update-news": "node scripts/update-news.js"
+    "update-news": "node scripts/update-news.js",
+    "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1"
   },
   "engines": {
     "node": ">=20"
