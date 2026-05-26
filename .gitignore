@@ -1,4 +1,5 @@
 node_modules/
+同步github命令.txt
 .env
 *.log
 dist/
