@@ -3,9 +3,96 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="AI Compass 聚合主流 AI 厂商官网、产品入口、业务分类和每日 AI 资讯。">
-    <title>AI Compass - AI 厂商导航与资讯</title>
-    <link rel="stylesheet" href="assets/styles.css?v=4">
+    <meta name="description" content="AI Compass 汇总主流 AI 工具官网入口、产品分类、编辑推荐和每日 AI 资讯，帮助用户快速找到真实可靠的 AI 应用与厂商官网。">
+    <meta name="keywords" content="AI导航,AI工具,AI官网,AI应用,AI资讯,AI Compass,ChatGPT,Claude,Gemini,ComfyUI,Codex">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#0f766e">
+    <link rel="canonical" href="https://kjc613.github.io/ai-compass/">
+    <link rel="alternate" type="application/rss+xml" title="AI Compass News Data" href="https://kjc613.github.io/ai-compass/data/news.json">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="AI Compass">
+    <meta property="og:locale" content="zh_CN">
+    <meta property="og:title" content="AI Compass - AI 工具导航与每日资讯">
+    <meta property="og:description" content="整理主流 AI 工具官网入口、业务分类、编辑推荐和每日 AI 资讯，优先链接官方入口，降低误入假冒网站的风险。">
+    <meta property="og:url" content="https://kjc613.github.io/ai-compass/">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&h=630&q=80">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Compass - AI 工具导航与每日资讯">
+    <meta name="twitter:description" content="汇总主流 AI 工具官网入口、产品分类、编辑推荐和每日 AI 资讯。">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&h=630&q=80">
+    <title>AI Compass - AI 工具导航与每日资讯</title>
+    <link rel="stylesheet" href="assets/styles.css?v=7">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AI Compass",
+        "alternateName": "AI 工具导航",
+        "url": "https://kjc613.github.io/ai-compass/",
+        "inLanguage": ["zh-CN", "en"],
+        "description": "AI Compass 汇总主流 AI 工具官网入口、产品分类、编辑推荐和每日 AI 资讯。"
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "AI Compass - AI 工具导航与每日资讯",
+        "url": "https://kjc613.github.io/ai-compass/",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "AI Compass",
+          "url": "https://kjc613.github.io/ai-compass/"
+        },
+        "about": ["AI tools", "AI directory", "AI news", "AI applications"],
+        "mainEntity": {
+          "@type": "ItemList",
+          "name": "AI tool categories",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "大模型与 API" },
+            { "@type": "ListItem", "position": 2, "name": "开发者工具" },
+            { "@type": "ListItem", "position": 3, "name": "图像与设计" },
+            { "@type": "ListItem", "position": 4, "name": "视频与创意" },
+            { "@type": "ListItem", "position": 5, "name": "智能体与自动化" },
+            { "@type": "ListItem", "position": 6, "name": "生成工作流" }
+          ]
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "AI Compass 是什么？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "AI Compass 是一个 AI 工具导航与每日 AI 资讯站，整理主流 AI 工具官网入口、能力分类、编辑推荐和行业动态。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "如何避免进入假冒 AI 官网？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "优先使用官方域名、官方产品页或厂商认证入口，并警惕仿冒下载页、拼写相近域名和要求异常权限的网站。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "AI Compass 收录哪些类型的 AI 工具？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "站点覆盖大模型与 API、开发者工具、AI 智能体、图像设计、视频创意、语音音频、知识库检索、生成工作流等分类。"
+            }
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <header class="site-header">
@@ -16,20 +103,19 @@
         </a>
         <div class="nav-links">
           <a href="#directory" data-i18n="navDirectory">导航</a>
-          <a href="#news" data-i18n="navNews">资讯</a>
-          <a href="#monetize" data-i18n="navAds">广告合作</a>
+          <a href="news.html" data-i18n="navNews">资讯</a>
+          <button class="language-toggle" id="languageToggle" type="button" aria-label="Switch language">EN</button>
         </div>
-        <button class="language-toggle" id="languageToggle" type="button" aria-label="Switch language">EN</button>
       </nav>
 
       <section class="hero" id="top">
         <div class="hero-copy">
           <p class="eyebrow" data-i18n="heroEyebrow">AI company directory</p>
           <h1 data-i18n="heroTitle">把分散的 AI 官网、产品入口和新闻更新收进一个导航页。</h1>
-          <p class="hero-text" data-i18n="heroText">按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，并预留广告与联盟推广位。</p>
+          <p class="hero-text" data-i18n="heroText">按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，优先整理官方入口，降低误入假冒官网和仿冒下载页的风险。</p>
           <div class="hero-actions">
             <a class="button primary" href="#directory" data-i18n="heroPrimary">浏览 AI 导航</a>
-            <a class="button secondary" href="#news" data-i18n="heroSecondary">查看今日资讯</a>
+            <a class="button secondary" href="news.html" data-i18n="heroSecondary">查看今日资讯</a>
           </div>
         </div>
         <div class="hero-panel" aria-label="站点概览" data-i18n-aria="overviewLabel">
@@ -50,14 +136,6 @@
     </header>
 
     <main>
-      <section class="ad-band" aria-label="顶部广告位" data-i18n-aria="topAdLabel">
-        <div>
-          <strong data-i18n="adATitle">广告位 A</strong>
-          <span data-i18n="adAText">适合放 Google AdSense 横幅、AI SaaS 联盟链接或付费推荐。</span>
-        </div>
-        <a href="#monetize" data-i18n="adALink">查看变现方案</a>
-      </section>
-
       <section class="section" id="directory">
         <div class="section-heading">
           <p class="eyebrow" data-i18n="directoryEyebrow">Directory</p>
@@ -67,18 +145,18 @@
 
         <div class="content-block">
           <div class="block-heading">
-            <h3 data-i18n="categoryOverviewTitle">重点分类概览</h3>
-            <p data-i18n="categoryOverviewText">先按业务目标理解 AI 工具生态，再进入具体厂商。</p>
-          </div>
-          <div class="overview-grid" id="overviewGrid"></div>
-        </div>
-
-        <div class="content-block">
-          <div class="block-heading">
             <h3 data-i18n="editorPicksTitle">编辑推荐</h3>
             <p data-i18n="editorPicksText">更适合新用户优先了解的高频入口。</p>
           </div>
           <div class="pick-strip" id="pickStrip"></div>
+        </div>
+
+        <div class="content-block">
+          <div class="block-heading">
+            <h3 data-i18n="categoryOverviewTitle">重点分类概览</h3>
+            <p data-i18n="categoryOverviewText">先按业务目标理解 AI 工具生态，再进入具体厂商。</p>
+          </div>
+          <div class="overview-grid" id="overviewGrid"></div>
         </div>
 
         <div class="toolbar" role="search">
@@ -100,47 +178,171 @@
         <div class="directory-grid" id="directoryGrid"></div>
       </section>
 
-      <section class="section news-layout" id="news">
+      <section class="section seo-section" aria-labelledby="category-pages-title">
         <div class="section-heading">
-          <p class="eyebrow" data-i18n="newsEyebrow">Daily AI News</p>
-          <h2 data-i18n="newsTitle">每日 AI 资讯</h2>
-          <p id="newsUpdated">自动读取 RSS 数据源，可由 GitHub Actions 每天更新。</p>
+          <p class="eyebrow">SEO Directory</p>
+          <h2 id="category-pages-title" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category Directory">AI 工具分类目录</h2>
+          <p data-seo-zh="以下分类页面提供静态工具列表、分类说明和官网入口，更适合搜索引擎收录，也方便按具体需求查找 AI 工具。" data-seo-en="These category pages provide static tool lists, category descriptions, and official website links, making them easier for search engines to index and easier for users to browse by need.">以下分类页面提供静态工具列表、分类说明和官网入口，更适合搜索引擎收录，也方便按具体需求查找 AI 工具。</p>
         </div>
-        <div class="news-grid" id="newsGrid"></div>
-        <aside class="side-ad" aria-label="侧边广告位" data-i18n-aria="sideAdLabel">
-          <strong data-i18n="adBTitle">广告位 B</strong>
-          <span data-i18n="adBText">可放付费榜单、赞助商卡片、Newsletter 订阅或 AI 课程推广。</span>
-        </aside>
+        <div class="static-category-grid">
+          <a href="categories/foundation-models-api.html" data-seo-zh="大模型与 API" data-seo-en="Foundation Models & APIs">大模型与 API</a>
+          <a href="categories/developer-tools.html" data-seo-zh="AI 开发者工具" data-seo-en="AI Developer Tools">AI 开发者工具</a>
+          <a href="categories/agents-automation.html" data-seo-zh="AI 智能体与自动化" data-seo-en="AI Agents & Automation">AI 智能体与自动化</a>
+          <a href="categories/generation-workflows.html" data-seo-zh="生成工作流" data-seo-en="Generation Workflows">生成工作流</a>
+          <a href="categories/image-design.html" data-seo-zh="图像与设计" data-seo-en="Image & Design">图像与设计</a>
+          <a href="categories/video-creative.html" data-seo-zh="视频与创意" data-seo-en="Video & Creative">视频与创意</a>
+          <a href="categories/search-qa.html" data-seo-zh="搜索问答" data-seo-en="Search & Q&A">搜索问答</a>
+          <a href="categories/productivity.html" data-seo-zh="办公效率" data-seo-en="Productivity">办公效率</a>
+          <a href="categories/knowledge-retrieval.html" data-seo-zh="知识库与检索" data-seo-en="Knowledge & Retrieval">知识库与检索</a>
+          <a href="categories/model-community.html" data-seo-zh="模型与社区" data-seo-en="Model Hubs & Communities">模型与社区</a>
+          <a href="categories/voice-audio.html" data-seo-zh="语音与音频" data-seo-en="Voice & Audio">语音与音频</a>
+          <a href="categories/marketing-content.html" data-seo-zh="营销与内容" data-seo-en="Marketing & Content">营销与内容</a>
+          <a href="categories/ai-app-builders.html" data-seo-zh="AI 应用构建" data-seo-en="AI App Building">AI 应用构建</a>
+          <a href="categories/data-enterprise-ai.html" data-seo-zh="数据与企业 AI" data-seo-en="Data & Enterprise AI">数据与企业 AI</a>
+        </div>
       </section>
 
-      <section class="section monetize" id="monetize">
+      <section class="section seo-section" aria-labelledby="popular-tools-title">
         <div class="section-heading">
-          <p class="eyebrow" data-i18n="monetizeEyebrow">Monetization</p>
-          <h2 data-i18n="monetizeTitle">广告与盈利设计</h2>
+          <p class="eyebrow">Popular AI Tools</p>
+          <h2 id="popular-tools-title" data-seo-zh="热门 AI 工具官网入口" data-seo-en="Popular AI Official Website Links">热门 AI 工具官网入口</h2>
+          <p data-seo-zh="这些是当前更常被用户搜索和访问的 AI 应用入口，适合作为了解 AI 工具生态的起点。" data-seo-en="These are frequently searched and visited AI products, useful as starting points for understanding the current AI tools landscape.">这些是当前更常被用户搜索和访问的 AI 应用入口，适合作为了解 AI 工具生态的起点。</p>
         </div>
-        <div class="monetize-grid">
-          <article>
-            <h3 data-i18n="displayAdsTitle">展示广告</h3>
-            <p data-i18n="displayAdsText">等网站有稳定访问量后接入 Google AdSense、Carbon Ads 或国内广告平台。当前页面已预留横幅和侧栏位。</p>
-          </article>
-          <article>
-            <h3 data-i18n="affiliateTitle">联盟推广</h3>
-            <p data-i18n="affiliateText">把支持 affiliate 的 AI 工具放入推荐位，通过注册、购买或订阅获得佣金。</p>
-          </article>
-          <article>
-            <h3 data-i18n="paidListingTitle">付费收录</h3>
-            <p data-i18n="paidListingText">允许 AI 产品提交资料，审核后进入“精选”或分类置顶，按月收费。</p>
-          </article>
+        <div class="directory-grid">
+          <a class="tool-card" href="https://chatgpt.com/" target="_blank" rel="noopener" aria-label="打开 ChatGPT 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=chatgpt.com&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>Ch</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>ChatGPT</h3>
+            <p data-seo-zh="OpenAI 通用 AI 助手，覆盖对话、写作、搜索、图像、语音、文件分析和日常生产力任务。" data-seo-en="OpenAI's general AI assistant for chat, writing, search, images, voice, file analysis, and everyday productivity tasks.">OpenAI 通用 AI 助手，覆盖对话、写作、搜索、图像、语音、文件分析和日常生产力任务。</p>
+            <div class="tags"><span class="tag">ChatGPT</span><span class="tag">OpenAI</span><span class="tag" data-seo-zh="助手" data-seo-en="Assistant">助手</span><span class="tag" data-seo-zh="多模态" data-seo-en="Multimodal">多模态</span></div>
+          </a>
+          <a class="tool-card" href="https://claude.ai/" target="_blank" rel="noopener" aria-label="打开 Claude 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=claude.ai&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>Cl</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>Claude</h3>
+            <p data-seo-zh="Anthropic AI 助手，适合长文档阅读、写作、代码辅助、分析和知识工作。" data-seo-en="Anthropic's AI assistant for long document reading, writing, coding help, analysis, and knowledge work.">Anthropic AI 助手，适合长文档阅读、写作、代码辅助、分析和知识工作。</p>
+            <div class="tags"><span class="tag">Claude</span><span class="tag">Anthropic</span><span class="tag" data-seo-zh="写作" data-seo-en="Writing">写作</span><span class="tag" data-seo-zh="代码" data-seo-en="Code">代码</span></div>
+          </a>
+          <a class="tool-card" href="https://gemini.google.com/" target="_blank" rel="noopener" aria-label="打开 Gemini 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=gemini.google.com&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>Ge</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>Gemini</h3>
+            <p data-seo-zh="Google 的 AI 助手入口，适合对话、资料整理、多模态查询和生产力任务。" data-seo-en="Google's AI assistant for conversation, information organization, multimodal queries, and productivity tasks.">Google 的 AI 助手入口，适合对话、资料整理、多模态查询和生产力任务。</p>
+            <div class="tags"><span class="tag">Gemini</span><span class="tag">Google</span><span class="tag" data-seo-zh="搜索" data-seo-en="Search">搜索</span><span class="tag" data-seo-zh="多模态" data-seo-en="Multimodal">多模态</span></div>
+          </a>
+          <a class="tool-card" href="https://www.deepseek.com/" target="_blank" rel="noopener" aria-label="打开 DeepSeek 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=www.deepseek.com&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>De</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>DeepSeek</h3>
+            <p data-seo-zh="提供对话模型、推理模型和 API 服务，适合中文场景与开发者接入。" data-seo-en="Provider of chat, reasoning, and API services, useful for Chinese-language scenarios and developer integration.">提供对话模型、推理模型和 API 服务，适合中文场景与开发者接入。</p>
+            <div class="tags"><span class="tag">DeepSeek</span><span class="tag">API</span><span class="tag" data-seo-zh="推理" data-seo-en="Reasoning">推理</span><span class="tag" data-seo-zh="中文" data-seo-en="Chinese">中文</span></div>
+          </a>
+          <a class="tool-card" href="https://www.perplexity.ai/" target="_blank" rel="noopener" aria-label="打开 Perplexity 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=www.perplexity.ai&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>Pe</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>Perplexity</h3>
+            <p data-seo-zh="以引用来源为核心的 AI 搜索与问答产品，适合调研、资料查证和主题追踪。" data-seo-en="AI search and answer engine built around cited sources, useful for research, fact-checking, and topic tracking.">以引用来源为核心的 AI 搜索与问答产品，适合调研、资料查证和主题追踪。</p>
+            <div class="tags"><span class="tag">Perplexity</span><span class="tag" data-seo-zh="搜索" data-seo-en="Search">搜索</span><span class="tag" data-seo-zh="引用来源" data-seo-en="Citations">引用来源</span><span class="tag" data-seo-zh="调研" data-seo-en="Research">调研</span></div>
+          </a>
+          <a class="tool-card" href="https://www.comfy.org/" target="_blank" rel="noopener" aria-label="打开 ComfyUI 官网">
+            <div class="card-top">
+              <div class="tool-logo" aria-hidden="true">
+                <img src="https://www.google.com/s2/favicons?domain=www.comfy.org&amp;sz=64" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
+                <span>Co</span>
+              </div>
+              <span class="badge" data-seo-zh="热门" data-seo-en="Popular">热门</span>
+            </div>
+            <h3>ComfyUI</h3>
+            <p data-seo-zh="节点式生成工作流工具，适合可控图像、视频、多模型和本地创作流程。" data-seo-en="Node-based generation workflow tool for controllable image, video, multi-model, and local creative pipelines.">节点式生成工作流工具，适合可控图像、视频、多模型和本地创作流程。</p>
+            <div class="tags"><span class="tag">ComfyUI</span><span class="tag" data-seo-zh="工作流" data-seo-en="Workflow">工作流</span><span class="tag" data-seo-zh="图像" data-seo-en="Image">图像</span><span class="tag" data-seo-zh="本地创作" data-seo-en="Local Creation">本地创作</span></div>
+          </a>
+        </div>
+      </section>
+
+      <section class="section seo-section" aria-labelledby="category-guide-title">
+        <div class="section-heading">
+          <p class="eyebrow">Category Guide</p>
+          <h2 id="category-guide-title" data-seo-zh="AI 工具分类指南" data-seo-en="AI Tool Category Guide">AI 工具分类指南</h2>
+          <p data-seo-zh="如果你还不确定要找哪一个产品，可以先按下面的分类思路缩小范围。" data-seo-en="If you are not sure which product to use, narrow the choice by category first.">如果你还不确定要找哪一个产品，可以先按下面的分类思路缩小范围。</p>
+        </div>
+        <div class="guide-grid">
+          <a class="guide-card" href="categories/foundation-models-api.html">
+            <span data-seo-zh="大模型与 API" data-seo-en="Foundation Models & APIs">大模型与 API</span>
+            <p data-seo-zh="适合开发者和企业接入模型能力，重点关注模型质量、上下文长度、价格、延迟和数据合规。" data-seo-en="For developers and enterprises integrating models. Compare model quality, context length, price, latency, and data compliance.">适合开发者和企业接入模型能力，重点关注模型质量、上下文长度、价格、延迟和数据合规。</p>
+          </a>
+          <a class="guide-card" href="categories/developer-tools.html">
+            <span data-seo-zh="开发者工具" data-seo-en="Developer Tools">开发者工具</span>
+            <p data-seo-zh="适合编程、测试、代码审查和自动化修复，重点看 IDE 集成、仓库上下文、安全策略和团队协作。" data-seo-en="For coding, testing, review, and automated fixes. Compare IDE support, repository context, security policy, and team collaboration.">适合编程、测试、代码审查和自动化修复，重点看 IDE 集成、仓库上下文、安全策略和团队协作。</p>
+          </a>
+          <a class="guide-card" href="categories/agents-automation.html">
+            <span data-seo-zh="智能体与自动化" data-seo-en="Agents & Automation">智能体与自动化</span>
+            <p data-seo-zh="适合把 AI 接入业务流程，重点看工具调用、权限控制、日志、人工确认和失败回退机制。" data-seo-en="For connecting AI to workflows. Compare tool use, permission control, logs, human approval, and fallback behavior.">适合把 AI 接入业务流程，重点看工具调用、权限控制、日志、人工确认和失败回退机制。</p>
+          </a>
+          <a class="guide-card" href="categories/generation-workflows.html">
+            <span data-seo-zh="生成工作流" data-seo-en="Generation Workflows">生成工作流</span>
+            <p data-seo-zh="适合深度图像与视频创作，重点看节点生态、模型兼容、硬件需求、可复现性和学习成本。" data-seo-en="For advanced image and video creation. Compare node ecosystems, model compatibility, hardware needs, reproducibility, and learning curve.">适合深度图像与视频创作，重点看节点生态、模型兼容、硬件需求、可复现性和学习成本。</p>
+          </a>
+        </div>
+      </section>
+
+      <section class="section seo-section" aria-labelledby="faq-title">
+        <div class="section-heading">
+          <p class="eyebrow">FAQ</p>
+          <h2 id="faq-title" data-seo-zh="AI 工具导航常见问题" data-seo-en="AI Tool Directory FAQ">AI 工具导航常见问题</h2>
+        </div>
+        <div class="faq-list">
+          <details open>
+            <summary data-seo-zh="AI Compass 是什么？" data-seo-en="What is AI Compass?">AI Compass 是什么？</summary>
+            <p data-seo-zh="AI Compass 是一个 AI 工具导航与每日 AI 资讯站，整理主流 AI 工具官网入口、能力分类、编辑推荐和行业动态。" data-seo-en="AI Compass is an AI tool directory and daily AI news site that organizes official links, capability categories, editor picks, and industry updates.">AI Compass 是一个 AI 工具导航与每日 AI 资讯站，整理主流 AI 工具官网入口、能力分类、编辑推荐和行业动态。</p>
+          </details>
+          <details>
+            <summary data-seo-zh="如何确认 AI 工具官网是真的？" data-seo-en="How can I verify an AI tool's official website?">如何确认 AI 工具官网是真的？</summary>
+            <p data-seo-zh="优先查看厂商官方域名、官方产品页、社交媒体认证入口和文档链接，避免点击拼写相近的仿冒域名或不明下载页。" data-seo-en="Check the vendor's official domain, product page, verified social links, and documentation, and avoid lookalike domains or unknown download pages.">优先查看厂商官方域名、官方产品页、社交媒体认证入口和文档链接，避免点击拼写相近的仿冒域名或不明下载页。</p>
+          </details>
+          <details>
+            <summary data-seo-zh="这里收录哪些 AI 工具分类？" data-seo-en="Which AI tool categories are included?">这里收录哪些 AI 工具分类？</summary>
+            <p data-seo-zh="站点覆盖大模型与 API、办公效率、搜索问答、图像设计、视频创意、开发者工具、智能体与自动化、知识库检索和生成工作流等分类。" data-seo-en="The site covers foundation models and APIs, productivity, search and Q&A, image design, video creation, developer tools, agents and automation, knowledge retrieval, and generation workflows.">站点覆盖大模型与 API、办公效率、搜索问答、图像设计、视频创意、开发者工具、智能体与自动化、知识库检索和生成工作流等分类。</p>
+          </details>
+          <details>
+            <summary data-seo-zh="每日 AI 资讯如何更新？" data-seo-en="How is daily AI news updated?">每日 AI 资讯如何更新？</summary>
+            <p data-seo-zh="资讯通过 GitHub Actions 定时读取官方博客、研究团队和技术媒体 RSS，再写入静态数据文件供页面展示。" data-seo-en="News is updated by GitHub Actions, which reads RSS feeds from official blogs, research teams, and technology media, then writes static data for the site.">资讯通过 GitHub Actions 定时读取官方博客、研究团队和技术媒体 RSS，再写入静态数据文件供页面展示。</p>
+          </details>
         </div>
       </section>
     </main>
 
     <footer class="footer">
       <span>AI Compass</span>
-      <span data-i18n="footerText">静态部署友好：GitHub Pages / Cloudflare Pages / Netlify / Vercel 均可免费托管。</span>
+      <span data-i18n="footerText">持续整理 AI 产品入口、能力分类和行业资讯。</span>
     </footer>
 
-    <script src="assets/site-data.js?v=4"></script>
-    <script src="assets/app.js?v=4"></script>
+    <script src="assets/site-data.js?v=7"></script>
+    <script src="assets/app.js?v=7"></script>
+    <script src="assets/seo-i18n.js?v=7"></script>
   </body>
 </html>

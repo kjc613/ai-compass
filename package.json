@@ -7,6 +7,8 @@
     "start": "node src/server.js",
     "check": "node --check src/server.js && node --check scripts/update-news.js && node --check scripts/build-site-data.js && node --check assets/app.js",
     "build-data": "node scripts/build-site-data.js",
+    "build-seo": "node scripts/build-seo-pages.js",
+    "build": "node scripts/build-static.js",
     "update-news": "node scripts/update-news.js"
   },
   "engines": {

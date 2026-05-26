@@ -5,25 +5,20 @@ const translations = {
     navLabel: "主导航",
     navDirectory: "导航",
     navNews: "资讯",
-    navAds: "广告合作",
     heroEyebrow: "AI company directory",
     heroTitle: "把分散的 AI 官网、产品入口和新闻更新收进一个导航页。",
-    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态硬件等业务属性自动归类展示，并预留广告与联盟推广位。",
+    heroText: "按大模型、图像视频、开发者工具、搜索问答、办公效率、语音、多模态、硬件等业务属性自动归类展示，优先整理官方入口，降低误入假冒官网和仿冒下载页的风险。",
     heroPrimary: "浏览 AI 导航",
     heroSecondary: "查看今日资讯",
     overviewLabel: "站点概览",
     metricTools: "AI 厂商入口",
     metricCategories: "业务分类",
     metricNews: "每日资讯",
-    topAdLabel: "顶部广告位",
-    adATitle: "广告位 A",
-    adAText: "适合放 Google AdSense 横幅、AI SaaS 联盟链接或付费推荐。",
-    adALink: "查看变现方案",
     directoryEyebrow: "Directory",
     directoryTitle: "AI 厂商导航",
     directoryText: "搜索品牌、官网、能力标签，或切换业务分类快速找到对应工具。",
     categoryOverviewTitle: "重点分类概览",
-    categoryOverviewText: "先按业务目标理解 AI 工具生态，再进入具体厂商。",
+    categoryOverviewText: "先按业务目标理解 AI 工具体系，再进入具体厂商。",
     editorPicksTitle: "编辑推荐",
     editorPicksText: "更适合新用户优先了解的高频入口。",
     searchLabel: "搜索",
@@ -35,25 +30,13 @@ const translations = {
     categoriesLabel: "业务分类",
     allCategory: "全部",
     featured: "精选",
-    visit: "访问官网",
     noResultsTitle: "没有找到匹配项",
-    noResultsText: "换个关键词试试，比如 API、视频、搜索、办公或开源。",
+    noResultsText: "换个关键词试试，比如 API、视频、搜索、办公或智能体。",
     newsEyebrow: "Daily AI News",
     newsTitle: "每日 AI 资讯",
     newsUpdated: "最近更新：{date}。资讯源来自官方博客、研究机构和技术媒体 RSS。",
     readOriginal: "点击查看原文。",
-    sideAdLabel: "侧边广告位",
-    adBTitle: "广告位 B",
-    adBText: "可放付费榜单、赞助商卡片、Newsletter 订阅或 AI 课程推广。",
-    monetizeEyebrow: "Monetization",
-    monetizeTitle: "广告与盈利设计",
-    displayAdsTitle: "展示广告",
-    displayAdsText: "等网站有稳定访问量后接入 Google AdSense、Carbon Ads 或国内广告平台。当前页面已预留横幅和侧栏位。",
-    affiliateTitle: "联盟推广",
-    affiliateText: "把支持 affiliate 的 AI 工具放入推荐位，通过注册、购买或订阅获得佣金。",
-    paidListingTitle: "付费收录",
-    paidListingText: "允许 AI 产品提交资料，审核后进入“精选”或分类置顶，按月收费。",
-    footerText: "静态部署友好：GitHub Pages / Cloudflare Pages / Netlify / Vercel 均可免费托管。",
+    footerText: "持续整理 AI 产品入口、能力分类和行业资讯。",
     toggleLabel: "切换到英文",
     toggleText: "EN"
   },
@@ -63,20 +46,15 @@ const translations = {
     navLabel: "Primary navigation",
     navDirectory: "Directory",
     navNews: "News",
-    navAds: "Advertise",
     heroEyebrow: "AI company directory",
     heroTitle: "One navigation page for AI websites, product entrances, and daily news.",
-    heroText: "Browse AI companies by business category, including foundation models, image and video tools, developer platforms, search, productivity, voice, and multimodal products.",
+    heroText: "Browse AI companies by business category with official entrances prioritized, reducing the risk of landing on impersonation sites or misleading download pages.",
     heroPrimary: "Browse directory",
     heroSecondary: "Read AI news",
     overviewLabel: "Site overview",
     metricTools: "AI company links",
     metricCategories: "Business categories",
     metricNews: "Daily news items",
-    topAdLabel: "Top ad slot",
-    adATitle: "Ad Slot A",
-    adAText: "Reserved for Google AdSense banners, AI SaaS affiliate links, or sponsored recommendations.",
-    adALink: "View monetization",
     directoryEyebrow: "Directory",
     directoryTitle: "AI Company Directory",
     directoryText: "Search by brand, website, capability tag, or switch business categories to find the right AI tool.",
@@ -93,25 +71,13 @@ const translations = {
     categoriesLabel: "Business categories",
     allCategory: "All",
     featured: "Featured",
-    visit: "Visit website",
     noResultsTitle: "No matches found",
-    noResultsText: "Try another keyword such as API, video, search, productivity, or open source.",
+    noResultsText: "Try another keyword such as API, video, search, productivity, or agents.",
     newsEyebrow: "Daily AI News",
     newsTitle: "Daily AI News",
     newsUpdated: "Last updated: {date}. Sources include official blogs, research teams, and technology media RSS feeds.",
     readOriginal: "Read the original story.",
-    sideAdLabel: "Sidebar ad slot",
-    adBTitle: "Ad Slot B",
-    adBText: "Use this space for sponsored rankings, partner cards, newsletter signup, or AI course promotions.",
-    monetizeEyebrow: "Monetization",
-    monetizeTitle: "Advertising and Monetization",
-    displayAdsTitle: "Display Ads",
-    displayAdsText: "After traffic becomes stable, add Google AdSense, Carbon Ads, or regional ad networks. Banner and sidebar slots are already reserved.",
-    affiliateTitle: "Affiliate Links",
-    affiliateText: "Place affiliate-friendly AI tools in recommended positions and earn commissions from signups, purchases, or subscriptions.",
-    paidListingTitle: "Paid Listings",
-    paidListingText: "Let AI products submit profiles, review them, and sell featured or category-top placement on a monthly basis.",
-    footerText: "Static deployment friendly: GitHub Pages, Cloudflare Pages, Netlify, and Vercel all offer free hosting options.",
+    footerText: "Track AI product entrances, capability categories, and industry news.",
     toggleLabel: "Switch to Chinese",
     toggleText: "中"
   }
@@ -123,7 +89,8 @@ const categoryLabels = {
   "搜索问答": "Search & Q&A",
   "图像与设计": "Image & Design",
   "视频与创意": "Video & Creative",
-  "开源与模型社区": "Open Source & Model Hubs",
+  "生成工作流": "Generation Workflows",
+  "模型与社区": "Model Hubs & Communities",
   "开发者工具": "Developer Tools",
   "语音与音频": "Voice & Audio",
   "营销与内容": "Marketing & Content",
@@ -138,6 +105,7 @@ const categoryDescriptions = {
     "大模型与 API": "通用模型、推理接口、多模态 API 和企业模型服务，是构建 AI 产品的底座。",
     "图像与设计": "覆盖图像生成、海报设计、品牌素材和创意视觉，适合设计与营销团队。",
     "视频与创意": "用于短视频、数字人、视频翻译和创意片段生产，适合内容团队。",
+    "生成工作流": "节点式生成、模型管线、画布编辑和本地创作工作台，适合深度视觉工作流。",
     "开发者工具": "面向代码生成、工程协作、模型调用和 AI 开发流程提效。",
     "AI 应用构建": "用于搭建聊天应用、智能体、RAG 和全栈 AI 原型。",
     "智能体与自动化": "把 AI 接入业务流程、SaaS 工具和自动化任务，适合运营与企业效率。",
@@ -145,14 +113,15 @@ const categoryDescriptions = {
     "办公效率": "写作、演示、文档、会议和个人知识管理相关 AI 工具。",
     "搜索问答": "AI 搜索、资料查证、对话助手和多模型问答入口。",
     "语音与音频": "语音生成、配音、转写、音乐和音频编辑。",
-    "营销与内容": "品牌文案、广告素材、活动内容和销售流程自动化。",
+    "营销与内容": "品牌文案、素材创作、活动内容和销售流程自动化。",
     "数据与企业 AI": "数据标注、模型评测、机器学习治理和企业决策 AI 平台。",
-    "开源与模型社区": "模型、数据集、开源 Demo 和开发者社区生态。"
+    "模型与社区": "模型、数据集、在线 Demo 和开发者社区生态。"
   },
   en: {
     "大模型与 API": "General models, inference APIs, multimodal endpoints, and enterprise model services for building AI products.",
     "图像与设计": "Image generation, posters, brand assets, and creative visuals for design and marketing teams.",
     "视频与创意": "Short videos, avatars, video translation, and creative clip production for content teams.",
+    "生成工作流": "Node-based generation, model pipelines, canvas editing, and local creative workbenches for advanced visual workflows.",
     "开发者工具": "Coding, engineering collaboration, model access, and AI development workflow acceleration.",
     "AI 应用构建": "Tooling for chat apps, agents, RAG systems, and full-stack AI prototypes.",
     "智能体与自动化": "Connect AI to business processes, SaaS apps, and automated tasks for operations and enterprise productivity.",
@@ -160,9 +129,9 @@ const categoryDescriptions = {
     "办公效率": "AI tools for writing, slides, documents, meetings, and personal knowledge management.",
     "搜索问答": "AI search, source-backed research, chat assistants, and multi-model Q&A entry points.",
     "语音与音频": "Voice generation, dubbing, transcription, music, and audio editing.",
-    "营销与内容": "Brand copy, ad assets, campaign content, and sales workflow automation.",
+    "营销与内容": "Brand copy, creative assets, campaign content, and sales workflow automation.",
     "数据与企业 AI": "Data labeling, model evaluation, ML governance, and enterprise decision AI platforms.",
-    "开源与模型社区": "Models, datasets, open demos, and developer community ecosystems."
+    "模型与社区": "Models, datasets, demos, and developer community ecosystems."
   }
 };
 
@@ -197,11 +166,11 @@ const englishToolCopy = {
   },
   "Stability AI": {
     summary: "The company behind Stable Diffusion, offering image, video, audio, and 3D model capabilities.",
-    tags: ["Stable Diffusion", "Open Source", "Image", "Models"]
+    tags: ["Stable Diffusion", "Model Community", "Image", "Models"]
   },
   "Hugging Face": {
     summary: "Community platform for models, datasets, and Spaces, ideal for discovering open models and building demos.",
-    tags: ["Open Source", "Model Hub", "Datasets", "Spaces"]
+    tags: ["Model Community", "Model Hub", "Datasets", "Spaces"]
   },
   Replicate: {
     summary: "Platform for running open AI models through APIs, useful for fast experiments across image, audio, video, and language models.",
@@ -274,6 +243,8 @@ const state = {
   language: localStorage.getItem("ai-compass-language") || "zh"
 };
 
+const newsDisplayLimit = 48;
+
 const categoryTabs = document.querySelector("#categoryTabs");
 const directoryGrid = document.querySelector("#directoryGrid");
 const searchInput = document.querySelector("#searchInput");
@@ -290,9 +261,9 @@ function init() {
   state.tools = aiTools;
   state.news = newsData.items || [];
 
-  document.querySelector("#toolCount").textContent = state.tools.length;
-  document.querySelector("#categoryCount").textContent = getCategories().length - 1;
-  document.querySelector("#newsCount").textContent = state.news.length;
+  setText("#toolCount", state.tools.length);
+  setText("#categoryCount", getCategories().length - 1);
+  setText("#newsCount", state.news.length);
 
   applyLanguage();
   renderOverview();
@@ -301,26 +272,32 @@ function init() {
   renderDirectory();
   renderNews();
 
-  searchInput.addEventListener("input", (event) => {
-    state.query = event.target.value.trim().toLowerCase();
-    renderDirectory();
-  });
+  if (searchInput) {
+    searchInput.addEventListener("input", (event) => {
+      state.query = event.target.value.trim().toLowerCase();
+      renderDirectory();
+    });
+  }
 
-  sortSelect.addEventListener("change", (event) => {
-    state.sort = event.target.value;
-    renderDirectory();
-  });
+  if (sortSelect) {
+    sortSelect.addEventListener("change", (event) => {
+      state.sort = event.target.value;
+      renderDirectory();
+    });
+  }
 
-  languageToggle.addEventListener("click", () => {
-    state.language = state.language === "zh" ? "en" : "zh";
-    localStorage.setItem("ai-compass-language", state.language);
-    applyLanguage();
-    renderOverview();
-    renderPicks();
-    renderTabs();
-    renderDirectory();
-    renderNews();
-  });
+  if (languageToggle) {
+    languageToggle.addEventListener("click", () => {
+      state.language = state.language === "zh" ? "en" : "zh";
+      localStorage.setItem("ai-compass-language", state.language);
+      applyLanguage();
+      renderOverview();
+      renderPicks();
+      renderTabs();
+      renderDirectory();
+      renderNews();
+    });
+  }
 }
 
 function applyLanguage() {
@@ -340,9 +317,12 @@ function applyLanguage() {
     element.setAttribute("aria-label", t[element.dataset.i18nAria]);
   }
 
-  languageToggle.textContent = t.toggleText;
-  languageToggle.setAttribute("aria-label", t.toggleLabel);
-  document.querySelector("#newsUpdated").textContent = t.newsUpdated.replace("{date}", formatDate(window.SITE_DATA.newsData.updatedAt));
+  if (languageToggle) {
+    languageToggle.textContent = t.toggleText;
+    languageToggle.setAttribute("aria-label", t.toggleLabel);
+  }
+  setText("#newsUpdated", t.newsUpdated.replace("{date}", formatDate(window.SITE_DATA.newsData.updatedAt)));
+  window.applySeoLanguage?.(state.language);
 }
 
 function getCategories() {
@@ -350,6 +330,8 @@ function getCategories() {
 }
 
 function renderOverview() {
+  if (!overviewGrid) return;
+
   const categoryCounts = state.tools.reduce((counts, tool) => {
     counts[tool.category] = (counts[tool.category] || 0) + 1;
     return counts;
@@ -358,43 +340,51 @@ function renderOverview() {
   const priority = [
     "大模型与 API",
     "AI 应用构建",
-    "图像与设计",
-    "视频与创意",
+    "开发者工具",
     "智能体与自动化",
-    "知识库与检索"
+    "生成工作流",
+    "图像与设计"
   ];
 
   overviewGrid.innerHTML = "";
   for (const category of priority) {
-    const article = document.createElement("article");
-    article.className = "overview-card";
-    article.innerHTML = `
+    const button = document.createElement("button");
+    button.className = "overview-card";
+    button.type = "button";
+    button.setAttribute("aria-label", `${labelCategory(category)} ${categoryCounts[category] || 0}`);
+    button.innerHTML = `
       <span class="overview-count">${categoryCounts[category] || 0}</span>
       <h4>${escapeHtml(labelCategory(category))}</h4>
       <p>${escapeHtml(categoryDescriptions[state.language][category])}</p>
     `;
-    overviewGrid.append(article);
+    button.addEventListener("click", () => selectCategory(category, true));
+    overviewGrid.append(button);
   }
 }
 
 function renderPicks() {
+  if (!pickStrip) return;
+
   const picks = state.tools
-    .filter((tool) => tool.featured)
-    .slice(0, 12);
+    .filter((tool) => Number.isFinite(tool.editorPickRank))
+    .sort((a, b) => a.editorPickRank - b.editorPickRank)
+    .slice(0, 16);
 
   pickStrip.innerHTML = "";
   for (const tool of picks) {
     const copy = toolCopy(tool);
     const link = document.createElement("a");
+    const reason = state.language === "en" ? tool.editorPickReasonEn || tool.editorPickReason : tool.editorPickReason;
+    const fallbackReason = reason || copy.tags.slice(0, 3).join(" / ");
     link.className = "pick-card";
     link.href = tool.url;
     link.target = "_blank";
-    link.rel = "noopener sponsored";
+    link.rel = "noopener";
     link.innerHTML = `
       <img src="${faviconUrl(tool.url)}" alt="" loading="lazy">
-      <span>${escapeHtml(tool.name)}</span>
+      <span>${escapeHtml(displayName(tool))}</span>
       <small>${escapeHtml(labelCategory(tool.category))}</small>
-      <p>${escapeHtml(copy.tags.slice(0, 3).join(" / "))}</p>
+      <p>${escapeHtml(fallbackReason)}</p>
     `;
     pickStrip.append(link);
   }
@@ -405,23 +395,36 @@ function labelCategory(category) {
   return state.language === "en" ? categoryLabels[category] || category : category;
 }
 
+function displayName(tool) {
+  return state.language === "en" ? tool.nameEn || tool.name : tool.name;
+}
+
 function renderTabs() {
+  if (!categoryTabs) return;
+
   categoryTabs.innerHTML = "";
   for (const category of getCategories()) {
     const button = document.createElement("button");
     button.className = `tab-button${category === state.activeCategory ? " active" : ""}`;
     button.type = "button";
     button.textContent = labelCategory(category);
-    button.addEventListener("click", () => {
-      state.activeCategory = category;
-      renderTabs();
-      renderDirectory();
-    });
+    button.addEventListener("click", () => selectCategory(category));
     categoryTabs.append(button);
   }
 }
 
+function selectCategory(category, shouldScroll = false) {
+  state.activeCategory = category;
+  renderTabs();
+  renderDirectory();
+  if (shouldScroll && categoryTabs) {
+    categoryTabs.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+}
+
 function renderDirectory() {
+  if (!directoryGrid) return;
+
   const tools = state.tools
     .filter((tool) => state.activeCategory === "全部" || tool.category === state.activeCategory)
     .filter((tool) => matchesQuery(tool))
@@ -435,28 +438,32 @@ function renderDirectory() {
 
   for (const tool of tools) {
     const copy = toolCopy(tool);
-    const card = document.createElement("article");
+    const card = document.createElement("a");
     card.className = "tool-card";
+    card.href = tool.url;
+    card.target = "_blank";
+    card.rel = "noopener";
     card.innerHTML = `
       <div class="card-top">
         <div class="tool-logo" aria-hidden="true">
           <img src="${faviconUrl(tool.url)}" alt="" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';">
-          <span>${escapeHtml(tool.name.slice(0, 2))}</span>
+          <span>${escapeHtml(displayName(tool).slice(0, 2))}</span>
         </div>
         ${tool.featured ? `<span class="badge">${text("featured")}</span>` : ""}
       </div>
-      <h3>${escapeHtml(tool.name)}</h3>
+      <h3>${escapeHtml(displayName(tool))}</h3>
       <p>${escapeHtml(copy.summary)}</p>
       <div class="tags">${copy.tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("")}</div>
-      <a class="card-link" href="${tool.url}" target="_blank" rel="noopener sponsored">${text("visit")}</a>
     `;
     directoryGrid.append(card);
   }
 }
 
 function renderNews() {
+  if (!newsGrid) return;
+
   newsGrid.innerHTML = "";
-  for (const item of state.news.slice(0, 10)) {
+  for (const item of state.news.slice(0, newsDisplayLimit)) {
     const card = document.createElement("article");
     card.className = "news-card";
     card.innerHTML = `
@@ -470,20 +477,44 @@ function renderNews() {
 
 function matchesQuery(tool) {
   const enCopy = englishToolCopy[tool.name] || {};
-  const haystack = [
+  const query = state.query;
+  if (!query) return true;
+
+  const nameHaystack = [
     tool.name,
+    tool.nameEn,
+    domainText(tool.url)
+  ].join(" ").toLowerCase();
+
+  const keywordHaystack = [
     tool.category,
     categoryLabels[tool.category],
-    tool.summary,
-    tool.summaryEn,
-    enCopy.summary,
-    tool.url,
     ...(tool.tags || []),
     ...(tool.tagsEn || []),
     ...(enCopy.tags || [])
   ].join(" ").toLowerCase();
 
-  return haystack.includes(state.query);
+  if (/^[a-z0-9]{1,3}$/.test(query)) {
+    return nameHaystack.includes(query) || keywordTokens(keywordHaystack).includes(query);
+  }
+
+  const primaryHaystack = [
+    nameHaystack,
+    keywordHaystack
+  ].join(" ");
+
+  if (query.length <= 3) {
+    return primaryHaystack.includes(query);
+  }
+
+  const fullHaystack = [
+    primaryHaystack,
+    tool.summary,
+    tool.summaryEn,
+    enCopy.summary
+  ].join(" ").toLowerCase();
+
+  return fullHaystack.includes(query);
 }
 
 function toolCopy(tool) {
@@ -526,6 +557,13 @@ function text(key) {
   return translations[state.language][key];
 }
 
+function setText(selector, value) {
+  const element = document.querySelector(selector);
+  if (element) {
+    element.textContent = value;
+  }
+}
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -538,4 +576,18 @@ function escapeHtml(value) {
 function faviconUrl(value) {
   const domain = new URL(value).hostname;
   return `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+}
+
+function domainText(value) {
+  try {
+    return new URL(value).hostname.replace(/^www\./, "");
+  } catch {
+    return value || "";
+  }
+}
+
+function keywordTokens(value) {
+  return value
+    .split(/[^a-z0-9]+/i)
+    .filter(Boolean);
 }

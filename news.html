@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="AI Compass 每日 AI 资讯页面，聚合 OpenAI、Anthropic、Google DeepMind、Hugging Face、TechCrunch 等官方博客与技术媒体 RSS 更新。">
+    <meta name="keywords" content="AI资讯,AI新闻,人工智能新闻,OpenAI新闻,Anthropic新闻,Google DeepMind,AI Compass">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#0f766e">
+    <link rel="canonical" href="https://kjc613.github.io/ai-compass/news.html">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="AI Compass">
+    <meta property="og:locale" content="zh_CN">
+    <meta property="og:title" content="AI Compass - 每日 AI 资讯">
+    <meta property="og:description" content="聚合官方博客、研究团队和技术媒体 RSS 更新，跟踪 AI 产品、模型、智能体和行业动态。">
+    <meta property="og:url" content="https://kjc613.github.io/ai-compass/news.html">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&h=630&q=80">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Compass - 每日 AI 资讯">
+    <meta name="twitter:description" content="聚合官方博客、研究团队和技术媒体 RSS 更新，跟踪 AI 行业动态。">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&h=630&q=80">
+    <title>AI Compass - 每日 AI 资讯</title>
+    <link rel="stylesheet" href="assets/styles.css?v=7">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "AI Compass - 每日 AI 资讯",
+        "url": "https://kjc613.github.io/ai-compass/news.html",
+        "inLanguage": ["zh-CN", "en"],
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "AI Compass",
+          "url": "https://kjc613.github.io/ai-compass/"
+        },
+        "description": "AI Compass 每日 AI 资讯页面，聚合官方博客、研究团队和技术媒体 RSS 更新。",
+        "about": ["AI news", "Artificial intelligence", "Machine learning", "AI products"]
+      }
+    </script>
+  </head>
+  <body>
+    <header class="subpage-header">
+      <nav class="topbar" aria-label="主导航" data-i18n-aria="navLabel">
+        <a class="brand" href="index.html#top" aria-label="AI Compass 首页">
+          <span class="brand-mark">AI</span>
+          <span>AI Compass</span>
+        </a>
+        <div class="nav-links">
+          <a href="index.html#directory" data-i18n="navDirectory">导航</a>
+          <a href="news.html" data-i18n="navNews">资讯</a>
+          <button class="language-toggle" id="languageToggle" type="button" aria-label="Switch language">EN</button>
+        </div>
+      </nav>
+
+      <section class="subpage-hero">
+        <p class="eyebrow" data-i18n="newsEyebrow">Daily AI News</p>
+        <h1 data-i18n="newsTitle">每日 AI 资讯</h1>
+        <p id="newsUpdated">自动读取 RSS 数据源，可由定时任务每天更新。</p>
+      </section>
+    </header>
+
+    <main>
+      <section class="section news-page">
+        <div class="news-grid" id="newsGrid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>AI Compass</span>
+      <span data-i18n="footerText">持续整理 AI 产品入口、能力分类和行业资讯。</span>
+    </footer>
+
+    <script src="assets/site-data.js?v=7"></script>
+    <script src="assets/app.js?v=7"></script>
+  </body>
+</html>

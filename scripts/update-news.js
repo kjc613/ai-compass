@@ -1,12 +1,22 @@
 import { readFile, writeFile } from "node:fs/promises";
 
+const newsLimit = Number(process.env.NEWS_LIMIT || 60);
 const feeds = [
   { source: "OpenAI News", url: "https://openai.com/news/rss.xml", focused: true },
+  { source: "Anthropic News", url: "https://www.anthropic.com/news/rss.xml", focused: true },
   { source: "Google AI Blog", url: "https://blog.google/technology/ai/rss/", focused: true },
+  { source: "Google DeepMind Blog", url: "https://deepmind.google/blog/rss.xml", focused: true },
   { source: "Hugging Face Blog", url: "https://huggingface.co/blog/feed.xml", focused: true },
   { source: "Microsoft AI Blog", url: "https://blogs.microsoft.com/ai/feed/", focused: true },
   { source: "NVIDIA AI Blog", url: "https://blogs.nvidia.com/blog/category/deep-learning/feed/", focused: true },
+  { source: "Meta AI Blog", url: "https://ai.meta.com/blog/rss/", focused: true },
+  { source: "AWS Machine Learning Blog", url: "https://aws.amazon.com/blogs/machine-learning/feed/", focused: true },
+  { source: "Databricks Blog", url: "https://www.databricks.com/blog/feed", focused: false },
+  { source: "TechCrunch AI", url: "https://techcrunch.com/category/artificial-intelligence/feed/", focused: true },
+  { source: "The Verge AI", url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", focused: true },
   { source: "VentureBeat AI", url: "https://venturebeat.com/category/ai/feed/", focused: true },
+  { source: "The Decoder", url: "https://the-decoder.com/feed/", focused: true },
+  { source: "Ars Technica", url: "https://feeds.arstechnica.com/arstechnica/technology-lab", focused: false },
   { source: "The Batch", url: "https://www.deeplearning.ai/the-batch/feed/", focused: true },
   { source: "MIT Technology Review", url: "https://www.technologyreview.com/feed/", focused: false }
 ];
@@ -16,8 +26,10 @@ const results = [];
 for (const feed of feeds) {
   try {
     const response = await fetch(feed.url, {
+      signal: AbortSignal.timeout(15000),
       headers: {
-        "User-Agent": "AI Compass News Bot/1.0"
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+        "User-Agent": "AI Compass News Bot/1.0 (+https://kjc613.github.io/ai-compass/)"
       }
     });
 
@@ -34,16 +46,17 @@ for (const feed of feeds) {
 
 const items = dedupe(results)
   .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-  .slice(0, 18);
+  .slice(0, newsLimit);
 
 if (!items.length) {
-  throw new Error("No news items were fetched.");
+  const previousNewsData = await readExistingNewsData();
+  console.warn("No news items were fetched. Keeping the previous news data.");
+  await writeSiteDataModule(previousNewsData);
+} else {
+  const newsData = { updatedAt: new Date().toISOString(), items };
+  await writeFile("data/news.json", JSON.stringify(newsData, null, 2) + "\n");
+  await writeSiteDataModule(newsData);
 }
-
-const newsData = { updatedAt: new Date().toISOString(), items };
-
-await writeFile("data/news.json", JSON.stringify(newsData, null, 2) + "\n");
-await writeSiteDataModule(newsData);
 
 function parseFeed(xml, feed) {
   const blocks = matchAll(xml, /<item\b[\s\S]*?<\/item>|<entry\b[\s\S]*?<\/entry>/gi);
@@ -126,4 +139,8 @@ async function writeSiteDataModule(newsData) {
   const aiTools = JSON.parse(await readFile("data/ai-tools.json", "utf8"));
   const moduleSource = `window.SITE_DATA = ${JSON.stringify({ aiTools, newsData }, null, 2)};\n`;
   await writeFile("assets/site-data.js", moduleSource);
+}
+
+async function readExistingNewsData() {
+  return JSON.parse(await readFile("data/news.json", "utf8"));
 }
