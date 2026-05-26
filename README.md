@@ -1,32 +1,96 @@
 # AI Compass
 
-AI Compass 是一个 AI 工具导航与资讯站，聚合主流 AI 厂商官网入口、产品能力分类和每日 AI 行业动态。
+AI Compass 是一个面向 AI 工具发现、官网导航和行业资讯聚合的静态网站项目。当前站点已部署在 GitHub Pages：
 
-## 功能
+https://kjc613.github.io/ai-compass/
 
-- AI 厂商导航：数据维护在 `data/ai-tools.json`，前端会自动按 `category` 分组。
-- 搜索与排序：支持按品牌、业务、标签、简介搜索。
-- 每日 AI 资讯：`scripts/update-news.js` 从 RSS 源抓取新闻并写入 `data/news.json`。
-- 双语界面：支持中文和英文切换。
-- 私有化运营：适合部署到支持私有仓库的托管平台并绑定自有域名。
+项目定位是私有化运营的网站，不作为开源产品说明页。页面会优先展示各 AI 产品或厂商的官方网址，并提醒用户核对浏览器地址栏，避免进入仿冒网站。
+
+## 当前内容
+
+- AI 工具目录：维护在 `data/ai-tools.json`，当前包含 159 个工具。
+- 分类页面：已生成 14 个独立分类页，位于 `categories/`。
+- 首页导航：包含编辑推荐、重点分类概览、热门 AI 工具官网入口和 FAQ。
+- 独立资讯页：`news.html` 展示每日 AI 资讯，不再与首页混在一起。
+- 双语界面：中文 / 英文切换覆盖首页、资讯页、分类页和工具卡片内容。
+- 搜索与筛选：支持工具名称、官网域名、分类、标签和简介搜索；短英文查询会优先匹配名称、域名和精确标签，减少无关结果。
+- SEO 文件：包含 `sitemap.xml`、`robots.txt`、`site.webmanifest`、`llms.txt` 和分类页结构化数据。
+
+## 项目结构
+
+```text
+.
+├── index.html                 # 首页
+├── news.html                  # AI 资讯页
+├── categories/                # SEO 分类落地页
+├── assets/
+│   ├── app.js                 # 前端交互逻辑
+│   ├── site-data.js           # 构建后的工具和资讯数据
+│   ├── styles.css             # 页面样式
+│   ├── seo-i18n.js            # SEO 页面双语切换
+│   └── favicon.svg
+├── data/
+│   ├── ai-tools.json          # AI 工具源数据
+│   └── news.json              # 每日资讯数据
+├── scripts/
+│   ├── build-site-data.js     # 将 data 写入前端可用数据文件
+│   ├── build-seo-pages.js     # 生成分类页、sitemap 和 llms
+│   ├── build-static.js        # 生成 dist 静态发布目录
+│   ├── update-news.js         # 抓取并更新每日 AI 资讯
+│   └── git-publish.ps1        # 一键提交并推送到 GitHub
+├── .github/workflows/
+│   └── update-news.yml        # GitHub Actions 每日资讯更新任务
+├── robots.txt
+├── sitemap.xml
+├── site.webmanifest
+├── wrangler.jsonc             # Cloudflare Workers 静态资源部署配置
+└── package.json
+```
 
 ## 本地运行
+
+要求 Node.js 20 或更高版本。
 
 ```bash
 npm start
 ```
 
-打开：
+默认访问：
 
 ```text
 http://localhost:8787
 ```
 
-检查语法：
+语法检查：
 
 ```bash
 npm run check
 ```
+
+## 数据维护
+
+更新工具目录后，先修改：
+
+```text
+data/ai-tools.json
+```
+
+然后生成前端数据和 SEO 页面：
+
+```bash
+npm run build-data
+npm run build-seo
+```
+
+如果要一次性生成静态发布目录：
+
+```bash
+npm run build
+```
+
+构建结果会输出到 `dist/`，该目录不会提交到 Git。
+
+## 每日 AI 资讯
 
 手动更新资讯：
 
@@ -34,16 +98,102 @@ npm run check
 npm run update-news
 ```
 
-## 自动更新资讯
+自动更新由 `.github/workflows/update-news.yml` 执行：
 
-`.github/workflows/update-news.yml` 已配置定时任务：
+- 每天 UTC 23:00 运行一次，也就是北京时间 07:00。
+- 可在 GitHub Actions 页面手动运行 `Update AI news`。
+- 每次最多保留 `NEWS_LIMIT=60` 条资讯。
+- 更新文件范围为 `data/news.json` 和 `assets/site-data.js`。
+- 工作流使用 Node.js 24，并启用 `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24`，避免 GitHub Actions 的 Node.js 20 弃用警告。
 
-- UTC 每天 23:00 执行一次，相当于北京时间每天 07:00。
-- 也可以在 Actions 页面手动运行 `Update AI news`。
-- 脚本会更新 `data/news.json` 和 `assets/site-data.js`。
+## SEO 与搜索收录
 
-## 后续运营建议
+当前项目已包含基础 SEO 文件：
 
-- 增加“提交 AI 产品”表单，建立产品收录和审核流程。
-- 为重点分类生成独立页面，如 AI 搜索、AI 视频、AI 编程。
-- 增加榜单、专题页和 Newsletter，用内容沉淀长期访问。
+- `sitemap.xml`：站点地图，提交到 Google Search Console 时应使用 `sitemap.xml`，不要填写 `/sitemap.xml`。
+- `robots.txt`：允许搜索引擎抓取，并声明 sitemap 地址。
+- `site.webmanifest`：站点应用信息。
+- `llms.txt`：面向 AI/LLM 索引的站点摘要。
+- 分类页 JSON-LD：分类页中包含 `CollectionPage` 结构化数据。
+
+GitHub Pages 子路径站点的 sitemap 地址是：
+
+```text
+https://kjc613.github.io/ai-compass/sitemap.xml
+```
+
+## 发布到 GitHub
+
+本地仓库已配置：
+
+```text
+origin = https://github.com/kjc613/ai-compass.git
+branch = main
+```
+
+普通手动流程：
+
+```bash
+git add -A
+git commit -m "Update site"
+git pull --rebase origin main
+git push origin main
+```
+
+推荐使用一键发布脚本：
+
+```powershell
+npm run publish:git -- -Message "更新网站内容"
+```
+
+脚本会自动执行：
+
+1. `git fetch origin main`
+2. 检查是否有本地改动
+3. `git add -A`
+4. `git commit -m <Message>`
+5. `git pull --rebase origin main`
+6. `git push origin main`
+
+如果没有本地改动，脚本会直接提示 `No local changes to publish.`。
+
+## GitHub Pages 部署
+
+当前站点可直接通过 GitHub Pages 访问：
+
+```text
+https://kjc613.github.io/ai-compass/
+```
+
+如果修改了静态文件并推送到 `main`，GitHub Pages 会在 Actions 构建完成后更新线上页面。
+
+## Cloudflare 部署
+
+项目也准备了 Cloudflare Workers 静态资源部署配置：
+
+```text
+wrangler.jsonc
+```
+
+Cloudflare 的推荐配置：
+
+- Build command：`npm run build`
+- Output directory：`dist`
+- Deploy command：如果使用 Workers，可使用 `npx wrangler deploy`
+
+注意不要把仓库根目录 `.` 作为静态资源目录直接部署，否则会把 `node_modules` 一起上传，可能触发 Cloudflare 单文件大小限制。
+
+## 常用命令
+
+```bash
+npm start          # 本地启动网站
+npm run check      # 检查 JS 语法
+npm run build-data # 生成 assets/site-data.js
+npm run build-seo  # 生成分类页、sitemap、llms
+npm run build      # 生成 dist 静态发布目录
+npm run update-news # 手动更新每日 AI 资讯
+```
+
+```powershell
+npm run publish:git -- -Message "更新网站内容"
+```
