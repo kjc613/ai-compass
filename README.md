@@ -90,6 +90,14 @@ npm run build
 
 构建结果会输出到 `dist/`，该目录不会提交到 Git。
 
+维护注意事项：
+
+- `data/*.json`、`assets/*.js` 和 HTML 文件都应使用 UTF-8 保存。
+- 修改 `data/ai-tools.json` 后，建议用 `npm run build-data` 同步首页数据。
+- 新增或调整分类后，建议用 `npm run build-seo` 重新生成分类页、`sitemap.xml` 和 `llms.txt`。
+- 不要手动编辑 `assets/site-data.js` 作为唯一数据源，它是由脚本生成给前端使用的文件。
+- 如果只改页面样式或交互，一般不需要重新生成 `data/news.json`。
+
 ## 每日 AI 资讯
 
 手动更新资讯：
@@ -121,6 +129,14 @@ GitHub Pages 子路径站点的 sitemap 地址是：
 ```text
 https://kjc613.github.io/ai-compass/sitemap.xml
 ```
+
+Google Search Console 已添加验证文件：
+
+```text
+googleb6c54d335020eec1.html
+```
+
+提交站点地图时，如果属性是 `https://kjc613.github.io/ai-compass/`，输入框里填写 `sitemap.xml` 即可。不要填写 `/sitemap.xml`，否则可能会被解析到 `https://kjc613.github.io/sitemap.xml`，从而出现“无法抓取”。
 
 ## 发布到 GitHub
 
