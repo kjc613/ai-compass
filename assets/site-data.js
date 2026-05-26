@@ -3232,133 +3232,427 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-05-21T02:45:13.753Z",
+    "updatedAt": "2026-05-26T23:57:06.979Z",
     "items": [
       {
-        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematic"
+        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+        "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-26T22:32:56.000Z",
+        "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way o"
       },
       {
-        "title": "The next phase of OpenAI’s Education for Countries",
-        "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes"
+        "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+        "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-05-26T19:50:33.000Z",
+        "summary": ""
       },
       {
-        "title": "How Ramp engineers accelerate code review with Codex",
-        "url": "https://openai.com/index/ramp",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+        "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+        "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-26T18:33:01.000Z",
+        "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
       },
       {
-        "title": "Introducing OpenAI for Singapore",
-        "url": "https://openai.com/index/introducing-openai-for-singapore",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-19T20:30:00.000Z",
-        "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+        "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+        "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T18:31:07.000Z",
+        "summary": "Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Do"
       },
       {
-        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T17:57:18.000Z",
+        "summary": "Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider,"
+      },
+      {
+        "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+        "url": "https://www.langchain.com/langgraph",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T17:41:26.000Z",
+        "summary": "In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integr"
+      },
+      {
+        "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/what-is/gpu/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T17:39:46.000Z",
+        "summary": "In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable execution p"
+      },
+      {
+        "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+        "url": "https://aws.amazon.com/cloudwatch/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T17:22:48.000Z",
+        "summary": "In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure checks every"
+      },
+      {
+        "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+        "url": "https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T16:28:08.000Z",
+        "summary": "Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you "
+      },
+      {
+        "title": "Build an enterprise observability solution for Amazon Quick",
+        "url": "https://aws.amazon.com/quick/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-26T16:09:06.000Z",
+        "summary": "When hundreds to thousands of users are onboarded to an enterprise AI platform, business leaders and platform owners need visibility into who is using the platf"
+      },
+      {
+        "title": "This startup is betting India’s gig economy can train the world’s robots",
+        "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-26T16:00:00.000Z",
+        "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to coll"
+      },
+      {
+        "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+        "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-26T14:55:05.000Z",
+        "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
+      },
+      {
+        "title": "Rethinking organizational design in the age of agentic AI",
+        "url": "https://www.celonis.com/insights/reports/process-optimization",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-26T14:54:10.000Z",
+        "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution. Although 85% of organizations say the"
+      },
+      {
+        "title": "China reportedly now requires top AI researchers to get permission before leaving the country",
+        "url": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T14:25:50.000Z",
+        "summary": "China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before lea"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+        "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-26T14:00:00.000Z",
+        "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisc"
+      },
+      {
+        "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+        "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-26T14:00:00.000Z",
+        "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth y"
+      },
+      {
+        "title": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
+        "url": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T13:25:58.000Z",
+        "summary": "Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one. The article Google Cloud COO says AI security belon"
+      },
+      {
+        "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-26T12:46:03.000Z",
+        "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop."
+      },
+      {
+        "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+        "url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T12:36:11.000Z",
+        "summary": "An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twe"
+      },
+      {
+        "title": "The Download: puncturing the AI jobs panic",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-26T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the"
+      },
+      {
+        "title": "AI warfare is already here",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-26T12:00:00.000Z",
+        "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations i"
+      },
+      {
+        "title": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
+        "url": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T11:00:57.000Z",
+        "summary": "Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest inves"
+      },
+      {
+        "title": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
+        "url": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-26T10:42:00.000Z",
+        "summary": "A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT"
+      },
+      {
+        "title": "Uber president says AI spending is getting ‘harder to justify’",
+        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-26T09:55:09.000Z",
+        "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its inve"
+      },
+      {
+        "title": "A reality check on the AI jobs hysteria",
+        "url": "https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-26T09:00:00.000Z",
+        "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are sai"
+      },
+      {
+        "title": "It’s time to address the looming crisis in entry-level work.",
+        "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-05-26T09:00:00.000Z",
+        "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and rece"
+      },
+      {
+        "title": "What ClickUp’s mass layoff tells us about the future of work",
+        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-25T16:00:00.000Z",
+        "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+      },
+      {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-25T15:09:41.000Z",
+        "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to i"
+      },
+      {
+        "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-25T15:05:07.000Z",
+        "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the po"
+      },
+      {
+        "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+        "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-25T14:30:00.000Z",
+        "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. A"
+      },
+      {
+        "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+        "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-25T14:00:00.000Z",
+        "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+      },
+      {
+        "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+        "url": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-25T13:40:07.000Z",
+        "summary": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI model"
+      },
+      {
+        "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+        "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-25T10:41:19.000Z",
+        "summary": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hund"
+      },
+      {
+        "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+        "url": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-25T09:05:34.000Z",
+        "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs delive"
+      },
+      {
+        "title": "AI models often give the right answers but point to the wrong sources",
+        "url": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-25T07:30:09.000Z",
+        "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right"
+      },
+      {
+        "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+      },
+      {
+        "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+        "url": "https://huggingface.co/blog/agent-glossary",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-25T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-24T21:39:21.000Z",
+        "summary": "We're in the transition period -- all of us."
+      },
+      {
+        "title": "Xreal, Google’s smart glasses partner, thinks it has finally mastered this notoriously tricky industry",
+        "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-24T19:00:00.000Z",
+        "summary": "Chi Xu, the founder and CEO of Xreal, thinks the smart glasses business has finally reached a turning point."
+      },
+      {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-24T15:00:00.000Z",
+        "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
+      },
+      {
+        "title": "Hackers are learning to exploit chatbot ‘personalities’",
+        "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-24T12:00:00.000Z",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arriv"
+      },
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-23T15:08:00.000Z",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+      },
+      {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-23T13:00:00.000Z",
+        "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+      },
+      {
+        "title": "Google’s new anything-to-anything AI model is wild",
+        "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-23T11:00:00.000Z",
+        "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events d"
+      },
+      {
+        "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-23T00:02:03.000Z",
+        "summary": ""
+      },
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T23:03:33.000Z",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+      },
+      {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T21:02:36.000Z",
+        "summary": "You can now disco ball-ify your entire Pixel home screen, says Google."
+      },
+      {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T20:40:48.000Z",
+        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+      },
+      {
+        "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
+        "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-22T20:39:54.000Z",
+        "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section wo"
+      },
+      {
+        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+        "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T18:17:07.000Z",
+        "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside "
+      },
+      {
+        "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-05-22T18:00:00.000Z",
+        "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
+      },
+      {
+        "title": "Elon, stop trying to make Grok happen",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-22T17:17:06.000Z",
+        "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reu"
+      },
+      {
+        "title": "You can no longer Google the word ‘disregard’",
+        "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T16:16:48.000Z",
+        "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
+      },
+      {
+        "title": "We tried Google’s AI glasses and they’re almost there",
+        "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-22T15:37:15.000Z",
+        "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
+      },
+      {
+        "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-05-22T15:25:59.000Z",
+        "summary": ""
+      },
+      {
+        "title": "The literary world isn’t prepared for AI",
+        "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-22T14:30:00.000Z",
+        "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was "
+      },
+      {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "url": "https://openai.com/index/virgin-atlantic",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+      },
+      {
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+        "source": "OpenAI News",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deploymen"
+      },
+      {
+        "title": "Amazon Nova Act is now HIPAA eligible",
+        "url": "https://aws.amazon.com/nova/act/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-05-21T22:22:28.000Z",
+        "summary": "In this post, you will learn what Nova Act offers, how HIPAA eligibility applies to agentic AI, and how to get started."
+      },
+      {
+        "title": "Roundtables: Can AI Learn to Understand the World?",
         "url": "https://www.technologyreview.com/author/mat-honan/",
         "source": "MIT Technology Review",
-        "publishedAt": "2026-05-19T20:15:18.000Z",
-        "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him ove"
-      },
-      {
-        "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-        "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-19T18:38:09.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-        "url": "https://openai.com/index/advancing-content-provenance",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-19T10:45:00.000Z",
-        "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media."
-      },
-      {
-        "title": "Here’s why Elon Musk lost his suit against OpenAI",
-        "url": "https://x.com/elonmusk/status/2056474896641782077?s=20",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-05-19T00:53:10.000Z",
-        "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his "
-      },
-      {
-        "title": "Introducing the Ettin Reranker Family",
-        "url": "https://huggingface.co/blog/ettin-reranker",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-19T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-18T16:00:21.000Z",
-        "summary": ""
-      },
-      {
-        "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-        "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-18T15:12:46.000Z",
-        "summary": ""
-      },
-      {
-        "title": "The Open Agent Leaderboard",
-        "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-05-18T14:12:58.000Z",
-        "summary": ""
-      },
-      {
-        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-18T10:00:00.000Z",
-        "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
-      },
-      {
-        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-16T00:00:00.000Z",
-        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
-      },
-      {
-        "title": "How data science teams use Codex",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-      },
-      {
-        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-        "url": "https://openai.com/index/databricks",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
-      },
-      {
-        "title": "A new personal finance experience in ChatGPT",
-        "url": "https://openai.com/index/personal-finance-chatgpt",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance"
-      },
-      {
-        "title": "How sales teams use Codex",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "source": "OpenAI News",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work in"
+        "publishedAt": "2026-05-21T20:41:05.000Z",
+        "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developm"
       }
     ]
   }
