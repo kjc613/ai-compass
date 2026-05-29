@@ -849,38 +849,6 @@ select {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.ad-slot {
-  width: min(1180px, calc(100% - 32px));
-  min-height: 96px;
-  margin: 28px auto 0;
-  border: 1px dashed rgba(15, 118, 110, 0.36);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.72);
-  color: var(--muted);
-  display: grid;
-  place-items: center;
-  gap: 4px;
-  padding: 18px;
-  text-align: center;
-}
-
-.ad-slot span {
-  color: var(--accent-dark);
-  font-size: 12px;
-  font-weight: 850;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
-
-.ad-slot small {
-  color: var(--muted);
-  font-size: 13px;
-  line-height: 1.45;
-}
-
-.ad-slot-wide {
-  min-height: 112px;
-}
 
 @media (max-width: 900px) {
   .hero,
