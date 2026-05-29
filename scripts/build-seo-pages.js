@@ -245,6 +245,8 @@ function renderCategoryPage(category, meta, categoryTools) {
   <link rel="canonical" href="${pageUrl}">
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="../site.webmanifest">
+  <meta name="google-adsense-account" content="ca-pub-5859243800721473">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="AI Compass">
   <meta property="og:title" content="${escapeHtml(zhTitle)}">
