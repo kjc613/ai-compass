@@ -8,6 +8,11 @@ const staticPaths = [
   "sitemap.xml",
   "site.webmanifest",
   "llms.txt",
+  "about.html",
+  "privacy.html",
+  "terms.html",
+  "contact.html",
+  "googleb6c54d335020eec1.html",
   "assets",
   "categories",
   "data"

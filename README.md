@@ -138,6 +138,25 @@ googleb6c54d335020eec1.html
 
 提交站点地图时，如果属性是 `https://kjc613.github.io/ai-compass/`，输入框里填写 `sitemap.xml` 即可。不要填写 `/sitemap.xml`，否则可能会被解析到 `https://kjc613.github.io/sitemap.xml`，从而出现“无法抓取”。
 
+## 广告变现准备
+
+项目已补齐广告审核前常见的基础页面：
+
+- `about.html`：关于本站
+- `privacy.html`：隐私政策，包含 Cookie、广告和第三方链接说明
+- `terms.html`：使用条款与免责声明
+- `contact.html`：联系页面
+
+这些页面已加入首页、资讯页、分类页页脚，也已加入 `sitemap.xml`。
+
+尚未写入真实广告代码，因为接入 Google AdSense 需要你先在 AdSense 后台获得：
+
+- 发布商 ID，例如 `ca-pub-xxxxxxxxxxxxxxxx`
+- 广告单元代码或 Auto ads 代码
+- `ads.txt` 授权记录
+
+拿到这些信息后，再把 AdSense 脚本、广告位和 `ads.txt` 加入项目。不要提前写入假的发布商 ID，否则可能影响广告审核。
+
 ## 发布到 GitHub
 
 本地仓库已配置：

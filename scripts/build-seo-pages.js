@@ -3,6 +3,7 @@ import { mkdir, readdir, writeFile } from "node:fs/promises";
 const siteUrl = "https://kjc613.github.io/ai-compass";
 const today = new Date().toISOString().slice(0, 10);
 const tools = JSON.parse(await readText("data/ai-tools.json"));
+const legalPages = ["about.html", "privacy.html", "terms.html", "contact.html"];
 
 const categoryMeta = {
   "大模型与 API": {
@@ -252,7 +253,7 @@ function renderCategoryPage(category, meta, categoryTools) {
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="${escapeHtml(enTitle)}">
   <meta name="twitter:description" content="${escapeHtml(enDescription)}">
-  <link rel="stylesheet" href="../assets/styles.css?v=8">
+  <link rel="stylesheet" href="../assets/styles.css?v=9">
   <script type="application/ld+json">${jsonScript(schema)}</script>
 </head>
 <body data-title-zh="${escapeHtml(zhTitle)}" data-title-en="${escapeHtml(enTitle)}" data-description-zh="${escapeHtml(zhDescription)}" data-description-en="${escapeHtml(enDescription)}">
@@ -296,11 +297,17 @@ ${categoryTools.map(renderToolCard).join("\n")}
     </section>
   </main>
 
-  <footer>
-    <p data-seo-zh="AI Compass 持续整理 AI 产品入口、能力分类和行业资讯。" data-seo-en="AI Compass tracks AI product entrances, capability categories, and industry news.">AI Compass 持续整理 AI 产品入口、能力分类和行业资讯。</p>
+  <footer class="footer">
+    <span>AI Compass</span>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="../about.html" data-seo-zh="关于" data-seo-en="About">关于</a>
+      <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+      <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+      <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
+    </nav>
   </footer>
 
-  <script src="../assets/seo-i18n.js?v=8"></script>
+  <script src="../assets/seo-i18n.js?v=9"></script>
 </body>
 </html>
 `;
@@ -344,6 +351,11 @@ function renderSitemap(files) {
   const pages = [
     { loc: `${siteUrl}/`, changefreq: "weekly", priority: "1.0" },
     { loc: `${siteUrl}/news.html`, changefreq: "daily", priority: "0.8" },
+    ...legalPages.map((file) => ({
+      loc: `${siteUrl}/${file}`,
+      changefreq: "monthly",
+      priority: "0.5"
+    })),
     ...files.map((file) => ({
       loc: `${siteUrl}/categories/${file}`,
       changefreq: "weekly",
@@ -371,6 +383,10 @@ AI Compass is a Chinese and English AI tools directory and daily AI news site.
 Site URL: ${siteUrl}/
 Sitemap: ${siteUrl}/sitemap.xml
 News page: ${siteUrl}/news.html
+About page: ${siteUrl}/about.html
+Privacy policy: ${siteUrl}/privacy.html
+Terms: ${siteUrl}/terms.html
+Contact: ${siteUrl}/contact.html
 
 Main topics:
 - AI tools and official website links

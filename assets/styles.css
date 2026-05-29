@@ -798,13 +798,69 @@ select {
   gap: 16px;
 }
 
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: flex-end;
+}
+
+.footer-links a {
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 750;
+}
+
+.footer-links a:hover,
+.footer-links a:focus-visible {
+  color: var(--accent-dark);
+}
+
+.legal-page {
+  max-width: 920px;
+}
+
+.legal-page article,
+.contact-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: 0 10px 28px rgba(23, 32, 38, 0.04);
+  margin-bottom: 14px;
+  padding: 20px;
+}
+
+.legal-page h2,
+.contact-card h2 {
+  margin: 0 0 10px;
+  font-size: 22px;
+}
+
+.legal-page p,
+.contact-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.legal-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.ad-slot {
+  display: none;
+}
+
 @media (max-width: 900px) {
   .hero,
   .news-layout,
   .monetize-grid,
   .news-page .news-grid,
   .static-card-grid,
-  .guide-grid {
+  .guide-grid,
+  .legal-grid {
     grid-template-columns: 1fr;
   }
 

@@ -5,6 +5,10 @@ AI Compass is a Chinese and English AI tools directory and daily AI news site.
 Site URL: https://kjc613.github.io/ai-compass/
 Sitemap: https://kjc613.github.io/ai-compass/sitemap.xml
 News page: https://kjc613.github.io/ai-compass/news.html
+About page: https://kjc613.github.io/ai-compass/about.html
+Privacy policy: https://kjc613.github.io/ai-compass/privacy.html
+Terms: https://kjc613.github.io/ai-compass/terms.html
+Contact: https://kjc613.github.io/ai-compass/contact.html
 
 Main topics:
 - AI tools and official website links
