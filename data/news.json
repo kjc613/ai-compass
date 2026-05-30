@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-05-30T00:02:41.671Z",
+  "updatedAt": "2026-05-30T23:52:49.806Z",
   "items": [
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T21:45:00.000Z",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T16:30:00.000Z",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+    },
+    {
+      "title": "Microsoft and Nvidia reportedly team up on AI PCs that run actual agents instead of Copilot",
+      "url": "https://the-decoder.com/microsoft-and-nvidia-reportedly-team-up-on-ai-pcs-that-run-actual-agents-instead-of-copilot/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T16:18:56.000Z",
+      "summary": "Nvidia is pushing into the PC market with its own chips as the main processor. The first Windows computers from Dell and Microsoft's Surface line are set to be "
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T15:59:58.000Z",
+      "summary": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T15:30:00.000Z",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product."
+    },
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an A"
+    },
+    {
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-30T13:00:00.000Z",
+      "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media"
+    },
+    {
+      "title": "Making AI chatbots helpful weakens their ability to simulate human behavior, large-scale study finds",
+      "url": "https://the-decoder.com/making-ai-chatbots-helpful-weakens-their-ability-to-simulate-human-behavior-large-scale-study-finds/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T12:44:12.000Z",
+      "summary": "A large-scale study covering 208,000 participants and 26 million responses shows that the very training that turns language models into helpful chatbots weakens"
+    },
+    {
+      "title": "Terence Tao argues AI could bring division of labor to math for the first time in history",
+      "url": "https://the-decoder.com/terence-tao-argues-ai-could-bring-division-of-labor-to-math-for-the-first-time-in-history/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T12:04:25.000Z",
+      "summary": "Mathematician Terence Tao describes how AI could reshape math research by enabling division of labor for the first time. Until now, researchers had to master ev"
+    },
+    {
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-05-30T12:00:00.000Z",
+      "summary": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. Spac"
+    },
+    {
+      "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+      "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T10:32:22.000Z",
+      "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or insta"
+    },
+    {
+      "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+      "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T10:16:39.000Z",
+      "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC,"
+    },
+    {
+      "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
+      "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T09:32:57.000Z",
+      "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent mo"
+    },
+    {
+      "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
+      "url": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
+      "source": "The Decoder",
+      "publishedAt": "2026-05-30T08:37:42.000Z",
+      "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned int"
+    },
     {
       "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
       "url": "https://aws.amazon.com/sagemaker/ai/deploy/",
@@ -79,13 +184,6 @@
       "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI"
     },
     {
-      "title": "OpenAI is giving away its life sciences AI model to help governments prepare for the next pandemic",
-      "url": "https://the-decoder.com/openai-is-giving-away-its-life-sciences-ai-model-to-help-governments-prepare-for-the-next-pandemic/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-29T16:51:30.000Z",
-      "summary": "OpenAI is offering its life sciences model GPT-Rosalind for free through the new Rosalind Biodefense program, aimed at pandemic preparedness and biodefense. Ear"
-    },
-    {
       "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
       "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
       "source": "TechCrunch AI",
@@ -112,13 +210,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-29T14:00:00.000Z",
       "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie"
-    },
-    {
-      "title": "New review paper argues code is how AI agents think and act, not just what they produce",
-      "url": "https://the-decoder.com/new-review-paper-argues-code-is-how-ai-agents-think-and-act-not-just-what-they-produce/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-29T13:10:59.000Z",
-      "summary": "A new review paper argues that the real bottleneck for autonomous AI agents isn't the language model itself but the software layer wrapped around it. Tools, mem"
     },
     {
       "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
@@ -184,13 +275,6 @@
       "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology i"
     },
     {
-      "title": "Amazon kills internal AI leaderboard after employees gamed it with pointless tasks",
-      "url": "https://the-decoder.com/amazon-kills-internal-ai-leaderboard-after-employees-gamed-it-with-pointless-tasks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-29T09:45:29.000Z",
-      "summary": "Amazon is pulling an internal AI ranking system, the Financial Times reports, after employees inflated their scores through meaningless AI usage and driving up "
-    },
-    {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "source": "OpenAI News",
@@ -226,25 +310,11 @@
       "summary": "Azercell Telecom LLC, Azerbaijan's leading telecommunications provider, wanted to build an Azerbaijani large language model (LLM) on Amazon SageMaker AI for tel"
     },
     {
-      "title": "Claude company Anthropic nears a trillion-dollar valuation after raising $65 billion in Series H",
-      "url": "https://the-decoder.com/claude-company-anthropic-nears-a-trillion-dollar-valuation-after-raising-65-billion-in-series-h/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-28T21:30:58.000Z",
-      "summary": "Anthropic raises $65 billion in a Series H round at a $965 billion valuation. Annualized revenue tops $47 billion, according to CFO Krishna Rao. The company pla"
-    },
-    {
       "title": "The internet is being rebuilt for machines",
       "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-05-28T21:24:01.000Z",
       "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated i"
-    },
-    {
-      "title": "Anthropic ships Claude Opus 4.8 as a \"modest but tangible improvement\" that tops GPT-5.5 in most benchmarks",
-      "url": "https://the-decoder.com/anthropic-ships-claude-opus-4-8-as-a-modest-but-tangible-improvement-that-tops-gpt-5-5-in-most-benchmarks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-28T21:20:09.000Z",
-      "summary": "Anthropic releases Claude Opus 4.8, which beats GPT-5.5 and Gemini 3.1 Pro in most benchmarks. The model also catches its own coding errors four times more ofte"
     },
     {
       "title": "Build a custom portal with embedded Amazon SageMaker AI MLflow Apps",
@@ -303,20 +373,6 @@
       "summary": "This post covers Opus 4.8's improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads o"
     },
     {
-      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
-      "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T17:30:00.000Z",
-      "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register t"
-    },
-    {
-      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T17:00:09.000Z",
-      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents."
-    },
-    {
       "title": "Claude’s new model is more ‘honest’ when it messes up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
       "source": "The Verge AI",
@@ -338,67 +394,11 @@
       "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Irani"
     },
     {
-      "title": "YouTube takes baby steps to being a real podcast app",
-      "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-28T16:05:00.000Z",
-      "summary": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to "
-    },
-    {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T15:36:00.000Z",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through "
-    },
-    {
-      "title": "Google Cloud responds to AI-accelerated cyberattacks with a platform that aims to close security gaps in minutes",
-      "url": "https://the-decoder.com/google-cloud-responds-to-ai-accelerated-cyberattacks-with-a-platform-that-aims-to-close-security-gaps-in-minutes/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-28T15:35:58.000Z",
-      "summary": "Google Cloud has unveiled \"AI Threat Defense,\" a platform designed to automatically find, assess, and patch security flaws in enterprise systems. The company bu"
-    },
-    {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T15:35:43.000Z",
-      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional"
-    },
-    {
       "title": "Catch up on 12 major I/O 2026 moments",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
       "source": "Google AI Blog",
       "publishedAt": "2026-05-28T15:00:00.000Z",
       "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more."
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-28T14:45:13.000Z",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app."
-    },
-    {
-      "title": "These new iOS 27 renders hint at Siri’s big redesign",
-      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-28T14:33:31.000Z",
-      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a pr"
-    },
-    {
-      "title": "Google launches a tiny board that runs Gemma 3 locally",
-      "url": "https://the-decoder.com/google-launches-a-tiny-board-that-runs-gemma-3-locally/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-28T14:29:01.000Z",
-      "summary": "Google unveiled the new Coral Board at Google I/O - a compact single-board computer for on-device AI. The article Google launches a tiny board that runs Gemma 3"
-    },
-    {
-      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-28T14:08:36.000Z",
-      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit"
     },
     {
       "title": "The Download: climate tech goes public and the AI Hype Index returns",
