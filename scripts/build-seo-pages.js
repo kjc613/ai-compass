@@ -1,9 +1,17 @@
-import { mkdir, readdir, writeFile } from "node:fs/promises";
+﻿import { mkdir, readdir, writeFile } from "node:fs/promises";
 
-const siteUrl = "https://kjc613.github.io/ai-compass";
+const siteUrl = "https://kjc613.cn";
 const today = new Date().toISOString().slice(0, 10);
 const tools = JSON.parse(await readText("data/ai-tools.json"));
 const legalPages = ["about.html", "privacy.html", "terms.html", "contact.html"];
+const topicPages = [
+  "best-ai-coding-tools.html",
+  "free-ai-tools.html",
+  "china-ai-tools.html",
+  "ai-model-api-platforms.html",
+  "comfyui-tools.html",
+  "openrouter-guide.html"
+];
 
 const categoryMeta = {
   "大模型与 API": {
@@ -359,6 +367,11 @@ function renderSitemap(files) {
       changefreq: "monthly",
       priority: "0.5"
     })),
+    ...topicPages.map((file) => ({
+      loc: `${siteUrl}/topics/${file}`,
+      changefreq: "weekly",
+      priority: "0.8"
+    })),
     ...files.map((file) => ({
       loc: `${siteUrl}/categories/${file}`,
       changefreq: "weekly",
@@ -397,6 +410,9 @@ Main topics:
 - AI agents and automation
 - AI image, video, voice, and generation workflows
 - Daily AI news from official blogs and technology media
+
+Important guide pages:
+${topicPages.map((file) => `- ${siteUrl}/topics/${file}`).join("\n")}
 
 Important category pages:
 ${files.map((file) => `- ${siteUrl}/categories/${file}`).join("\n")}

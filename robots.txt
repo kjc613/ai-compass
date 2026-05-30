@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://kjc613.github.io/ai-compass/sitemap.xml
+Sitemap: https://kjc613.cn/sitemap.xml

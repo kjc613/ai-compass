@@ -640,16 +640,19 @@ select {
 }
 
 .static-category-grid,
+.topic-grid,
 .static-card-grid {
   display: grid;
   gap: 12px;
 }
 
-.static-category-grid {
+.static-category-grid,
+.topic-grid {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
-.static-category-grid a {
+.static-category-grid a,
+.topic-card {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--surface);
@@ -663,10 +666,79 @@ select {
 }
 
 .static-category-grid a:hover,
-.static-category-grid a:focus-visible {
+.static-category-grid a:focus-visible,
+.topic-card:hover,
+.topic-card:focus-visible {
   border-color: rgba(15, 118, 110, 0.42);
   box-shadow: 0 14px 34px rgba(23, 32, 38, 0.08);
   transform: translateY(-2px);
+}
+
+.topic-card {
+  min-height: 132px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.topic-card span {
+  color: var(--accent-dark);
+  font-weight: 850;
+}
+
+.topic-card p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-weight: 500;
+  line-height: 1.55;
+}
+
+.topic-page {
+  padding-top: 42px;
+}
+
+.topic-summary {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #edf7f5;
+  margin-bottom: 24px;
+  padding: 18px;
+}
+
+.topic-summary span {
+  color: var(--accent-dark);
+  font-size: 12px;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.topic-summary p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.topic-sections {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 24px;
+}
+
+.topic-sections article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 20px;
+}
+
+.topic-sections h2 {
+  font-size: 24px;
+}
+
+.topic-sections p {
+  color: var(--muted);
+  line-height: 1.75;
 }
 
 .static-card-grid {
@@ -857,7 +929,8 @@ select {
   .news-page .news-grid,
   .static-card-grid,
   .guide-grid,
-  .legal-grid {
+  .legal-grid,
+  .topic-sections {
     grid-template-columns: 1fr;
   }
 
@@ -875,7 +948,8 @@ select {
 
   .overview-grid,
   .pick-strip,
-  .static-category-grid {
+  .static-category-grid,
+  .topic-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -931,7 +1005,8 @@ select {
 
   .overview-grid,
   .pick-strip,
-  .static-category-grid {
+  .static-category-grid,
+  .topic-grid {
     grid-template-columns: 1fr;
   }
 }

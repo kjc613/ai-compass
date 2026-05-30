@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+﻿import { readFile, writeFile } from "node:fs/promises";
 
 const newsLimit = Number(process.env.NEWS_LIMIT || 60);
 const feeds = [
@@ -29,7 +29,7 @@ for (const feed of feeds) {
       signal: AbortSignal.timeout(15000),
       headers: {
         "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-        "User-Agent": "AI Compass News Bot/1.0 (+https://kjc613.github.io/ai-compass/)"
+        "User-Agent": "AI Compass News Bot/1.0 (+https://kjc613.cn/)"
       }
     });
 
