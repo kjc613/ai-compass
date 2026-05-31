@@ -3232,8 +3232,64 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-05-30T23:52:49.806Z",
+    "updatedAt": "2026-05-31T23:57:26.886Z",
     "items": [
+      {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-31T21:05:14.000Z",
+        "summary": "Environmental activist Erin Brockovich has a new mission."
+      },
+      {
+        "title": "Making sense of the debate over AI psychosis",
+        "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-05-31T15:30:00.000Z",
+        "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
+      },
+      {
+        "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+        "source": "The Verge AI",
+        "publishedAt": "2026-05-31T13:00:00.000Z",
+        "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume o"
+      },
+      {
+        "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
+        "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-31T11:37:20.000Z",
+        "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemic"
+      },
+      {
+        "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
+        "url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-31T10:10:14.000Z",
+        "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, "
+      },
+      {
+        "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
+        "url": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-31T09:42:11.000Z",
+        "summary": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and caree"
+      },
+      {
+        "title": "SoftBank plans 75 billion euro AI data center buildout in France",
+        "url": "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-31T08:45:46.000Z",
+        "summary": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 "
+      },
+      {
+        "title": "AI search agents often confirm what they already know instead of actually researching the web",
+        "url": "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/",
+        "source": "The Decoder",
+        "publishedAt": "2026-05-31T07:48:41.000Z",
+        "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm w"
+      },
       {
         "title": "SoftBank says it will invest up to €75 billion to build French data centers",
         "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
@@ -3326,20 +3382,6 @@ window.SITE_DATA = {
         "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC,"
       },
       {
-        "title": "Salesforce claims AI agents cut a 231-day migration to 13 days with fewer incidents",
-        "url": "https://the-decoder.com/salesforce-claims-ai-agents-cut-a-231-day-migration-to-13-days-with-fewer-incidents/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-30T09:32:57.000Z",
-        "summary": "Salesforce says it moved its entire dev org to Anthropic's Claude Code with no token limits and reports massive productivity gains for April 2026: 79 percent mo"
-      },
-      {
-        "title": "Meta's leaked memo reveals AI pendant, supersensing glasses, and enterprise wearables strategy",
-        "url": "https://the-decoder.com/metas-leaked-memo-reveals-ai-pendant-supersensing-glasses-and-enterprise-wearables-strategy/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-30T08:37:42.000Z",
-        "summary": "Meta has poured billions into AI with little commercial payoff so far. Its open-source strategy hasn't panned out, and research breakthroughs haven't turned int"
-      },
-      {
         "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
         "url": "https://aws.amazon.com/sagemaker/ai/deploy/",
         "source": "AWS Machine Learning Blog",
@@ -3368,13 +3410,6 @@ window.SITE_DATA = {
         "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
       },
       {
-        "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
-        "url": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-29T18:11:34.000Z",
-        "summary": "OpenAI is updating GPT-5.5 Instant for more natural responses and dropping the Canvas feature from its latest models. Writing and coding tasks will run directly"
-      },
-      {
         "title": "What happens when companies become too AI-pilled?",
         "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
         "source": "TechCrunch AI",
@@ -3382,25 +3417,11 @@ window.SITE_DATA = {
         "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie"
       },
       {
-        "title": "Google fixes several bugs in Gemini usage limits that burned through quotas too fast",
-        "url": "https://the-decoder.com/google-fixes-several-bugs-in-gemini-usage-limits-that-burned-through-quotas-too-fast/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-29T17:51:46.000Z",
-        "summary": "A bug in Google's Gemini app caused just one or two Omni videos to eat up the entire usage quota. Google has fixed the bug, Ultra members now get twice as many "
-      },
-      {
         "title": "Tech companies desperately want to film you doing chores",
         "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
         "source": "The Verge AI",
         "publishedAt": "2026-05-29T17:37:43.000Z",
         "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including Lond"
-      },
-      {
-        "title": "One company reportedly spent $500 million on Claude in one month after failing to cap AI usage",
-        "url": "https://the-decoder.com/one-company-reportedly-spent-500-million-on-claude-in-one-month-after-failing-to-cap-ai-usage/",
-        "source": "The Decoder",
-        "publishedAt": "2026-05-29T17:35:26.000Z",
-        "summary": "An unnamed company allegedly blew half a billion dollars on Claude licenses in a single month because nobody set usage limits. Cases like this show that without"
       },
       {
         "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
@@ -3578,20 +3599,6 @@ window.SITE_DATA = {
         "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
       },
       {
-        "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-        "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-28T18:52:51.000Z",
-        "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before "
-      },
-      {
-        "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-        "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-05-28T18:32:25.000Z",
-        "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material "
-      },
-      {
         "title": "Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore",
         "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/user-simulation.html",
         "source": "AWS Machine Learning Blog",
@@ -3618,13 +3625,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-05-28T16:41:07.000Z",
         "summary": "This post demonstrates that integration in action by automating one of the most labor-intensive workflows in financial services: anti-money laundering (AML) ale"
-      },
-      {
-        "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-        "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-        "source": "The Verge AI",
-        "publishedAt": "2026-05-28T16:08:45.000Z",
-        "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Irani"
       },
       {
         "title": "Catch up on 12 major I/O 2026 moments",
