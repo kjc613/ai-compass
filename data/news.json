@@ -1,6 +1,279 @@
 {
-  "updatedAt": "2026-06-02T00:06:17.137Z",
+  "updatedAt": "2026-06-03T00:23:05.463Z",
   "items": [
+    {
+      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T22:50:56.000Z",
+      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
+    },
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T19:23:52.000Z",
+      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging fro"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T19:11:48.000Z",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T19:02:21.000Z",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluati"
+    },
+    {
+      "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
+      "url": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T18:34:15.000Z",
+      "summary": "OpenAI is expanding Codex with role-specific plugins for data analysis, sales, and investment banking. Five million people use the tool each week, and one in fi"
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T18:33:42.000Z",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal gover"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T18:16:53.000Z",
+      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding."
+    },
+    {
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T18:12:44.000Z",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model develop"
+    },
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T18:02:44.000Z",
+      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+    },
+    {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake "
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
+    },
+    {
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Out"
+    },
+    {
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T18:00:00.000Z",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appea"
+    },
+    {
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T17:47:28.000Z",
+      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without co"
+    },
+    {
+      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
+      "url": "https://aws.amazon.com/nova/forge/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-06-02T17:39:03.000Z",
+      "summary": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right"
+    },
+    {
+      "title": "Object detection with Amazon Nova 2 Lite",
+      "url": "https://aws.amazon.com/nova/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-06-02T17:31:11.000Z",
+      "summary": "In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon "
+    },
+    {
+      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T17:31:02.000Z",
+      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from"
+    },
+    {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T16:30:00.000Z",
+      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX "
+    },
+    {
+      "title": "Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws",
+      "url": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T16:29:42.000Z",
+      "summary": "Anthropic is scaling up Project Glasswing with 150 new partners across more than 15 countries, all using Claude Mythos Preview to scan critical infrastructure f"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T16:23:08.000Z",
+      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T16:00:00.000Z",
+      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banki"
+    },
+    {
+      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T15:59:58.000Z",
+      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout,"
+    },
+    {
+      "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
+      "url": "https://baz.co/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-06-02T15:45:11.000Z",
+      "summary": "This post walks through how Baz built their Spec Review agent using Amazon Bedrock and Amazon Bedrock AgentCore. We'll cover the architecture decisions, impleme"
+    },
+    {
+      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T14:44:21.000Z",
+      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical"
+    },
+    {
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-06-02T14:13:23.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-02T12:38:08.000Z",
+      "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and yo"
+    },
+    {
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T12:32:59.000Z",
+      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
+    },
+    {
+      "title": "The Download: AI can run your admin department now",
+      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-02T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses c"
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-02T12:00:00.000Z",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak deman"
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-02T12:00:00.000Z",
+      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
+    },
+    {
+      "title": "Hackers hijacked high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email",
+      "url": "https://the-decoder.com/hackers-hijacked-high-profile-instagram-accounts-by-simply-asking-metas-ai-chatbot-to-change-the-email/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T11:31:29.000Z",
+      "summary": "Hackers took over prominent Instagram accounts, including the Obama White House page, by simply asking Meta's AI support chatbot to change the email address on "
+    },
+    {
+      "title": "OpenAI turns ChatGPT into a career platform with job search and CV editor",
+      "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T10:40:22.000Z",
+      "summary": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes ca"
+    },
+    {
+      "title": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
+      "url": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T10:15:30.000Z",
+      "summary": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spen"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
+    },
+    {
+      "title": "How small businesses can leverage AI",
+      "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-02T09:00:00.000Z",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,s"
+    },
+    {
+      "title": "OpenAI models now available on Amazon Web Services",
+      "url": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-02T08:00:26.000Z",
+      "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and gove"
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
+    },
+    {
+      "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
+      "url": "https://kiro.dev/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-06-02T03:23:35.000Z",
+      "summary": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock Agen"
+    },
+    {
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-02T02:00:00.000Z",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and conte"
+    },
     {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
@@ -51,20 +324,6 @@
       "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform "
     },
     {
-      "title": "Gemini’s new AI agent is about as good as Google’s demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T20:00:00.000Z",
-      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential "
-    },
-    {
-      "title": "Meta’s own AI was exploited to hijack Instagram accounts",
-      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T19:20:47.000Z",
-      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they cou"
-    },
-    {
       "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
       "url": "https://modelcontextprotocol.io/specification/2025-11-25",
       "source": "AWS Machine Learning Blog",
@@ -107,11 +366,11 @@
       "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientif"
     },
     {
-      "title": "Anthropic has officially filed to go public",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T16:40:38.000Z",
-      "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick o"
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-01T17:00:00.000Z",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on t"
     },
     {
       "title": "Anthropic files to go public",
@@ -161,265 +420,6 @@
       "source": "Hugging Face Blog",
       "publishedAt": "2026-06-01T15:45:17.000Z",
       "summary": ""
-    },
-    {
-      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-01T14:49:10.000Z",
-      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users."
-    },
-    {
-      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T14:39:03.000Z",
-      "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft"
-    },
-    {
-      "title": "AI is blowing up music. How should the Grammys handle it?",
-      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T14:30:00.000Z",
-      "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024"
-    },
-    {
-      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-01T14:06:44.000Z",
-      "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrun"
-    },
-    {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-06-01T13:51:18.000Z",
-      "summary": ""
-    },
-    {
-      "title": "MiniMax M3: Open-weight model with a million-token context challenges proprietary leaders",
-      "url": "https://the-decoder.com/minimax-m3-open-weight-model-with-a-million-token-context-challenges-proprietary-leaders/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-01T13:38:52.000Z",
-      "summary": "Chinese AI company MiniMax has released its new model M3. It's billed as the first open-weight model to combine top-tier coding performance, a one-million-token"
-    },
-    {
-      "title": "Nvidia's Nemotron 3 Ultra becomes the smartest open US model, but China still leads",
-      "url": "https://the-decoder.com/nvidias-nemotron-3-ultra-becomes-the-smartest-open-us-model-but-china-still-leads/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-01T13:32:51.000Z",
-      "summary": "According to benchmark platform Artificial Analysis, Nvidia's new Nemotron 3 Ultra is the most capable open AI model from the US to date. The article Nvidia's N"
-    },
-    {
-      "title": "Nvidia bets big on physical AI at GTC Taipei with a new world model, driving brain, and open humanoid robot",
-      "url": "https://the-decoder.com/nvidia-bets-big-on-physical-ai-at-gtc-taipei-with-a-new-world-model-driving-brain-and-open-humanoid-robot/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-01T13:26:35.000Z",
-      "summary": "Nvidia used GTC Taipei to launch a series of models for robots, autonomous vehicles, and video systems. The centerpieces are the new world model Cosmos 3, a sig"
-    },
-    {
-      "title": "Nvidia pitches RTX Spark as the chip that finally makes local AI agents practical on Windows devices",
-      "url": "https://the-decoder.com/nvidia-pitches-rtx-spark-as-the-chip-that-finally-makes-local-ai-agents-practical-on-windows-devices/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-01T13:17:03.000Z",
-      "summary": "Nvidia is attacking Apple Silicon and Qualcomm on Windows laptops with the RTX Spark. The chip combines a Blackwell GPU with an Arm-based Grace CPU and up to 12"
-    },
-    {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source": "OpenAI News",
-      "publishedAt": "2026-06-01T12:00:00.000Z",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communi"
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "publishedAt": "2026-06-01T10:00:00.000Z",
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, "
-    },
-    {
-      "title": "OpenAI starts with infrastructure robots but aims for \"everyone having a personal robot doing anything they need\"",
-      "url": "https://the-decoder.com/openai-starts-with-infrastructure-robots-but-aims-for-everyone-having-a-personal-robot-doing-anything-they-need/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-01T08:47:33.000Z",
-      "summary": "OpenAI is building a robotics team again, five years after shutting the division down. The team grew out of the world simulation research program. CEO Sam Altma"
-    },
-    {
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-06-01T04:44:55.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-31T21:05:14.000Z",
-      "summary": "Environmental activist Erin Brockovich has a new mission."
-    },
-    {
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-31T15:30:00.000Z",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
-    },
-    {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-31T13:00:00.000Z",
-      "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume o"
-    },
-    {
-      "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
-      "url": "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-31T11:37:20.000Z",
-      "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemic"
-    },
-    {
-      "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
-      "url": "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-31T10:10:14.000Z",
-      "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, "
-    },
-    {
-      "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
-      "url": "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/",
-      "source": "The Decoder",
-      "publishedAt": "2026-05-31T09:42:11.000Z",
-      "summary": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and caree"
-    },
-    {
-      "title": "SoftBank says it will invest up to €75B to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T21:45:00.000Z",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
-    },
-    {
-      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T16:30:00.000Z",
-      "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end."
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T15:59:58.000Z",
-      "summary": "Meta seems to be making big bets on AI-powered hardware."
-    },
-    {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T15:30:00.000Z",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product."
-    },
-    {
-      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T14:49:27.000Z",
-      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means yo"
-    },
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "summary": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an A"
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "source": "The Verge AI",
-      "publishedAt": "2026-05-30T13:00:00.000Z",
-      "summary": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media"
-    },
-    {
-      "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
-      "url": "https://aws.amazon.com/sagemaker/ai/deploy/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-05-29T23:36:58.000Z",
-      "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity"
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29T22:14:22.000Z",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them."
-    },
-    {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-29T19:00:00.000Z",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29T18:49:19.000Z",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29T17:57:05.000Z",
-      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie"
-    },
-    {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-05-29T17:30:00.000Z",
-      "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026."
-    },
-    {
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29T17:27:13.000Z",
-      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI"
-    },
-    {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-05-29T16:13:47.000Z",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
-    },
-    {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source": "OpenAI News",
-      "publishedAt": "2026-05-29T12:00:00.000Z",
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
-    },
-    {
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "source": "OpenAI News",
-      "publishedAt": "2026-05-29T12:00:00.000Z",
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
     }
   ]
 }
