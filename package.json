@@ -10,7 +10,8 @@
     "build-seo": "node scripts/build-topic-pages.js && node scripts/build-seo-pages.js",
     "build": "node scripts/build-static.js",
     "update-news": "node scripts/update-news.js",
-    "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1"
+    "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1",
+    "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1"
   },
   "engines": {
     "node": ">=20"
