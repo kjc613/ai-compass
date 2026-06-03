@@ -1,5 +1,9 @@
 node_modules/
 同步github.txt
-.env
-*.log
 dist/
+
+.env
+.env.*
+
+*.log
+npm-debug.log*
