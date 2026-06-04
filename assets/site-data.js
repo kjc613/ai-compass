@@ -3232,8 +3232,239 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-03T00:23:05.463Z",
+    "updatedAt": "2026-06-04T00:25:05.301Z",
     "items": [
+      {
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T22:56:51.000Z",
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claud"
+      },
+      {
+        "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
+        "url": "https://aws.amazon.com/bedrock/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-03T20:14:16.000Z",
+        "summary": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjust"
+      },
+      {
+        "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
+        "url": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T19:54:13.000Z",
+        "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matc"
+      },
+      {
+        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+        "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T19:38:32.000Z",
+        "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
+      },
+      {
+        "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
+        "url": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T19:28:29.000Z",
+        "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together "
+      },
+      {
+        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+        "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T19:07:42.000Z",
+        "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
+      },
+      {
+        "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+        "url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T18:34:36.000Z",
+        "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. O"
+      },
+      {
+        "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
+        "url": "https://aws.amazon.com/sagemaker/ai/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-03T17:55:37.000Z",
+        "summary": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictio"
+      },
+      {
+        "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+        "url": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T17:55:21.000Z",
+        "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI develop"
+      },
+      {
+        "title": "As AI gets better, it reveals an empty promise",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-03T17:45:35.000Z",
+        "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It"
+      },
+      {
+        "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
+        "url": "https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-03T16:26:35.000Z",
+        "summary": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and h"
+      },
+      {
+        "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
+        "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-03T16:07:31.000Z",
+        "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of cloth"
+      },
+      {
+        "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
+        "url": "https://arxiv.org/abs/2305.18290",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-03T15:56:50.000Z",
+        "summary": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a smal"
+      },
+      {
+        "title": "Amazon will show AI product images when you search for some reason",
+        "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T15:50:26.000Z",
+        "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
+      },
+      {
+        "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T15:00:00.000Z",
+        "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
+      },
+      {
+        "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T14:58:33.000Z",
+        "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K."
+      },
+      {
+        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-03T14:04:00.000Z",
+        "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning mod"
+      },
+      {
+        "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
+        "url": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T13:40:16.000Z",
+        "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task ge"
+      },
+      {
+        "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T13:40:00.000Z",
+        "summary": "WhatsApp will charge businesses for using its AI agent based on token usage."
+      },
+      {
+        "title": "Introducing new capabilities to GPT-Rosalind",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-03T13:15:00.000Z",
+        "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow cap"
+      },
+      {
+        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-03T13:02:51.000Z",
+        "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their b"
+      },
+      {
+        "title": "5 ways Google Search can level up your thrift and vintage shopping",
+        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-06-03T13:00:00.000Z",
+        "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping."
+      },
+      {
+        "title": "Direct Preference Optimization Beyond Chatbots",
+        "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-06-03T12:55:11.000Z",
+        "summary": ""
+      },
+      {
+        "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-03T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’"
+      },
+      {
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "url": "https://openai.com/index/wasmer",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-03T12:00:00.000Z",
+        "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+      },
+      {
+        "title": "AI music startup Suno doubles its valuation to $5.4 billion while fighting major record labels in court",
+        "url": "https://the-decoder.com/ai-music-startup-suno-doubles-its-valuation-to-5-4-billion-while-fighting-major-record-labels-in-court/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T11:21:11.000Z",
+        "summary": "AI music startup Suno has raised $400 million at a $5.4 billion valuation. The article AI music startup Suno doubles its valuation to $5.4 billion while fightin"
+      },
+      {
+        "title": "Nous Research releases Hermes Desktop, an open-source AI agent for every platform",
+        "url": "https://the-decoder.com/nous-research-releases-hermes-desktop-an-open-source-ai-agent-for-every-platform/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T10:56:38.000Z",
+        "summary": "Nous Research has released Hermes Desktop, an open-source AI agent app under the MIT license. The article Nous Research releases Hermes Desktop, an open-source "
+      },
+      {
+        "title": "Build 2026: Microsoft tops Google in image generation while playing catch-up on reasoning",
+        "url": "https://the-decoder.com/build-2026-microsoft-tops-google-in-image-generation-while-playing-catch-up-on-reasoning/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-03T10:48:19.000Z",
+        "summary": "At Build 2026, Microsoft announced seven new AI models developed in-house, including its first reasoning model. The company also introduced a new tuning method "
+      },
+      {
+        "title": "OpenAI public policy agenda",
+        "url": "https://openai.com/index/public-policy-agenda",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-03T10:00:00.000Z",
+        "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+      },
+      {
+        "title": "A blueprint for democratic governance of frontier AI",
+        "url": "https://openai.com/index/frontier-safety-blueprint",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-03T10:00:00.000Z",
+        "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+      },
+      {
+        "title": "AI has a water problem — Google thinks it has a fix",
+        "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-03T09:00:00.000Z",
+        "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actua"
+      },
+      {
+        "title": "Google must let publishers opt out of AI Search features, rules UK",
+        "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-03T08:45:48.000Z",
+        "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct "
+      },
+      {
+        "title": "Adding MCP Tools to Reachy Mini",
+        "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-06-03T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
         "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
@@ -3347,20 +3578,6 @@ window.SITE_DATA = {
         "summary": "In this post, we'll walk through implementing object detection with Amazon Nova 2 Lite. You'll learn how to deploy an object detection application using Amazon "
       },
       {
-        "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-        "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-02T17:31:02.000Z",
-        "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from"
-      },
-      {
-        "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
-        "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-02T16:30:00.000Z",
-        "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX "
-      },
-      {
         "title": "Anthropic scales Project Glasswing to 150 partners across 15 countries to hunt critical software flaws",
         "url": "https://the-decoder.com/anthropic-scales-project-glasswing-to-150-partners-across-15-countries-to-hunt-critical-software-flaws/",
         "source": "The Decoder",
@@ -3380,13 +3597,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-02T16:00:00.000Z",
         "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banki"
-      },
-      {
-        "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-        "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-02T15:59:58.000Z",
-        "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout,"
       },
       {
         "title": "How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore",
@@ -3410,13 +3620,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-02T12:38:08.000Z",
-        "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and yo"
-      },
-      {
         "title": "ZeroDrift raises $10M to protect AI models from themselves",
         "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
         "source": "TechCrunch AI",
@@ -3424,46 +3627,11 @@ window.SITE_DATA = {
         "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
       },
       {
-        "title": "The Download: AI can run your admin department now",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-02T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses c"
-      },
-      {
         "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
         "url": "https://openai.com/index/travelers",
         "source": "OpenAI News",
         "publishedAt": "2026-06-02T12:00:00.000Z",
         "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak deman"
-      },
-      {
-        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-        "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-02T12:00:00.000Z",
-        "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
-      },
-      {
-        "title": "Hackers hijacked high-profile Instagram accounts by simply asking Meta's AI chatbot to change the email",
-        "url": "https://the-decoder.com/hackers-hijacked-high-profile-instagram-accounts-by-simply-asking-metas-ai-chatbot-to-change-the-email/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-02T11:31:29.000Z",
-        "summary": "Hackers took over prominent Instagram accounts, including the Obama White House page, by simply asking Meta's AI support chatbot to change the email address on "
-      },
-      {
-        "title": "OpenAI turns ChatGPT into a career platform with job search and CV editor",
-        "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-career-platform-with-job-search-and-cv-editor/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-02T10:40:22.000Z",
-        "summary": "OpenAI turns ChatGPT into a career tool: A new job search feature surfaces personalized listings from Indeed, Upwork, and Appcast, initially US-only. Resumes ca"
-      },
-      {
-        "title": "Warren Buffett's Berkshire Hathaway bets $10 billion on Alphabet's AI infrastructure buildout",
-        "url": "https://the-decoder.com/warren-buffetts-berkshire-hathaway-bets-10-billion-on-alphabets-ai-infrastructure-buildout/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-02T10:15:30.000Z",
-        "summary": "Alphabet is raising $80 billion to scale its AI infrastructure, backed by a $10 billion private investment from Warren Buffett. The company expects capital spen"
       },
       {
         "title": "Codex for every role, tool, and workflow",
@@ -3480,179 +3648,11 @@ window.SITE_DATA = {
         "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,s"
       },
       {
-        "title": "OpenAI models now available on Amazon Web Services",
-        "url": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-02T08:00:26.000Z",
-        "summary": "OpenAI is making GPT-5.5, GPT-5.4, and Codex available through Amazon Bedrock at the same prices as OpenAI's own platform. The models run in commercial and gove"
-      },
-      {
         "title": "Advancing youth safety and opportunity through global leadership",
         "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
         "source": "OpenAI News",
         "publishedAt": "2026-06-02T07:00:00.000Z",
         "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
-      },
-      {
-        "title": "Building a secure auth code flow setup using AgentCore Gateway with MCP clients",
-        "url": "https://kiro.dev/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-02T03:23:35.000Z",
-        "summary": "This post demonstrates how to implement Open Authorization (OAuth) Code flow as an inbound authorization mechanism for MCP servers hosted on Amazon Bedrock Agen"
-      },
-      {
-        "title": "Codex is becoming a productivity tool for everyone",
-        "url": "https://openai.com/index/codex-for-knowledge-work",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-02T02:00:00.000Z",
-        "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and conte"
-      },
-      {
-        "title": "Alphabet plans to raise $80B to pay for AI buildout",
-        "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T22:55:09.000Z",
-        "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s availabl"
-      },
-      {
-        "title": "Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T22:16:28.000Z",
-        "summary": "Today, we’re excited to announce the ability to reference a secret in AWS Secrets Manager for AgentCore Identity, so you can reference your own preconfigured se"
-      },
-      {
-        "title": "Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries",
-        "url": "https://docs.aws.amazon.com/quick/latest/userguide/using-amazon-quick-research.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T21:54:16.000Z",
-        "summary": "In this post, we walk through how to use Amazon Quick Research to integrate biomedical data sources for rare cancer research. The walkthrough uses pediatric sar"
-      },
-      {
-        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T21:35:00.000Z",
-        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
-      },
-      {
-        "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-        "url": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T21:31:12.000Z",
-        "summary": "GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy them in production applications and agents today, on Bedrock’s high performanc"
-      },
-      {
-        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-        "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T20:03:40.000Z",
-        "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
-      },
-      {
-        "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-        "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-01T20:02:31.000Z",
-        "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform "
-      },
-      {
-        "title": "Extending MCP support for Amazon Bedrock AgentCore Gateway",
-        "url": "https://modelcontextprotocol.io/specification/2025-11-25",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T18:35:03.000Z",
-        "summary": "While deploying Model Context Protocol (MCP) servers in production, enterprises need fine-grained access control across servers, observability into which teams "
-      },
-      {
-        "title": "Water access is now a risk factor in SpaceX’s IPO",
-        "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T18:19:53.000Z",
-        "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
-      },
-      {
-        "title": "Secure AI agents with Policy and Lambda interceptors in Amazon Bedrock AgentCore gateway",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T17:54:22.000Z",
-        "summary": "In this post, we use a lakehouse data agent to demonstrate how you can use Policy for deterministic access control and Lambda interceptors for dynamic validatio"
-      },
-      {
-        "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/payments.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T17:30:12.000Z",
-        "summary": "In this post, we address several key risks that surface when designing an agentic payment system, and how to address them with the capabilities of AgentCore pay"
-      },
-      {
-        "title": "Claude maker Anthropic files for IPO with the SEC",
-        "url": "https://the-decoder.com/claude-maker-anthropic-files-for-ipo-with-the-sec/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-01T17:26:59.000Z",
-        "summary": "Anthropic has confidentially filed a draft IPO registration with the US Securities and Exchange Commission (SEC). The company behind the chatbot Claude is value"
-      },
-      {
-        "title": "Turing Award winner Richard Sutton says pure generative AI can't do real science",
-        "url": "https://the-decoder.com/turing-award-winner-richard-sutton-says-pure-generative-ai-cant-do-real-science/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-01T17:10:26.000Z",
-        "summary": "Turing Award winner Richard Sutton sees a central weakness in conventional generative AI: it can't evaluate its own results. Without that ability, real scientif"
-      },
-      {
-        "title": "Our views on AI policy and political advocacy",
-        "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-01T17:00:00.000Z",
-        "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on t"
-      },
-      {
-        "title": "Anthropic files to go public",
-        "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T16:36:55.000Z",
-        "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
-      },
-      {
-        "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/what-is/agentic-ai/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T16:12:18.000Z",
-        "summary": "When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-d"
-      },
-      {
-        "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
-        "url": "https://arxiv.org/abs/2504.19874",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T16:07:19.000Z",
-        "summary": "If you’re iterating on deploying large language models (LLMs) on AWS GPU instances, you’ve probably noticed the larger the model to be loaded into GPU High Band"
-      },
-      {
-        "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
-        "url": "https://github.com/KxSystems/kdb-x-mcp-server",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-01T16:01:24.000Z",
-        "summary": "In this post, we walk through a practical implementation using KDB-X MCP server integration with Amazon Quick, demonstrating how traders and analysts can ask qu"
-      },
-      {
-        "title": "How we used Gemini to build Google I/O 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-06-01T16:00:00.000Z",
-        "summary": "Learn how Googlers used AI to produce Google I/O 2026."
-      },
-      {
-        "title": "This AI weather startup is out-forecasting government agencies",
-        "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-01T16:00:00.000Z",
-        "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings"
-      },
-      {
-        "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-06-01T15:45:17.000Z",
-        "summary": ""
       }
     ]
   }
