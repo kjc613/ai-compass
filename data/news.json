@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-06-04T23:59:20.833Z",
+  "updatedAt": "2026-06-05T23:58:49.425Z",
   "items": [
+    {
+      "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-06-05T22:18:46.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T20:00:00.000Z",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T18:57:20.000Z",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
+    },
+    {
+      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
+      "url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-05T18:19:31.000Z",
+      "summary": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-pag"
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T17:17:06.000Z",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised mone"
+    },
+    {
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-05T16:39:07.000Z",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change ev"
+    },
+    {
+      "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
+      "url": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-05T15:33:56.000Z",
+      "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is wri"
+    },
+    {
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-05T15:25:10.000Z",
+      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul s"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T14:49:12.000Z",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-06-05T14:45:00.000Z",
+      "summary": "Here are Google’s latest AI updates from May 2026"
+    },
+    {
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T14:00:00.000Z",
+      "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised mone"
+    },
+    {
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-05T13:57:31.000Z",
+      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the scrip"
+    },
+    {
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T13:03:10.000Z",
+      "summary": "The Australian data center operator plans to set up 5GW of capacity in India."
+    },
+    {
+      "title": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
+      "url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-05T12:10:26.000Z",
+      "summary": "Microsoft sells its LLM training approach as different from other AI companies. It isn't. The company trained its new MAI models partly on unlicensed web data l"
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows th"
+    },
+    {
+      "title": "Anthropic's Mythos model is reportedly powering NSA offensive cyber ops against China and Iran",
+      "url": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-05T11:15:28.000Z",
+      "summary": "Anthropic has reportedly stationed about half a dozen engineers directly at the NSA to adapt its Mythos AI model for offensive cyber operations. The model could"
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.sxswlondon.com/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Ma"
+    },
+    {
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-06-05T09:00:00.000Z",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked "
+    },
+    {
+      "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
+      "url": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-05T08:45:29.000Z",
+      "summary": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude,"
+    },
+    {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-05T05:06:37.000Z",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
+    },
     {
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
       "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
@@ -177,13 +317,6 @@
       "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
     },
     {
-      "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
-      "url": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-04T08:04:48.000Z",
-      "summary": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Mu"
-    },
-    {
       "title": "Biodefense in the Intelligence Age",
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
       "source": "OpenAI News",
@@ -212,25 +345,11 @@
       "summary": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjust"
     },
     {
-      "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
-      "url": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-03T19:54:13.000Z",
-      "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matc"
-    },
-    {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
       "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-03T19:38:32.000Z",
       "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
-    },
-    {
-      "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
-      "url": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-03T19:28:29.000Z",
-      "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together "
     },
     {
       "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
@@ -240,25 +359,11 @@
       "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
     },
     {
-      "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
-      "url": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-03T18:34:36.000Z",
-      "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. O"
-    },
-    {
       "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
       "url": "https://aws.amazon.com/sagemaker/ai/",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-06-03T17:55:37.000Z",
       "summary": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictio"
-    },
-    {
-      "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
-      "url": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-03T17:55:21.000Z",
-      "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI develop"
     },
     {
       "title": "As AI gets better, it reveals an empty promise",
@@ -275,13 +380,6 @@
       "summary": "In this post, we look at how to use SOCI on publicly available Deep Learning AMIs and Containers, when to use the various SOCI modes provided by the tool, and h"
     },
     {
-      "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-03T16:07:31.000Z",
-      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of cloth"
-    },
-    {
       "title": "Improve your agent’s tool-calling accuracy with SFT and DPO on Amazon SageMaker AI",
       "url": "https://arxiv.org/abs/2305.18290",
       "source": "AWS Machine Learning Blog",
@@ -296,46 +394,11 @@
       "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
     },
     {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03T15:00:00.000Z",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
-    },
-    {
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03T14:58:33.000Z",
-      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K."
-    },
-    {
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-03T14:04:00.000Z",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning mod"
-    },
-    {
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03T13:40:00.000Z",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage."
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "source": "OpenAI News",
       "publishedAt": "2026-06-03T13:15:00.000Z",
       "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow cap"
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03T13:02:51.000Z",
-      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their b"
     },
     {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -352,74 +415,11 @@
       "summary": ""
     },
     {
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-06-03T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’"
-    },
-    {
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "url": "https://openai.com/index/wasmer",
       "source": "OpenAI News",
       "publishedAt": "2026-06-03T12:00:00.000Z",
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI News",
-      "publishedAt": "2026-06-03T10:00:00.000Z",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source": "OpenAI News",
-      "publishedAt": "2026-06-03T10:00:00.000Z",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-03T09:00:00.000Z",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actua"
-    },
-    {
-      "title": "Adding MCP Tools to Reachy Mini",
-      "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-06-03T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T22:50:56.000Z",
-      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T19:11:48.000Z",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
-    },
-    {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-02T19:02:21.000Z",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluati"
-    },
-    {
-      "title": "The art and science of hyperparameter optimization on Amazon Nova Forge",
-      "url": "https://aws.amazon.com/nova/forge/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-02T17:39:03.000Z",
-      "summary": "Fine-tuning for domain-specific tasks means improving performance in one area without degrading the model’s general capabilities, and getting that balance right"
     }
   ]
 }
