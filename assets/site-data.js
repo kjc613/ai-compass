@@ -3232,14 +3232,112 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-05T23:58:49.425Z",
+    "updatedAt": "2026-06-06T23:56:57.502Z",
     "items": [
       {
-        "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-06T20:32:24.000Z",
+        "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the"
+      },
+      {
+        "title": "Five labs, five minds: building a multi-model finance drama on small models",
+        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
         "source": "Hugging Face Blog",
-        "publishedAt": "2026-06-05T22:18:46.000Z",
+        "publishedAt": "2026-06-06T19:02:33.000Z",
         "summary": ""
+      },
+      {
+        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+        "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-06T18:13:36.000Z",
+        "summary": "Apple's WWDC nears: Here's what you can look forward to."
+      },
+      {
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-06T17:42:15.000Z",
+        "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
+      },
+      {
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-06T16:17:21.000Z",
+        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
+      },
+      {
+        "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-06T15:05:00.000Z",
+        "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense a"
+      },
+      {
+        "title": "Meta made its own AI-generated clickbait news feed",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-06T14:00:00.000Z",
+        "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"Fo"
+      },
+      {
+        "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+        "url": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T13:57:52.000Z",
+        "summary": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transfo"
+      },
+      {
+        "title": "Here comes new Siri again",
+        "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-06T12:00:00.000Z",
+        "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, App"
+      },
+      {
+        "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
+        "url": "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T11:42:08.000Z",
+        "summary": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch buil"
+      },
+      {
+        "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
+        "url": "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T11:22:28.000Z",
+        "summary": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and"
+      },
+      {
+        "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
+        "url": "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T10:50:21.000Z",
+        "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like cough"
+      },
+      {
+        "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+        "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T07:57:41.000Z",
+        "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia c"
+      },
+      {
+        "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
+        "url": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T07:30:43.000Z",
+        "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly "
+      },
+      {
+        "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
+        "url": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-06T06:54:29.000Z",
+        "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a "
       },
       {
         "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -3340,13 +3438,6 @@ window.SITE_DATA = {
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows th"
       },
       {
-        "title": "Anthropic's Mythos model is reportedly powering NSA offensive cyber ops against China and Iran",
-        "url": "https://the-decoder.com/anthropics-mythos-model-is-reportedly-powering-nsa-offensive-cyber-ops-against-china-and-iran/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-05T11:15:28.000Z",
-        "summary": "Anthropic has reportedly stationed about half a dozen engineers directly at the NSA to adapt its Mythos AI model for offensive cyber operations. The model could"
-      },
-      {
         "title": "Are AI chatbots making us lose control of our brains?",
         "url": "https://www.sxswlondon.com/",
         "source": "MIT Technology Review",
@@ -3359,13 +3450,6 @@ window.SITE_DATA = {
         "source": "MIT Technology Review",
         "publishedAt": "2026-06-05T09:00:00.000Z",
         "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked "
-      },
-      {
-        "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
-        "url": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-05T08:45:29.000Z",
-        "summary": "Anthropic is sharing internal data showing how much Claude is speeding up its own AI development: more than 80 percent of production code now comes from Claude,"
       },
       {
         "title": "Mira Murati steps back into the spotlight, carefully",
@@ -3417,13 +3501,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "Cloudflare CEO says the web's future is \"pay to crawl\" as bots overtake human traffic",
-        "url": "https://the-decoder.com/cloudflare-ceo-says-the-webs-future-is-pay-to-crawl-as-bots-overtake-human-traffic/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-04T18:54:13.000Z",
-        "summary": "Bot traffic now outpaces human traffic on the internet, Cloudflare CEO Matthew Prince says, years ahead of his late 2027 forecast. He blames AI agents for the s"
-      },
-      {
         "title": "Kevin O’Leary agrees to downsize massive Utah data center",
         "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
         "source": "The Verge AI",
@@ -3438,32 +3515,11 @@ window.SITE_DATA = {
         "summary": "Deploy NVIDIA Nemotron 3 Ultra on Amazon SageMaker JumpStart. Get 5x faster inference and 30% lower cost for agentic AI workloads with this frontier reasoning m"
       },
       {
-        "title": "ChatGPT now saves narrative dossiers about you sorted by work, hobbies, and travel preferences",
-        "url": "https://the-decoder.com/chatgpt-now-saves-narrative-dossiers-about-you-sorted-by-work-hobbies-and-travel-preferences/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-04T16:47:48.000Z",
-        "summary": "ChatGPT's updated \"Dreaming\" memory system now builds coherent user profiles from conversations instead of saving scattered bullet points. OpenAI says the succe"
-      },
-      {
         "title": "Meta rolls out a new AI creator assistant on Facebook",
         "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-04T16:32:48.000Z",
         "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questio"
-      },
-      {
-        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-        "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-04T16:31:12.000Z",
-        "summary": "Apple's WWDC nears: Here's what you can look forward to."
-      },
-      {
-        "title": "Bain study finds companies miss AI savings targets because humans keep getting in the way",
-        "url": "https://the-decoder.com/bain-study-finds-companies-miss-ai-savings-targets-because-humans-keep-getting-in-the-way/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-04T16:12:50.000Z",
-        "summary": "According to a Bain survey of 951 companies, almost 40 percent achieved less than 10 percent in AI cost savings, even though most had targeted 11 to 20 percent."
       },
       {
         "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
@@ -3494,13 +3550,6 @@ window.SITE_DATA = {
         "summary": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroy"
       },
       {
-        "title": "OpenAI CEO Sam Altman sees \"proactive AI\" as the next big phase after chatbots and agents",
-        "url": "https://the-decoder.com/openai-ceo-sam-altman-sees-proactive-ai-as-the-next-big-phase-after-chatbots-and-agents/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-04T13:25:44.000Z",
-        "summary": "OpenAI CEO Sam Altman outlines the next phase of AI products: a \"proactive AI\" that runs constantly in the background and acts on its own instead of waiting for"
-      },
-      {
         "title": "Let us filter AI slop, you cowards",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
         "source": "The Verge AI",
@@ -3515,32 +3564,11 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-04T12:12:12.000Z",
-        "summary": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to d"
-      },
-      {
         "title": "How Endava is redesigning software delivery around AI agents",
         "url": "https://openai.com/index/endava-frontiers",
         "source": "OpenAI News",
         "publishedAt": "2026-06-04T12:00:00.000Z",
         "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across th"
-      },
-      {
-        "title": "AI can now coach amateur virologists, and top tech leaders want Congress to act on DNA security",
-        "url": "https://the-decoder.com/ai-can-now-coach-amateur-virologists-and-top-tech-leaders-want-congress-to-act-on-dna-security/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-04T10:07:51.000Z",
-        "summary": "Sam Altman, Dario Amodei, Demis Hassabis, and other tech leaders are urging the US government to make screening of synthetic DNA orders a legal requirement. AI "
-      },
-      {
-        "title": "Amazon develops a warehouse robot that workers can speak to",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-04T09:31:14.000Z",
-        "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilitie"
       },
       {
         "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -3578,32 +3606,11 @@ window.SITE_DATA = {
         "summary": "In this post, we introduce Amazon Bedrock Ops Alert, a three-layer automated monitoring solution that proactively detects operational issues, dynamically adjust"
       },
       {
-        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-        "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-03T19:38:32.000Z",
-        "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
-      },
-      {
-        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-        "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-03T19:07:42.000Z",
-        "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
-      },
-      {
         "title": "Fundamental’s Large Tabular Model NEXUS is now available on Amazon SageMaker JumpStart",
         "url": "https://aws.amazon.com/sagemaker/ai/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-03T17:55:37.000Z",
         "summary": "In this post, we show you how to get started with NEXUS on Amazon SageMaker JumpStart, walk through the deployment process, and demonstrate how to run predictio"
-      },
-      {
-        "title": "As AI gets better, it reveals an empty promise",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-03T17:45:35.000Z",
-        "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It"
       },
       {
         "title": "Reducing container cold start times using SOCI index on DLAMI and DLC",
@@ -3618,13 +3625,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-03T15:56:50.000Z",
         "summary": "In this post, you learn how to use Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO) together to improve the tool-calling accuracy of a smal"
-      },
-      {
-        "title": "Amazon will show AI product images when you search for some reason",
-        "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-03T15:50:26.000Z",
-        "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
       },
       {
         "title": "Introducing new capabilities to GPT-Rosalind",
