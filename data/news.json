@@ -1,19 +1,89 @@
 {
-  "updatedAt": "2026-06-06T23:56:57.502Z",
+  "updatedAt": "2026-06-07T23:58:33.071Z",
   "items": [
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T20:26:13.000Z",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public."
+    },
+    {
+      "title": "Amazing Digital Dentures (a failed project)",
+      "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-06-07T19:44:27.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T17:56:22.000Z",
+      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-07T16:23:22.000Z",
+      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+    },
+    {
+      "title": "Deepseek topped Ramp's trending software vendors in June 2026 as US companies chase cheaper AI",
+      "url": "https://the-decoder.com/deepseek-topped-ramps-trending-software-vendors-in-june-2026-as-us-companies-chase-cheaper-ai/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T16:06:34.000Z",
+      "summary": "Deepseek topped Ramp's trending software vendors in June 2026 as a paid service that US companies send data to directly. Ramp chief economist Ara Kharazian poin"
+    },
+    {
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-07T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arri"
+    },
+    {
+      "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+      "url": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T11:15:28.000Z",
+      "summary": "OpenAI is planning the biggest overhaul of ChatGPT since its launch. The chatbot will become a \"superapp\" bundling coding tools, AI agents, and partner apps lik"
+    },
+    {
+      "title": "Perplexity's \"Search as Code\" lets AI models write their own search pipelines instead of calling fixed APIs",
+      "url": "https://the-decoder.com/perplexitys-search-as-code-lets-ai-models-write-their-own-search-pipelines-instead-of-calling-fixed-apis/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T10:28:33.000Z",
+      "summary": "Perplexity's new \"Search as Code\" architecture dumps rigid search APIs and lets AI models write their own search routines in Python. By letting the agent handle"
+    },
+    {
+      "title": "ChatGPT's new Lockdown Mode lets you disable web access and more to protect sensitive data from prompt injection",
+      "url": "https://the-decoder.com/chatgpts-new-lockdown-mode-lets-you-disable-web-access-and-more-to-protect-sensitive-data-from-prompt-injection/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T09:44:05.000Z",
+      "summary": "OpenAI's new Lockdown Mode for ChatGPT disables web access, Deep Research, and Agent Mode to make data theft through prompt injection attacks harder. The mode d"
+    },
+    {
+      "title": "Anthropic poaches OpenAI's second-ever chip engineer as both companies race toward IPOs",
+      "url": "https://the-decoder.com/anthropic-poaches-openais-second-ever-chip-engineer-as-both-companies-race-toward-ipos/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T08:33:06.000Z",
+      "summary": "Clive Chan, by his own account the second hardware employee in OpenAI's custom chip program, is moving to Anthropic. He brings experience from Tesla's Autopilot"
+    },
+    {
+      "title": "Researchers pinpoint why larger language models pick up skills that small ones miss",
+      "url": "https://the-decoder.com/researchers-pinpoint-why-larger-language-models-pick-up-skills-that-small-ones-miss/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-07T07:45:09.000Z",
+      "summary": "Small language models fail at rare tasks because frequent ones constantly overwrite what they've learned. A new study with models ranging from 4 million to 4 bi"
+    },
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-06T20:32:24.000Z",
       "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the"
-    },
-    {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-06-06T19:02:33.000Z",
-      "summary": ""
     },
     {
       "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
@@ -86,27 +156,6 @@
       "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like cough"
     },
     {
-      "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
-      "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-06T07:57:41.000Z",
-      "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia c"
-    },
-    {
-      "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
-      "url": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-06T07:30:43.000Z",
-      "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly "
-    },
-    {
-      "title": "Qwen3.7-Plus is Alibaba's bid to turn multimodal AI into a full-blown autonomous agent",
-      "url": "https://the-decoder.com/qwen3-7-plus-is-alibabas-bid-to-turn-multimodal-ai-into-a-full-blown-autonomous-agent/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-06T06:54:29.000Z",
-      "summary": "Alibaba's Qwen team has released Qwen3.7-Plus, a multimodal agent model that combines visual perception, GUI operation, and coding in a single agent loop. In a "
-    },
-    {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
       "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
       "source": "TechCrunch AI",
@@ -121,13 +170,6 @@
       "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
     },
     {
-      "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
-      "url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-05T18:19:31.000Z",
-      "summary": "Florida is the first US state to sue OpenAI and CEO Sam Altman personally over risks to minors, missing age checks, and inadequate safety investment. The 83-pag"
-    },
-    {
       "title": "The most interesting startups right now want to get you off your phone",
       "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
       "source": "TechCrunch AI",
@@ -140,13 +182,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-06-05T16:39:07.000Z",
       "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change ev"
-    },
-    {
-      "title": "Satya Nadella publicly torches a VP's plan to make Microsoft's AI agent deliberately addictive",
-      "url": "https://the-decoder.com/satya-nadella-publicly-torches-a-vps-plan-to-make-microsofts-ai-agent-deliberately-addictive/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-05T15:33:56.000Z",
-      "summary": "Microsoft CEO Satya Nadella has sharply criticized an internal memo proposing to make users \"addicted\" to the company's new AI agent Scout. \"Not sure who is wri"
     },
     {
       "title": "New York lawmakers pass one-year ban on new data centers",
@@ -189,13 +224,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-05T13:03:10.000Z",
       "summary": "The Australian data center operator plans to set up 5GW of capacity in India."
-    },
-    {
-      "title": "Microsoft trained its MAI models on unlicensed web data despite promising \"enterprise grade, clean and commercially licensed data\"",
-      "url": "https://the-decoder.com/microsoft-trained-its-mai-models-on-unlicensed-web-data-despite-promising-enterprise-grade-clean-and-commercially-licensed-data/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-05T12:10:26.000Z",
-      "summary": "Microsoft sells its LLM training approach as different from other AI companies. It isn't. The company trained its new MAI models partly on unlicensed web data l"
     },
     {
       "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
@@ -289,13 +317,6 @@
       "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questio"
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T15:05:00.000Z",
-      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch."
-    },
-    {
       "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
       "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
       "source": "The Verge AI",
@@ -303,25 +324,11 @@
       "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory b"
     },
     {
-      "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-      "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-04T14:05:58.000Z",
-      "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
-    },
-    {
       "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
       "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
       "source": "The Verge AI",
       "publishedAt": "2026-06-04T14:00:00.000Z",
       "summary": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroy"
-    },
-    {
-      "title": "Let us filter AI slop, you cowards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-04T12:30:00.000Z",
-      "summary": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up cont"
     },
     {
       "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
@@ -357,13 +364,6 @@
       "source": "Hugging Face Blog",
       "publishedAt": "2026-06-04T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-03T22:56:51.000Z",
-      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claud"
     },
     {
       "title": "How to build self-driving AI operations on Amazon Bedrock at scale",
