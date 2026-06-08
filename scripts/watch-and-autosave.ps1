@@ -1,7 +1,8 @@
 param(
   [int]$DelaySeconds = 10,
   [string]$MessagePrefix = "Autosave AI Compass site",
-  [switch]$RunCheck
+  [switch]$RunCheck,
+  [switch]$Push
 )
 
 $ErrorActionPreference = "Stop"
@@ -31,7 +32,12 @@ function Test-UsefulPath {
 }
 
 Write-Host "Watching $root for local autosaves. Press Ctrl+C to stop."
-Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit and version comparison report."
+if ($Push) {
+  Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit, write a version comparison report, and push to origin/main."
+}
+else {
+  Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit and version comparison report."
+}
 
 $watcher = [System.IO.FileSystemWatcher]::new($root)
 $watcher.IncludeSubdirectories = $true
@@ -74,6 +80,9 @@ try {
       $args = @("-ExecutionPolicy", "Bypass", "-File", $autosaveScript, "-MessagePrefix", $MessagePrefix)
       if ($RunCheck) {
         $args += "-RunCheck"
+      }
+      if ($Push) {
+        $args += "-Push"
       }
 
       & powershell @args

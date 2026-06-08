@@ -1,0 +1,98 @@
+﻿diff --git a/package.json b/package.json
+index 7a86871..1845f01 100644
+--- a/package.json
++++ b/package.json
+@@ -13,7 +13,9 @@
+     "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1",
+     "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1",
+     "autosave:git": "powershell -ExecutionPolicy Bypass -File scripts/git-autosave.ps1",
+-    "autosave:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-autosave.ps1"
++    "autosave:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-autosave.ps1",
++    "autosync:git": "powershell -ExecutionPolicy Bypass -File scripts/git-autosave.ps1 -Push",
++    "autosync:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-autosave.ps1 -Push"
+   },
+   "engines": {
+     "node": ">=20"
+diff --git a/scripts/git-autosave.ps1 b/scripts/git-autosave.ps1
+index dc5c06d..8cee2d9 100644
+--- a/scripts/git-autosave.ps1
++++ b/scripts/git-autosave.ps1
+@@ -1,7 +1,8 @@
+ param(
+   [string]$MessagePrefix = "Autosave AI Compass site",
+   [string]$ReportDir = "version-reports",
+-  [switch]$RunCheck
++  [switch]$RunCheck,
++  [switch]$Push
+ )
+ 
+ $ErrorActionPreference = "Stop"
+@@ -31,6 +32,20 @@ Set-Location $root
+ 
+ $statusBefore = Get-GitText @("status", "--short")
+ if (-not $statusBefore) {
++  if ($Push) {
++    $branchStatus = Get-GitText @("status", "--short", "--branch")
++    if ($branchStatus -match "behind \d+") {
++      Invoke-GitChecked @("pull", "--rebase", "origin", "main")
++      $branchStatus = Get-GitText @("status", "--short", "--branch")
++    }
++
++    if ($branchStatus -match "ahead \d+") {
++      Invoke-GitChecked @("push", "origin", "main")
++      Write-Host "Pushed existing local commits to GitHub."
++      exit 0
++    }
++  }
++
+   Write-Host "No local changes to autosave."
+   exit 0
+ }
+@@ -117,3 +132,9 @@ Invoke-GitChecked @("commit", "-m", $message)
+ $newCommit = Get-GitText @("rev-parse", "--short", "HEAD")
+ Write-Host "Autosaved changes in commit $newCommit."
+ Write-Host "Version report: $ReportDir/$timestamp.md"
++
++if ($Push) {
++  Invoke-GitChecked @("pull", "--rebase", "origin", "main")
++  Invoke-GitChecked @("push", "origin", "main")
++  Write-Host "Pushed $newCommit to GitHub."
++}
+diff --git a/scripts/watch-and-autosave.ps1 b/scripts/watch-and-autosave.ps1
+index d43569f..e5d1030 100644
+--- a/scripts/watch-and-autosave.ps1
++++ b/scripts/watch-and-autosave.ps1
+@@ -1,7 +1,8 @@
+ param(
+   [int]$DelaySeconds = 10,
+   [string]$MessagePrefix = "Autosave AI Compass site",
+-  [switch]$RunCheck
++  [switch]$RunCheck,
++  [switch]$Push
+ )
+ 
+ $ErrorActionPreference = "Stop"
+@@ -31,7 +32,12 @@ function Test-UsefulPath {
+ }
+ 
+ Write-Host "Watching $root for local autosaves. Press Ctrl+C to stop."
+-Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit and version comparison report."
++if ($Push) {
++  Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit, write a version comparison report, and push to origin/main."
++}
++else {
++  Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit and version comparison report."
++}
+ 
+ $watcher = [System.IO.FileSystemWatcher]::new($root)
+ $watcher.IncludeSubdirectories = $true
+@@ -75,6 +81,9 @@ try {
+       if ($RunCheck) {
+         $args += "-RunCheck"
+       }
++      if ($Push) {
++        $args += "-Push"
++      }
+ 
+       & powershell @args
+       if ($LASTEXITCODE -ne 0) {

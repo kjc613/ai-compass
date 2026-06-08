@@ -1,7 +1,8 @@
 param(
   [string]$MessagePrefix = "Autosave AI Compass site",
   [string]$ReportDir = "version-reports",
-  [switch]$RunCheck
+  [switch]$RunCheck,
+  [switch]$Push
 )
 
 $ErrorActionPreference = "Stop"
@@ -31,6 +32,20 @@ Set-Location $root
 
 $statusBefore = Get-GitText @("status", "--short")
 if (-not $statusBefore) {
+  if ($Push) {
+    $branchStatus = Get-GitText @("status", "--short", "--branch")
+    if ($branchStatus -match "behind \d+") {
+      Invoke-GitChecked @("pull", "--rebase", "origin", "main")
+      $branchStatus = Get-GitText @("status", "--short", "--branch")
+    }
+
+    if ($branchStatus -match "ahead \d+") {
+      Invoke-GitChecked @("push", "origin", "main")
+      Write-Host "Pushed existing local commits to GitHub."
+      exit 0
+    }
+  }
+
   Write-Host "No local changes to autosave."
   exit 0
 }
@@ -117,3 +132,9 @@ Invoke-GitChecked @("commit", "-m", $message)
 $newCommit = Get-GitText @("rev-parse", "--short", "HEAD")
 Write-Host "Autosaved changes in commit $newCommit."
 Write-Host "Version report: $ReportDir/$timestamp.md"
+
+if ($Push) {
+  Invoke-GitChecked @("pull", "--rebase", "origin", "main")
+  Invoke-GitChecked @("push", "origin", "main")
+  Write-Host "Pushed $newCommit to GitHub."
+}
