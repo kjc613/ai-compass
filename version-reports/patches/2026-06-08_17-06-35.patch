@@ -1,0 +1,241 @@
+﻿diff --git a/package.json b/package.json
+index 7f3c75d..7a86871 100644
+--- a/package.json
++++ b/package.json
+@@ -11,7 +11,9 @@
+     "build": "node scripts/build-static.js",
+     "update-news": "node scripts/update-news.js",
+     "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1",
+-    "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1"
++    "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1",
++    "autosave:git": "powershell -ExecutionPolicy Bypass -File scripts/git-autosave.ps1",
++    "autosave:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-autosave.ps1"
+   },
+   "engines": {
+     "node": ">=20"
+diff --git a/scripts/git-autosave.ps1 b/scripts/git-autosave.ps1
+new file mode 100644
+index 0000000..c87b924
+--- /dev/null
++++ b/scripts/git-autosave.ps1
+@@ -0,0 +1,119 @@
++param(
++  [string]$MessagePrefix = "Autosave AI Compass site",
++  [string]$ReportDir = "version-reports",
++  [switch]$RunCheck
++)
++
++$ErrorActionPreference = "Stop"
++
++function Invoke-GitChecked {
++  param([string[]]$GitArgs)
++
++  & git @GitArgs
++  if ($LASTEXITCODE -ne 0) {
++    throw "git $($GitArgs -join ' ') failed with exit code $LASTEXITCODE"
++  }
++}
++
++function Get-GitText {
++  param([string[]]$GitArgs)
++
++  $output = & git @GitArgs
++  if ($LASTEXITCODE -ne 0) {
++    throw "git $($GitArgs -join ' ') failed with exit code $LASTEXITCODE"
++  }
++
++  return ($output -join [Environment]::NewLine)
++}
++
++$root = Get-GitText @("rev-parse", "--show-toplevel")
++Set-Location $root
++
++$statusBefore = Get-GitText @("status", "--short")
++if (-not $statusBefore) {
++  Write-Host "No local changes to autosave."
++  exit 0
++}
++
++if ($RunCheck) {
++  & npm.cmd run check
++  if ($LASTEXITCODE -ne 0) {
++    throw "npm.cmd run check failed with exit code $LASTEXITCODE"
++  }
++}
++
++$timestamp = Get-Date -Format "yyyy-MM-dd_HH-mm-ss"
++$baseCommit = Get-GitText @("rev-parse", "--short", "HEAD")
++$reportRoot = Join-Path $root $ReportDir
++$patchRoot = Join-Path $reportRoot "patches"
++New-Item -ItemType Directory -Force -Path $reportRoot, $patchRoot | Out-Null
++
++Invoke-GitChecked @("add", "-A")
++
++$stagedStatus = Get-GitText @("diff", "--cached", "--name-status", "HEAD")
++if (-not $stagedStatus) {
++  Write-Host "No staged changes to autosave."
++  exit 0
++}
++
++$diffStat = Get-GitText @("diff", "--cached", "--stat", "HEAD")
++$numStat = Get-GitText @("diff", "--cached", "--numstat", "HEAD")
++$patchPath = Join-Path $patchRoot "$timestamp.patch"
++$reportPath = Join-Path $reportRoot "$timestamp.md"
++
++Get-GitText @("diff", "--cached", "--binary", "HEAD") | Set-Content -Path $patchPath -Encoding UTF8
++
++$message = "$MessagePrefix - $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
++$report = @"
++# Version Compare - $timestamp
++
++Commit message:
++
++````text
++$message
++````
++
++Base commit before this autosave:
++
++````text
++$baseCommit
++````
++
++Changed files before staging:
++
++````text
++$statusBefore
++````
++
++Staged file changes:
++
++````text
++$stagedStatus
++````
++
++Diff summary:
++
++````text
++$diffStat
++````
++
++Line changes:
++
++````text
++$numStat
++````
++
++Full patch:
++
++````text
++$ReportDir/patches/$timestamp.patch
++````
++"@
++
++$report | Set-Content -Path $reportPath -Encoding UTF8
++Invoke-GitChecked @("add", "-A", $ReportDir)
++Invoke-GitChecked @("commit", "-m", $message)
++
++$newCommit = Get-GitText @("rev-parse", "--short", "HEAD")
++Write-Host "Autosaved changes in commit $newCommit."
++Write-Host "Version report: $ReportDir/$timestamp.md"
+diff --git a/scripts/watch-and-autosave.ps1 b/scripts/watch-and-autosave.ps1
+new file mode 100644
+index 0000000..d43569f
+--- /dev/null
++++ b/scripts/watch-and-autosave.ps1
+@@ -0,0 +1,95 @@
++param(
++  [int]$DelaySeconds = 10,
++  [string]$MessagePrefix = "Autosave AI Compass site",
++  [switch]$RunCheck
++)
++
++$ErrorActionPreference = "Stop"
++
++$root = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
++$autosaveScript = Join-Path $PSScriptRoot "git-autosave.ps1"
++$ignoredRoots = @(".git", "node_modules", "dist")
++
++function Test-UsefulPath {
++  param([string]$Path)
++
++  if (-not $Path) {
++    return $false
++  }
++
++  $relative = [System.IO.Path]::GetRelativePath($root, $Path)
++  if ($relative.StartsWith("..")) {
++    return $false
++  }
++
++  $firstPart = $relative.Split([System.IO.Path]::DirectorySeparatorChar, [System.IO.Path]::AltDirectorySeparatorChar)[0]
++  if ($ignoredRoots -contains $firstPart) {
++    return $false
++  }
++
++  return $true
++}
++
++Write-Host "Watching $root for local autosaves. Press Ctrl+C to stop."
++Write-Host "After changes settle for $DelaySeconds seconds, Git will create a local commit and version comparison report."
++
++$watcher = [System.IO.FileSystemWatcher]::new($root)
++$watcher.IncludeSubdirectories = $true
++$watcher.EnableRaisingEvents = $true
++$watcher.NotifyFilter = [System.IO.NotifyFilters]"FileName, DirectoryName, LastWrite, Size"
++
++$lastChange = $null
++$pending = $false
++
++$action = {
++  if (Test-UsefulPath -Path $Event.SourceEventArgs.FullPath) {
++    $script:lastChange = Get-Date
++    $script:pending = $true
++  }
++}
++
++$subscriptions = @(
++  Register-ObjectEvent $watcher Changed -Action $action
++  Register-ObjectEvent $watcher Created -Action $action
++  Register-ObjectEvent $watcher Deleted -Action $action
++  Register-ObjectEvent $watcher Renamed -Action $action
++)
++
++try {
++  while ($true) {
++    Start-Sleep -Seconds 2
++
++    if (-not $pending -or -not $lastChange) {
++      continue
++    }
++
++    $elapsed = ((Get-Date) - $lastChange).TotalSeconds
++    if ($elapsed -lt $DelaySeconds) {
++      continue
++    }
++
++    $pending = $false
++
++    try {
++      $args = @("-ExecutionPolicy", "Bypass", "-File", $autosaveScript, "-MessagePrefix", $MessagePrefix)
++      if ($RunCheck) {
++        $args += "-RunCheck"
++      }
++
++      & powershell @args
++      if ($LASTEXITCODE -ne 0) {
++        Write-Warning "Autosave command exited with code $LASTEXITCODE."
++      }
++    }
++    catch {
++      Write-Warning "Autosave failed: $($_.Exception.Message)"
++    }
++  }
++}
++finally {
++  foreach ($subscription in $subscriptions) {
++    Unregister-Event -SubscriptionId $subscription.Id -ErrorAction SilentlyContinue
++  }
++
++  $watcher.Dispose()
++}

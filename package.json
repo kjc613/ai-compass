@@ -11,7 +11,9 @@
     "build": "node scripts/build-static.js",
     "update-news": "node scripts/update-news.js",
     "publish:git": "powershell -ExecutionPolicy Bypass -File scripts/git-publish.ps1",
-    "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1"
+    "publish:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-publish.ps1",
+    "autosave:git": "powershell -ExecutionPolicy Bypass -File scripts/git-autosave.ps1",
+    "autosave:watch": "powershell -ExecutionPolicy Bypass -File scripts/watch-and-autosave.ps1"
   },
   "engines": {
     "node": ">=20"
