@@ -718,6 +718,43 @@ select {
   line-height: 1.7;
 }
 
+.editorial-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 24px 0;
+}
+
+.editorial-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  padding: 20px;
+  box-shadow: 0 10px 28px rgba(23, 32, 38, 0.04);
+}
+
+.editorial-card h2,
+.editorial-card h3 {
+  margin: 0 0 10px;
+  color: var(--text);
+  font-size: 20px;
+  line-height: 1.25;
+}
+
+.editorial-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.section-heading.compact {
+  margin-bottom: 14px;
+}
+
+.faq-section {
+  margin-top: 28px;
+}
+
 .topic-sections {
   display: grid;
   gap: 14px;

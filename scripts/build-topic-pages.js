@@ -269,19 +269,35 @@ console.log(`Built ${topics.length} topic pages.`);
 
 function renderTopic(topic) {
   const url = `${siteUrl}/topics/${topic.slug}.html`;
+  const guideNotes = buildGuideNotes(topic);
   const schema = {
     "@context": "https://schema.org",
-    "@type": "Article",
-    headline: topic.titleEn,
-    description: topic.descriptionEn,
-    url,
-    inLanguage: ["zh-CN", "en"],
-    about: topic.tools.map(([name]) => name),
-    isPartOf: {
-      "@type": "WebSite",
-      name: "AI Compass",
-      url: `${siteUrl}/`
-    }
+    "@graph": [
+      {
+        "@type": "Article",
+        headline: topic.titleEn,
+        description: topic.descriptionEn,
+        url,
+        inLanguage: ["zh-CN", "en"],
+        about: topic.tools.map(([name]) => name),
+        isPartOf: {
+          "@type": "WebSite",
+          name: "AI Compass",
+          url: `${siteUrl}/`
+        }
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: guideNotes.faq.map((item) => ({
+          "@type": "Question",
+          name: item.questionEn,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answerEn
+          }
+        }))
+      }
+    ]
   };
 
   return `<!doctype html>
@@ -339,6 +355,10 @@ function renderTopic(topic) {
         <p data-seo-zh="${escapeAttribute(topic.intent)}" data-seo-en="${escapeAttribute(topic.intentEn)}">${escapeHtml(topic.intent)}</p>
       </div>
 
+      <div class="editorial-grid">
+${guideNotes.cards.map(renderGuideNote).join("\n")}
+      </div>
+
       <div class="section-heading">
         <p class="eyebrow" data-seo-zh="Recommended official links" data-seo-en="Recommended official links">Recommended official links</p>
         <h2 data-seo-zh="推荐工具入口" data-seo-en="Recommended Tool Links">推荐工具入口</h2>
@@ -360,6 +380,16 @@ ${topic.sections.map(([heading, body, headingEn = heading, bodyEn = body]) => ` 
         <span data-seo-zh="下一步" data-seo-en="Next step">下一步</span>
         <p data-seo-zh="如果你还不确定具体工具，可以回到 AI Compass 首页按分类继续筛选，或查看每日 AI 资讯了解近期产品变化。" data-seo-en="If you are still unsure, return to the AI Compass homepage to browse by category or check daily AI news for recent product changes.">如果你还不确定具体工具，可以回到 AI Compass 首页按分类继续筛选，或查看每日 AI 资讯了解近期产品变化。</p>
       </div>
+
+      <section class="faq-section" aria-labelledby="topic-faq-title">
+        <div class="section-heading compact">
+          <p class="eyebrow" data-seo-zh="FAQ" data-seo-en="FAQ">FAQ</p>
+          <h2 id="topic-faq-title" data-seo-zh="专题常见问题" data-seo-en="Guide FAQ">专题常见问题</h2>
+        </div>
+        <div class="faq-list">
+${guideNotes.faq.map(renderFaqItem).join("\n")}
+        </div>
+      </section>
     </section>
   </main>
 
@@ -377,6 +407,68 @@ ${topic.sections.map(([heading, body, headingEn = heading, bodyEn = body]) => ` 
 </body>
 </html>
 `;
+}
+
+function buildGuideNotes(topic) {
+  const toolNamesZh = topic.tools.map(([name]) => name).join("、");
+  const toolNamesEn = topic.tools.map(([name]) => toolEnglish[name]?.name || name).join(", ");
+
+  return {
+    cards: [
+      {
+        zhTitle: "编辑整理方法",
+        enTitle: "Editorial method",
+        zhBody: `本专题围绕真实搜索意图整理，而不是简单堆放链接。我们优先选择有明确官网入口、产品定位清晰、在该任务中有代表性的工具，并把 ${toolNamesZh} 放在同一页面中便于横向比较。`,
+        enBody: `This guide is organized around real search intent rather than a plain link dump. We prioritize tools with clear official websites, clear product positioning, and representative value for the task, placing ${toolNamesEn} on one page for comparison.`
+      },
+      {
+        zhTitle: "对比时先看什么",
+        enTitle: "What to compare first",
+        zhBody: "建议先用一个自己的真实任务测试，再比较价格、免费额度、输出质量、中文支持、数据政策、导出格式和团队协作。工具官网的功能演示通常只展示最佳效果，实际工作流还要看稳定性。",
+        enBody: "Test with one of your own real tasks first, then compare pricing, free tier, output quality, Chinese support, data policy, export formats, and collaboration. Official demos usually show best-case results, while real workflows also need stability."
+      },
+      {
+        zhTitle: "安全与商用提醒",
+        enTitle: "Safety and commercial-use note",
+        zhBody: "登录、上传文件、连接代码仓库或生成商用素材前，请确认官方域名、账号权限、隐私条款和授权范围。涉及客户数据、代码密钥、人物肖像或品牌素材时，不建议只依赖默认设置。",
+        enBody: "Before logging in, uploading files, connecting repositories, or creating commercial assets, confirm the official domain, account permissions, privacy terms, and license scope. For customer data, code secrets, likenesses, or brand assets, do not rely only on default settings."
+      }
+    ],
+    faq: [
+      {
+        questionZh: `这篇${topic.title}适合谁看？`,
+        questionEn: `Who is this ${topic.titleEn} guide for?`,
+        answerZh: topic.intent,
+        answerEn: topic.intentEn
+      },
+      {
+        questionZh: "为什么要从官网入口进入？",
+        questionEn: "Why should I use official links?",
+        answerZh: "AI 热门工具经常被仿冒站、镜像站和诱导下载页借流量。通过官网入口访问，并核对浏览器地址栏，可以降低账号、付款和下载风险。",
+        answerEn: "Popular AI tools are often copied by impersonation sites, mirrors, and misleading download pages. Using official links and checking the browser address bar reduces account, payment, and download risk."
+      },
+      {
+        questionZh: "免费工具是否可以直接用于正式项目？",
+        questionEn: "Can free tools be used directly in formal projects?",
+        answerZh: "不建议直接默认可以。免费额度、商用授权、数据保留、输出版权和地区可用性都可能变化，正式使用前应阅读官方条款并做小范围测试。",
+        answerEn: "Do not assume so by default. Free tiers, commercial licenses, data retention, output rights, and regional availability may change, so read official terms and test on a small scope first."
+      }
+    ]
+  };
+}
+
+function renderGuideNote(note) {
+  return `        <article class="editorial-card">
+          <h2 data-seo-zh="${escapeAttribute(note.zhTitle)}" data-seo-en="${escapeAttribute(note.enTitle)}">${escapeHtml(note.zhTitle)}</h2>
+          <p data-seo-zh="${escapeAttribute(note.zhBody)}" data-seo-en="${escapeAttribute(note.enBody)}">${escapeHtml(note.zhBody)}</p>
+        </article>`;
+}
+
+function renderFaqItem(item) {
+  return `          <details>
+            <summary data-seo-zh="${escapeAttribute(item.questionZh)}" data-seo-en="${escapeAttribute(item.questionEn)}">${escapeHtml(item.questionZh)}</summary>
+            <p data-seo-zh="${escapeAttribute(item.answerZh)}" data-seo-en="${escapeAttribute(item.answerEn)}">${escapeHtml(item.answerZh)}</p>
+          </details>`;
 }
 
 function renderToolCard([name, summary, tag, url]) {

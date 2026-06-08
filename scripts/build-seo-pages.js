@@ -100,6 +100,121 @@ const categoryMeta = {
   }
 };
 
+const categoryEditorial = {
+  "大模型与 API": {
+    chooseZh: "先明确你是要直接聊天、接入 API、做多模态应用，还是搭建企业内部系统。个人用户更应关注网页端体验和可用模型，开发者要比较上下文长度、工具调用、价格、速率限制、数据保留政策和 SDK 文档，企业团队还要看权限管理、审计、合规与服务稳定性。",
+    chooseEn: "Start by deciding whether you need chat access, API integration, multimodal features, or an internal enterprise system. Individual users should compare web experience and available models, while developers should review context length, tool calling, pricing, rate limits, data retention, and SDK documentation. Enterprise teams also need access control, auditability, compliance, and service reliability.",
+    fitZh: "适合产品经理、开发者、创业团队、企业 IT 和需要把模型能力接入真实业务流程的用户。",
+    fitEn: "Best for product managers, developers, startup teams, enterprise IT, and users integrating model capabilities into real workflows.",
+    reviewZh: "不要只看模型名称。建议用自己的真实任务做小样本测试，包括中文理解、长文档、函数调用、图片输入、延迟和失败重试。涉及客户数据时，应优先阅读官方数据使用条款。",
+    reviewEn: "Do not choose by model name alone. Test with your own real tasks, including Chinese understanding, long documents, function calling, image input, latency, and retry behavior. For customer data, read the provider's official data-use terms first."
+  },
+  "办公效率": {
+    chooseZh: "办公类 AI 工具最重要的是能否嵌入你的日常文档、会议、邮件和知识库。优先比较导入格式、团队协作、权限边界、导出能力和是否支持中文场景，而不是只看生成文案是否流畅。",
+    chooseEn: "For productivity tools, the key question is whether the tool fits into your documents, meetings, email, and knowledge base. Compare import formats, collaboration, permission boundaries, export options, and Chinese-language support instead of judging only by writing fluency.",
+    fitZh: "适合需要提高写作、总结、会议记录、资料整理和团队协作效率的个人与团队。",
+    fitEn: "Best for individuals and teams improving writing, summarization, meeting notes, research organization, and collaboration.",
+    reviewZh: "如果工具会读取公司文档或会议内容，先确认管理员设置、数据保留、分享链接权限和删除机制。免费工具适合试用，不建议直接承载敏感资料。",
+    reviewEn: "If a tool reads company documents or meetings, check admin settings, data retention, sharing permissions, and deletion controls. Free tools are useful for trials but should not immediately handle sensitive material."
+  },
+  "搜索问答": {
+    chooseZh: "搜索问答工具要重点看来源引用质量、答案可追溯性、时效性和是否能区分事实与推断。适合用于初步调研，但重要结论仍应回到原始来源交叉验证。",
+    chooseEn: "For AI search and Q&A, focus on citation quality, traceability, freshness, and whether the answer separates facts from inference. These tools are useful for initial research, but important conclusions should still be checked against primary sources.",
+    fitZh: "适合资料查证、竞品研究、学习新主题、追踪技术动态和快速整理参考链接。",
+    fitEn: "Best for fact-checking, competitor research, learning new topics, tracking technical updates, and gathering references quickly.",
+    reviewZh: "警惕没有引用、引用不对应原文、或把旧信息当成最新信息的回答。对医疗、法律、金融等高风险问题，应只把搜索问答作为线索入口。",
+    reviewEn: "Be cautious when answers lack citations, cite sources that do not support the claim, or present old information as current. For medical, legal, and financial topics, use AI search only as a starting point."
+  },
+  "图像与设计": {
+    chooseZh: "图像设计工具要按输出目标选择：灵感草图、营销海报、品牌素材、商品图、角色设定和商用交付的要求完全不同。重点比较版权条款、分辨率、编辑控制、风格一致性和团队协作能力。",
+    chooseEn: "Choose image and design tools by output goal: inspiration sketches, marketing posters, brand assets, product visuals, character design, and commercial delivery have different requirements. Compare licensing, resolution, editing control, style consistency, and collaboration.",
+    fitZh: "适合设计师、运营、营销团队、创作者和需要快速生成视觉素材的中小团队。",
+    fitEn: "Best for designers, operators, marketing teams, creators, and small teams producing visual assets quickly.",
+    reviewZh: "商用前要确认生成内容授权、训练素材争议、人物肖像和品牌元素使用限制。涉及客户品牌时，建议保留提示词、版本和授权截图。",
+    reviewEn: "Before commercial use, confirm output licensing, training-data concerns, likeness restrictions, and brand-element rules. For client work, keep prompts, versions, and license screenshots."
+  },
+  "视频与创意": {
+    chooseZh: "视频类 AI 工具差异主要体现在时长、镜头控制、人物一致性、字幕/配音、商用授权和导出规格。短视频灵感与正式广告片所需的稳定性并不相同。",
+    chooseEn: "AI video tools differ by clip length, camera control, character consistency, subtitles, dubbing, commercial license, and export formats. A short-form idea tool is not the same as a production tool for formal ads.",
+    fitZh: "适合短视频团队、广告创意、教育内容、产品演示、数字人和多语言视频本地化。",
+    fitEn: "Best for short-video teams, advertising concepts, education content, product demos, avatars, and multilingual video localization.",
+    reviewZh: "正式发布前应人工检查画面变形、文字错误、人物授权、音乐版权和平台审核风险，避免直接把试验片当作最终交付。",
+    reviewEn: "Before publishing, manually review visual artifacts, text errors, likeness rights, music licensing, and platform review risk. Do not treat experimental clips as final deliverables."
+  },
+  "模型与社区": {
+    chooseZh: "模型社区适合发现开源模型、数据集、演示和实践案例。选择资源时要看许可证、下载量、维护频率、模型卡说明、依赖环境和社区反馈。",
+    chooseEn: "Model communities are useful for discovering open models, datasets, demos, and examples. Review license, downloads, maintenance frequency, model cards, dependencies, and community feedback.",
+    fitZh: "适合研究人员、开发者、学生、AI 产品团队和需要评估开源模型路线的用户。",
+    fitEn: "Best for researchers, developers, students, AI product teams, and users evaluating open-model options.",
+    reviewZh: "不要直接把未知模型用于生产或敏感数据。先在隔离环境测试安全性、性能、许可证和输出质量，再决定是否部署。",
+    reviewEn: "Do not use unknown models directly in production or with sensitive data. Test safety, performance, license, and output quality in an isolated environment before deployment."
+  },
+  "开发者工具": {
+    chooseZh: "开发者 AI 工具要看它能否理解项目上下文、是否支持多文件修改、如何处理终端命令、是否能生成测试，以及能不能在你的 IDE、仓库和团队流程里稳定使用。",
+    chooseEn: "Developer AI tools should be evaluated by project-context understanding, multi-file editing, terminal-command handling, test generation, and fit with your IDE, repository, and team workflow.",
+    fitZh: "适合程序员、技术负责人、独立开发者和需要提升代码阅读、修改、测试与交付效率的团队。",
+    fitEn: "Best for programmers, tech leads, indie developers, and teams improving code reading, editing, testing, and delivery.",
+    reviewZh: "接入仓库前应检查忽略文件、密钥、自动命令权限和代码审查流程。AI 生成代码仍需要测试、审查和版本控制记录。",
+    reviewEn: "Before connecting a repository, check ignored files, secrets, command permissions, and review workflow. AI-generated code still needs tests, review, and version-control history."
+  },
+  "语音与音频": {
+    chooseZh: "语音音频工具要按转写、配音、克隆、音乐生成或音频分析来选。重点比较语言覆盖、音色自然度、延迟、批量处理、版权授权和对敏感声音的限制。",
+    chooseEn: "Choose voice and audio tools by task: transcription, dubbing, cloning, music generation, or audio analysis. Compare language coverage, naturalness, latency, batch processing, licensing, and restrictions on sensitive voices.",
+    fitZh: "适合播客、短视频、课程制作、会议记录、客服质检和多语言内容团队。",
+    fitEn: "Best for podcasts, short videos, courses, meeting notes, support QA, and multilingual content teams.",
+    reviewZh: "涉及声音克隆和人物声音时，应取得授权并保留记录。公开发布前还要检查平台对 AI 语音标识和版权音乐的要求。",
+    reviewEn: "For voice cloning and identifiable voices, obtain permission and keep records. Before publishing, check platform rules for AI-voice disclosure and copyrighted music."
+  },
+  "营销与内容": {
+    chooseZh: "营销内容工具的价值不在于生成更多文字，而在于能否贴合品牌语气、受众画像、渠道格式和转化目标。建议用真实活动 brief 测试，而不是只看模板数量。",
+    chooseEn: "Marketing AI tools are valuable when they fit brand voice, audience profile, channel format, and conversion goal, not when they merely generate more text. Test with real campaign briefs instead of counting templates.",
+    fitZh: "适合增长团队、内容运营、电商卖家、销售支持和需要持续产出多渠道素材的团队。",
+    fitEn: "Best for growth teams, content operations, ecommerce sellers, sales enablement, and teams producing multi-channel assets.",
+    reviewZh: "发布前要人工检查事实、价格、承诺、合规词和品牌一致性。不要把未经核实的 AI 文案直接用于广告投放或销售页面。",
+    reviewEn: "Before publishing, manually check facts, prices, claims, compliance wording, and brand consistency. Do not use unchecked AI copy directly in ads or sales pages."
+  },
+  "智能体与自动化": {
+    chooseZh: "智能体工具应从任务边界开始评估：它能连接哪些应用、是否需要人工审批、失败后如何回滚、日志是否清晰、能否限制权限。越靠近真实业务，越要重视可控性。",
+    chooseEn: "Evaluate agent tools by task boundaries: connected apps, human approval, rollback behavior, logs, and permission limits. The closer the agent is to real operations, the more control matters.",
+    fitZh: "适合运营自动化、销售流程、内部助手、数据处理、浏览器任务和跨工具工作流。",
+    fitEn: "Best for operations automation, sales workflows, internal assistants, data processing, browser tasks, and cross-tool workflows.",
+    reviewZh: "不要一开始就给智能体高权限账号。先用测试账号、低风险任务和明确审批点验证，再逐步接入核心流程。",
+    reviewEn: "Do not start with high-privilege accounts. Validate with test accounts, low-risk tasks, and explicit approval points before connecting core workflows."
+  },
+  "AI 应用构建": {
+    chooseZh: "AI 应用构建平台适合快速搭建聊天应用、RAG、内部工具和原型。选择时要看数据源连接、部署方式、权限、观测、模型切换和后续迁移成本。",
+    chooseEn: "AI app builders are useful for chat apps, RAG, internal tools, and prototypes. Compare data-source connectors, deployment, permissions, observability, model switching, and migration cost.",
+    fitZh: "适合产品原型、企业内部知识库、客服助手、低代码团队和希望快速验证 AI 应用的创业者。",
+    fitEn: "Best for product prototypes, internal knowledge bases, support assistants, low-code teams, and founders validating AI apps quickly.",
+    reviewZh: "低代码并不等于低风险。上线前要检查数据权限、回答边界、日志、用户反馈和人工兜底流程。",
+    reviewEn: "Low-code does not mean low-risk. Before launch, check data permissions, answer boundaries, logs, user feedback, and human fallback."
+  },
+  "知识库与检索": {
+    chooseZh: "知识库与检索工具的核心是资料接入、切分、权限继承、召回质量和答案引用。只看“能聊天”不够，要测试它是否能准确找到原文依据。",
+    chooseEn: "Knowledge and retrieval tools depend on ingestion, chunking, permission inheritance, retrieval quality, and answer citations. Chat alone is not enough; test whether the system finds the right source evidence.",
+    fitZh: "适合企业知识库、客服资料库、研发文档、法务条款库和需要基于内部资料问答的团队。",
+    fitEn: "Best for enterprise knowledge bases, support libraries, engineering docs, legal repositories, and teams answering from internal material.",
+    reviewZh: "上线前应准备标准问题集，检查召回准确率、权限泄露、过期文档和无答案时的拒答能力。",
+    reviewEn: "Before launch, prepare a benchmark question set and check retrieval accuracy, permission leakage, stale documents, and refusal behavior when no answer exists."
+  },
+  "数据与企业 AI": {
+    chooseZh: "企业 AI 和数据平台要重点评估安全、治理、评测、权限、审计和与现有数据栈的连接。不要只从演示效果判断，要看能否稳定进入生产流程。",
+    chooseEn: "Enterprise AI and data platforms should be evaluated by security, governance, evaluation, permissions, auditability, and integration with the existing data stack. Do not judge only by demos; check production readiness.",
+    fitZh: "适合数据团队、机器学习平台团队、企业 IT、风控、运营分析和需要治理模型生命周期的组织。",
+    fitEn: "Best for data teams, ML platform teams, enterprise IT, risk control, operations analytics, and organizations governing model lifecycles.",
+    reviewZh: "采购或上线前建议准备安全问卷、数据流图、权限模型、SLA 需求和成本测算，避免后期迁移困难。",
+    reviewEn: "Before procurement or launch, prepare a security questionnaire, data-flow map, permission model, SLA requirements, and cost estimate to avoid difficult migrations later."
+  },
+  "生成工作流": {
+    chooseZh: "生成工作流工具适合需要可复现、可控和批量化创作的人。重点比较节点生态、模型管理、参数记录、队列、显卡资源和团队协作方式。",
+    chooseEn: "Generation workflow tools are for users who need reproducible, controllable, and batch creative production. Compare node ecosystem, model management, parameter records, queues, GPU resources, and collaboration.",
+    fitZh: "适合视觉创作者、ComfyUI 用户、工作室、模型测试人员和需要稳定输出图像/视频资产的团队。",
+    fitEn: "Best for visual creators, ComfyUI users, studios, model testers, and teams producing image or video assets reliably.",
+    reviewZh: "复杂工作流要记录模型版本、节点依赖、输入素材和参数。没有复现记录的工作流，很难用于商业交付或团队协作。",
+    reviewEn: "For complex workflows, record model versions, node dependencies, input assets, and parameters. Workflows without reproduction records are hard to use for commercial delivery or team collaboration."
+  }
+};
+
 const englishFallback = {
   OpenAI: {
     summary: "Home of ChatGPT, GPT models, developer APIs, voice, and multimodal capabilities for general AI apps and enterprise integration.",
@@ -224,24 +339,65 @@ function renderCategoryPage(category, meta, categoryTools) {
   const zhDescription = `AI Compass ${category}目录，收录 ${categoryTools.length} 个相关 AI 厂商与工具入口，优先提供官网链接并提醒用户防范假冒官网。`;
   const enDescription = `AI Compass ${meta.en} directory with ${categoryTools.length} AI vendors and tools, official website links prioritized, and reminders to avoid impersonation sites.`;
   const pageUrl = `${siteUrl}/categories/${meta.slug}.html`;
+  const editorial = categoryEditorial[category];
+  if (!editorial) {
+    throw new Error(`Missing category editorial content for ${category}`);
+  }
+  const faqItems = buildCategoryFaq(category, meta, editorial, categoryTools.length);
   const schema = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    name: enTitle,
-    description: enDescription,
-    url: pageUrl,
-    isPartOf: {
-      "@type": "WebSite",
-      name: "AI Compass",
-      url: `${siteUrl}/`
-    },
-    hasPart: categoryTools.map((tool) => ({
-      "@type": "SoftwareApplication",
-      name: tool.nameEn || tool.name,
-      url: tool.url,
-      applicationCategory: meta.en
-    }))
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        name: enTitle,
+        description: enDescription,
+        url: pageUrl,
+        isPartOf: {
+          "@type": "WebSite",
+          name: "AI Compass",
+          url: `${siteUrl}/`
+        },
+        hasPart: categoryTools.map((tool) => ({
+          "@type": "SoftwareApplication",
+          name: tool.nameEn || tool.name,
+          url: tool.url,
+          applicationCategory: meta.en
+        }))
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: faqItems.map((item) => ({
+          "@type": "Question",
+          name: item.questionEn,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answerEn
+          }
+        }))
+      }
+    ]
   };
+
+  const guideArticles = [
+    {
+      zhTitle: "怎么选择这一类 AI 工具",
+      enTitle: "How to choose tools in this category",
+      zhBody: editorial.chooseZh,
+      enBody: editorial.chooseEn
+    },
+    {
+      zhTitle: "适合哪些用户",
+      enTitle: "Who this category is for",
+      zhBody: editorial.fitZh,
+      enBody: editorial.fitEn
+    },
+    {
+      zhTitle: "使用前的复核重点",
+      enTitle: "What to review before use",
+      zhBody: editorial.reviewZh,
+      enBody: editorial.reviewEn
+    },
+  ];
 
   return `<!doctype html>
 <html lang="zh-CN">
@@ -302,9 +458,24 @@ function renderCategoryPage(category, meta, categoryTools) {
       <div class="category-tabs" aria-label="AI tool categories">
 ${renderCategoryTabs(category)}
       </div>
+
+      <div class="editorial-grid">
+${guideArticles.map(renderEditorialArticle).join("\n")}
+      </div>
+
       <div class="directory-grid">
 ${categoryTools.map(renderToolCard).join("\n")}
       </div>
+
+      <section class="faq-section" aria-labelledby="category-faq-title">
+        <div class="section-heading compact">
+          <p class="eyebrow" data-seo-zh="FAQ" data-seo-en="FAQ">FAQ</p>
+          <h2 id="category-faq-title" data-seo-zh="${escapeAttribute(category)}常见问题" data-seo-en="${escapeAttribute(meta.en)} FAQ">${escapeHtml(category)}常见问题</h2>
+        </div>
+        <div class="faq-list">
+${faqItems.map(renderFaqItem).join("\n")}
+        </div>
+      </section>
     </section>
   </main>
 
@@ -322,6 +493,43 @@ ${categoryTools.map(renderToolCard).join("\n")}
 </body>
 </html>
 `;
+}
+
+function renderEditorialArticle(article) {
+  return `        <article class="editorial-card">
+          <h3 data-seo-zh="${escapeAttribute(article.zhTitle)}" data-seo-en="${escapeAttribute(article.enTitle)}">${escapeHtml(article.zhTitle)}</h3>
+          <p data-seo-zh="${escapeAttribute(article.zhBody)}" data-seo-en="${escapeAttribute(article.enBody)}">${escapeHtml(article.zhBody)}</p>
+        </article>`;
+}
+
+function buildCategoryFaq(category, meta, editorial, count) {
+  return [
+    {
+      questionZh: `${category}工具应该先看哪些指标？`,
+      questionEn: `What should I check first when choosing ${meta.en} tools?`,
+      answerZh: editorial.chooseZh,
+      answerEn: editorial.chooseEn
+    },
+    {
+      questionZh: `AI Compass 为什么优先放官网入口？`,
+      questionEn: "Why does AI Compass prioritize official links?",
+      answerZh: `这个分类当前整理了 ${count} 个入口。AI 工具搜索结果里常见仿冒域名、镜像站和诱导下载页，优先使用官网链接可以降低登录、付款或下载时进入错误页面的风险。`,
+      answerEn: `This category currently lists ${count} entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site.`
+    },
+    {
+      questionZh: `这些工具是否都适合商用？`,
+      questionEn: "Are all listed tools suitable for commercial use?",
+      answerZh: "不一定。不同工具的免费额度、商用授权、数据使用政策和地区可用性都可能不同。正式用于客户项目、广告投放或企业流程前，应阅读对应厂商的官方条款。",
+      answerEn: "Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."
+    }
+  ];
+}
+
+function renderFaqItem(item) {
+  return `          <details>
+            <summary data-seo-zh="${escapeAttribute(item.questionZh)}" data-seo-en="${escapeAttribute(item.questionEn)}">${escapeHtml(item.questionZh)}</summary>
+            <p data-seo-zh="${escapeAttribute(item.answerZh)}" data-seo-en="${escapeAttribute(item.answerEn)}">${escapeHtml(item.answerZh)}</p>
+          </details>`;
 }
 
 function renderCategoryTabs(activeCategory) {
