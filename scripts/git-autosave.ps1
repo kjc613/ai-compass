@@ -69,45 +69,45 @@ $report = @"
 
 Commit message:
 
-````text
+~~~text
 $message
-````
+~~~
 
 Base commit before this autosave:
 
-````text
+~~~text
 $baseCommit
-````
+~~~
 
 Changed files before staging:
 
-````text
+~~~text
 $statusBefore
-````
+~~~
 
 Staged file changes:
 
-````text
+~~~text
 $stagedStatus
-````
+~~~
 
 Diff summary:
 
-````text
+~~~text
 $diffStat
-````
+~~~
 
 Line changes:
 
-````text
+~~~text
 $numStat
-````
+~~~
 
 Full patch:
 
-````text
+~~~text
 $ReportDir/patches/$timestamp.patch
-````
+~~~
 "@
 
 $report | Set-Content -Path $reportPath -Encoding UTF8
