@@ -1,6 +1,125 @@
 {
-  "updatedAt": "2026-06-13T00:13:13.221Z",
+  "updatedAt": "2026-06-13T23:58:23.588Z",
   "items": [
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T20:42:31.000Z",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+    },
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T19:11:41.000Z",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
+    {
+      "title": "New AI model called \"Count Anything\" does exactly what it says, and that's harder than it sounds",
+      "url": "https://the-decoder.com/new-ai-model-called-count-anything-does-exactly-what-it-says-and-thats-harder-than-it-sounds/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T17:00:19.000Z",
+      "summary": "\"Count Anything\" is intended to be the first AI model capable of counting objects in any type of image, from crowds to cell samples under a microscope, using no"
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T16:47:18.000Z",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella admits he's a token-maxer, too: \"It's addictive\"",
+      "url": "https://the-decoder.com/microsoft-ceo-satya-nadella-admits-hes-a-token-maxer-too-its-addictive/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T13:03:49.000Z",
+      "summary": "Microsoft CEO Satya Nadella is warning against \"token-maxing,\" throwing the most powerful AI models at every problem. Frontier models shouldn't be wasted on eve"
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-13T13:00:00.000Z",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a "
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-13T12:55:49.000Z",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to nati"
+    },
+    {
+      "title": "Google Research's Gemini-SQL2 tops text-to-SQL benchmarks by a wide margin",
+      "url": "https://the-decoder.com/google-researchs-gemini-sql2-tops-text-to-sql-benchmarks-by-a-wide-margin/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T12:32:11.000Z",
+      "summary": "Google Research's Gemini-SQL2 turns natural language into executable SQL queries. Built on Gemini 3.1 Pro, it tops the BIRD benchmark at 80.04 percent accuracy,"
+    },
+    {
+      "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
+      "url": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T12:20:39.000Z",
+      "summary": "Microsoft and three Chinese universities have developed SkillOpt, a method that optimizes instruction documents for AI agents using principles from traditional "
+    },
+    {
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-13T12:00:00.000Z",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo edit"
+    },
+    {
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-06-13T11:00:00.000Z",
+      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created wi"
+    },
+    {
+      "title": "Claude Fable 5 outpaces GPT-5.5 by 13 points on FrontierMath's toughest problems",
+      "url": "https://the-decoder.com/claude-fable-5-outpaces-gpt-5-5-by-13-points-on-frontiermaths-toughest-problems/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T10:16:26.000Z",
+      "summary": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier, a massive jump from Opus 4.5, which sat below 10 percent in early 2026. Op"
+    },
+    {
+      "title": "Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions",
+      "url": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T09:49:28.000Z",
+      "summary": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone. Starting in 2027, budgets, allocations, and a c"
+    },
+    {
+      "title": "Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token",
+      "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T08:38:41.000Z",
+      "summary": "Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 i"
+    },
+    {
+      "title": "US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide",
+      "url": "https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/",
+      "source": "The Decoder",
+      "publishedAt": "2026-06-13T07:40:44.000Z",
+      "summary": "The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing b"
+    },
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T04:14:19.000Z",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-06-13T02:26:30.000Z",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed "
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -58,13 +177,6 @@
       "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disas"
     },
     {
-      "title": "Anthropic's Claude Fable 5 costs twice as much for 5.7 percent more performance",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-costs-twice-as-much-for-5-7-percent-more-performance/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-12T17:10:34.000Z",
-      "summary": "Claude Fable 5 tops the Artificial Analysis Intelligence Index with 64.9 points and sets records in five of ten benchmarks. But the gain over Opus 4.8 is just 5"
-    },
-    {
       "title": "Elon Musk is the world’s first trillionaire",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
       "source": "The Verge AI",
@@ -114,13 +226,6 @@
       "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make "
     },
     {
-      "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
-      "url": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-12T14:10:02.000Z",
-      "summary": "Within days of each other, Google and OpenAI separately exposed operations allegedly originating in China that use AI for fraud and covert influence campaigns. "
-    },
-    {
       "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
       "source": "The Verge AI",
@@ -128,32 +233,11 @@
       "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and"
     },
     {
-      "title": "Mistral AI seeks 3 billion euros to fund its European AI push",
-      "url": "https://the-decoder.com/mistral-ai-seeks-3-billion-euros-to-fund-its-european-ai-push/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-12T13:48:31.000Z",
-      "summary": "French AI startup Mistral AI is negotiating a new funding round of around 3 billion euros at a valuation of approximately 20 billion euros. The article Mistral "
-    },
-    {
       "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
       "url": "https://aws.amazon.com/professional-services/",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-06-12T13:00:10.000Z",
       "summary": "AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an existing pr"
-    },
-    {
-      "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
-      "url": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-12T11:45:14.000Z",
-      "summary": "Anthropic is throttling its new Mythos model for certain tasks while building apps that directly compete with its largest customers. Customers, partners, and in"
-    },
-    {
-      "title": "OpenAI buys Ona to push Codex toward long-running, autonomous coding tasks",
-      "url": "https://the-decoder.com/openai-buys-ona-to-push-codex-toward-long-running-autonomous-coding-tasks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-12T10:13:55.000Z",
-      "summary": "OpenAI is acquiring Ona, previously known as Gitpod, a startup founded in Kiel, Germany in 2020 that specializes in AI agents and secure cloud development envir"
     },
     {
       "title": "New OpenAI Academy courses for the next era of work",
@@ -233,32 +317,11 @@
       "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, "
     },
     {
-      "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-11T16:56:53.000Z",
-      "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability "
-    },
-    {
       "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
       "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-11T16:36:20.000Z",
       "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
-    },
-    {
-      "title": "Jeff Bezos' AI startup Prometheus closes $12 billion round at a $41 billion valuation",
-      "url": "https://the-decoder.com/jeff-bezos-ai-startup-prometheus-closes-12-billion-round-at-a-41-billion-valuation/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-11T16:24:20.000Z",
-      "summary": "Jeff Bezos' AI startup Prometheus has closed a $12 billion funding round at a $41 billion valuation. The company launched just last November with $6.2 billion i"
-    },
-    {
-      "title": "Free Deezer tool lets users on any streaming service check their playlists for AI music",
-      "url": "https://the-decoder.com/free-deezer-tool-lets-users-on-any-streaming-service-check-their-playlists-for-ai-music/",
-      "source": "The Decoder",
-      "publishedAt": "2026-06-11T16:14:22.000Z",
-      "summary": "Deezer now offers a free AI music detector that lets users on any major streaming platform check whether AI-generated songs are hiding in their playlists. The a"
     },
     {
       "title": "Evaluate AI agents systematically with Agent-EvalKit",
@@ -289,32 +352,11 @@
       "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaur"
     },
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-11T11:40:43.000Z",
-      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it "
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-11T08:00:00.000Z",
-      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start label"
-    },
-    {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
       "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-06-11T04:02:19.000Z",
       "summary": "The decision comes as India emerges as the world’s largest GCC market."
-    },
-    {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-11T03:53:06.000Z",
-      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to "
     },
     {
       "title": "How frontier teams are reinventing AI-native development",
@@ -338,18 +380,18 @@
       "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
     },
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI News",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of gen"
-    },
-    {
       "title": "OpenAI to acquire Ona",
       "url": "https://openai.com/index/openai-to-acquire-ona",
       "source": "OpenAI News",
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+    },
+    {
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of gen"
     },
     {
       "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
@@ -359,20 +401,6 @@
       "summary": ""
     },
     {
-      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T22:31:19.000Z",
-      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
-    },
-    {
-      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T20:19:31.000Z",
-      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
-    },
-    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "source": "OpenAI News",
@@ -380,39 +408,11 @@
       "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
     },
     {
-      "title": "Claude Fable won’t answer basic biology questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-10T18:43:34.000Z",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others"
-    },
-    {
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-10T17:45:11.000Z",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a "
-    },
-    {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T17:07:35.000Z",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet."
-    },
-    {
       "title": "DiffusionGemma: 4x faster text generation",
       "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "source": "Google DeepMind Blog",
       "publishedAt": "2026-06-10T16:24:11.000Z",
       "summary": ""
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-10T16:11:08.000Z",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
     },
     {
       "title": "Stop hand-tuning kernels: How Neuron Agentic Development accelerates AWS Trainium optimizations",
