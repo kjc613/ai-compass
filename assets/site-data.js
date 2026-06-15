@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-13T23:58:23.588Z",
+    "updatedAt": "2026-06-15T00:01:22.891Z",
     "items": [
+      {
+        "title": "China may have accessed Mythos",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-14T18:27:55.000Z",
+        "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had b"
+      },
+      {
+        "title": "As AI companies race to go public, who else is along for the ride?",
+        "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-14T16:38:09.000Z",
+        "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+      },
+      {
+        "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+        "url": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-14T13:58:17.000Z",
+        "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clo"
+      },
+      {
+        "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+        "url": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-14T13:29:52.000Z",
+        "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and u"
+      },
+      {
+        "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
+        "url": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-14T09:40:37.000Z",
+        "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who h"
+      },
+      {
+        "title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
+        "url": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-14T08:54:47.000Z",
+        "summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the firs"
+      },
+      {
+        "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
+        "url": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-14T08:35:02.000Z",
+        "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable mo"
+      },
+      {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-14T03:00:00.000Z",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+      },
+      {
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-14T00:03:49.000Z",
+        "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      },
+      {
+        "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-13T21:39:26.000Z",
+        "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cyb"
+      },
       {
         "title": "KPMG pulls report on AI usage due to apparent hallucinations",
         "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
@@ -3319,27 +3389,6 @@ window.SITE_DATA = {
         "summary": "Anthropic's Claude Fable 5 hits 88 percent accuracy on the hardest FrontierMath tier, a massive jump from Opus 4.5, which sat below 10 percent in early 2026. Op"
       },
       {
-        "title": "Meta shifts from \"tokenmaxxing\" to token managing as internal AI costs reportedly hit billions",
-        "url": "https://the-decoder.com/meta-shifts-from-tokenmaxxing-to-token-managing-as-internal-ai-costs-reportedly-hit-billions/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-13T09:49:28.000Z",
-        "summary": "An internal memo to 6,000 employees reveals Meta is heading toward billions in AI costs from internal use alone. Starting in 2027, budgets, allocations, and a c"
-      },
-      {
-        "title": "Open model Kimi K2.7 Code undercuts GPT-5.5 and Claude by up to 12x on price per token",
-        "url": "https://the-decoder.com/moonshots-open-model-kimi-k2-7-code-undercuts-gpt-5-5-and-claude-by-up-to-12x-on-price-per-token/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-13T08:38:41.000Z",
-        "summary": "Moonshot AI has released Kimi K2.7 Code, an open-weights model with one trillion parameters built for programming. It still trails GPT-5.5 and Claude Opus 4.8 i"
-      },
-      {
-        "title": "US government forces Anthropic to disable Claude Fable 5 and Mythos 5 for all customers worldwide",
-        "url": "https://the-decoder.com/us-government-forces-anthropic-to-disable-claude-fable-5-and-mythos-5-for-all-customers-worldwide/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-13T07:40:44.000Z",
-        "summary": "The US government has ordered Anthropic to shut down global access to Fable 5 and Mythos 5, citing alleged jailbreak risks. Anthropic is complying but pushing b"
-      },
-      {
         "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
         "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
         "source": "TechCrunch AI",
@@ -3382,25 +3431,11 @@ window.SITE_DATA = {
         "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two "
       },
       {
-        "title": "Over half of Americans fear losing both their jobs and their independent thinking to AI, survey finds",
-        "url": "https://the-decoder.com/over-half-of-americans-fear-losing-both-their-jobs-and-their-independent-thinking-to-ai-survey-finds/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-12T18:40:26.000Z",
-        "summary": "Anthropic surveyed nearly 52,000 Americans about their hopes and fears around AI. Sixty-four percent fear job losses, and 56 percent worry about losing the abil"
-      },
-      {
         "title": "Mistral is rumored to be raising €3B at €20B valuation",
         "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-12T17:38:11.000Z",
         "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
-      },
-      {
-        "title": "OpenAI kicks off the AI price wars with flexible rate-limit resets for its Codex coding agent",
-        "url": "https://the-decoder.com/openai-kicks-off-the-ai-price-wars-with-flexible-rate-limit-resets-for-its-codex-coding-agent/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-12T17:34:23.000Z",
-        "summary": "OpenAI now lets Codex users bank their rate-limit resets and trigger them manually instead of watching them expire on a fixed schedule. If you hit your usage ca"
       },
       {
         "title": "Siri is good now??",
@@ -3480,13 +3515,6 @@ window.SITE_DATA = {
         "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
       },
       {
-        "title": "Siri won’t be your AI girlfriend",
-        "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-12T07:00:31.000Z",
-        "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, "
-      },
-      {
         "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
         "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
         "source": "TechCrunch AI",
@@ -3543,13 +3571,6 @@ window.SITE_DATA = {
         "summary": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to en"
       },
       {
-        "title": "Amazon’s data centers used 2.5 billion gallons of water last year",
-        "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-11T17:26:57.000Z",
-        "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, "
-      },
-      {
         "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
         "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
         "source": "TechCrunch AI",
@@ -3571,27 +3592,6 @@ window.SITE_DATA = {
         "summary": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for"
       },
       {
-        "title": "Pool’s new app turns your screenshots into something useful",
-        "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-11T15:30:00.000Z",
-        "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover prod"
-      },
-      {
-        "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-11T14:23:43.000Z",
-        "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaur"
-      },
-      {
-        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-        "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-11T04:02:19.000Z",
-        "summary": "The decision comes as India emerges as the world’s largest GCC market."
-      },
-      {
         "title": "How frontier teams are reinventing AI-native development",
         "url": "https://kiro.dev",
         "source": "AWS Machine Learning Blog",
@@ -3606,6 +3606,13 @@ window.SITE_DATA = {
         "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
       },
       {
+        "title": "How an astrophysicist uses Codex to help simulate black holes",
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-11T00:00:00.000Z",
+        "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of gen"
+      },
+      {
         "title": "BBVA puts AI at the core of banking with OpenAI",
         "url": "https://openai.com/index/bbva",
         "source": "OpenAI News",
@@ -3618,13 +3625,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-06-11T00:00:00.000Z",
         "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
-      },
-      {
-        "title": "How an astrophysicist uses Codex to help simulate black holes",
-        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-11T00:00:00.000Z",
-        "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of gen"
       },
       {
         "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
