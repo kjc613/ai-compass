@@ -324,9 +324,10 @@ const categoryFiles = (await readdir("categories"))
   .sort();
 
 await writeFile("sitemap.xml", renderSitemap(categoryFiles));
+await writeFile("sitemap.html", renderHtmlSitemap(categoryFiles));
 await writeFile("llms.txt", renderLlmsText(categoryFiles));
 
-console.log(`Built ${categoryFiles.length} category pages, sitemap.xml, and llms.txt.`);
+console.log(`Built ${categoryFiles.length} category pages, sitemap.xml, sitemap.html, and llms.txt.`);
 
 async function readText(path) {
   const { readFile } = await import("node:fs/promises");
@@ -487,6 +488,7 @@ ${faqItems.map(renderFaqItem).join("\n")}
       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
+      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
     </nav>
   </footer>
 
@@ -583,6 +585,7 @@ function renderSitemap(files) {
   const pages = [
     { loc: `${siteUrl}/`, changefreq: "weekly", priority: "1.0" },
     { loc: `${siteUrl}/news.html`, changefreq: "daily", priority: "0.8" },
+    { loc: `${siteUrl}/sitemap.html`, changefreq: "weekly", priority: "0.7" },
     ...legalPages.map((file) => ({
       loc: `${siteUrl}/${file}`,
       changefreq: "monthly",
@@ -612,6 +615,98 @@ ${pages.map((page) => `  <url>
 `;
 }
 
+function renderHtmlSitemap(files) {
+  const topicLinks = topicPages.map((file) => {
+    const title = topicTitle(file);
+    return `          <li><a href="topics/${file}">${escapeHtml(title.zh)}</a><span>${escapeHtml(title.desc)}</span></li>`;
+  }).join("\n");
+
+  const categoryLinks = files.map((file) => {
+    const category = categoryFromFile(file);
+    const meta = categoryMeta[category];
+    return `          <li><a href="categories/${file}">${escapeHtml(categoryToolLabel(category))}</a><span>${escapeHtml(meta.zhDescription)}</span></li>`;
+  }).join("\n");
+
+  return `<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>站点地图 - AI Compass</title>
+  <meta name="description" content="AI Compass 站点地图，汇总首页、每日资讯、AI 工具专题指南、分类目录和重要说明页面，方便用户和搜索引擎发现全部页面。">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="${siteUrl}/sitemap.html">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="google-adsense-account" content="ca-pub-5859243800721473">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="assets/styles.css?v=11">
+</head>
+<body data-title-zh="站点地图 - AI Compass" data-title-en="Sitemap - AI Compass" data-description-zh="AI Compass 站点地图，汇总首页、每日资讯、AI 工具专题指南、分类目录和重要说明页面。" data-description-en="AI Compass sitemap with homepage, news, AI tool guides, category directories, and important site pages.">
+  <header class="subpage-header">
+    <nav class="topbar" aria-label="主导航">
+      <a class="brand" href="index.html">
+        <span class="brand-mark" aria-hidden="true">AI</span>
+        <span>AI Compass</span>
+      </a>
+      <div class="nav-links">
+        <a href="index.html#directory" data-seo-zh="导航" data-seo-en="Directory">导航</a>
+        <a href="news.html" data-seo-zh="资讯" data-seo-en="News">资讯</a>
+        <button class="language-toggle" id="languageToggle" type="button" aria-label="Switch language">EN</button>
+      </div>
+    </nav>
+    <div class="subpage-hero">
+      <p class="eyebrow" data-seo-zh="Sitemap" data-seo-en="Sitemap">Sitemap</p>
+      <h1 data-seo-zh="AI Compass 站点地图" data-seo-en="AI Compass Sitemap">AI Compass 站点地图</h1>
+      <p data-seo-zh="这里集中列出 AI Compass 的主要页面，方便用户按主题浏览，也帮助搜索引擎更稳定地发现分类页和专题页。" data-seo-en="This page lists the main AI Compass pages for users and helps search engines discover category and guide pages more reliably.">这里集中列出 AI Compass 的主要页面，方便用户按主题浏览，也帮助搜索引擎更稳定地发现分类页和专题页。</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="section sitemap-page">
+      <div class="sitemap-group">
+        <h2 data-seo-zh="核心页面" data-seo-en="Core Pages">核心页面</h2>
+        <ul class="sitemap-link-list">
+          <li><a href="index.html" data-seo-zh="首页" data-seo-en="Home">首页</a><span data-seo-zh="AI 工具导航、编辑推荐和分类入口。" data-seo-en="AI tool directory, editor picks, and category entry points.">AI 工具导航、编辑推荐和分类入口。</span></li>
+          <li><a href="news.html" data-seo-zh="每日 AI 资讯" data-seo-en="Daily AI News">每日 AI 资讯</a><span data-seo-zh="跟踪 AI 产品、模型和行业新闻。" data-seo-en="AI product, model, and industry news tracking.">跟踪 AI 产品、模型和行业新闻。</span></li>
+          <li><a href="about.html" data-seo-zh="关于本站" data-seo-en="About">关于本站</a><span data-seo-zh="站点定位、内容来源和编辑原则。" data-seo-en="Site focus, sources, and editorial principles.">站点定位、内容来源和编辑原则。</span></li>
+          <li><a href="privacy.html" data-seo-zh="隐私政策" data-seo-en="Privacy Policy">隐私政策</a><span data-seo-zh="Cookie、广告和第三方链接说明。" data-seo-en="Cookies, advertising, and third-party link notes.">Cookie、广告和第三方链接说明。</span></li>
+        </ul>
+      </div>
+
+      <div class="sitemap-group">
+        <h2 data-seo-zh="专题指南" data-seo-en="Topic Guides">专题指南</h2>
+        <ul class="sitemap-link-list">
+${topicLinks}
+        </ul>
+      </div>
+
+      <div class="sitemap-group">
+        <h2 data-seo-zh="AI 工具分类" data-seo-en="AI Tool Categories">AI 工具分类</h2>
+        <ul class="sitemap-link-list">
+${categoryLinks}
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>AI Compass</span>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="about.html" data-seo-zh="关于" data-seo-en="About">关于</a>
+      <a href="privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+      <a href="terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+      <a href="contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
+      <a href="sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+    </nav>
+  </footer>
+
+  <script src="assets/seo-i18n.js?v=11"></script>
+</body>
+</html>
+`;
+}
+
 function renderLlmsText(files) {
   return `# AI Compass
 
@@ -638,6 +733,47 @@ ${topicPages.map((file) => `- ${siteUrl}/topics/${file}`).join("\n")}
 Important category pages:
 ${files.map((file) => `- ${siteUrl}/categories/${file}`).join("\n")}
 `;
+}
+
+function categoryFromFile(file) {
+  const slug = file.replace(/\.html$/, "");
+  const match = Object.entries(categoryMeta).find(([, meta]) => meta.slug === slug);
+  if (!match) {
+    throw new Error(`Missing category for ${file}`);
+  }
+
+  return match[0];
+}
+
+function topicTitle(file) {
+  const topics = {
+    "best-ai-coding-tools.html": {
+      zh: "AI 编程工具推荐：Cursor、Trae、Copilot 怎么选",
+      desc: "对比开发者常用 AI IDE、代码助手和编程智能体。"
+    },
+    "free-ai-tools.html": {
+      zh: "免费 AI 工具推荐",
+      desc: "整理可先试用的对话、搜索、绘图、编程和本地模型工具。"
+    },
+    "china-ai-tools.html": {
+      zh: "国内 AI 工具入口",
+      desc: "通义千问、文心一言、Kimi、DeepSeek 等国内常用工具。"
+    },
+    "ai-model-api-platforms.html": {
+      zh: "AI 模型 API 平台怎么选",
+      desc: "OpenAI、Claude、OpenRouter、DeepSeek 等模型 API 对比。"
+    },
+    "comfyui-tools.html": {
+      zh: "ComfyUI 工具与 AI 绘图工作流",
+      desc: "节点式生成、云 GPU、Stable Diffusion 和工作流工具。"
+    },
+    "openrouter-guide.html": {
+      zh: "OpenRouter 官网入口与使用指南",
+      desc: "多模型 API 路由、官网入口和生产环境注意事项。"
+    }
+  };
+
+  return topics[file] || { zh: file.replace(".html", ""), desc: "AI Compass 专题指南。" };
 }
 
 function faviconUrl(url) {

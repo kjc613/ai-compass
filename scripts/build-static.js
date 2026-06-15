@@ -7,6 +7,7 @@ const staticPaths = [
   "robots.txt",
   "ads.txt",
   "sitemap.xml",
+  "sitemap.html",
   "site.webmanifest",
   "llms.txt",
   "about.html",
