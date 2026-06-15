@@ -1,0 +1,84 @@
+﻿diff --git a/scripts/build-topic-pages.js b/scripts/build-topic-pages.js
+index 983edd7..1623499 100644
+--- a/scripts/build-topic-pages.js
++++ b/scripts/build-topic-pages.js
+@@ -423,6 +423,7 @@ ${guideNotes.faq.map(renderFaqItem).join("\n")}
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/ai-model-api-platforms.html b/topics/ai-model-api-platforms.html
+index 333bdac..af9c6b3 100644
+--- a/topics/ai-model-api-platforms.html
++++ b/topics/ai-model-api-platforms.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/best-ai-coding-tools.html b/topics/best-ai-coding-tools.html
+index f7fbad3..94ea32f 100644
+--- a/topics/best-ai-coding-tools.html
++++ b/topics/best-ai-coding-tools.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/china-ai-tools.html b/topics/china-ai-tools.html
+index aff8cb0..1f9c897 100644
+--- a/topics/china-ai-tools.html
++++ b/topics/china-ai-tools.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/comfyui-tools.html b/topics/comfyui-tools.html
+index 85fc441..3734bc2 100644
+--- a/topics/comfyui-tools.html
++++ b/topics/comfyui-tools.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/free-ai-tools.html b/topics/free-ai-tools.html
+index 8335f97..3eb9736 100644
+--- a/topics/free-ai-tools.html
++++ b/topics/free-ai-tools.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
+diff --git a/topics/openrouter-guide.html b/topics/openrouter-guide.html
+index 502ffd2..ea1b5d9 100644
+--- a/topics/openrouter-guide.html
++++ b/topics/openrouter-guide.html
+@@ -195,6 +195,7 @@
+       <a href="../privacy.html" data-seo-zh="隐私" data-seo-en="Privacy">隐私</a>
+       <a href="../terms.html" data-seo-zh="条款" data-seo-en="Terms">条款</a>
+       <a href="../contact.html" data-seo-zh="联系" data-seo-en="Contact">联系</a>
++      <a href="../sitemap.html" data-seo-zh="站点地图" data-seo-en="Sitemap">站点地图</a>
+     </nav>
+   </footer>
+ 
