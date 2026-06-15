@@ -338,14 +338,14 @@ function renderCategoryPage(category, meta, categoryTools) {
   const categoryLabel = categoryToolLabel(category);
   const zhTitle = `${categoryLabel}推荐与官网入口：${categoryTools.length} 个 AI 工具怎么选`;
   const enTitle = `${meta.en} AI Tools: ${categoryTools.length} Official Links and Selection Guide`;
-  const zhDescription = `${category} AI 工具怎么选？AI Compass 整理 ${categoryTools.length} 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。`;
+  const zhDescription = `${categoryLabel}怎么选？AI Compass 整理 ${categoryTools.length} 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。`;
   const enDescription = `How to choose ${meta.en} AI tools. AI Compass curates ${categoryTools.length} official links, use cases, selection criteria, and safety notes for reliable tool discovery.`;
   const pageUrl = `${siteUrl}/categories/${meta.slug}.html`;
   const editorial = categoryEditorial[category];
   if (!editorial) {
     throw new Error(`Missing category editorial content for ${category}`);
   }
-  const faqItems = buildCategoryFaq(category, meta, editorial, categoryTools.length);
+  const faqItems = buildCategoryFaq(category, categoryLabel, meta, editorial, categoryTools.length);
   const schema = {
     "@context": "https://schema.org",
     "@graph": [
@@ -376,6 +376,23 @@ function renderCategoryPage(category, meta, categoryTools) {
             text: item.answerEn
           }
         }))
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "AI Compass",
+            item: `${siteUrl}/`
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: categoryLabel,
+            item: pageUrl
+          }
+        ]
       }
     ]
   };
@@ -454,7 +471,7 @@ function renderCategoryPage(category, meta, categoryTools) {
     <section class="section category-page" aria-labelledby="category-tools-title">
       <div class="section-heading">
         <p class="eyebrow" data-seo-zh="Official links" data-seo-en="Official links">Official links</p>
-        <h2 id="category-tools-title" data-seo-zh="${escapeHtml(category)}目录" data-seo-en="${escapeHtml(meta.en)} Directory">${escapeHtml(category)}目录</h2>
+        <h2 id="category-tools-title" data-seo-zh="${escapeHtml(`${categoryLabel}目录`)}" data-seo-en="${escapeHtml(meta.en)} Directory">${escapeHtml(categoryLabel)}目录</h2>
         <p data-seo-zh="优先整理官网入口。点击任意卡片会直接打开对应厂商或工具官网，请核对浏览器地址栏，避免进入仿冒网站。" data-seo-en="Official entries are prioritized. Click any card to open the vendor or tool website, and always verify the browser address bar to avoid impersonation sites.">优先整理官网入口。点击任意卡片会直接打开对应厂商或工具官网，请核对浏览器地址栏，避免进入仿冒网站。</p>
       </div>
       <div class="category-tabs" aria-label="AI tool categories">
@@ -472,7 +489,7 @@ ${categoryTools.map(renderToolCard).join("\n")}
       <section class="faq-section" aria-labelledby="category-faq-title">
         <div class="section-heading compact">
           <p class="eyebrow" data-seo-zh="FAQ" data-seo-en="FAQ">FAQ</p>
-          <h2 id="category-faq-title" data-seo-zh="${escapeAttribute(category)}常见问题" data-seo-en="${escapeAttribute(meta.en)} FAQ">${escapeHtml(category)}常见问题</h2>
+          <h2 id="category-faq-title" data-seo-zh="${escapeAttribute(`${categoryLabel}常见问题`)}" data-seo-en="${escapeAttribute(meta.en)} FAQ">${escapeHtml(categoryLabel)}常见问题</h2>
         </div>
         <div class="faq-list">
 ${faqItems.map(renderFaqItem).join("\n")}
@@ -517,10 +534,10 @@ function renderEditorialArticle(article) {
         </article>`;
 }
 
-function buildCategoryFaq(category, meta, editorial, count) {
+function buildCategoryFaq(category, categoryLabel, meta, editorial, count) {
   return [
     {
-      questionZh: `${category}工具应该先看哪些指标？`,
+      questionZh: `${categoryLabel}应该先看哪些指标？`,
       questionEn: `What should I check first when choosing ${meta.en} tools?`,
       answerZh: editorial.chooseZh,
       answerEn: editorial.chooseEn

@@ -296,6 +296,29 @@ function renderTopic(topic) {
             text: item.answerEn
           }
         }))
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          {
+            "@type": "ListItem",
+            position: 1,
+            name: "AI Compass",
+            item: `${siteUrl}/`
+          },
+          {
+            "@type": "ListItem",
+            position: 2,
+            name: "AI Tool Guides",
+            item: `${siteUrl}/sitemap.html`
+          },
+          {
+            "@type": "ListItem",
+            position: 3,
+            name: topic.titleEn,
+            item: url
+          }
+        ]
       }
     ]
   };
