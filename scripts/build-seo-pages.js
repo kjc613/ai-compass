@@ -334,7 +334,7 @@ async function readText(path) {
 }
 
 function renderCategoryPage(category, meta, categoryTools) {
-  const categoryLabel = category.endsWith("工具") ? category : `${category}工具`;
+  const categoryLabel = categoryToolLabel(category);
   const zhTitle = `${categoryLabel}推荐与官网入口：${categoryTools.length} 个 AI 工具怎么选`;
   const enTitle = `${meta.en} AI Tools: ${categoryTools.length} Official Links and Selection Guide`;
   const zhDescription = `${category} AI 工具怎么选？AI Compass 整理 ${categoryTools.length} 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。`;
@@ -494,6 +494,18 @@ ${faqItems.map(renderFaqItem).join("\n")}
 </body>
 </html>
 `;
+}
+
+function categoryToolLabel(category) {
+  if (category.endsWith("工具")) {
+    return category;
+  }
+
+  if (category.endsWith("AI") || category.includes("API")) {
+    return `${category} 工具`;
+  }
+
+  return `${category} AI 工具`;
 }
 
 function renderEditorialArticle(article) {

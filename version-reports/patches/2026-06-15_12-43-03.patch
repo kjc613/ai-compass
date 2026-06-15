@@ -1,0 +1,552 @@
+﻿diff --git a/categories/agents-automation.html b/categories/agents-automation.html
+index 2d446d8..2618b0e 100644
+--- a/categories/agents-automation.html
++++ b/categories/agents-automation.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>智能体与自动化工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass</title>
++  <title>智能体与自动化 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="智能体与自动化 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/agents-automation.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="智能体与自动化工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="智能体与自动化 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="智能体与自动化 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/agents-automation.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Agents \u0026 Automation AI Tools: 13 Official Links and Selection Guide","description":"How to choose Agents \u0026 Automation AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/agents-automation.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Hermes Agent","url":"https://hermes-ai.net/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"Manus","url":"https://manus.im/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"OpenClaw","url":"https://openclaw.ai/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"Zapier AI","url":"https://zapier.com/ai","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"AgentGPT","url":"https://agentgpt.reworkd.ai/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"AutoGPT","url":"https://agpt.co/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"CrewAI","url":"https://www.crewai.com/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"Dust","url":"https://dust.tt/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"Make","url":"https://www.make.com/en/ai-automation","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"n8n AI","url":"https://n8n.io/ai/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"SmythOS","url":"https://smythos.com/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"Superagent","url":"https://www.superagent.sh/","applicationCategory":"Agents \u0026 Automation"},{"@type":"SoftwareApplication","name":"UiPath","url":"https://www.uipath.com/ai","applicationCategory":"Agents \u0026 Automation"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Agents \u0026 Automation tools?","acceptedAnswer":{"@type":"Answer","text":"Evaluate agent tools by task boundaries: connected apps, human approval, rollback behavior, logs, and permission limits. The closer the agent is to real operations, the more control matters."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 13 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="智能体与自动化工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass" data-title-en="Agents &amp; Automation AI Tools: 13 Official Links and Selection Guide - AI Compass" data-description-zh="智能体与自动化 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Agents &amp; Automation AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="智能体与自动化 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass" data-title-en="Agents &amp; Automation AI Tools: 13 Official Links and Selection Guide - AI Compass" data-description-zh="智能体与自动化 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Agents &amp; Automation AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="智能体与自动化" data-seo-en="Agents &amp; Automation">智能体与自动化</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="智能体与自动化工具推荐与官网入口" data-seo-en="Agents &amp; Automation AI Tools and Official Links">智能体与自动化工具推荐与官网入口</h1>
++      <h1 data-seo-zh="智能体与自动化 AI 工具推荐与官网入口" data-seo-en="Agents &amp; Automation AI Tools and Official Links">智能体与自动化 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="把 AI 接入业务流程、SaaS 工具和自动化任务，适合运营与企业效率。" data-seo-en="Connect AI to business processes, SaaS apps, and automated tasks for operations and enterprise productivity.">把 AI 接入业务流程、SaaS 工具和自动化任务，适合运营与企业效率。</p>
+     </div>
+   </header>
+diff --git a/categories/ai-app-builders.html b/categories/ai-app-builders.html
+index 3eb13d1..862c285 100644
+--- a/categories/ai-app-builders.html
++++ b/categories/ai-app-builders.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>AI 应用构建工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass</title>
++  <title>AI 应用构建 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="AI 应用构建 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/ai-app-builders.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="AI 应用构建工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="AI 应用构建 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="AI 应用构建 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/ai-app-builders.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"AI App Building AI Tools: 15 Official Links and Selection Guide","description":"How to choose AI App Building AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/ai-app-builders.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Bolt","url":"https://bolt.new/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Coze","url":"https://www.coze.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Dify","url":"https://dify.ai/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Firebase Studio","url":"https://firebase.google.com/docs/studio","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"LangChain","url":"https://www.langchain.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"LlamaIndex","url":"https://www.llamaindex.ai/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"v0","url":"https://v0.dev/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Base44","url":"https://base44.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Figma Make","url":"https://www.figma.com/solutions/ai-app-generator/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Flowise","url":"https://flowiseai.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Lovable","url":"https://lovable.dev/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Magic Patterns","url":"https://www.magicpatterns.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Replit","url":"https://replit.com/ai","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Rork","url":"https://rork.com/","applicationCategory":"AI App Building"},{"@type":"SoftwareApplication","name":"Vercel AI SDK","url":"https://sdk.vercel.ai/","applicationCategory":"AI App Building"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing AI App Building tools?","acceptedAnswer":{"@type":"Answer","text":"AI app builders are useful for chat apps, RAG, internal tools, and prototypes. Compare data-source connectors, deployment, permissions, observability, model switching, and migration cost."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 15 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="AI 应用构建工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass" data-title-en="AI App Building AI Tools: 15 Official Links and Selection Guide - AI Compass" data-description-zh="AI 应用构建 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose AI App Building AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="AI 应用构建 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass" data-title-en="AI App Building AI Tools: 15 Official Links and Selection Guide - AI Compass" data-description-zh="AI 应用构建 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose AI App Building AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="AI 应用构建" data-seo-en="AI App Building">AI 应用构建</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="AI 应用构建工具推荐与官网入口" data-seo-en="AI App Building AI Tools and Official Links">AI 应用构建工具推荐与官网入口</h1>
++      <h1 data-seo-zh="AI 应用构建 AI 工具推荐与官网入口" data-seo-en="AI App Building AI Tools and Official Links">AI 应用构建 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="用于搭建聊天应用、智能体、RAG 和全栈 AI 原型。" data-seo-en="Tooling for chat apps, agents, RAG systems, and full-stack AI prototypes.">用于搭建聊天应用、智能体、RAG 和全栈 AI 原型。</p>
+     </div>
+   </header>
+diff --git a/categories/data-enterprise-ai.html b/categories/data-enterprise-ai.html
+index c64d38d..3f6a81b 100644
+--- a/categories/data-enterprise-ai.html
++++ b/categories/data-enterprise-ai.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>数据与企业 AI工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass</title>
++  <title>数据与企业 AI 工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="数据与企业 AI AI 工具怎么选？AI Compass 整理 3 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/data-enterprise-ai.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="数据与企业 AI工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="数据与企业 AI 工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="数据与企业 AI AI 工具怎么选？AI Compass 整理 3 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/data-enterprise-ai.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Data \u0026 Enterprise AI AI Tools: 3 Official Links and Selection Guide","description":"How to choose Data \u0026 Enterprise AI AI tools. AI Compass curates 3 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/data-enterprise-ai.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"DataRobot","url":"https://www.datarobot.com/","applicationCategory":"Data \u0026 Enterprise AI"},{"@type":"SoftwareApplication","name":"Palantir AIP","url":"https://www.palantir.com/platforms/aip/","applicationCategory":"Data \u0026 Enterprise AI"},{"@type":"SoftwareApplication","name":"Scale AI","url":"https://scale.com/","applicationCategory":"Data \u0026 Enterprise AI"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Data \u0026 Enterprise AI tools?","acceptedAnswer":{"@type":"Answer","text":"Enterprise AI and data platforms should be evaluated by security, governance, evaluation, permissions, auditability, and integration with the existing data stack. Do not judge only by demos; check production readiness."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 3 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="数据与企业 AI工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass" data-title-en="Data &amp; Enterprise AI AI Tools: 3 Official Links and Selection Guide - AI Compass" data-description-zh="数据与企业 AI AI 工具怎么选？AI Compass 整理 3 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Data &amp; Enterprise AI AI tools. AI Compass curates 3 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="数据与企业 AI 工具推荐与官网入口：3 个 AI 工具怎么选 - AI Compass" data-title-en="Data &amp; Enterprise AI AI Tools: 3 Official Links and Selection Guide - AI Compass" data-description-zh="数据与企业 AI AI 工具怎么选？AI Compass 整理 3 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Data &amp; Enterprise AI AI tools. AI Compass curates 3 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="数据与企业 AI" data-seo-en="Data &amp; Enterprise AI">数据与企业 AI</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="数据与企业 AI工具推荐与官网入口" data-seo-en="Data &amp; Enterprise AI AI Tools and Official Links">数据与企业 AI工具推荐与官网入口</h1>
++      <h1 data-seo-zh="数据与企业 AI 工具推荐与官网入口" data-seo-en="Data &amp; Enterprise AI AI Tools and Official Links">数据与企业 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="数据标注、模型评测、机器学习治理和企业决策 AI 平台。" data-seo-en="Data labeling, model evaluation, ML governance, and enterprise decision AI platforms.">数据标注、模型评测、机器学习治理和企业决策 AI 平台。</p>
+     </div>
+   </header>
+diff --git a/categories/foundation-models-api.html b/categories/foundation-models-api.html
+index c863198..bc34e77 100644
+--- a/categories/foundation-models-api.html
++++ b/categories/foundation-models-api.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>大模型与 API工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass</title>
++  <title>大模型与 API 工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="大模型与 API AI 工具怎么选？AI Compass 整理 25 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/foundation-models-api.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="大模型与 API工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="大模型与 API 工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="大模型与 API AI 工具怎么选？AI Compass 整理 25 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/foundation-models-api.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Foundation Models \u0026 APIs AI Tools: 25 Official Links and Selection Guide","description":"How to choose Foundation Models \u0026 APIs AI tools. AI Compass curates 25 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/foundation-models-api.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Anthropic","url":"https://www.anthropic.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Baseten","url":"https://www.baseten.co/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Cerebras Inference","url":"https://www.cerebras.ai/inference","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"DeepSeek","url":"https://www.deepseek.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"fal","url":"https://fal.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Google AI","url":"https://ai.google/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Hyperbolic","url":"https://www.hyperbolic.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Novita AI","url":"https://novita.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"OpenAI","url":"https://openai.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"OpenRouter","url":"https://openrouter.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"SenseChat","url":"https://chat.sensetime.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Qwen Chat","url":"https://tongyi.aliyun.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"iFlytek Spark","url":"https://xinghuo.xfyun.cn/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"ChatGLM","url":"https://chatglm.cn/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Amazon Bedrock","url":"https://aws.amazon.com/bedrock/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Cohere","url":"https://cohere.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Fireworks AI","url":"https://fireworks.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Groq","url":"https://groq.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Meta AI","url":"https://www.meta.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Mistral AI","url":"https://mistral.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Modal","url":"https://modal.com/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"RunPod","url":"https://www.runpod.io/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"SambaCloud","url":"https://sambanova.ai/products/sambacloud","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"Together AI","url":"https://www.together.ai/","applicationCategory":"Foundation Models \u0026 APIs"},{"@type":"SoftwareApplication","name":"xAI","url":"https://x.ai/","applicationCategory":"Foundation Models \u0026 APIs"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Foundation Models \u0026 APIs tools?","acceptedAnswer":{"@type":"Answer","text":"Start by deciding whether you need chat access, API integration, multimodal features, or an internal enterprise system. Individual users should compare web experience and available models, while developers should review context length, tool calling, pricing, rate limits, data retention, and SDK documentation. Enterprise teams also need access control, auditability, compliance, and service reliability."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 25 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="大模型与 API工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass" data-title-en="Foundation Models &amp; APIs AI Tools: 25 Official Links and Selection Guide - AI Compass" data-description-zh="大模型与 API AI 工具怎么选？AI Compass 整理 25 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Foundation Models &amp; APIs AI tools. AI Compass curates 25 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="大模型与 API 工具推荐与官网入口：25 个 AI 工具怎么选 - AI Compass" data-title-en="Foundation Models &amp; APIs AI Tools: 25 Official Links and Selection Guide - AI Compass" data-description-zh="大模型与 API AI 工具怎么选？AI Compass 整理 25 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Foundation Models &amp; APIs AI tools. AI Compass curates 25 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="大模型与 API" data-seo-en="Foundation Models &amp; APIs">大模型与 API</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="大模型与 API工具推荐与官网入口" data-seo-en="Foundation Models &amp; APIs AI Tools and Official Links">大模型与 API工具推荐与官网入口</h1>
++      <h1 data-seo-zh="大模型与 API 工具推荐与官网入口" data-seo-en="Foundation Models &amp; APIs AI Tools and Official Links">大模型与 API 工具推荐与官网入口</h1>
+       <p data-seo-zh="通用模型、推理接口、多模态 API 和企业模型服务，是构建 AI 产品的底座。" data-seo-en="General models, inference APIs, multimodal endpoints, and enterprise model services for building AI products.">通用模型、推理接口、多模态 API 和企业模型服务，是构建 AI 产品的底座。</p>
+     </div>
+   </header>
+diff --git a/categories/generation-workflows.html b/categories/generation-workflows.html
+index 3d48268..d086124 100644
+--- a/categories/generation-workflows.html
++++ b/categories/generation-workflows.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>生成工作流工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass</title>
++  <title>生成工作流 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="生成工作流 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/generation-workflows.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="生成工作流工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="生成工作流 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="生成工作流 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/generation-workflows.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Generation Workflows AI Tools: 6 Official Links and Selection Guide","description":"How to choose Generation Workflows AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/generation-workflows.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"ComfyUI","url":"https://www.comfy.org/","applicationCategory":"Generation Workflows"},{"@type":"SoftwareApplication","name":"Invoke","url":"https://invoke.ai/","applicationCategory":"Generation Workflows"},{"@type":"SoftwareApplication","name":"Diffusers","url":"https://huggingface.co/docs/diffusers/index","applicationCategory":"Generation Workflows"},{"@type":"SoftwareApplication","name":"Fooocus","url":"https://github.com/lllyasviel/Fooocus","applicationCategory":"Generation Workflows"},{"@type":"SoftwareApplication","name":"Stable Diffusion WebUI","url":"https://github.com/AUTOMATIC1111/stable-diffusion-webui","applicationCategory":"Generation Workflows"},{"@type":"SoftwareApplication","name":"SwarmUI","url":"https://github.com/mcmonkeyprojects/SwarmUI","applicationCategory":"Generation Workflows"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Generation Workflows tools?","acceptedAnswer":{"@type":"Answer","text":"Generation workflow tools are for users who need reproducible, controllable, and batch creative production. Compare node ecosystem, model management, parameter records, queues, GPU resources, and collaboration."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 6 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="生成工作流工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass" data-title-en="Generation Workflows AI Tools: 6 Official Links and Selection Guide - AI Compass" data-description-zh="生成工作流 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Generation Workflows AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="生成工作流 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass" data-title-en="Generation Workflows AI Tools: 6 Official Links and Selection Guide - AI Compass" data-description-zh="生成工作流 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Generation Workflows AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="生成工作流" data-seo-en="Generation Workflows">生成工作流</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="生成工作流工具推荐与官网入口" data-seo-en="Generation Workflows AI Tools and Official Links">生成工作流工具推荐与官网入口</h1>
++      <h1 data-seo-zh="生成工作流 AI 工具推荐与官网入口" data-seo-en="Generation Workflows AI Tools and Official Links">生成工作流 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="节点式生成、模型管线、画布编辑和本地创作工作台，适合深度视觉工作流。" data-seo-en="Node-based generation, model pipelines, canvas editing, and local creative workbenches for advanced visual workflows.">节点式生成、模型管线、画布编辑和本地创作工作台，适合深度视觉工作流。</p>
+     </div>
+   </header>
+diff --git a/categories/image-design.html b/categories/image-design.html
+index 6eca16b..ee9e570 100644
+--- a/categories/image-design.html
++++ b/categories/image-design.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>图像与设计工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass</title>
++  <title>图像与设计 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="图像与设计 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/image-design.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="图像与设计工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="图像与设计 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="图像与设计 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/image-design.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Image \u0026 Design AI Tools: 15 Official Links and Selection Guide","description":"How to choose Image \u0026 Design AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/image-design.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Adobe Firefly","url":"https://www.adobe.com/products/firefly.html","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Canva AI","url":"https://www.canva.com/ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Midjourney","url":"https://www.midjourney.com/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Gaoding AI","url":"https://www.gaoding.com/ai","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Jimeng AI","url":"https://jimeng.jianying.com/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Freepik AI","url":"https://www.freepik.com/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Ideogram","url":"https://ideogram.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Krea","url":"https://www.krea.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Leonardo AI","url":"https://leonardo.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Lovart","url":"https://www.lovart.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"OpenArt","url":"https://openart.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Playground AI","url":"https://playground.com/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Recraft","url":"https://www.recraft.ai/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Scenario","url":"https://www.scenario.com/","applicationCategory":"Image \u0026 Design"},{"@type":"SoftwareApplication","name":"Stability AI","url":"https://stability.ai/","applicationCategory":"Image \u0026 Design"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Image \u0026 Design tools?","acceptedAnswer":{"@type":"Answer","text":"Choose image and design tools by output goal: inspiration sketches, marketing posters, brand assets, product visuals, character design, and commercial delivery have different requirements. Compare licensing, resolution, editing control, style consistency, and collaboration."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 15 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="图像与设计工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass" data-title-en="Image &amp; Design AI Tools: 15 Official Links and Selection Guide - AI Compass" data-description-zh="图像与设计 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Image &amp; Design AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="图像与设计 AI 工具推荐与官网入口：15 个 AI 工具怎么选 - AI Compass" data-title-en="Image &amp; Design AI Tools: 15 Official Links and Selection Guide - AI Compass" data-description-zh="图像与设计 AI 工具怎么选？AI Compass 整理 15 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Image &amp; Design AI tools. AI Compass curates 15 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="图像与设计" data-seo-en="Image &amp; Design">图像与设计</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="图像与设计工具推荐与官网入口" data-seo-en="Image &amp; Design AI Tools and Official Links">图像与设计工具推荐与官网入口</h1>
++      <h1 data-seo-zh="图像与设计 AI 工具推荐与官网入口" data-seo-en="Image &amp; Design AI Tools and Official Links">图像与设计 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="覆盖图像生成、海报设计、品牌素材和创意视觉，适合设计与营销团队。" data-seo-en="Image generation, posters, brand assets, and creative visuals for design and marketing teams.">覆盖图像生成、海报设计、品牌素材和创意视觉，适合设计与营销团队。</p>
+     </div>
+   </header>
+diff --git a/categories/knowledge-retrieval.html b/categories/knowledge-retrieval.html
+index 55b657f..6dedb6f 100644
+--- a/categories/knowledge-retrieval.html
++++ b/categories/knowledge-retrieval.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>知识库与检索工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass</title>
++  <title>知识库与检索 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="知识库与检索 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/knowledge-retrieval.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="知识库与检索工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="知识库与检索 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="知识库与检索 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/knowledge-retrieval.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Knowledge \u0026 Retrieval AI Tools: 6 Official Links and Selection Guide","description":"How to choose Knowledge \u0026 Retrieval AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/knowledge-retrieval.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"NotebookLM","url":"https://notebooklm.google/","applicationCategory":"Knowledge \u0026 Retrieval"},{"@type":"SoftwareApplication","name":"ChatPDF","url":"https://www.chatpdf.com/","applicationCategory":"Knowledge \u0026 Retrieval"},{"@type":"SoftwareApplication","name":"Glean","url":"https://www.glean.com/","applicationCategory":"Knowledge \u0026 Retrieval"},{"@type":"SoftwareApplication","name":"Pinecone","url":"https://www.pinecone.io/","applicationCategory":"Knowledge \u0026 Retrieval"},{"@type":"SoftwareApplication","name":"Weaviate","url":"https://weaviate.io/","applicationCategory":"Knowledge \u0026 Retrieval"},{"@type":"SoftwareApplication","name":"Zilliz","url":"https://zilliz.com/","applicationCategory":"Knowledge \u0026 Retrieval"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Knowledge \u0026 Retrieval tools?","acceptedAnswer":{"@type":"Answer","text":"Knowledge and retrieval tools depend on ingestion, chunking, permission inheritance, retrieval quality, and answer citations. Chat alone is not enough; test whether the system finds the right source evidence."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 6 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="知识库与检索工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass" data-title-en="Knowledge &amp; Retrieval AI Tools: 6 Official Links and Selection Guide - AI Compass" data-description-zh="知识库与检索 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Knowledge &amp; Retrieval AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="知识库与检索 AI 工具推荐与官网入口：6 个 AI 工具怎么选 - AI Compass" data-title-en="Knowledge &amp; Retrieval AI Tools: 6 Official Links and Selection Guide - AI Compass" data-description-zh="知识库与检索 AI 工具怎么选？AI Compass 整理 6 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Knowledge &amp; Retrieval AI tools. AI Compass curates 6 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="知识库与检索" data-seo-en="Knowledge &amp; Retrieval">知识库与检索</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="知识库与检索工具推荐与官网入口" data-seo-en="Knowledge &amp; Retrieval AI Tools and Official Links">知识库与检索工具推荐与官网入口</h1>
++      <h1 data-seo-zh="知识库与检索 AI 工具推荐与官网入口" data-seo-en="Knowledge &amp; Retrieval AI Tools and Official Links">知识库与检索 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="向量数据库、语义检索和 RAG 基础设施，适合企业知识库。" data-seo-en="Vector databases, semantic retrieval, and RAG infrastructure for enterprise knowledge systems.">向量数据库、语义检索和 RAG 基础设施，适合企业知识库。</p>
+     </div>
+   </header>
+diff --git a/categories/marketing-content.html b/categories/marketing-content.html
+index de5b29b..637663f 100644
+--- a/categories/marketing-content.html
++++ b/categories/marketing-content.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>营销与内容工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass</title>
++  <title>营销与内容 AI 工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="营销与内容 AI 工具怎么选？AI Compass 整理 2 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/marketing-content.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="营销与内容工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="营销与内容 AI 工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="营销与内容 AI 工具怎么选？AI Compass 整理 2 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/marketing-content.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Marketing \u0026 Content AI Tools: 2 Official Links and Selection Guide","description":"How to choose Marketing \u0026 Content AI tools. AI Compass curates 2 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/marketing-content.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Copy.ai","url":"https://www.copy.ai/","applicationCategory":"Marketing \u0026 Content"},{"@type":"SoftwareApplication","name":"Jasper","url":"https://www.jasper.ai/","applicationCategory":"Marketing \u0026 Content"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Marketing \u0026 Content tools?","acceptedAnswer":{"@type":"Answer","text":"Marketing AI tools are valuable when they fit brand voice, audience profile, channel format, and conversion goal, not when they merely generate more text. Test with real campaign briefs instead of counting templates."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 2 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="营销与内容工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass" data-title-en="Marketing &amp; Content AI Tools: 2 Official Links and Selection Guide - AI Compass" data-description-zh="营销与内容 AI 工具怎么选？AI Compass 整理 2 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Marketing &amp; Content AI tools. AI Compass curates 2 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="营销与内容 AI 工具推荐与官网入口：2 个 AI 工具怎么选 - AI Compass" data-title-en="Marketing &amp; Content AI Tools: 2 Official Links and Selection Guide - AI Compass" data-description-zh="营销与内容 AI 工具怎么选？AI Compass 整理 2 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Marketing &amp; Content AI tools. AI Compass curates 2 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="营销与内容" data-seo-en="Marketing &amp; Content">营销与内容</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="营销与内容工具推荐与官网入口" data-seo-en="Marketing &amp; Content AI Tools and Official Links">营销与内容工具推荐与官网入口</h1>
++      <h1 data-seo-zh="营销与内容 AI 工具推荐与官网入口" data-seo-en="Marketing &amp; Content AI Tools and Official Links">营销与内容 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="品牌文案、素材创作、活动内容和销售流程自动化。" data-seo-en="Brand copy, creative assets, campaign content, and sales workflow automation.">品牌文案、素材创作、活动内容和销售流程自动化。</p>
+     </div>
+   </header>
+diff --git a/categories/model-community.html b/categories/model-community.html
+index ef70929..a384d18 100644
+--- a/categories/model-community.html
++++ b/categories/model-community.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>模型与社区工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass</title>
++  <title>模型与社区 AI 工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="模型与社区 AI 工具怎么选？AI Compass 整理 5 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/model-community.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="模型与社区工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="模型与社区 AI 工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="模型与社区 AI 工具怎么选？AI Compass 整理 5 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/model-community.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Model Hubs \u0026 Communities AI Tools: 5 Official Links and Selection Guide","description":"How to choose Model Hubs \u0026 Communities AI tools. AI Compass curates 5 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/model-community.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Civitai","url":"https://civitai.com/","applicationCategory":"Model Hubs \u0026 Communities"},{"@type":"SoftwareApplication","name":"Hugging Face","url":"https://huggingface.co/","applicationCategory":"Model Hubs \u0026 Communities"},{"@type":"SoftwareApplication","name":"Ollama","url":"https://ollama.com/","applicationCategory":"Model Hubs \u0026 Communities"},{"@type":"SoftwareApplication","name":"LM Studio","url":"https://lmstudio.ai/","applicationCategory":"Model Hubs \u0026 Communities"},{"@type":"SoftwareApplication","name":"Open WebUI","url":"https://openwebui.com/","applicationCategory":"Model Hubs \u0026 Communities"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Model Hubs \u0026 Communities tools?","acceptedAnswer":{"@type":"Answer","text":"Model communities are useful for discovering open models, datasets, demos, and examples. Review license, downloads, maintenance frequency, model cards, dependencies, and community feedback."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 5 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="模型与社区工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass" data-title-en="Model Hubs &amp; Communities AI Tools: 5 Official Links and Selection Guide - AI Compass" data-description-zh="模型与社区 AI 工具怎么选？AI Compass 整理 5 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Model Hubs &amp; Communities AI tools. AI Compass curates 5 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="模型与社区 AI 工具推荐与官网入口：5 个 AI 工具怎么选 - AI Compass" data-title-en="Model Hubs &amp; Communities AI Tools: 5 Official Links and Selection Guide - AI Compass" data-description-zh="模型与社区 AI 工具怎么选？AI Compass 整理 5 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Model Hubs &amp; Communities AI tools. AI Compass curates 5 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="模型与社区" data-seo-en="Model Hubs &amp; Communities">模型与社区</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="模型与社区工具推荐与官网入口" data-seo-en="Model Hubs &amp; Communities AI Tools and Official Links">模型与社区工具推荐与官网入口</h1>
++      <h1 data-seo-zh="模型与社区 AI 工具推荐与官网入口" data-seo-en="Model Hubs &amp; Communities AI Tools and Official Links">模型与社区 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="模型、数据集、在线 Demo 和开发者社区生态。" data-seo-en="Models, datasets, demos, and developer community ecosystems.">模型、数据集、在线 Demo 和开发者社区生态。</p>
+     </div>
+   </header>
+diff --git a/categories/productivity.html b/categories/productivity.html
+index 9f21958..9c7e218 100644
+--- a/categories/productivity.html
++++ b/categories/productivity.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>办公效率工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass</title>
++  <title>办公效率 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="办公效率 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/productivity.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="办公效率工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="办公效率 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="办公效率 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/productivity.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Productivity AI Tools: 13 Official Links and Selection Guide","description":"How to choose Productivity AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/productivity.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Doubao","url":"https://www.doubao.com/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"ChatGPT","url":"https://chatgpt.com/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Claude","url":"https://claude.ai/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Gamma","url":"https://gamma.app/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Kimi","url":"https://kimi.moonshot.cn/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Microsoft Copilot","url":"https://copilot.microsoft.com/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Tencent Yuanbao","url":"https://yuanbao.tencent.com/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Fireflies.ai","url":"https://fireflies.ai/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Grammarly","url":"https://www.grammarly.com/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Granola","url":"https://www.granola.ai/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Napkin AI","url":"https://www.napkin.ai/","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Notion AI","url":"https://www.notion.com/product/ai","applicationCategory":"Productivity"},{"@type":"SoftwareApplication","name":"Otter.ai","url":"https://otter.ai/","applicationCategory":"Productivity"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Productivity tools?","acceptedAnswer":{"@type":"Answer","text":"For productivity tools, the key question is whether the tool fits into your documents, meetings, email, and knowledge base. Compare import formats, collaboration, permission boundaries, export options, and Chinese-language support instead of judging only by writing fluency."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 13 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="办公效率工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass" data-title-en="Productivity AI Tools: 13 Official Links and Selection Guide - AI Compass" data-description-zh="办公效率 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Productivity AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="办公效率 AI 工具推荐与官网入口：13 个 AI 工具怎么选 - AI Compass" data-title-en="Productivity AI Tools: 13 Official Links and Selection Guide - AI Compass" data-description-zh="办公效率 AI 工具怎么选？AI Compass 整理 13 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Productivity AI tools. AI Compass curates 13 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="办公效率" data-seo-en="Productivity">办公效率</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="办公效率工具推荐与官网入口" data-seo-en="Productivity AI Tools and Official Links">办公效率工具推荐与官网入口</h1>
++      <h1 data-seo-zh="办公效率 AI 工具推荐与官网入口" data-seo-en="Productivity AI Tools and Official Links">办公效率 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="写作、演示、文档、会议和个人知识管理相关 AI 工具。" data-seo-en="AI tools for writing, slides, documents, meetings, and personal knowledge management.">写作、演示、文档、会议和个人知识管理相关 AI 工具。</p>
+     </div>
+   </header>
+diff --git a/categories/search-qa.html b/categories/search-qa.html
+index 18e0fae..50ea419 100644
+--- a/categories/search-qa.html
++++ b/categories/search-qa.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>搜索问答工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass</title>
++  <title>搜索问答 AI 工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="搜索问答 AI 工具怎么选？AI Compass 整理 16 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/search-qa.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="搜索问答工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="搜索问答 AI 工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="搜索问答 AI 工具怎么选？AI Compass 整理 16 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/search-qa.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Search \u0026 Q\u0026A AI Tools: 16 Official Links and Selection Guide","description":"How to choose Search \u0026 Q\u0026A AI tools. AI Compass curates 16 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/search-qa.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Metaso AI Search","url":"https://metaso.cn/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Gemini","url":"https://gemini.google.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Genspark","url":"https://www.genspark.ai/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Perplexity","url":"https://www.perplexity.ai/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Quark AI","url":"https://www.quark.cn/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"ERNIE Bot","url":"https://yiyan.baidu.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Character.AI","url":"https://character.ai/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Comet","url":"https://www.perplexity.ai/comet/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Consensus","url":"https://consensus.app/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Dia","url":"https://www.diabrowser.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Elicit","url":"https://elicit.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Fellou","url":"https://fellou.ai/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Felo","url":"https://felo.ai/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Phind","url":"https://www.phind.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"Poe","url":"https://poe.com/","applicationCategory":"Search \u0026 Q\u0026A"},{"@type":"SoftwareApplication","name":"You.com","url":"https://you.com/","applicationCategory":"Search \u0026 Q\u0026A"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Search \u0026 Q\u0026A tools?","acceptedAnswer":{"@type":"Answer","text":"For AI search and Q\u0026A, focus on citation quality, traceability, freshness, and whether the answer separates facts from inference. These tools are useful for initial research, but important conclusions should still be checked against primary sources."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 16 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="搜索问答工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass" data-title-en="Search &amp; Q&amp;A AI Tools: 16 Official Links and Selection Guide - AI Compass" data-description-zh="搜索问答 AI 工具怎么选？AI Compass 整理 16 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Search &amp; Q&amp;A AI tools. AI Compass curates 16 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="搜索问答 AI 工具推荐与官网入口：16 个 AI 工具怎么选 - AI Compass" data-title-en="Search &amp; Q&amp;A AI Tools: 16 Official Links and Selection Guide - AI Compass" data-description-zh="搜索问答 AI 工具怎么选？AI Compass 整理 16 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Search &amp; Q&amp;A AI tools. AI Compass curates 16 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="搜索问答" data-seo-en="Search &amp; Q&amp;A">搜索问答</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="搜索问答工具推荐与官网入口" data-seo-en="Search &amp; Q&amp;A AI Tools and Official Links">搜索问答工具推荐与官网入口</h1>
++      <h1 data-seo-zh="搜索问答 AI 工具推荐与官网入口" data-seo-en="Search &amp; Q&amp;A AI Tools and Official Links">搜索问答 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="AI 搜索、资料查证、对话助手和多模型问答入口。" data-seo-en="AI search, source-backed research, chat assistants, and multi-model Q&amp;A entry points.">AI 搜索、资料查证、对话助手和多模型问答入口。</p>
+     </div>
+   </header>
+diff --git a/categories/video-creative.html b/categories/video-creative.html
+index 99f7280..c16b10c 100644
+--- a/categories/video-creative.html
++++ b/categories/video-creative.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>视频与创意工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass</title>
++  <title>视频与创意 AI 工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="视频与创意 AI 工具怎么选？AI Compass 整理 11 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/video-creative.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="视频与创意工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="视频与创意 AI 工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="视频与创意 AI 工具怎么选？AI Compass 整理 11 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/video-creative.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Video \u0026 Creative AI Tools: 11 Official Links and Selection Guide","description":"How to choose Video \u0026 Creative AI tools. AI Compass curates 11 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/video-creative.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"Kling AI","url":"https://klingai.com/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Google Flow","url":"https://labs.google/flow/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Hailuo AI","url":"https://hailuoai.video/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Luma AI","url":"https://lumalabs.ai/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Runway","url":"https://runwayml.com/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"HeyGen","url":"https://www.heygen.com/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Higgsfield","url":"https://higgsfield.ai/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"LTX Studio","url":"https://ltx.studio/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Pika","url":"https://pika.art/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"PixVerse","url":"https://app.pixverse.ai/","applicationCategory":"Video \u0026 Creative"},{"@type":"SoftwareApplication","name":"Synthesia","url":"https://www.synthesia.io/","applicationCategory":"Video \u0026 Creative"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Video \u0026 Creative tools?","acceptedAnswer":{"@type":"Answer","text":"AI video tools differ by clip length, camera control, character consistency, subtitles, dubbing, commercial license, and export formats. A short-form idea tool is not the same as a production tool for formal ads."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 11 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="视频与创意工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass" data-title-en="Video &amp; Creative AI Tools: 11 Official Links and Selection Guide - AI Compass" data-description-zh="视频与创意 AI 工具怎么选？AI Compass 整理 11 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Video &amp; Creative AI tools. AI Compass curates 11 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="视频与创意 AI 工具推荐与官网入口：11 个 AI 工具怎么选 - AI Compass" data-title-en="Video &amp; Creative AI Tools: 11 Official Links and Selection Guide - AI Compass" data-description-zh="视频与创意 AI 工具怎么选？AI Compass 整理 11 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Video &amp; Creative AI tools. AI Compass curates 11 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="视频与创意" data-seo-en="Video &amp; Creative">视频与创意</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="视频与创意工具推荐与官网入口" data-seo-en="Video &amp; Creative AI Tools and Official Links">视频与创意工具推荐与官网入口</h1>
++      <h1 data-seo-zh="视频与创意 AI 工具推荐与官网入口" data-seo-en="Video &amp; Creative AI Tools and Official Links">视频与创意 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="用于短视频、数字人、视频翻译和创意片段生产，适合内容团队。" data-seo-en="Short videos, avatars, video translation, and creative clip production for content teams.">用于短视频、数字人、视频翻译和创意片段生产，适合内容团队。</p>
+     </div>
+   </header>
+diff --git a/categories/voice-audio.html b/categories/voice-audio.html
+index 9796cfc..587735e 100644
+--- a/categories/voice-audio.html
++++ b/categories/voice-audio.html
+@@ -3,7 +3,7 @@
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+-  <title>语音与音频工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass</title>
++  <title>语音与音频 AI 工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass</title>
+   <meta name="description" content="语音与音频 AI 工具怎么选？AI Compass 整理 7 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <link rel="canonical" href="https://kjc613.cn/categories/voice-audio.html">
+   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+@@ -12,7 +12,7 @@
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+   <meta property="og:type" content="website">
+   <meta property="og:site_name" content="AI Compass">
+-  <meta property="og:title" content="语音与音频工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass">
++  <meta property="og:title" content="语音与音频 AI 工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass">
+   <meta property="og:description" content="语音与音频 AI 工具怎么选？AI Compass 整理 7 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。">
+   <meta property="og:url" content="https://kjc613.cn/categories/voice-audio.html">
+   <meta name="twitter:card" content="summary">
+@@ -21,7 +21,7 @@
+   <link rel="stylesheet" href="../assets/styles.css?v=9">
+   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Voice \u0026 Audio AI Tools: 7 Official Links and Selection Guide","description":"How to choose Voice \u0026 Audio AI tools. AI Compass curates 7 official links, use cases, selection criteria, and safety notes for reliable tool discovery.","url":"https://kjc613.cn/categories/voice-audio.html","isPartOf":{"@type":"WebSite","name":"AI Compass","url":"https://kjc613.cn/"},"hasPart":[{"@type":"SoftwareApplication","name":"ElevenLabs","url":"https://elevenlabs.io/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"Suno","url":"https://suno.com/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"AssemblyAI","url":"https://www.assemblyai.com/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"Descript","url":"https://www.descript.com/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"MiniMax","url":"https://www.minimaxi.com/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"Murf","url":"https://murf.ai/","applicationCategory":"Voice \u0026 Audio"},{"@type":"SoftwareApplication","name":"Udio","url":"https://www.udio.com/","applicationCategory":"Voice \u0026 Audio"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should I check first when choosing Voice \u0026 Audio tools?","acceptedAnswer":{"@type":"Answer","text":"Choose voice and audio tools by task: transcription, dubbing, cloning, music generation, or audio analysis. Compare language coverage, naturalness, latency, batch processing, licensing, and restrictions on sensitive voices."}},{"@type":"Question","name":"Why does AI Compass prioritize official links?","acceptedAnswer":{"@type":"Answer","text":"This category currently lists 7 entries. AI tool search results often include impersonation domains, mirrors, and misleading download pages, so official links reduce the risk of logging in, paying, or downloading from the wrong site."}},{"@type":"Question","name":"Are all listed tools suitable for commercial use?","acceptedAnswer":{"@type":"Answer","text":"Not necessarily. Free tiers, commercial licenses, data-use policies, and regional availability differ by vendor. Before using a tool for client projects, ads, or enterprise workflows, read the vendor's official terms."}}]}]}</script>
+ </head>
+-<body data-title-zh="语音与音频工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass" data-title-en="Voice &amp; Audio AI Tools: 7 Official Links and Selection Guide - AI Compass" data-description-zh="语音与音频 AI 工具怎么选？AI Compass 整理 7 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Voice &amp; Audio AI tools. AI Compass curates 7 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
++<body data-title-zh="语音与音频 AI 工具推荐与官网入口：7 个 AI 工具怎么选 - AI Compass" data-title-en="Voice &amp; Audio AI Tools: 7 Official Links and Selection Guide - AI Compass" data-description-zh="语音与音频 AI 工具怎么选？AI Compass 整理 7 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。" data-description-en="How to choose Voice &amp; Audio AI tools. AI Compass curates 7 official links, use cases, selection criteria, and safety notes for reliable tool discovery.">
+   <header class="subpage-header">
+     <nav class="topbar" aria-label="Primary navigation">
+       <a class="brand" href="../index.html">
+@@ -41,7 +41,7 @@
+         <span data-seo-zh="语音与音频" data-seo-en="Voice &amp; Audio">语音与音频</span>
+       </div>
+       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
+-      <h1 data-seo-zh="语音与音频工具推荐与官网入口" data-seo-en="Voice &amp; Audio AI Tools and Official Links">语音与音频工具推荐与官网入口</h1>
++      <h1 data-seo-zh="语音与音频 AI 工具推荐与官网入口" data-seo-en="Voice &amp; Audio AI Tools and Official Links">语音与音频 AI 工具推荐与官网入口</h1>
+       <p data-seo-zh="语音生成、配音、转写、音乐和音频编辑。" data-seo-en="Voice generation, dubbing, transcription, music, and audio editing.">语音生成、配音、转写、音乐和音频编辑。</p>
+     </div>
+   </header>
+diff --git a/scripts/build-seo-pages.js b/scripts/build-seo-pages.js
+index 5d90824..7b803d4 100644
+--- a/scripts/build-seo-pages.js
++++ b/scripts/build-seo-pages.js
+@@ -334,7 +334,7 @@ async function readText(path) {
+ }
+ 
+ function renderCategoryPage(category, meta, categoryTools) {
+-  const categoryLabel = category.endsWith("工具") ? category : `${category}工具`;
++  const categoryLabel = categoryToolLabel(category);
+   const zhTitle = `${categoryLabel}推荐与官网入口：${categoryTools.length} 个 AI 工具怎么选`;
+   const enTitle = `${meta.en} AI Tools: ${categoryTools.length} Official Links and Selection Guide`;
+   const zhDescription = `${category} AI 工具怎么选？AI Compass 整理 ${categoryTools.length} 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。`;
+@@ -496,6 +496,18 @@ ${faqItems.map(renderFaqItem).join("\n")}
+ `;
+ }
+ 
++function categoryToolLabel(category) {
++  if (category.endsWith("工具")) {
++    return category;
++  }
++
++  if (category.endsWith("AI") || category.includes("API")) {
++    return `${category} 工具`;
++  }
++
++  return `${category} AI 工具`;
++}
++
+ function renderEditorialArticle(article) {
+   return `        <article class="editorial-card">
+           <h3 data-seo-zh="${escapeAttribute(article.zhTitle)}" data-seo-en="${escapeAttribute(article.enTitle)}">${escapeHtml(article.zhTitle)}</h3>
