@@ -334,10 +334,11 @@ async function readText(path) {
 }
 
 function renderCategoryPage(category, meta, categoryTools) {
-  const zhTitle = `${category} AI 工具目录 - AI Compass`;
-  const enTitle = `${meta.en} AI Tools Directory - AI Compass`;
-  const zhDescription = `AI Compass ${category}目录，收录 ${categoryTools.length} 个相关 AI 厂商与工具入口，优先提供官网链接并提醒用户防范假冒官网。`;
-  const enDescription = `AI Compass ${meta.en} directory with ${categoryTools.length} AI vendors and tools, official website links prioritized, and reminders to avoid impersonation sites.`;
+  const categoryLabel = category.endsWith("工具") ? category : `${category}工具`;
+  const zhTitle = `${categoryLabel}推荐与官网入口：${categoryTools.length} 个 AI 工具怎么选`;
+  const enTitle = `${meta.en} AI Tools: ${categoryTools.length} Official Links and Selection Guide`;
+  const zhDescription = `${category} AI 工具怎么选？AI Compass 整理 ${categoryTools.length} 个官网入口、适用场景、选择指标、商用和安全注意事项，帮助你快速找到可靠工具。`;
+  const enDescription = `How to choose ${meta.en} AI tools. AI Compass curates ${categoryTools.length} official links, use cases, selection criteria, and safety notes for reliable tool discovery.`;
   const pageUrl = `${siteUrl}/categories/${meta.slug}.html`;
   const editorial = categoryEditorial[category];
   if (!editorial) {
@@ -404,7 +405,7 @@ function renderCategoryPage(category, meta, categoryTools) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>${escapeHtml(zhTitle)}</title>
+  <title>${escapeHtml(zhTitle)} - AI Compass</title>
   <meta name="description" content="${escapeHtml(zhDescription)}">
   <link rel="canonical" href="${pageUrl}">
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
@@ -413,7 +414,7 @@ function renderCategoryPage(category, meta, categoryTools) {
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="AI Compass">
-  <meta property="og:title" content="${escapeHtml(zhTitle)}">
+  <meta property="og:title" content="${escapeHtml(`${zhTitle} - AI Compass`)}">
   <meta property="og:description" content="${escapeHtml(zhDescription)}">
   <meta property="og:url" content="${pageUrl}">
   <meta name="twitter:card" content="summary">
@@ -422,7 +423,7 @@ function renderCategoryPage(category, meta, categoryTools) {
   <link rel="stylesheet" href="../assets/styles.css?v=9">
   <script type="application/ld+json">${jsonScript(schema)}</script>
 </head>
-<body data-title-zh="${escapeHtml(zhTitle)}" data-title-en="${escapeHtml(enTitle)}" data-description-zh="${escapeHtml(zhDescription)}" data-description-en="${escapeHtml(enDescription)}">
+<body data-title-zh="${escapeHtml(`${zhTitle} - AI Compass`)}" data-title-en="${escapeHtml(`${enTitle} - AI Compass`)}" data-description-zh="${escapeHtml(zhDescription)}" data-description-en="${escapeHtml(enDescription)}">
   <header class="subpage-header">
     <nav class="topbar" aria-label="Primary navigation">
       <a class="brand" href="../index.html">
@@ -442,7 +443,7 @@ function renderCategoryPage(category, meta, categoryTools) {
         <span data-seo-zh="${escapeHtml(category)}" data-seo-en="${escapeHtml(meta.en)}">${escapeHtml(category)}</span>
       </div>
       <p class="eyebrow" data-seo-zh="AI 工具分类目录" data-seo-en="AI Tool Category">AI 工具分类目录</p>
-      <h1 data-seo-zh="${escapeHtml(category)}" data-seo-en="${escapeHtml(meta.en)}">${escapeHtml(category)}</h1>
+      <h1 data-seo-zh="${escapeHtml(`${categoryLabel}推荐与官网入口`)}" data-seo-en="${escapeHtml(`${meta.en} AI Tools and Official Links`)}">${escapeHtml(categoryLabel)}推荐与官网入口</h1>
       <p data-seo-zh="${escapeHtml(meta.zhDescription)}" data-seo-en="${escapeHtml(meta.enDescription)}">${escapeHtml(meta.zhDescription)}</p>
     </div>
   </header>
