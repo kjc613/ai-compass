@@ -3232,8 +3232,225 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-16T00:23:06.123Z",
+    "updatedAt": "2026-06-17T00:09:04.979Z",
     "items": [
+      {
+        "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
+        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-use-invoke-guardrail-checks.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-16T22:46:46.000Z",
+        "summary": "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any "
+      },
+      {
+        "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T22:34:17.000Z",
+        "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+      },
+      {
+        "title": "Unlocking UK house-building with AI-accelerated planning",
+        "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-06-16T21:29:50.000Z",
+        "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions."
+      },
+      {
+        "title": "Exclusive eBook: How AI is becoming the next military advisor",
+        "url": "https://www.technologyreview.com/author/james-odonnell/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-16T20:35:02.000Z",
+        "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally "
+      },
+      {
+        "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
+        "url": "https://aws.amazon.com/sagemaker/ai/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-16T20:16:02.000Z",
+        "summary": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journe"
+      },
+      {
+        "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+        "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T20:11:00.000Z",
+        "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
+      },
+      {
+        "title": "Microsoft's Copilot Cowork moves to usage-based billing and may tap DeepSeek",
+        "url": "https://the-decoder.com/microsofts-copilot-cowork-moves-to-usage-based-billing-and-may-tap-deepseek/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T19:32:38.000Z",
+        "summary": "Microsoft is weighing a fine-tuned version of Deepseek V4 as a cheaper model option for Copilot Cowork. The company is also switching to usage-based billing, si"
+      },
+      {
+        "title": "Berlin court rules Google's AI Overviews are just a new search format, not original content",
+        "url": "https://the-decoder.com/berlin-court-rules-googles-ai-overviews-are-just-a-new-search-format-not-original-content/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T18:19:40.000Z",
+        "summary": "A Berlin court has ruled that Google's AI-generated summaries are just a \"new search result format\" and that Google has no \"decisive influence\" over the content"
+      },
+      {
+        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T18:00:00.000Z",
+        "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is a"
+      },
+      {
+        "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
+        "url": "https://console.aws.amazon.com/sagemaker/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-16T17:47:09.000Z",
+        "summary": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker Jump"
+      },
+      {
+        "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+        "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-16T17:04:05.000Z",
+        "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored n"
+      },
+      {
+        "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+        "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-16T17:00:00.000Z",
+        "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Re"
+      },
+      {
+        "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+        "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T16:49:44.000Z",
+        "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel"
+      },
+      {
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T15:53:12.000Z",
+        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO cover"
+      },
+      {
+        "title": "SpaceX bets $60 billion on Cursor to catch OpenAI and Anthropic",
+        "url": "https://the-decoder.com/spacex-bets-60-billion-on-cursor-to-catch-openai-and-anthropic/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T15:16:08.000Z",
+        "summary": "Just two trading days after its IPO, Elon Musk's SpaceX is buying AI coding startup Anysphere. The deal is meant to help the struggling xAI division catch up wi"
+      },
+      {
+        "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+        "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T15:05:03.000Z",
+        "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+      },
+      {
+        "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T15:00:00.000Z",
+        "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
+      },
+      {
+        "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+        "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T14:50:09.000Z",
+        "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicu"
+      },
+      {
+        "title": "DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit",
+        "url": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T13:23:33.000Z",
+        "summary": "US Justice Department calls xAI's chatbot Grok essential to military operations, defending its controversial gas turbines. The article DOJ invokes national secu"
+      },
+      {
+        "title": "Probably raises $9M to build a more reliable kind of AI",
+        "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T13:15:09.000Z",
+        "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
+      },
+      {
+        "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-16T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is t"
+      },
+      {
+        "title": "SpaceX is officially buying Cursor for $60 billion",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-16T11:41:31.000Z",
+        "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behem"
+      },
+      {
+        "title": "How easily can Russian propaganda fool AI models? A new benchmark finds out",
+        "url": "https://the-decoder.com/how-easily-can-russian-propaganda-fool-ai-models-a-new-benchmark-finds-out/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T11:28:13.000Z",
+        "summary": "The Institute of the Estonian Language has released a benchmark measuring how susceptible AI language models are to Russian propaganda. The article How easily c"
+      },
+      {
+        "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+        "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T11:21:41.000Z",
+        "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
+      },
+      {
+        "title": "ChatGPT’s market share slips below 50% for first time",
+        "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T10:30:00.000Z",
+        "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 m"
+      },
+      {
+        "title": "Anthropic backs off unpopular billing overhaul as price war with OpenAI looms",
+        "url": "https://the-decoder.com/anthropic-backs-off-unpopular-billing-overhaul-as-price-war-with-openai-looms/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T09:44:48.000Z",
+        "summary": "Anthropic has pulled back its planned billing change for the Claude Agent SDK just before launch. Instead of separate credits, the SDK and third-party apps will"
+      },
+      {
+        "title": "DeepSeek takes outside money for the first time at a $50 billion valuation",
+        "url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T09:40:48.000Z",
+        "summary": "Chinese AI startup DeepSeek has raised more than 50 billion yuan - about $7.4 billion - in its first external funding round. The article DeepSeek takes outside "
+      },
+      {
+        "title": "OpenAI burned through $34 billion last year",
+        "url": "https://the-decoder.com/openai-burned-through-34-billion-last-year/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-16T09:21:39.000Z",
+        "summary": "OpenAI spent $34 billion in the past year, far more than the year before. The article OpenAI burned through $34 billion last year appeared first on The Decoder "
+      },
+      {
+        "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-16T06:59:00.000Z",
+        "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
+      },
+      {
+        "title": "Inside the fight over Claude Mythos 5",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-16T03:00:00.000Z",
+        "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump adminis"
+      },
+      {
+        "title": "Predicting model behavior before release by simulating deployment",
+        "url": "https://openai.com/index/deployment-simulation",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-16T00:00:00.000Z",
+        "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation a"
+      },
       {
         "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
         "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
@@ -3282,13 +3499,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-15T18:30:58.000Z",
         "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep u"
-      },
-      {
-        "title": "SpaceX is public: Everything you need to know post-IPO",
-        "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-15T18:30:34.000Z",
-        "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO cover"
       },
       {
         "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
@@ -3368,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
       },
       {
-        "title": "Pokémon Go data helped train AI now linked to military drones",
-        "url": "https://the-decoder.com/pokemon-go-data-helped-train-ai-now-linked-to-military-drones/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-15T13:27:50.000Z",
-        "summary": "Volunteer AR scans from Pokémon Go players fed into Niantic's spatial AI models. That technology is now being combined with a US defense contractor's software f"
-      },
-      {
         "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
         "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
         "source": "TechCrunch AI",
@@ -3387,27 +3590,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-15T12:00:00.000Z",
         "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
-      },
-      {
-        "title": "Anthropic shutdown sparks sovereignty debate across Europe",
-        "url": "https://the-decoder.com/anthropic-shutdown-sparks-sovereignty-debate-across-europe/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-15T10:33:07.000Z",
-        "summary": "The European Commission is assessing the implications of the US order that forced Anthropic to shut down Fable 5 and Mythos 5 worldwide. European researchers ar"
-      },
-      {
-        "title": "Microsoft CEO Satya Nadella warns of \"a small number of AI systems capturing all the economic returns\"",
-        "url": "https://the-decoder.com/microsoft-ceo-satya-nadella-warns-of-a-small-number-of-ai-systems-capturing-all-the-economic-returns/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-15T09:39:14.000Z",
-        "summary": "Microsoft CEO Satya Nadella wants companies to build \"token capital\" alongside human capital, meaning their own AI capabilities built on internal data and propr"
-      },
-      {
-        "title": "The AI layoff wave is becoming a powder keg",
-        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-15T07:25:41.000Z",
-        "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to compr"
       },
       {
         "title": "China may have accessed Mythos",
@@ -3424,144 +3606,11 @@ window.SITE_DATA = {
         "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
       },
       {
-        "title": "As AI companies race to go public, who else is along for the ride?",
-        "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-14T16:38:09.000Z",
-        "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
-      },
-      {
-        "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
-        "url": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-14T13:58:17.000Z",
-        "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clo"
-      },
-      {
-        "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
-        "url": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-14T13:29:52.000Z",
-        "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and u"
-      },
-      {
-        "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
-        "url": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-14T09:40:37.000Z",
-        "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who h"
-      },
-      {
-        "title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
-        "url": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-14T08:54:47.000Z",
-        "summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the firs"
-      },
-      {
-        "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
-        "url": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-14T08:35:02.000Z",
-        "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable mo"
-      },
-      {
-        "title": "As Anthropic suspends access to new models, India debates its AI future",
-        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-14T03:00:00.000Z",
-        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
-      },
-      {
-        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-14T00:03:49.000Z",
-        "summary": "This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds."
-      },
-      {
-        "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-13T21:39:26.000Z",
-        "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by"
-      },
-      {
-        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-13T20:42:31.000Z",
-        "summary": "Once again, AI proves to be an unreliable source of information about AI."
-      },
-      {
-        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-13T19:11:41.000Z",
-        "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
-      },
-      {
-        "title": "OpenAI faces investigation from state attorneys general",
-        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-13T16:47:18.000Z",
-        "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
-      },
-      {
-        "title": "My yard is dying, so I made an app for that",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-13T13:00:00.000Z",
-        "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a "
-      },
-      {
-        "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-13T12:55:49.000Z",
-        "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to nati"
-      },
-      {
-        "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-        "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-13T12:00:00.000Z",
-        "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo edit"
-      },
-      {
-        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-        "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-13T04:14:19.000Z",
-        "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
-      },
-      {
-        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-13T02:26:30.000Z",
-        "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed "
-      },
-      {
-        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-        "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-12T23:00:54.000Z",
-        "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-      },
-      {
         "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
         "url": "https://www.rocketclose.com/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-12T20:43:56.000Z",
         "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, a"
-      },
-      {
-        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-        "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-12T20:38:09.000Z",
-        "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two "
       },
       {
         "title": "olmo-eval: An evaluation workbench for the model development loop",
@@ -3604,55 +3653,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-06-12T00:00:00.000Z",
         "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
-      },
-      {
-        "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-06-11T20:00:00.000Z",
-        "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
-      },
-      {
-        "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-        "url": "https://aws.amazon.com/generative-ai/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-11T19:40:33.000Z",
-        "summary": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to en"
-      },
-      {
-        "title": "Evaluate AI agents systematically with Agent-EvalKit",
-        "url": "https://claude.com/product/claude-code",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-11T15:49:47.000Z",
-        "summary": "Agent-EvalKit is an open-source toolkit (Apache 2.0) that makes this evaluation infrastructure available by integrating with AI coding assistants, including Cla"
-      },
-      {
-        "title": "Spot trends faster, sort smarter: Unlocking Sparklines and Custom Sort in Amazon Quick",
-        "url": "https://aws.amazon.com/quicksight/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-11T15:36:31.000Z",
-        "summary": "Today, we’re excited to announce two new capabilities that make Quick Sight dashboards even more expressive and business-aligned: sparklines and custom sort for"
-      },
-      {
-        "title": "How frontier teams are reinventing AI-native development",
-        "url": "https://kiro.dev",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-06-11T00:54:42.000Z",
-        "summary": "Frontier teams are not just using AI to code faster. They’re redesigning how software gets built. The result is 4.5x productivity gains, in some cases more than"
-      },
-      {
-        "title": "BBVA puts AI at the core of banking with OpenAI",
-        "url": "https://openai.com/index/bbva",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-11T00:00:00.000Z",
-        "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-      },
-      {
-        "title": "How an astrophysicist uses Codex to help simulate black holes",
-        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-11T00:00:00.000Z",
-        "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of gen"
       }
     ]
   }
