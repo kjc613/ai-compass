@@ -3232,10 +3232,80 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-20T00:00:19.683Z",
+    "updatedAt": "2026-06-20T23:58:49.898Z",
     "items": [
       {
-        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-20T20:32:29.000Z",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”"
+      },
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-20T19:41:11.000Z",
+        "summary": "So ... what's your In the Weights score?"
+      },
+      {
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-20T18:46:48.000Z",
+        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the"
+      },
+      {
+        "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+        "url": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T17:17:38.000Z",
+        "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-gen"
+      },
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-20T16:39:57.000Z",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind."
+      },
+      {
+        "title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+        "url": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T13:15:08.000Z",
+        "summary": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and "
+      },
+      {
+        "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+        "url": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T12:26:57.000Z",
+        "summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is build"
+      },
+      {
+        "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+        "url": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T09:51:55.000Z",
+        "summary": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with gr"
+      },
+      {
+        "title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+        "url": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T08:44:19.000Z",
+        "summary": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or "
+      },
+      {
+        "title": "OpenAI tripled revenue to $5.7 billion in Q1 but burned through $3.7 billion to get there",
+        "url": "https://the-decoder.com/openai-tripled-revenue-to-5-7-billion-in-q1-but-burned-through-3-7-billion-to-get-there/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-20T08:02:07.000Z",
+        "summary": "In the first quarter of 2026, OpenAI pulled in $5.7 billion in revenue and burned through about $3.7 billion, both figures tripled year over year. Stock-based c"
+      },
+      {
+        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
         "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-19T22:40:14.000Z",
@@ -3312,13 +3382,6 @@ window.SITE_DATA = {
         "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration,"
       },
       {
-        "title": "New benchmark exposes how badly AI struggles with real knowledge work",
-        "url": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T13:50:55.000Z",
-        "summary": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks. The article New benchmark exposes how badly AI struggles with r"
-      },
-      {
         "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
         "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
         "source": "TechCrunch AI",
@@ -3340,28 +3403,7 @@ window.SITE_DATA = {
         "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had be"
       },
       {
-        "title": "OpenAI researchers show small doses of \"beneficial trait\" training make AI models broadly safer and harder to manipulate",
-        "url": "https://the-decoder.com/openai-researchers-show-small-doses-of-beneficial-trait-training-make-ai-models-broadly-safer-and-harder-to-manipulate/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T10:08:27.000Z",
-        "summary": "OpenAI researchers show that reinforcement learning on desired behavioral traits like truthfulness and corrigibility works across domains. Training on health da"
-      },
-      {
-        "title": "Google appeals ruling that made it directly liable for AI-generated search overview content",
-        "url": "https://the-decoder.com/google-appeals-ruling-that-made-it-directly-liable-for-ai-generated-search-overview-content/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T09:49:22.000Z",
-        "summary": "Google is appealing the ruling by Germany's Munich Regional Court, which held the company directly liable for inaccurate AI search results. The AI had falsely l"
-      },
-      {
-        "title": "Website \"In the Weights\" shows whether AI models know who you are",
-        "url": "https://the-decoder.com/website-in-the-weights-shows-whether-ai-models-know-who-you-are/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T08:24:50.000Z",
-        "summary": "Two former OpenAI employees have built a website called \"In the Weights\" that reveals which people AI models can recall purely from their training data. A stren"
-      },
-      {
-        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+        "title": "The US says ASML’s top chip tool may be in China, but how?",
         "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-19T07:59:12.000Z",
@@ -3408,20 +3450,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-18T19:59:22.000Z",
         "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same"
-      },
-      {
-        "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
-        "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-18T19:17:00.000Z",
-        "summary": "OpenAI has upgraded ChatGPT's healthcare capabilities with GPT-5.5 Instant. In the company's own comparative tests, the model now outscores answers written by d"
-      },
-      {
-        "title": "Anthropic brings Artifacts to Claude Code, letting teams share live pages from coding sessions",
-        "url": "https://the-decoder.com/anthropic-brings-artifacts-to-claude-code-letting-teams-share-live-pages-from-coding-sessions/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-18T19:02:14.000Z",
-        "summary": "Claude Code can now turn work results into interactive web pages called \"artifacts\" and share them with your team. The pages pull from the full session context,"
       },
       {
         "title": "Almost half of US singles feel negatively about AI in dating, Match says",
@@ -3473,6 +3501,13 @@ window.SITE_DATA = {
         "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
       },
       {
+        "title": "How to turn off AI in your Google Docs",
+        "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-18T17:00:00.000Z",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+      },
+      {
         "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
         "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
         "source": "TechCrunch AI",
@@ -3492,13 +3527,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-18T15:20:37.000Z",
         "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users."
-      },
-      {
-        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-18T15:13:21.000Z",
-        "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
       },
       {
         "title": "Who decides when AI is too dangerous?",
@@ -3522,13 +3550,6 @@ window.SITE_DATA = {
         "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a s"
       },
       {
-        "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-        "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-18T12:00:00.000Z",
-        "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
-      },
-      {
         "title": "Improving health intelligence in ChatGPT",
         "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
         "source": "OpenAI News",
@@ -3550,13 +3571,6 @@ window.SITE_DATA = {
         "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from"
       },
       {
-        "title": "How to turn off AI in your Google Docs",
-        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-18T01:23:51.000Z",
-        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
-      },
-      {
         "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
         "url": "https://huggingface.co/blog/peft-beyond-lora",
         "source": "Hugging Face Blog",
@@ -3576,13 +3590,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-17T20:56:36.000Z",
         "summary": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body o"
-      },
-      {
-        "title": "Roelof Botha joins SpaceX’s board of directors",
-        "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-17T20:32:52.000Z",
-        "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
       },
       {
         "title": "Anthropic got hit by export rules nobody understands",
@@ -3611,13 +3618,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-17T17:17:37.000Z",
         "summary": "Agents are only as intelligent as the context they can reason over. Today, that context is scattered across data lakes, data warehouses, lakehouses, databases, "
-      },
-      {
-        "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-        "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-17T16:27:00.000Z",
-        "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. No"
       },
       {
         "title": "MolmoMotion: Language-guided 3D motion forecasting",
