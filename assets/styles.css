@@ -874,6 +874,21 @@ select {
   line-height: 1.7;
 }
 
+.topic-byline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  align-items: center;
+  margin: -10px 0 24px;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.topic-byline a {
+  color: var(--accent-dark);
+}
+
 .sitemap-page {
   display: grid;
   gap: 24px;

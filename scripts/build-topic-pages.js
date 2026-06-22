@@ -1,6 +1,7 @@
 ﻿import { mkdir, writeFile } from "node:fs/promises";
 
 const siteUrl = "https://kjc613.cn";
+const today = new Date().toISOString().slice(0, 10);
 
 const topics = [
   {
@@ -22,7 +23,10 @@ const topics = [
     ],
     sections: [
       ["怎么选", "如果你需要一个完整 AI IDE，优先看 Cursor 和 Trae；如果你主要在现有编辑器里补全和问答，优先看 GitHub Copilot；如果你希望让 AI 执行更完整的开发任务，可以关注 Codex、Cline 和 Roo Code。", "How to choose", "If you need a full AI IDE, start with Cursor and Trae. If you mostly want completion and Q&A inside an existing editor, start with GitHub Copilot. If you want AI to execute larger development tasks, look at Codex, Cline, and Roo Code."],
-      ["避坑提醒", "AI 编程工具经常涉及代码仓库、终端命令和密钥文件。使用前应检查权限、忽略敏感文件，并确认打开的是官方域名。", "Safety note", "AI coding tools often touch repositories, terminal commands, and secret files. Check permissions, exclude sensitive files, and confirm that you are using the official domain before connecting a project."]
+      ["避坑提醒", "AI 编程工具经常涉及代码仓库、终端命令和密钥文件。使用前应检查权限、忽略敏感文件，并确认打开的是官方域名。", "Safety note", "AI coding tools often touch repositories, terminal commands, and secret files. Check permissions, exclude sensitive files, and confirm that you are using the official domain before connecting a project."],
+      ["用真实项目测试", "不要只用一道算法题判断工具好坏。更有效的方法是准备一个包含前端、接口、测试和文档的小型仓库，让工具完成定位缺陷、跨文件修改、补测试和解释变更四个任务，再比较正确率、修改范围和人工返工时间。", "Test with a real project", "Do not judge a coding tool with one algorithm problem. Use a small repository containing frontend code, an API, tests, and documentation. Ask each tool to locate a defect, make a cross-file change, add tests, and explain the result, then compare correctness, edit scope, and rework time."],
+      ["团队采用前要检查", "团队采购时还要确认账号管理、代码是否用于训练、模型和地区可用性、审计记录、费用上限以及离职成员权限回收。个人体验优秀并不代表适合企业代码库。", "Checks before team adoption", "Before team adoption, review account administration, whether code is used for training, model and regional availability, audit logs, spending limits, and access removal for departing members. A strong personal experience does not automatically make a tool suitable for company repositories."],
+      ["建议的试用周期", "可以用一周做基线：先记录没有 AI 时完成同类任务的时间，再让候选工具参与日常需求，统计接受的建议比例、测试通过率、回滚次数和节省时间。只有可重复的数据才能判断工具是否真正提高效率。", "Suggested trial period", "Use a one-week baseline. Record how long similar tasks take without AI, then use each candidate in daily work and track accepted suggestions, test pass rate, rollbacks, and time saved. Repeatable measurements are more useful than first impressions."]
     ]
   },
   {
@@ -44,7 +48,10 @@ const topics = [
     ],
     sections: [
       ["免费不等于无限制", "多数免费工具会限制模型、速度、次数、图片数量或上下文长度。选择时要看清楚免费额度是否满足你的任务。", "Free does not mean unlimited", "Most free tools limit models, speed, usage count, image generation, or context length. Check whether the free tier is enough for your task before committing to a workflow."],
-      ["优先使用官方入口", "搜索免费工具时最容易进入仿冒站、镜像站和诱导下载页。建议从本站卡片或浏览器地址栏核对官网域名。", "Use official links first", "Search results for free tools often include impersonation sites, mirrors, and misleading download pages. Use the cards here and verify the browser address bar before signing in."]
+      ["优先使用官方入口", "搜索免费工具时最容易进入仿冒站、镜像站和诱导下载页。建议从本站卡片或浏览器地址栏核对官网域名。", "Use official links first", "Search results for free tools often include impersonation sites, mirrors, and misleading download pages. Use the cards here and verify the browser address bar before signing in."],
+      ["先按任务选择", "通用对话、资料检索、图像生成、编程辅助和本地模型的免费额度不可直接横向比较。先写下每周最常做的三个任务，再判断免费限制会不会在关键步骤中断工作流。", "Choose by task first", "Free allowances for chat, research, image generation, coding, and local models are not directly comparable. List your three most frequent weekly tasks, then check whether free-tier limits interrupt critical steps."],
+      ["隐私成本也要计算", "免费服务可能通过更严格的使用限制、较少的管理能力或不同的数据处理方式降低成本。上传合同、客户资料、源代码和人物照片前，应查看隐私设置和数据保留说明；敏感任务可以优先考虑本地工具。", "Include privacy in the cost", "Free services may reduce cost through stricter limits, fewer administrative controls, or different data handling. Before uploading contracts, customer data, source code, or personal photos, review privacy settings and retention terms. Local tools may be preferable for sensitive tasks."],
+      ["保留迁移出口", "不要把所有提示词、知识库和项目文件锁在一个免费产品中。优先选择可以导出对话、文档或标准格式结果的工具，并定期保留本地副本，避免免费政策变化后无法迁移。", "Keep an exit path", "Do not lock all prompts, knowledge, and project files into one free product. Prefer tools that export chats, documents, or standard-format results, and keep local copies so policy changes do not block migration."]
     ]
   },
   {
@@ -66,7 +73,10 @@ const topics = [
     ],
     sections: [
       ["选择重点", "国内 AI 工具的优势通常在中文理解、国内访问稳定性、办公生态和本地化场景。开发者还应重点比较 API 文档、价格和模型能力。", "Selection focus", "Chinese AI tools are often strong in Chinese understanding, domestic access stability, office ecosystems, and localized scenarios. Developers should also compare API documentation, pricing, and model capabilities."],
-      ["官网核对", "国内 AI 产品常见入口较多，使用前应确认是否为厂商官方域名，避免进入仿冒登录页。", "Verify the official site", "Chinese AI products may have multiple entry points. Confirm that you are on a vendor-owned official domain before logging in or downloading anything."]
+      ["官网核对", "国内 AI 产品常见入口较多，使用前应确认是否为厂商官方域名，避免进入仿冒登录页。", "Verify the official site", "Chinese AI products may have multiple entry points. Confirm that you are on a vendor-owned official domain before logging in or downloading anything."],
+      ["中文任务怎么测", "可以准备一组包含长文摘要、表格提取、政策问答、口语改写和多轮追问的中文材料，观察工具是否遗漏条件、混淆专有名词或编造来源。单次回答流畅并不能代表复杂中文任务可靠。", "How to test Chinese tasks", "Prepare Chinese materials covering long-document summaries, table extraction, policy Q&A, conversational rewriting, and multi-turn follow-ups. Check for missed constraints, confused proper nouns, and invented sources. One fluent answer does not prove reliability on complex Chinese tasks."],
+      ["个人版与 API 分开评估", "网页助手的体验、会员权益和开发者 API 是不同产品路线。个人用户关注文件上传、搜索和办公体验；开发团队则要单独比较鉴权、并发、限速、日志、发票和服务稳定性。", "Evaluate consumer and API products separately", "Web assistants, subscriptions, and developer APIs are different product tracks. Individuals should focus on file upload, search, and office workflows, while development teams should separately compare authentication, concurrency, rate limits, logs, invoicing, and reliability."],
+      ["企业使用的边界", "团队接入前应明确哪些资料允许上传、谁能创建共享链接、管理员能否删除数据，以及员工离职后如何回收权限。涉及客户和内部经营数据时，先走企业安全审查。", "Enterprise boundaries", "Before team use, define what may be uploaded, who may create shared links, whether administrators can delete data, and how access is revoked when staff leave. Customer and internal business data should go through security review first."]
     ]
   },
   {
@@ -88,7 +98,10 @@ const topics = [
     ],
     sections: [
       ["比较维度", "选择 API 平台时应同时比较模型能力、上下文长度、价格、速率限制、工具调用、数据政策、SDK 文档和国内访问稳定性。", "Comparison dimensions", "When choosing an API platform, compare model quality, context length, pricing, rate limits, tool calling, data policy, SDK documentation, and access stability."],
-      ["路由平台适合谁", "OpenRouter 这类模型路由平台适合测试和切换多模型；正式生产环境仍要评估稳定性、账单、可观测性和合规要求。", "Who model routers fit", "Model routing platforms such as OpenRouter are useful for testing and switching models. Production systems still need evaluation around stability, billing, observability, and compliance."]
+      ["路由平台适合谁", "OpenRouter 这类模型路由平台适合测试和切换多模型；正式生产环境仍要评估稳定性、账单、可观测性和合规要求。", "Who model routers fit", "Model routing platforms such as OpenRouter are useful for testing and switching models. Production systems still need evaluation around stability, billing, observability, and compliance."],
+      ["先建立评测集", "上线前应从真实业务中抽取代表性问题，覆盖正常输入、长文本、缺少信息、工具调用失败和敏感请求。固定提示词、模型参数和判分规则后再比较平台，避免被单个演示样例误导。", "Build an evaluation set first", "Before launch, sample representative tasks from real workflows, including normal inputs, long text, missing information, tool failures, and sensitive requests. Fix prompts, model settings, and scoring rules before comparing providers."],
+      ["估算完整成本", "账单不只有输入输出 Token。还要计算重试、缓存、向量检索、图片或音频、日志存储、流量峰值和人工审核成本。低单价模型如果错误率高，整体成本可能更高。", "Estimate total cost", "Bills include more than input and output tokens. Account for retries, caching, retrieval, images or audio, log storage, traffic peaks, and human review. A lower-priced model may cost more overall if its error rate is high."],
+      ["设计失败回退", "生产系统应为超时、限速、模型下线和供应商故障准备回退策略，包括备用模型、请求幂等、熔断、告警和可追踪日志。重要流程不要把业务连续性押在单一端点上。", "Design failure fallback", "Production systems need fallback for timeouts, rate limits, model removal, and provider outages, including backup models, idempotency, circuit breaking, alerts, and traceable logs. Critical workflows should not depend on one endpoint."]
     ]
   },
   {
@@ -110,7 +123,10 @@ const topics = [
     ],
     sections: [
       ["本地还是云端", "本地 ComfyUI 适合长期使用和隐私敏感场景；云端 GPU 适合显卡不足、临时高负载和团队共享。", "Local or cloud", "Local ComfyUI is better for long-term use and privacy-sensitive work. Cloud GPUs are useful when local hardware is limited, workload is temporary, or a team needs shared access."],
-      ["工作流管理", "复杂工作流要记录模型版本、节点依赖、提示词、输入图和输出参数，否则很难复现。", "Workflow management", "For complex workflows, record model versions, node dependencies, prompts, input images, and output parameters. Otherwise, results become hard to reproduce."]
+      ["工作流管理", "复杂工作流要记录模型版本、节点依赖、提示词、输入图和输出参数，否则很难复现。", "Workflow management", "For complex workflows, record model versions, node dependencies, prompts, input images, and output parameters. Otherwise, results become hard to reproduce."],
+      ["先从最小流程开始", "新用户可以先完成加载模型、输入提示词、采样和保存图片四个节点，再逐步加入 ControlNet、局部重绘、放大和视频节点。一次安装太多自定义节点会增加依赖冲突和排错难度。", "Start with the smallest workflow", "Beginners should first complete a four-node flow for loading a model, entering a prompt, sampling, and saving an image. Add ControlNet, inpainting, upscaling, and video nodes gradually. Installing many custom nodes at once makes dependency problems harder to diagnose."],
+      ["硬件与云成本", "本地部署要考虑显存、模型磁盘空间、驱动和生成时长；云端则要关注实例空闲计费、持久存储、上传下载和工作流备份。短期试验适合云端，长期高频任务要计算月度总成本。", "Hardware and cloud cost", "Local deployment requires VRAM, model storage, drivers, and generation time. Cloud use adds idle instance charges, persistent storage, transfers, and workflow backups. Cloud is convenient for short trials, while frequent work needs a monthly total-cost comparison."],
+      ["团队复现标准", "商业项目应把工作流 JSON、模型校验值、自定义节点版本、输入素材授权和关键参数一起归档。仅保存最终图片无法解释生成过程，也不利于返工、审计和多人协作。", "Team reproduction standard", "Commercial projects should archive workflow JSON, model checksums, custom-node versions, input licenses, and key settings. Saving only final images makes reproduction, revision, audit, and collaboration difficult."]
     ]
   },
   {
@@ -132,7 +148,10 @@ const topics = [
     ],
     sections: [
       ["适合场景", "当你还在比较不同模型、希望快速切换供应商、或需要统一 OpenAI 兼容接口时，OpenRouter 这类路由平台会更省时间。", "Best-fit scenarios", "OpenRouter-style routing platforms save time when you are comparing models, switching providers quickly, or using one OpenAI-compatible interface across multiple vendors."],
-      ["生产注意", "生产环境要关注账单、限速、模型可用性、日志、数据处理和失败回退策略。重要业务不应只依赖单一模型或单一路由。", "Production notes", "For production, review billing, rate limits, model availability, logs, data handling, and fallback behavior. Important workflows should not depend on only one model or one route."]
+      ["生产注意", "生产环境要关注账单、限速、模型可用性、日志、数据处理和失败回退策略。重要业务不应只依赖单一模型或单一路由。", "Production notes", "For production, review billing, rate limits, model availability, logs, data handling, and fallback behavior. Important workflows should not depend on only one model or one route."],
+      ["路由不等于自动最优", "统一接口能降低切换成本，但不同模型的提示词、工具调用格式、上下文限制和安全策略仍有差异。切换模型后应重新跑评测集，不能只因为接口兼容就假设输出等价。", "Routing is not automatic optimization", "A unified API lowers switching cost, but models still differ in prompts, tool-call formats, context limits, and safety behavior. Re-run evaluations after switching; interface compatibility does not make outputs equivalent."],
+      ["密钥和预算管理", "开发和生产环境应使用不同密钥，设置预算与速率上限，并避免把密钥写入前端代码或公开仓库。团队还需要约定密钥轮换、异常账单告警和离职成员权限回收。", "Key and budget management", "Use separate keys for development and production, set budget and rate limits, and never place keys in frontend code or public repositories. Teams also need key rotation, billing alerts, and access revocation procedures."],
+      ["上线前的最小检查", "至少验证模型名称是否固定、供应商失败时是否回退、流式输出是否正确结束、工具调用能否重试、日志是否包含敏感数据，以及账单能否按项目区分。", "Minimum pre-launch checks", "Verify model pinning, provider fallback, correct stream completion, retryable tool calls, sensitive-data handling in logs, and project-level billing separation before launch."]
     ]
   }
 ];
@@ -278,6 +297,12 @@ function renderTopic(topic) {
         headline: topic.titleEn,
         description: topic.descriptionEn,
         url,
+        dateModified: today,
+        author: {
+          "@type": "Organization",
+          name: "AI Compass",
+          url: `${siteUrl}/about.html`
+        },
         inLanguage: ["zh-CN", "en"],
         about: topic.tools.map(([name]) => name),
         isPartOf: {
@@ -376,6 +401,12 @@ function renderTopic(topic) {
       <div class="topic-summary">
         <span data-seo-zh="搜索意图" data-seo-en="Search intent">搜索意图</span>
         <p data-seo-zh="${escapeAttribute(topic.intent)}" data-seo-en="${escapeAttribute(topic.intentEn)}">${escapeHtml(topic.intent)}</p>
+      </div>
+
+      <div class="topic-byline">
+        <span data-seo-zh="AI Compass 编辑整理" data-seo-en="Curated by AI Compass">AI Compass 编辑整理</span>
+        <time datetime="${today}" data-seo-zh="更新于 ${today}" data-seo-en="Updated ${today}">更新于 ${today}</time>
+        <a href="../about.html" data-seo-zh="查看编辑原则" data-seo-en="Editorial principles">查看编辑原则</a>
       </div>
 
       <div class="editorial-grid">

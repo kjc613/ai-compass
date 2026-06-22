@@ -3,7 +3,7 @@
 const siteUrl = "https://kjc613.cn";
 const today = new Date().toISOString().slice(0, 10);
 const tools = JSON.parse(await readText("data/ai-tools.json"));
-const legalPages = ["about.html", "privacy.html", "terms.html", "contact.html"];
+const indexableUtilityPages = ["about.html"];
 const topicPages = [
   "best-ai-coding-tools.html",
   "free-ai-tools.html",
@@ -303,6 +303,7 @@ const englishFallback = {
 };
 
 const categories = [...new Set(tools.map((tool) => tool.category))];
+const indexableCategoryFiles = [];
 
 await mkdir("categories", { recursive: true });
 
@@ -317,13 +318,16 @@ for (const category of categories) {
     .sort((a, b) => Number(Boolean(b.featured)) - Number(Boolean(a.featured)) || a.name.localeCompare(b.name));
 
   await writeFile(`categories/${meta.slug}.html`, renderCategoryPage(category, meta, categoryTools));
+  if (categoryTools.length >= 5) {
+    indexableCategoryFiles.push(`${meta.slug}.html`);
+  }
 }
 
 const categoryFiles = (await readdir("categories"))
   .filter((file) => file.endsWith(".html"))
   .sort();
 
-await writeFile("sitemap.xml", renderSitemap(categoryFiles));
+await writeFile("sitemap.xml", renderSitemap(indexableCategoryFiles));
 await writeFile("sitemap.html", renderHtmlSitemap(categoryFiles));
 await writeFile("llms.txt", renderLlmsText(categoryFiles));
 
@@ -335,6 +339,7 @@ async function readText(path) {
 }
 
 function renderCategoryPage(category, meta, categoryTools) {
+  const isIndexable = categoryTools.length >= 5;
   const categoryLabel = categoryToolLabel(category);
   const zhTitle = `${categoryLabel}推荐与官网入口：${categoryTools.length} 个 AI 工具怎么选`;
   const enTitle = `${meta.en} AI Tools: ${categoryTools.length} Official Links and Selection Guide`;
@@ -425,11 +430,12 @@ function renderCategoryPage(category, meta, categoryTools) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${escapeHtml(zhTitle)} - AI Compass</title>
   <meta name="description" content="${escapeHtml(zhDescription)}">
+  <meta name="robots" content="${isIndexable ? "index,follow,max-image-preview:large" : "noindex,follow"}">
   <link rel="canonical" href="${pageUrl}">
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="../site.webmanifest">
-  <meta name="google-adsense-account" content="ca-pub-5859243800721473">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
+  ${isIndexable ? `<meta name="google-adsense-account" content="ca-pub-5859243800721473">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>` : ""}
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="AI Compass">
   <meta property="og:title" content="${escapeHtml(`${zhTitle} - AI Compass`)}">
@@ -601,9 +607,7 @@ function renderToolCard(tool) {
 function renderSitemap(files) {
   const pages = [
     { loc: `${siteUrl}/`, changefreq: "weekly", priority: "1.0" },
-    { loc: `${siteUrl}/news.html`, changefreq: "daily", priority: "0.8" },
-    { loc: `${siteUrl}/sitemap.html`, changefreq: "weekly", priority: "0.7" },
-    ...legalPages.map((file) => ({
+    ...indexableUtilityPages.map((file) => ({
       loc: `${siteUrl}/${file}`,
       changefreq: "monthly",
       priority: "0.5"
@@ -651,12 +655,10 @@ function renderHtmlSitemap(files) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>站点地图 - AI Compass</title>
   <meta name="description" content="AI Compass 站点地图，汇总首页、每日资讯、AI 工具专题指南、分类目录和重要说明页面，方便用户和搜索引擎发现全部页面。">
-  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="robots" content="noindex,follow">
   <link rel="canonical" href="${siteUrl}/sitemap.html">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="site.webmanifest">
-  <meta name="google-adsense-account" content="ca-pub-5859243800721473">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5859243800721473" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="assets/styles.css?v=11">
 </head>
 <body data-title-zh="站点地图 - AI Compass" data-title-en="Sitemap - AI Compass" data-description-zh="AI Compass 站点地图，汇总首页、每日资讯、AI 工具专题指南、分类目录和重要说明页面。" data-description-en="AI Compass sitemap with homepage, news, AI tool guides, category directories, and important site pages.">
