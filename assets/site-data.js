@@ -3232,8 +3232,50 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-20T23:58:49.898Z",
+    "updatedAt": "2026-06-22T00:03:24.358Z",
     "items": [
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-21T23:00:00.000Z",
+        "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+      },
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-21T15:28:17.000Z",
+        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosy"
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-21T14:40:28.000Z",
+        "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+      },
+      {
+        "title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
+        "url": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-21T12:01:46.000Z",
+        "summary": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainl"
+      },
+      {
+        "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+        "url": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-21T09:12:01.000Z",
+        "summary": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what "
+      },
+      {
+        "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
+        "url": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-21T08:25:41.000Z",
+        "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowled"
+      },
       {
         "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
         "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -3319,20 +3361,6 @@ window.SITE_DATA = {
         "summary": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary"
       },
       {
-        "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
-        "url": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T17:54:14.000Z",
-        "summary": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Week"
-      },
-      {
-        "title": "Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company",
-        "url": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T17:14:33.000Z",
-        "summary": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50"
-      },
-      {
         "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
         "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
         "source": "TechCrunch AI",
@@ -3352,13 +3380,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-19T15:23:28.000Z",
         "summary": "Reliance is weaving AI into telecom services used by more than 500 million people."
-      },
-      {
-        "title": "More people get news from AI chatbots, but trust remains low",
-        "url": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-19T14:42:25.000Z",
-        "summary": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year "
       },
       {
         "title": "The film about Sam Altman has been dropped by Amazon MGM",
@@ -3382,7 +3403,7 @@ window.SITE_DATA = {
         "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration,"
       },
       {
-        "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+        "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
         "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-19T13:00:00.000Z",
@@ -3508,25 +3529,11 @@ window.SITE_DATA = {
         "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
       },
       {
-        "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-        "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-18T16:55:04.000Z",
-        "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wa"
-      },
-      {
         "title": "Amazon employees say they’re facing termination for backing data center limits",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
         "source": "The Verge AI",
         "publishedAt": "2026-06-18T16:00:00.000Z",
         "summary": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a "
-      },
-      {
-        "title": "General Intuition in talks to raise $300M at around $2B valuation",
-        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-18T15:20:37.000Z",
-        "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users."
       },
       {
         "title": "Who decides when AI is too dangerous?",
@@ -3646,13 +3653,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-06-17T10:00:00.000Z",
         "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
-      },
-      {
-        "title": "GLM-5.2: Built for Long-Horizon Tasks",
-        "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-06-17T09:01:25.000Z",
-        "summary": ""
       }
     ]
   }
