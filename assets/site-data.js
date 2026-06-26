@@ -3232,8 +3232,148 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-26T00:03:52.805Z",
+    "updatedAt": "2026-06-26T23:54:42.883Z",
     "items": [
+      {
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T18:32:14.000Z",
+        "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, ent"
+      },
+      {
+        "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+        "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T18:30:01.000Z",
+        "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't ha"
+      },
+      {
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T18:19:36.000Z",
+        "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+      },
+      {
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T17:43:22.000Z",
+        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeñ"
+      },
+      {
+        "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+        "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T17:24:27.000Z",
+        "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 "
+      },
+      {
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-26T17:00:00.000Z",
+        "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. O"
+      },
+      {
+        "title": "It’s not about Anthropic vs. OpenAI anymore",
+        "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T16:24:47.000Z",
+        "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action"
+      },
+      {
+        "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+        "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T15:09:26.000Z",
+        "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business."
+      },
+      {
+        "title": "Build interactive PDF text extraction from Amazon S3",
+        "url": "https://aws.amazon.com/pm/serv-s3/?trk=bdbb278d-6d78-4cd9-9c3b-82aca1fe11a5&amp;sc_channel=ps&amp;trk=5fa2d842-4ea7-471c-b68f-6855f38d19ae&amp;sc_channel=ps&amp;ef_id=Cj0KCQjwlqTRBhCBARIsANrkrxgL8GfZYjtZLwEX5bw5yBWaDe1Wi-glJBRhTHaYs1iB6rU8b5S19FwaAkVCEALw_wcB:G:s&amp;s_kwcid=AL!4422!3!808827088730!e!!g!!amazon%20s3!23846236262!198027689882&amp;gad_campaignid=23846236262&amp;gbraid=0AAAAADjHtp_vQHXb5TzskukzicH9_9TZB&amp;gclid=Cj0KCQjwlqTRBhCBARIsANrkrxgL8GfZYjtZLwEX5bw5yBWaDe1Wi-glJBRhTHaYs1iB6rU8b5S19FwaAkVCEALw_wcB",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-26T14:47:45.000Z",
+        "summary": "In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document acc"
+      },
+      {
+        "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
+        "url": "https://www.getcara.ai/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-26T14:42:20.000Z",
+        "summary": "In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS service"
+      },
+      {
+        "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
+        "url": "https://stripe.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-06-26T14:38:01.000Z",
+        "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agen"
+      },
+      {
+        "title": "Anthropic’s Mythos mess is only getting worse",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-26T14:07:03.000Z",
+        "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into"
+      },
+      {
+        "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+        "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T14:00:00.000Z",
+        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeñ"
+      },
+      {
+        "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+        "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-26T13:00:00.000Z",
+        "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+      },
+      {
+        "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+        "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T12:43:53.000Z",
+        "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its recor"
+      },
+      {
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-06-26T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with y"
+      },
+      {
+        "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+        "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T11:18:07.000Z",
+        "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymo"
+      },
+      {
+        "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
+        "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T10:07:05.000Z",
+        "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can e"
+      },
+      {
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "source": "OpenAI News",
+        "publishedAt": "2026-06-26T10:00:00.000Z",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stac"
+      },
+      {
+        "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
+        "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-26T08:35:35.000Z",
+        "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer b"
+      },
       {
         "title": "Run a vLLM Server on HF Jobs in One Command",
         "url": "https://huggingface.co/blog/vllm-jobs",
@@ -3246,7 +3386,7 @@ window.SITE_DATA = {
         "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-25T23:34:39.000Z",
-        "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administratio"
+        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administra"
       },
       {
         "title": "OpenAI will delay GPT-5.6 after Trump administration request",
@@ -3403,46 +3543,11 @@ window.SITE_DATA = {
         "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in "
       },
       {
-        "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
-        "url": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T11:21:37.000Z",
-        "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged "
-      },
-      {
-        "title": "Meta employees warn AI moderation rollout is too fast",
-        "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T10:07:19.000Z",
-        "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 "
-      },
-      {
-        "title": "Google keeps losing top AI researchers to rivals",
-        "url": "https://the-decoder.com/google-keeps-losing-top-ai-researchers-to-rivals/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T10:04:32.000Z",
-        "summary": "Google appears to be hemorrhaging key AI researchers to competitors. The article Google keeps losing top AI researchers to rivals appeared first on The Decoder "
-      },
-      {
-        "title": "Qualcomm enters the data center market with its own processor",
-        "url": "https://the-decoder.com/qualcomm-enters-the-data-center-market-with-its-own-processor/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T10:03:21.000Z",
-        "summary": "Qualcomm is pushing further into the data center market with a new processor called the Dragonfly C1000. The article Qualcomm enters the data center market with"
-      },
-      {
         "title": "Facebook’s Creator Studio has been revived as an AI companion app",
         "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
         "source": "The Verge AI",
         "publishedAt": "2026-06-25T09:06:19.000Z",
         "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creato"
-      },
-      {
-        "title": "Google bakes computer control directly into Gemini 3.5 Flash, letting the model see and operate your screen",
-        "url": "https://the-decoder.com/google-bakes-computer-control-directly-into-gemini-3-5-flash-letting-the-model-see-and-operate-your-screen/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T09:04:46.000Z",
-        "summary": "Google has integrated \"Computer Use\" directly into Gemini 3.5 Flash, letting the model operate computers, browsers, and mobile devices on its own. On the OSWorl"
       },
       {
         "title": "How agents are transforming work",
@@ -3487,27 +3592,6 @@ window.SITE_DATA = {
         "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
       },
       {
-        "title": "The memory chip crunch is paying off for this US company",
-        "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T21:30:55.000Z",
-        "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 b"
-      },
-      {
-        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T20:09:45.000Z",
-        "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing."
-      },
-      {
-        "title": "OpenAI says ChatGPT Instant now better understands what users actually want",
-        "url": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-24T19:54:23.000Z",
-        "summary": "OpenAI is updating GPT-5.5 Instant, its most-used ChatGPT model. The update targets conversation quality, with better intent recognition, improved context acros"
-      },
-      {
         "title": "Congresswoman denies staff used AI to write defense funding amendment",
         "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
         "source": "The Verge AI",
@@ -3543,20 +3627,6 @@ window.SITE_DATA = {
         "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popula"
       },
       {
-        "title": "Facebook rolls out an AI companion app for creators",
-        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T17:16:24.000Z",
-        "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it."
-      },
-      {
-        "title": "Snowflake CEO finds GLM-5.2 competitive with Opus 4.7 at a fraction of the cost",
-        "url": "https://the-decoder.com/snowflake-ceo-finds-glm-5-2-competitive-with-opus-4-7-at-a-fraction-of-the-cost/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-24T17:07:37.000Z",
-        "summary": "Zhipu AI's GLM-5.2 nearly matches Claude Opus 4.7 in a Snowflake benchmark with 103 coding tasks at one-fifth the cost per output token. But the Chinese model b"
-      },
-      {
         "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
         "url": "https://www.loka.com/",
         "source": "AWS Machine Learning Blog",
@@ -3564,25 +3634,11 @@ window.SITE_DATA = {
         "summary": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang "
       },
       {
-        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-        "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T16:48:43.000Z",
-        "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
-      },
-      {
         "title": "Introducing computer use in Gemini 3.5 Flash",
         "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
         "source": "Google DeepMind Blog",
         "publishedAt": "2026-06-24T16:30:01.000Z",
         "summary": ""
-      },
-      {
-        "title": "Figma adds code layers, support for animations, more AI features in new update",
-        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T16:15:00.000Z",
-        "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI."
       },
       {
         "title": "Figma now has AI motion graphics and shader tools",
@@ -3597,62 +3653,6 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-06-24T16:00:13.000Z",
         "summary": ""
-      },
-      {
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T14:54:46.000Z",
-        "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
-      },
-      {
-        "title": "OpenAI reveals its first AI processor: Jalapeño",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-24T14:36:47.000Z",
-        "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power c"
-      },
-      {
-        "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-        "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-24T13:00:00.000Z",
-        "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, "
-      },
-      {
-        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-        "url": "https://time.com/collections/time100-philanthropy-2025/7286061/patrick-collison/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-24T12:00:00.000Z",
-        "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people"
-      },
-      {
-        "title": "The emergence of the web data infrastructure layer for AI",
-        "url": "https://brightdata.com/static/web/data-for-ai-2026.pdf?md5=21346234-7d23c837",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-06-24T11:59:54.000Z",
-        "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the r"
-      },
-      {
-        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "source": "OpenAI News",
-        "publishedAt": "2026-06-24T06:00:00.000Z",
-        "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems."
-      },
-      {
-        "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-        "url": "https://huggingface.co/blog/ffasr-leaderboard",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-06-24T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Google Home will soon get better at recognizing you",
-        "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-23T22:28:19.000Z",
-        "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. St"
       }
     ]
   }
