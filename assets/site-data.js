@@ -3232,8 +3232,113 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-26T23:54:42.883Z",
+    "updatedAt": "2026-06-27T23:54:06.941Z",
     "items": [
+      {
+        "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-27T20:42:36.000Z",
+        "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers."
+      },
+      {
+        "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-27T18:39:32.000Z",
+        "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto,"
+      },
+      {
+        "title": "Anthropic's Fable 5 could return within days as Trump administration prepares to lift restrictions",
+        "url": "https://the-decoder.com/anthropics-fable-5-could-return-within-days-as-trump-administration-prepares-to-lift-restrictions/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T17:03:06.000Z",
+        "summary": "Anthropic's AI model, Fable 5, could be available again within days. According to Axios, the Trump administration is close to lifting the restrictions imposed o"
+      },
+      {
+        "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+        "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-27T16:45:09.000Z",
+        "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+      },
+      {
+        "title": "Half of Claude users say AI can already handle half their work according to Anthropic survey",
+        "url": "https://the-decoder.com/half-of-claude-users-say-ai-can-already-handle-half-their-work-according-to-anthropic-survey/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T15:28:59.000Z",
+        "summary": "About half of Claude users say AI can already handle 50 percent or more of their work tasks, according to a survey of roughly 9,700 users by Anthropic. In 12 mo"
+      },
+      {
+        "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+        "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-27T14:00:00.000Z",
+        "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude."
+      },
+      {
+        "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+        "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-27T13:30:00.000Z",
+        "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by"
+      },
+      {
+        "title": "J.P. Morgan sees a pile of red flags in the AI market",
+        "url": "https://the-decoder.com/j-p-morgan-sees-a-pile-of-red-flags-in-the-ai-market/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T13:22:44.000Z",
+        "summary": "J.P. Morgan warns that there are \"signs of investor exuberance\" in AI markets. Just 42 AI companies in the S&P 500 account for 65 to 80 percent of the index's t"
+      },
+      {
+        "title": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+        "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T12:25:21.000Z",
+        "summary": "Former US Commerce Secretary Gina Raimondo has launched \"Raise Us,\" a bipartisan nonprofit to prepare American workers for AI-driven job shifts. Amazon, Anthrop"
+      },
+      {
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-27T12:00:00.000Z",
+        "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+      },
+      {
+        "title": "Anthropic gets US approval to bring back Claude Mythos 5",
+        "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T09:43:39.000Z",
+        "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the"
+      },
+      {
+        "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
+        "url": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T09:23:42.000Z",
+        "summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test envi"
+      },
+      {
+        "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
+        "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-27T07:48:29.000Z",
+        "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at "
+      },
+      {
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-27T01:01:37.000Z",
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+      },
+      {
+        "title": "Anthropic’s Mythos 5 is back",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-27T00:33:44.000Z",
+        "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least"
+      },
       {
         "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
         "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -3242,7 +3347,7 @@ window.SITE_DATA = {
         "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, ent"
       },
       {
-        "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+        "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
         "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
         "source": "The Decoder",
         "publishedAt": "2026-06-26T18:30:01.000Z",
@@ -3333,13 +3438,6 @@ window.SITE_DATA = {
         "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
       },
       {
-        "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
-        "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T12:43:53.000Z",
-        "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its recor"
-      },
-      {
         "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
         "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
         "source": "MIT Technology Review",
@@ -3347,32 +3445,11 @@ window.SITE_DATA = {
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with y"
       },
       {
-        "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
-        "url": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T11:18:07.000Z",
-        "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock. The article Anthropic doesn't need junior engineers anymo"
-      },
-      {
-        "title": "Linux Foundation and 20 tech giants launch Akrites to fix open-source flaws before AI-powered attacks hit",
-        "url": "https://the-decoder.com/linux-foundation-and-20-tech-giants-launch-akrites-to-fix-open-source-flaws-before-ai-powered-attacks-hit/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T10:07:05.000Z",
-        "summary": "About twenty tech companies, AI labs, and banks are joining forces through Akrites to fix vulnerabilities in critical open-source software before AI tools can e"
-      },
-      {
         "title": "Previewing GPT-5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol",
         "source": "OpenAI News",
         "publishedAt": "2026-06-26T10:00:00.000Z",
         "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stac"
-      },
-      {
-        "title": "OpenAI's GPT 5.6 rollout now requires US government approval on a \"customer by customer basis\"",
-        "url": "https://the-decoder.com/openais-gpt-5-6-rollout-now-requires-us-government-approval-on-a-customer-by-customer-basis/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T08:35:35.000Z",
-        "summary": "At the request of the U.S. government, OpenAI will initially make its new GPT-5.6 model available only to select partners, with access approved on a \"customer b"
       },
       {
         "title": "Run a vLLM Server on HF Jobs in One Command",
@@ -3473,13 +3550,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
-        "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T16:04:32.000Z",
-        "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning argumen"
-      },
-      {
         "title": "Our latest Google Finance upgrades, including a new app",
         "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
         "source": "Google AI Blog",
@@ -3501,25 +3571,11 @@ window.SITE_DATA = {
         "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtua"
       },
       {
-        "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
-        "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T14:13:14.000Z",
-        "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessmen"
-      },
-      {
         "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
         "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-25T14:00:00.000Z",
         "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register to"
-      },
-      {
-        "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
-        "url": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-25T13:40:46.000Z",
-        "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't t"
       },
       {
         "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
@@ -3555,41 +3611,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-06-25T02:00:00.000Z",
         "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-      },
-      {
-        "title": "Europe is pushing back on Washington’s chip war",
-        "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-25T00:08:36.000Z",
-        "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a dec"
-      },
-      {
-        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T23:26:52.000Z",
-        "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI."
-      },
-      {
-        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-        "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T22:41:41.000Z",
-        "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors."
-      },
-      {
-        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-        "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T21:56:41.000Z",
-        "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data."
-      },
-      {
-        "title": "AI researchers continue to leave Google for its rivals",
-        "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-24T21:42:07.000Z",
-        "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
       },
       {
         "title": "Congresswoman denies staff used AI to write defense funding amendment",
@@ -3632,27 +3653,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-24T16:56:24.000Z",
         "summary": "In this post, we demonstrate the architecture and approach Loka used to solve a common frustration: robotic, slow voice assistants that cause customers to hang "
-      },
-      {
-        "title": "Introducing computer use in Gemini 3.5 Flash",
-        "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-06-24T16:30:01.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Figma now has AI motion graphics and shader tools",
-        "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-24T16:15:00.000Z",
-        "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate"
-      },
-      {
-        "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-06-24T16:00:13.000Z",
-        "summary": ""
       }
     ]
   }
