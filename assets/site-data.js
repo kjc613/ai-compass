@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-06-27T23:54:06.941Z",
+    "updatedAt": "2026-06-29T00:00:39.099Z",
     "items": [
+      {
+        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-28T21:42:51.000Z",
+        "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scen"
+      },
+      {
+        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-28T20:27:36.000Z",
+        "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new inc"
+      },
+      {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-28T19:05:39.000Z",
+        "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
+      },
+      {
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-06-28T15:00:00.000Z",
+        "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+      },
+      {
+        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "source": "The Verge AI",
+        "publishedAt": "2026-06-28T14:12:06.000Z",
+        "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make "
+      },
+      {
+        "title": "AI won't become a real coworker until it stops answering and starts finishing tasks",
+        "url": "https://the-decoder.com/ai-wont-become-a-real-coworker-until-it-stops-answering-and-starts-finishing-tasks/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-28T12:51:40.000Z",
+        "summary": "A survey paper by Tencent and several Chinese universities traces the path from chatbot to \"digital colleague.\" AI systems won't become reliable coworkers, the "
+      },
+      {
+        "title": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+        "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-28T12:14:38.000Z",
+        "summary": "Coinbase CEO Brian Armstrong is switching his company to Chinese AI models like GLM 5.2 and Kimi 2.7. An automated routing system picks the best model for each "
+      },
+      {
+        "title": "Only three AI models finished above starting capital in a 500-day startup survival test",
+        "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-28T10:16:13.000Z",
+        "summary": "Researchers at Princeton University built CEO-Bench, a test where AI agents have to run a fictional software company for 500 simulated days. Most current models"
+      },
+      {
+        "title": "Chinese cybersecurity firm builds AI tools to rival Mythos and frames the race as cyber-nuclear deterrence",
+        "url": "https://the-decoder.com/chinese-cybersecurity-firm-builds-ai-tools-to-rival-mythos-and-frames-the-race-as-cyber-nuclear-deterrence/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-28T09:30:18.000Z",
+        "summary": "360 founder Zhou Hongyi presents two AI security tools designed to compete with Anthropic's Mythos. One has already flagged 3,432 vulnerabilities. Zhou admits C"
+      },
+      {
+        "title": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+        "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
+        "source": "The Decoder",
+        "publishedAt": "2026-06-28T07:44:41.000Z",
+        "summary": "Sina Weibo's VibeThinker-3B has just three billion parameters but matches models like DeepSeek V3.2 and Kimi K2.5 on math and coding benchmarks. Those models ar"
+      },
       {
         "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
         "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
@@ -3312,20 +3382,6 @@ window.SITE_DATA = {
         "summary": "Anthropic has US approval to redeploy Claude Mythos 5 for organizations running critical infrastructure. The company is still negotiating broader access and the"
       },
       {
-        "title": "OpenAI's new flagship model GPT-5.6 Sol cheats on software tests more than any model before it",
-        "url": "https://the-decoder.com/gpt-5-6-sol-cheats-on-software-tests-more-than-any-model-before-it/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-27T09:23:42.000Z",
-        "summary": "Independent testing organization METR found that OpenAI's GPT-5.6 Sol cheated more than any publicly tested AI model before it, exploiting bugs in the test envi"
-      },
-      {
-        "title": "ByteDance's \"iLLaDA\" is a diffusion language model that keeps up with Qwen2.5",
-        "url": "https://the-decoder.com/bytedances-illada-is-a-diffusion-language-model-that-keeps-up-with-qwen2-5/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-27T07:48:29.000Z",
-        "summary": "Researchers from Renmin University and ByteDance have released iLLaDA, an 8B language model that generates text differently than ChatGPT. It matches Qwen2.5 at "
-      },
-      {
         "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
         "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
         "source": "TechCrunch AI",
@@ -3347,13 +3403,6 @@ window.SITE_DATA = {
         "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, ent"
       },
       {
-        "title": "OpenAI launches Claude Mythos rival GPT-5.6 Sol under government access it calls unsustainable",
-        "url": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T18:30:01.000Z",
-        "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't ha"
-      },
-      {
         "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
         "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
         "source": "TechCrunch AI",
@@ -3368,13 +3417,6 @@ window.SITE_DATA = {
         "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeñ"
       },
       {
-        "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
-        "url": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T17:24:27.000Z",
-        "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 "
-      },
-      {
         "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
         "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
         "source": "The Verge AI",
@@ -3387,13 +3429,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-06-26T16:24:47.000Z",
         "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action"
-      },
-      {
-        "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
-        "url": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
-        "source": "The Decoder",
-        "publishedAt": "2026-06-26T15:09:26.000Z",
-        "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business."
       },
       {
         "title": "Build interactive PDF text extraction from Amazon S3",
@@ -3578,20 +3613,6 @@ window.SITE_DATA = {
         "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register to"
       },
       {
-        "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-        "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-25T13:30:00.000Z",
-        "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
-      },
-      {
-        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-06-25T12:00:38.000Z",
-        "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
-      },
-      {
         "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
         "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
         "source": "The Verge AI",
@@ -3599,25 +3620,11 @@ window.SITE_DATA = {
         "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in "
       },
       {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-25T09:06:19.000Z",
-        "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creato"
-      },
-      {
         "title": "How agents are transforming work",
         "url": "https://openai.com/index/how-agents-are-transforming-work",
         "source": "OpenAI News",
         "publishedAt": "2026-06-25T02:00:00.000Z",
         "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles."
-      },
-      {
-        "title": "Congresswoman denies staff used AI to write defense funding amendment",
-        "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-24T19:36:46.000Z",
-        "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text"
       },
       {
         "title": "Huntington Bank: Redacting sensitive data from 400M+ documents with AWS",
@@ -3639,13 +3646,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-06-24T18:19:35.000Z",
         "summary": "In this post, you will learn how to build an end-to-end integration between Snowflake semantic views and Amazon Quick. The sample data is user review data for a"
-      },
-      {
-        "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-        "source": "The Verge AI",
-        "publishedAt": "2026-06-24T17:25:00.000Z",
-        "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popula"
       },
       {
         "title": "How Loka Built a Natural, Low-Latency Voice Agent with Amazon Nova 2 Sonic",
