@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2026-07-02T23:55:23.451Z",
+  "updatedAt": "2026-07-03T23:56:37.003Z",
   "items": [
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-03T21:20:00.000Z",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
+    },
+    {
+      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+      "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T19:24:40.000Z",
+      "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting"
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-03T18:43:00.000Z",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
+      "url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T17:11:33.000Z",
+      "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through "
+    },
+    {
+      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+      "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T16:49:47.000Z",
+      "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than "
+    },
+    {
+      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
+      "url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T16:14:44.000Z",
+      "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by cappi"
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-07-03T14:25:43.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-03T13:56:52.000Z",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented too"
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-03T11:49:10.000Z",
+      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, releas"
+    },
+    {
+      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
+      "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T11:16:42.000Z",
+      "summary": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their "
+    },
+    {
+      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
+      "url": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T11:05:22.000Z",
+      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower"
+    },
+    {
+      "title": "Tesla caps employee AI spending at $200 per week",
+      "url": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T10:56:51.000Z",
+      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200"
+    },
+    {
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://bills.parliament.uk/bills/3879",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-07-03T09:00:00.000Z",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-y"
+    },
+    {
+      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
+      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-03T08:53:16.000Z",
+      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up "
+    },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -58,13 +156,6 @@
       "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip"
     },
     {
-      "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
-      "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T16:20:29.000Z",
-      "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examp"
-    },
-    {
       "title": "Achieving operational excellence with AI",
       "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR-Insights_TP_report_June26-Achieving-operational-excellence-with-AI.pdf",
       "source": "MIT Technology Review",
@@ -86,32 +177,11 @@
       "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
     },
     {
-      "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
-      "url": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T13:00:05.000Z",
-      "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market. The article Nvidia is bankrolling AI startups to loosen "
-    },
-    {
       "title": "Teaching AI to run with the turbines",
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-02T12:51:44.000Z",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfoldi"
-    },
-    {
-      "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
-      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T12:37:49.000Z",
-      "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more "
-    },
-    {
-      "title": "Google brings TikTok-style video shorts to NotebookLM",
-      "url": "https://the-decoder.com/google-brings-tiktok-style-video-shorts-to-notebooklm/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T12:17:15.000Z",
-      "summary": "Google has expanded NotebookLM to include video overviews in the short format commonly used on social media. The article Google brings TikTok-style video shorts"
     },
     {
       "title": "The Download: a startup has a solution for AI’s groupthink problem",
@@ -128,13 +198,6 @@
       "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
     },
     {
-      "title": "OpenAI reportedly offers the Trump administration a five percent stake in the company",
-      "url": "https://the-decoder.com/openai-reportedly-offers-the-trump-administration-a-five-percent-stake-in-the-company/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T10:44:16.000Z",
-      "summary": "OpenAI is reportedly offering the Trump administration a five percent stake in the company. What the government would give in return, if anything, is still uncl"
-    },
-    {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "source": "The Verge AI",
@@ -147,13 +210,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02T05:30:00.000Z",
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
-    },
-    {
-      "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
-      "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-01T19:47:31.000Z",
-      "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chi"
     },
     {
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
@@ -226,25 +282,11 @@
       "summary": "In this post, we demonstrate how to deploy BoltzGen on SageMaker AI and run an end-to-end protein design experiment. By the end of the walkthrough, you have a w"
     },
     {
-      "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
-      "url": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-01T16:00:43.000Z",
-      "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the sa"
-    },
-    {
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
       "source": "Google AI Blog",
       "publishedAt": "2026-07-01T16:00:00.000Z",
       "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
-    },
-    {
-      "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
-      "url": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-01T15:34:09.000Z",
-      "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signa"
     },
     {
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -331,25 +373,11 @@
       "summary": ""
     },
     {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T21:53:28.000Z",
-      "summary": "The free open source agentic program is finally invading your phone."
-    },
-    {
       "title": "Claude Science is Anthropic’s newest flagship product",
       "url": "https://www.bloomberg.com/news/articles/2026-04-21/google-struggles-to-gain-ground-in-ai-coding-as-rivals-advance",
       "source": "MIT Technology Review",
       "publishedAt": "2026-06-30T21:50:04.000Z",
       "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to sup"
-    },
-    {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-06-30T20:33:48.000Z",
-      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
     },
     {
       "title": "New attack provides one more reason why AI browsers are a bad idea",
@@ -392,34 +420,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-06-30T16:46:17.000Z",
       "summary": "This post walks through how AG-UI integrates into the Fullstack AgentCore Solution Template (FAST) to build interactive agent frontends on Amazon Bedrock AgentC"
-    },
-    {
-      "title": "Simplify multi-account access to Amazon Bedrock models with managed entitlements",
-      "url": "https://docs.aws.amazon.com/marketplace/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-30T16:42:49.000Z",
-      "summary": "In this post, we show you how to use managed entitlements for Amazon Bedrock to subscribe once from a central account and distribute model access across your or"
-    },
-    {
-      "title": "Implementing resilience patterns with Amazon Bedrock and LLM gateway",
-      "url": "https://aws.amazon.com/what-is/large-language-model/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-30T16:40:47.000Z",
-      "summary": "In this post, you will learn five practical patterns for building resilient generative AI applications on AWS, progressing from native Amazon Bedrock features t"
-    },
-    {
-      "title": "How Outpost VFX Uses AWS to Accelerate AI Model Training for Visual Effects",
-      "url": "https://aws.amazon.com/ai/generative-ai/innovation-center/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-30T16:37:09.000Z",
-      "summary": "In this post, we explore how Outpost VFX achieved 8x faster training speeds using AWS infrastructure to transform their face replacement workflow, the technical"
-    },
-    {
-      "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
-      "url": "https://www.ibsplc.com/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-30T16:33:46.000Z",
-      "summary": "In this post, we share the technical approach using token-based distillation, lessons learned, and deployment architecture. If you face similar bilingual NER ch"
     }
   ]
 }
