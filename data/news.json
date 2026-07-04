@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-07-03T23:56:37.003Z",
+  "updatedAt": "2026-07-04T23:53:07.334Z",
   "items": [
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-04T20:55:25.000Z",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Works"
+    },
+    {
+      "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
+      "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T18:11:33.000Z",
+      "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, n"
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-04T18:00:05.000Z",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-04T16:32:08.000Z",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-04T15:51:32.000Z",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the han"
+    },
+    {
+      "title": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+      "url": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T12:37:51.000Z",
+      "summary": "Anthropic developer Thariq Shihipar argues that with Claude's new model, Fable 5, the bottleneck is no longer the model itself but the user's blind spots. He de"
+    },
+    {
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-04T12:00:00.000Z",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented ar"
+    },
+    {
+      "title": "OpenAI cofounder envisions \"almost no interface\" future where nobody learns software anymore",
+      "url": "https://the-decoder.com/openai-cofounder-envisions-almost-no-interface-future-where-nobody-learns-software-anymore/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T09:53:21.000Z",
+      "summary": "Greg Brockman admits ChatGPT's plugins, heavily marketed in 2023, failed \"because the models weren't ready.\" Instead of app extensions, he sees the future in an"
+    },
+    {
+      "title": "A 26,000-student study shows AI's hidden learning cost takes two full years to surface",
+      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T09:08:41.000Z",
+      "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The f"
+    },
+    {
+      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
+      "url": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T08:11:18.000Z",
+      "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasim"
+    },
+    {
+      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
+      "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-04T07:12:47.000Z",
+      "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scann"
+    },
     {
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -65,39 +142,11 @@
       "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, releas"
     },
     {
-      "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
-      "url": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T11:16:42.000Z",
-      "summary": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their "
-    },
-    {
-      "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
-      "url": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T11:05:22.000Z",
-      "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower"
-    },
-    {
-      "title": "Tesla caps employee AI spending at $200 per week",
-      "url": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T10:56:51.000Z",
-      "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. The article Tesla caps employee AI spending at $200"
-    },
-    {
       "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
       "url": "https://bills.parliament.uk/bills/3879",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-03T09:00:00.000Z",
       "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-y"
-    },
-    {
-      "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
-      "url": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T08:53:16.000Z",
-      "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling. The article Chinese AI video maker Kling raises $2 billion as it gears up "
     },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -112,13 +161,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-02T20:11:59.000Z",
       "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T19:18:29.000Z",
-      "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate"
     },
     {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
@@ -147,13 +189,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-02T17:50:23.000Z",
       "summary": "In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evalua"
-    },
-    {
-      "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
-      "url": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-02T17:30:57.000Z",
-      "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip"
     },
     {
       "title": "Achieving operational excellence with AI",
@@ -317,13 +352,6 @@
       "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. an"
     },
     {
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T13:43:07.000Z",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud provide"
-    },
-    {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge AI",
@@ -331,32 +359,11 @@
       "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to just"
     },
     {
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T03:15:37.000Z",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
-    },
-    {
       "title": "Safely Releasing Frontier Models to Customers",
       "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-01T03:13:19.000Z",
       "summary": "It’s our goal for AWS to be the most secure place to run any workload, and in support of that we’ve been deeply investing in security across our services since&"
-    },
-    {
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T02:16:06.000Z",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model re"
-    },
-    {
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T02:04:40.000Z",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
     },
     {
       "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
@@ -413,13 +420,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-06-30T17:19:15.000Z",
       "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of "
-    },
-    {
-      "title": "Build generative UI for AI agents on Amazon Bedrock AgentCore with the AG-UI protocol",
-      "url": "https://docs.ag-ui.com/introduction",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-06-30T16:46:17.000Z",
-      "summary": "This post walks through how AG-UI integrates into the Fullstack AgentCore Solution Template (FAST) to build interactive agent frontends on Amazon Bedrock AgentC"
     }
   ]
 }
