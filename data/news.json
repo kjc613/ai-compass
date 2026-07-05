@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-04T23:53:07.334Z",
+  "updatedAt": "2026-07-05T23:56:37.915Z",
   "items": [
+    {
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-05T22:30:54.000Z",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-05T17:43:36.000Z",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk."
+    },
+    {
+      "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+      "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T15:58:56.000Z",
+      "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. Th"
+    },
+    {
+      "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+      "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T15:25:07.000Z",
+      "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memo"
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-05T14:23:11.000Z",
+      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it wo"
+    },
+    {
+      "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+      "url": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T10:45:46.000Z",
+      "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops fo"
+    },
+    {
+      "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+      "url": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T10:22:06.000Z",
+      "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some c"
+    },
+    {
+      "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+      "url": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T09:02:36.000Z",
+      "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's"
+    },
+    {
+      "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
+      "url": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-05T07:52:17.000Z",
+      "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are a"
+    },
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
@@ -65,20 +128,6 @@
       "summary": "A study of more than 26,000 Chinese students found that AI users finished homework faster and scored higher but performed up to 24 percent worse on exams. The f"
     },
     {
-      "title": "Anthropic launches its own drug discovery programs to tackle diseases Big Pharma considers unprofitable",
-      "url": "https://the-decoder.com/anthropic-launches-its-own-drug-discovery-programs-to-tackle-diseases-big-pharma-considers-unprofitable/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-04T08:11:18.000Z",
-      "summary": "Anthropic is launching its own drug development program for neglected diseases that the pharmaceutical industry considers unprofitable. Novartis CEO Vas Narasim"
-    },
-    {
-      "title": "Mistral's open-source Leanstral 1.5 aces formal math benchmarks and catches real bugs in code",
-      "url": "https://the-decoder.com/mistrals-open-source-leanstral-1-5-aces-formal-math-benchmarks-and-catches-real-bugs-in-code/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-04T07:12:47.000Z",
-      "summary": "Mistral AI released Leanstral 1.5, an open-source model for formal verification in Lean 4. Beyond math, the model found five previously unknown bugs while scann"
-    },
-    {
       "title": "The only AI glossary you’ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch AI",
@@ -86,39 +135,11 @@
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
     },
     {
-      "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
-      "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T19:24:40.000Z",
-      "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting"
-    },
-    {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
       "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-03T18:43:00.000Z",
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
-      "url": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T17:11:33.000Z",
-      "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through "
-    },
-    {
-      "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
-      "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T16:49:47.000Z",
-      "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than "
-    },
-    {
-      "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
-      "url": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-03T16:14:44.000Z",
-      "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by cappi"
     },
     {
       "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
@@ -345,13 +366,6 @@
       "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
     },
     {
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-01T14:00:00.000Z",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. an"
-    },
-    {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge AI",
@@ -406,20 +420,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-06-30T18:40:09.000Z",
       "summary": "Today, we’re excited to announce the availability of Anthropic’s most advanced Sonnet model, Claude Sonnet 5, on Amazon Bedrock and Claude Platform on AWS. Clau"
-    },
-    {
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-06-30T18:32:50.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "source": "The Verge AI",
-      "publishedAt": "2026-06-30T17:19:15.000Z",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of "
     }
   ]
 }
