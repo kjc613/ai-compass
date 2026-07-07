@@ -3232,8 +3232,232 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-07-06T23:57:56.960Z",
+    "updatedAt": "2026-07-07T23:46:37.483Z",
     "items": [
+      {
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T22:18:10.000Z",
+        "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities."
+      },
+      {
+        "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-07-07T21:15:33.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+        "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-07T20:31:58.000Z",
+        "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across"
+      },
+      {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T20:04:32.000Z",
+        "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+      },
+      {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T19:58:20.000Z",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+      },
+      {
+        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T19:28:38.000Z",
+        "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and "
+      },
+      {
+        "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+        "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T18:35:58.000Z",
+        "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week alr"
+      },
+      {
+        "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
+        "url": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T17:54:08.000Z",
+        "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, cod"
+      },
+      {
+        "title": "Anthropic is launching Claude Cowork on mobile and web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-07T17:46:59.000Z",
+        "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max "
+      },
+      {
+        "title": "Enrich your datasets with business context: Migrating from legacy Topics to semantic datasets in Amazon Quick",
+        "url": "https://aws.amazon.com/quick/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T17:07:57.000Z",
+        "summary": "In this post, we walk through what Dataset Enrichment is, how it differs from legacy Topics, and provide three migration scenarios with step-by-step guidance so"
+      },
+      {
+        "title": "Data modeling best practices for Amazon Quick Sight multi-dataset relationships",
+        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-unified-semantic-layer-across-datasets-with-multi-dataset-topics-in-amazon-quick/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T17:07:49.000Z",
+        "summary": "Today, we are excited to announce Multi-Dataset Relationships in Amazon Quick Sight. This new capability lets you define logical relationships between Quick Sig"
+      },
+      {
+        "title": "Data modeling patterns for Amazon Quick Sight multi-dataset relationships",
+        "url": "https://aws.amazon.com/blogs/machine-learning/data-modeling-best-practices-for-amazon-quick-sight-multi-dataset-relationships/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T17:07:39.000Z",
+        "summary": "In this post, we shift from concepts to patterns. For each schema, you’ll find a table structure, use cases, implementation steps, and sample SQL queries. We al"
+      },
+      {
+        "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+        "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T17:04:30.000Z",
+        "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the bac"
+      },
+      {
+        "title": "Build a serverless image editing agent with Amazon Bedrock AgentCore harness",
+        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T16:51:29.000Z",
+        "summary": "This post walks through building a serverless image editor where users upload a photo, describe an edit in plain English, and receive the result in seconds. The"
+      },
+      {
+        "title": "Monitoring discriminative ML models using Amazon SageMaker AI with MLflow",
+        "url": "https://builder.aws.com/content/39pAP53j9mlK9o1NBBjWZ4HMJPl/production-ready-real-time-monitoring-solution-for-llms-on-amazon-sagemaker-ai-endpoint-inference",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T16:49:09.000Z",
+        "summary": "Implementing a data and model monitoring solution is necessary to maintain prediction accuracy and help achieve the best outcome for your machine learning use c"
+      },
+      {
+        "title": "Build an AI-powered AWS support companion with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/cloudwatch/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-07-07T16:46:43.000Z",
+        "summary": "In this post, you build an AWS Support Companion using Amazon Bedrock AgentCore. The agent uses Strands Agents as the orchestration framework and connects to AW"
+      },
+      {
+        "title": "Claude Cowork expands to mobile and web",
+        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T16:27:18.000Z",
+        "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is clo"
+      },
+      {
+        "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+        "url": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T16:13:45.000Z",
+        "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai wou"
+      },
+      {
+        "title": "Hugging Face Models on Foundry Managed Compute",
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-07-07T15:20:06.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+        "url": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T14:46:29.000Z",
+        "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new "
+      },
+      {
+        "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+        "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-07T13:00:00.000Z",
+        "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. L"
+      },
+      {
+        "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-07T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 sta"
+      },
+      {
+        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T12:00:00.000Z",
+        "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
+      },
+      {
+        "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
+        "url": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T11:34:52.000Z",
+        "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. The article Chinese AI m"
+      },
+      {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "url": "https://www.deloitte.com/mt/en/Industries/technology/perspectives/Data-governance-and-AI-readiness.html",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-07-07T11:10:52.000Z",
+        "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. Tha"
+      },
+      {
+        "title": "Deepseek is designing its own AI chip",
+        "url": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T11:04:34.000Z",
+        "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. The article Deepseek is designing its own AI chip appeared first on The Decoder ."
+      },
+      {
+        "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
+        "url": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T10:44:35.000Z",
+        "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual o"
+      },
+      {
+        "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
+        "url": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-07T10:28:57.000Z",
+        "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls "
+      },
+      {
+        "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+        "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-07T09:00:00.000Z",
+        "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
+      },
+      {
+        "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-07-07T08:54:00.000Z",
+        "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+      },
+      {
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "url": "https://openai.com/index/australian-payments-plus",
+        "source": "OpenAI News",
+        "publishedAt": "2026-07-07T00:00:00.000Z",
+        "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human"
+      },
+      {
+        "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+        "url": "https://huggingface.co/blog/skypilot-hf-storage",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-07-07T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
         "url": "https://huggingface.co/blog/lerobot-release-v060",
@@ -3253,7 +3477,7 @@ window.SITE_DATA = {
         "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-06T23:21:03.000Z",
-        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multi-billion dollar US IPO, expected to take place on Friday."
+        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday."
       },
       {
         "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -3298,32 +3522,11 @@ window.SITE_DATA = {
         "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
       },
       {
-        "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
-        "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T18:28:26.000Z",
-        "summary": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a "
-      },
-      {
-        "title": "Tencent releases Hy3 open-source model that allegedly matches models up to five times its active size",
-        "url": "https://the-decoder.com/tencent-releases-hy3-open-source-model-that-allegedly-matches-models-up-to-five-times-its-active-size/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T18:03:15.000Z",
-        "summary": "Tencent has released Hy3, an open-source language model with 295 billion parameters built on a mixture-of-experts architecture. Only 21 billion parameters are a"
-      },
-      {
         "title": "Your family’s $300 stake in OpenAI",
         "url": "https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-07-06T18:00:00.000Z",
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’"
-      },
-      {
-        "title": "GPT-4's dominance lasted a year while today's top models barely survive seven weeks at the top",
-        "url": "https://the-decoder.com/gpt-4s-dominance-lasted-a-year-while-todays-top-models-barely-survive-seven-weeks-at-the-top/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T17:14:11.000Z",
-        "summary": "OpenAI's GPT-4 led the Epoch Capabilities Index for about a year, far longer than any model since. Since Claude 3 Opus took the top spot in February 2024, the l"
       },
       {
         "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
@@ -3403,34 +3606,6 @@ window.SITE_DATA = {
         "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to stre"
       },
       {
-        "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
-        "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T12:30:11.000Z",
-        "summary": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm"
-      },
-      {
-        "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
-        "url": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T12:26:09.000Z",
-        "summary": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The ar"
-      },
-      {
-        "title": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
-        "url": "https://the-decoder.com/amazon-sunsets-mechanical-turk-the-original-artificial-artificial-intelligence/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T11:19:29.000Z",
-        "summary": "Amazon Web Services is shutting down its crowdsourcing service Mechanical Turk to new customers starting July 30, 2026. The article Amazon sunsets Mechanical Tu"
-      },
-      {
-        "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
-        "url": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-06T10:04:02.000Z",
-        "summary": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to "
-      },
-      {
         "title": "🤗 Kernels: Major Updates",
         "url": "https://huggingface.co/blog/revamped-kernels",
         "source": "Hugging Face Blog",
@@ -3450,20 +3625,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-05T17:43:36.000Z",
         "summary": "These may be the last days of Amazon’s Mechanical Turk."
-      },
-      {
-        "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
-        "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-05T15:58:56.000Z",
-        "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. Th"
-      },
-      {
-        "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
-        "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-05T15:25:07.000Z",
-        "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memo"
       },
       {
         "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -3492,167 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-04T16:32:08.000Z",
         "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-      },
-      {
-        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-04T15:51:32.000Z",
-        "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the han"
-      },
-      {
-        "title": "The fanfiction community is at war with AI — and itself",
-        "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-04T12:00:00.000Z",
-        "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented ar"
-      },
-      {
-        "title": "The only AI glossary you’ll need this year",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-03T21:20:00.000Z",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
-      },
-      {
-        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-03T18:43:00.000Z",
-        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-      },
-      {
-        "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-07-03T14:25:43.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Anthropic wants to develop its own drugs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-03T13:56:52.000Z",
-        "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented too"
-      },
-      {
-        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-03T11:49:10.000Z",
-        "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, releas"
-      },
-      {
-        "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-        "url": "https://bills.parliament.uk/bills/3879",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-03T09:00:00.000Z",
-        "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-y"
-      },
-      {
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-02T23:38:10.000Z",
-        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
-      },
-      {
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-02T20:11:59.000Z",
-        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-      },
-      {
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-02T18:44:02.000Z",
-        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-      },
-      {
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-02T18:31:09.000Z",
-        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-      },
-      {
-        "title": "How Amazon Bedrock catches AI-generated phishing",
-        "url": "https://aws.amazon.com/bedrock/knowledge-bases/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-02T17:55:41.000Z",
-        "summary": "Social engineering through phishing remains one of the most common tactics for launching cyberattacks. AI-generated phishing email messages now pose a new chall"
-      },
-      {
-        "title": "Best practices for multi-turn reinforcement learning in Amazon SageMaker AI",
-        "url": "https://github.com/amazon-science/SOP-Bench",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-02T17:50:23.000Z",
-        "summary": "In this post, we share best practices for reliable multi-turn RL training. We cover how to build a training environment you can trust, set up an external evalua"
-      },
-      {
-        "title": "Achieving operational excellence with AI",
-        "url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/MITTR-Insights_TP_report_June26-Achieving-operational-excellence-with-AI.pdf",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-02T15:37:08.000Z",
-        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring "
-      },
-      {
-        "title": "Teaching AI to run with the turbines",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-02T12:51:44.000Z",
-        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfoldi"
-      },
-      {
-        "title": "The Download: a startup has a solution for AI’s groupthink problem",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-07-02T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a gr"
-      },
-      {
-        "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-02T10:23:27.000Z",
-        "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public b"
-      },
-      {
-        "title": "The latest AI news we announced in June 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-07-01T18:15:00.000Z",
-        "summary": "Here are Google’s latest AI updates from June 2026."
-      },
-      {
-        "title": "Run NVIDIA Nemotron and OpenAI GPT OSS models on Amazon Bedrock in AWS GovCloud (US)",
-        "url": "https://aws.amazon.com/bedrock/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-01T18:14:34.000Z",
-        "summary": "We're excited to introduce US-based frontier open-weight models in AWS GovCloud (US). With this release, Amazon Bedrock now supports OpenAI’s open-weight GPT OS"
-      },
-      {
-        "title": "Building a serverless A2A gateway for agent discovery, routing, and access control",
-        "url": "https://aws.amazon.com/ecs/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-01T18:07:06.000Z",
-        "summary": "In this post, you will learn how to build a serverless A2A gateway on AWS that hosts multiple agents behind a single domain using path-based routing (/agents/{a"
-      },
-      {
-        "title": "Structured memory filtering with metadata in AgentCore Memory",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-01T18:03:10.000Z",
-        "summary": "In this post, you will learn how metadata works across configuration, ingestion, and retrieval, explore enterprise use cases including multi-agent and multi-ten"
-      },
-      {
-        "title": "HippoRAG: Neurobiologically inspired RAG using Amazon Bedrock, Amazon Neptune, and personalized PageRank",
-        "url": "https://arxiv.org/abs/2405.14831",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-01T18:01:32.000Z",
-        "summary": "In this post, we demonstrate how to implement HippoRAG using a comprehensive AWS stack. We use Amazon Bedrock for LLM capabilities, Amazon Neptune for graph dat"
       }
     ]
   }
