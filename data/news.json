@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-07-10T23:48:18.241Z",
+  "updatedAt": "2026-07-11T23:43:09.057Z",
   "items": [
+    {
+      "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+      "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T17:38:35.000Z",
+      "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had re"
+    },
+    {
+      "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T17:04:28.000Z",
+      "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operativ"
+    },
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-11T14:13:00.000Z",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
+    {
+      "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
+      "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T09:03:26.000Z",
+      "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,"
+    },
+    {
+      "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
+      "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T08:28:12.000Z",
+      "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of"
+    },
+    {
+      "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
+      "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T08:01:09.000Z",
+      "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop"
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
+      "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-11T06:56:20.000Z",
+      "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more tha"
+    },
+    {
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T23:55:07.000Z",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company sai"
+    },
+    {
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-10T23:49:50.000Z",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram "
+    },
     {
       "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
       "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
@@ -20,7 +83,7 @@
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-10T21:00:29.000Z",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
     },
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -128,25 +191,11 @@
       "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let user"
     },
     {
-      "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
-      "url": "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-10T12:18:32.000Z",
-      "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant d"
-    },
-    {
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-10T12:10:00.000Z",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidd"
-    },
-    {
-      "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
-      "url": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-10T11:09:44.000Z",
-      "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. The article Bun ditches Zig for Rust with help "
     },
     {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -268,13 +317,6 @@
       "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that'"
     },
     {
-      "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
-      "url": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-09T18:37:51.000Z",
-      "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third o"
-    },
-    {
       "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
       "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
       "source": "TechCrunch AI",
@@ -287,13 +329,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-09T18:22:39.000Z",
       "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
-    },
-    {
-      "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
-      "url": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-09T17:59:22.000Z",
-      "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex pro"
     },
     {
       "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
@@ -310,13 +345,6 @@
       "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in "
     },
     {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T17:06:11.000Z",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less inte"
-    },
-    {
       "title": "Microsoft’s patch Tuesdays are about to get bigger",
       "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
       "source": "The Verge AI",
@@ -331,13 +359,6 @@
       "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" perio"
     },
     {
-      "title": "Meta's Muse Spark 1.1 API pricing squeezes OpenAI and Anthropic as the AI price war heats up",
-      "url": "https://the-decoder.com/metas-muse-spark-1-1-api-pricing-squeezes-openai-and-anthropic-as-the-ai-price-war-heats-up/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-09T16:58:44.000Z",
-      "summary": "Meta is entering the AI API business with Muse Spark 1.1 at prices that undercut even the dirt-cheap Grok 4.5, released just yesterday. At $4.25 per million out"
-    },
-    {
       "title": "MCP tool design: Practical approaches and tradeoffs",
       "url": "https://modelcontextprotocol.io/",
       "source": "AWS Machine Learning Blog",
@@ -350,27 +371,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-09T16:38:11.000Z",
       "summary": "In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direc"
-    },
-    {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-09T14:53:09.000Z",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot."
-    },
-    {
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-09T14:00:00.000Z",
-      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug in"
-    },
-    {
-      "title": "OpenAI finds roughly 30 percent of popular AI coding test is broken",
-      "url": "https://the-decoder.com/openai-finds-roughly-30-percent-of-popular-ai-coding-test-is-broken/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-09T13:23:57.000Z",
-      "summary": "OpenAI reviewed SWE-Bench Pro, a widely used test for measuring AI models' programming skills, and found roughly 30 percent of its tasks are broken. The company"
     },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
