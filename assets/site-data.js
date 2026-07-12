@@ -3232,8 +3232,85 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-07-11T23:43:09.057Z",
+    "updatedAt": "2026-07-12T23:42:30.659Z",
     "items": [
+      {
+        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-12T20:10:19.000Z",
+        "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify"
+      },
+      {
+        "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+        "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T16:41:47.000Z",
+        "summary": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI"
+      },
+      {
+        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+        "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-12T16:27:06.000Z",
+        "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early "
+      },
+      {
+        "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+        "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T15:02:06.000Z",
+        "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on ex"
+      },
+      {
+        "title": "The fight against AI data centers is just beginning",
+        "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-12T12:00:00.000Z",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Ste"
+      },
+      {
+        "title": "S&P Global sees OpenAI as a \"key credit risk\" for Oracle and cuts its credit rating",
+        "url": "https://the-decoder.com/sp-global-sees-openai-as-a-key-credit-risk-for-oracle-and-cuts-its-credit-rating/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T11:43:36.000Z",
+        "summary": "S&P Global has downgraded Oracle's credit rating to \"BBB-,\" one notch above junk status. OpenAI accounts for roughly half of Oracle's $638 billion in contractua"
+      },
+      {
+        "title": "Meta kills Muse Image feature that let anyone generate AI photos of Instagram users without consent",
+        "url": "https://the-decoder.com/meta-kills-muse-image-feature-that-let-anyone-generate-ai-photos-of-instagram-users-without-consent/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T11:20:30.000Z",
+        "summary": "Meta pulled a controversial feature from its new Muse Image model after widespread criticism. The feature let users generate AI images of other people by @-ment"
+      },
+      {
+        "title": "Claude Cowork's biggest use case is the mundane office work nobody wants to own, Anthropic says",
+        "url": "https://the-decoder.com/claude-coworks-biggest-use-case-is-the-mundane-office-work-nobody-wants-to-own-anthropic-says/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T09:36:39.000Z",
+        "summary": "Anthropic analyzed 1.2 million Claude Cowork sessions from more than 600,000 organizations. About half of all usage goes toward business processes and text crea"
+      },
+      {
+        "title": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
+        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T09:15:49.000Z",
+        "summary": "OpenAI CEO Sam Altman now says he's \"pretty sure\" AI has created more jobs than it's eliminated. That's a sharp turn from his earlier warnings about entire prof"
+      },
+      {
+        "title": "Grades dropped from 96 to 48 percent when a Brown professor made students take the exam without AI",
+        "url": "https://the-decoder.com/grades-dropped-from-96-to-48-percent-when-a-brown-professor-made-students-take-the-exam-without-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T08:25:25.000Z",
+        "summary": "An economics professor at Brown University suspects most of his 86 students used AI to cheat on a take-home exam that averaged 96 percent. When he made the fina"
+      },
+      {
+        "title": "AI agents win at Slay the Spire 2 after researchers replace growing chat logs with structured memory",
+        "url": "https://the-decoder.com/ai-agents-win-at-slay-the-spire-2-after-researchers-replace-growing-chat-logs-with-structured-memory/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-12T07:45:35.000Z",
+        "summary": "The AgenticSTS project replaces the ever-growing chat log of AI agents with five separate memory layers. Tested on the card game Slay the Spire 2, the prompt st"
+      },
       {
         "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
         "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
@@ -3254,34 +3331,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-11T14:13:00.000Z",
         "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
-      },
-      {
-        "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
-        "url": "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-11T09:03:26.000Z",
-        "summary": "The Beijing Academy of Artificial Intelligence has released Orca, a world model that predicts abstract world states instead of tokens or pixels. Trained on 125,"
-      },
-      {
-        "title": "Meta's Muse Spark 1.1 outperforms GLM-5.2 in coding and costs slightly less",
-        "url": "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-11T08:28:12.000Z",
-        "summary": "Meta's Muse Spark 1.1 scored 51 on the Artificial Analysis Intelligence Index, up eight points in three months. In coding, it edges past GLM-5.2 with a score of"
-      },
-      {
-        "title": "OpenAI admits it \"didn't get everything quite right\" with ChatGPT Work launch and scrambles to fix UX and costs",
-        "url": "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-11T08:01:09.000Z",
-        "summary": "Following the launch of ChatGPT Work and GPT-5.6 Sol, OpenAI has acknowledged significant issues: excessive compute usage, a confusing transition to the desktop"
-      },
-      {
-        "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
-        "url": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-11T06:56:20.000Z",
-        "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more tha"
       },
       {
         "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -3305,13 +3354,6 @@ window.SITE_DATA = {
         "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a patt"
       },
       {
-        "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-        "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-10T21:12:47.000Z",
-        "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RS"
-      },
-      {
         "title": "Apple sues OpenAI over alleged trade secret theft",
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
         "source": "TechCrunch AI",
@@ -3326,25 +3368,11 @@ window.SITE_DATA = {
         "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI buil"
       },
       {
-        "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
-        "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-10T17:52:06.000Z",
-        "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav"
-      },
-      {
         "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
         "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-10T17:17:12.000Z",
         "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
-      },
-      {
-        "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
-        "url": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-10T16:48:05.000Z",
-        "summary": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked "
       },
       {
         "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
@@ -3415,13 +3443,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-07-10T13:20:25.000Z",
         "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its comp"
-      },
-      {
-        "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
-        "url": "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-10T12:19:21.000Z",
-        "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let user"
       },
       {
         "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
@@ -3522,13 +3543,6 @@ window.SITE_DATA = {
         "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer"
       },
       {
-        "title": "Google will now tell you if an ad was made with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-09T20:11:38.000Z",
-        "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlie"
-      },
-      {
         "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
         "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
         "source": "TechCrunch AI",
@@ -3576,20 +3590,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-09T17:17:37.000Z",
         "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in "
-      },
-      {
-        "title": "Microsoft’s patch Tuesdays are about to get bigger",
-        "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-09T17:00:00.000Z",
-        "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify pote"
-      },
-      {
-        "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-09T17:00:00.000Z",
-        "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" perio"
       },
       {
         "title": "MCP tool design: Practical approaches and tradeoffs",
