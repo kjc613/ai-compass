@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-07-17T23:42:15.273Z",
+  "updatedAt": "2026-07-18T23:42:16.495Z",
   "items": [
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-18T20:54:42.000Z",
+      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of jour"
+    },
+    {
+      "title": "Kimi: Threat or menace?",
+      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-18T18:51:07.000Z",
+      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-18T12:00:00.000Z",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't "
+    },
+    {
+      "title": "China's new World Artificial Intelligence Cooperation Organization is President Xi's clearest play yet for a parallel AI order",
+      "url": "https://the-decoder.com/chinas-new-world-artificial-intelligence-cooperation-organization-is-president-xis-clearest-play-yet-for-a-parallel-ai-order/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-18T10:46:04.000Z",
+      "summary": "At the World AI Conference in Shanghai, Xi Jinping announced 5,000 AI training slots for Global South countries and the launch of the \"World Artificial Intellig"
+    },
+    {
+      "title": "Open-weight models now match frontier cyber performance from just four months ago at a fraction of the cost",
+      "url": "https://the-decoder.com/open-weight-models-now-match-frontier-cyber-performance-from-just-four-months-ago-at-a-fraction-of-the-cost/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-18T10:16:02.000Z",
+      "summary": "The British AI Security Institute warns that open-weight models like GLM-5.2 and DeepSeek V4-Pro now trail closed frontier models in cyber capabilities by four "
+    },
+    {
+      "title": "The Pentagon's new AI playbook treats slow adoption as a bigger risk than imperfect alignment",
+      "url": "https://the-decoder.com/the-pentagons-new-ai-playbook-treats-slow-adoption-as-a-bigger-risk-than-imperfect-alignment/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-18T08:10:40.000Z",
+      "summary": "The US Department of the Navy has signed a strategy to \"weaponize\" data and AI and build an \"AI-first\" fleet. Large language models would run directly on warshi"
+    },
+    {
+      "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+      "url": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-18T07:17:11.000Z",
+      "summary": "Anthropic will include Claude Fable 5 in Max and Team Premium plans starting July 20, but at just 50 percent of regular limits, which themselves drop by a third"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-18T04:47:25.000Z",
+      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed,"
+    },
     {
       "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
       "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
@@ -212,13 +268,6 @@
       "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. Duri"
     },
     {
-      "title": "Google rebrands NotebookLM as Gemini Notebook and opens its search app to third-party integration",
-      "url": "https://the-decoder.com/google-rebrands-notebooklm-as-gemini-notebook-and-opens-its-search-app-to-third-party-integration/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-16T17:22:18.000Z",
-      "summary": "Google is renaming NotebookLM to Gemini Notebook and integrating the tool more deeply into its ecosystem. A new feature gives each notebook its own cloud comput"
-    },
-    {
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
       "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
       "source": "VentureBeat AI",
@@ -231,13 +280,6 @@
       "source": "VentureBeat AI",
       "publishedAt": "2026-07-16T16:40:48.000Z",
       "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already sh"
-    },
-    {
-      "title": "Germany puts Google's AI Overviews and Perplexity under media law in first-of-its-kind ruling",
-      "url": "https://the-decoder.com/germany-puts-googles-ai-overviews-and-perplexity-under-media-law-in-first-of-its-kind-ruling/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-16T16:12:26.000Z",
-      "summary": "German media regulators say Google's AI Overviews are Google's own content, not neutral search results, and that they crowd out regular links. The regulators ha"
     },
     {
       "title": "Why teens deserve access to safe AI",
@@ -310,32 +352,11 @@
       "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word."
     },
     {
-      "title": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
-      "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-16T14:31:34.000Z",
-      "summary": "OpenAI and keyboard manufacturer Work Louder have unveiled the Codex Micro, a compact hardware controller designed for working with AI agents. The article OpenA"
-    },
-    {
       "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
       "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-16T14:26:29.000Z",
       "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
-    },
-    {
-      "title": "Sakana AI's orchestrator adds Nvidia Nemotron to prove \"collective intelligence\" can rival single frontier models",
-      "url": "https://the-decoder.com/sakana-ais-fugu-adds-nvidia-nemotron-to-prove-collective-intelligence-can-rival-single-frontier-models/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-16T14:02:13.000Z",
-      "summary": "Sakana AI is integrating Nvidia's open-source Nemotron models into its Fugu orchestrator, which dynamically combines multiple language models for specific tasks"
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-16T13:17:59.000Z",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
     },
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -399,27 +420,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-07-15T21:33:20.000Z",
       "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a laws"
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-15T20:00:00.000Z",
-      "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on t"
-    },
-    {
-      "title": "Built Technologies builds an AI-powered document intelligence solution on AWS to power agents across real estate finance",
-      "url": "http://getbuilt.com/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-07-15T18:14:31.000Z",
-      "summary": "Built partnered with the AWS Generative AI Innovation Center (GenAIIC), AWS Partner AND Digital, and AWS account teams to create a scalable, AI-powered document"
-    },
-    {
-      "title": "Agentic vision: Building visual intelligence with Amazon Bedrock and MCP servers",
-      "url": "https://aws.amazon.com/what-is/computer-vision/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-07-15T18:11:57.000Z",
-      "summary": "In this post, we walk you through the Computer Vision MCP Server, which illustrates this approach, representing how AI systems can process visual information an"
     }
   ]
 }
