@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-07-18T23:42:16.495Z",
+    "updatedAt": "2026-07-20T02:22:13.918Z",
     "items": [
+      {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-19T21:16:07.000Z",
+        "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-19T19:24:45.000Z",
+        "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+      },
+      {
+        "title": "I hate that I don’t hate this song made with Suno",
+        "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+        "source": "The Verge AI",
+        "publishedAt": "2026-07-19T17:35:54.000Z",
+        "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI t"
+      },
+      {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-19T14:52:08.000Z",
+        "summary": "\"Everybody knows the Greeks are inside.\""
+      },
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-19T14:00:00.000Z",
+        "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+      },
+      {
+        "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+        "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-19T12:07:06.000Z",
+        "summary": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A previ"
+      },
+      {
+        "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
+        "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-19T10:17:49.000Z",
+        "summary": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems "
+      },
+      {
+        "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math",
+        "url": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-19T09:32:19.000Z",
+        "summary": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin. But on advanced"
+      },
+      {
+        "title": "AI text detectors struggle when language models mimic an author's style",
+        "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-19T08:35:26.000Z",
+        "summary": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages wen"
+      },
+      {
+        "title": "AI chatbots reading X-rays can be dangerously confident even when they're wrong",
+        "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-19T07:35:20.000Z",
+        "summary": "The RadLE 2.0 benchmark tests whether AI models in radiology can tell when they should leave a diagnosis to a human. Many models deliver wrong findings with ful"
+      },
       {
         "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
@@ -3333,25 +3403,11 @@ window.SITE_DATA = {
         "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
       },
       {
-        "title": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
-        "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-17T19:35:52.000Z",
-        "summary": "OpenAI's GPT-5.6 has accidentally wiped users' entire home directories in several cases, mostly in the unprotected \"Full Access Mode.\" The model overwrites a te"
-      },
-      {
         "title": "TikTok is testing an AI likeness detection tool",
         "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
         "source": "The Verge AI",
         "publishedAt": "2026-07-17T19:34:30.000Z",
         "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt "
-      },
-      {
-        "title": "Just like Deepseek, China's Kimi K3 is forcing Western AI labs to question their compute advantage",
-        "url": "https://the-decoder.com/just-like-deepseek-chinas-kimi-k3-is-forcing-western-ai-labs-to-question-their-compute-advantage/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-17T19:16:07.000Z",
-        "summary": "Moonshot AI has released Kimi K3, a model that by early assessments matches Anthropic's Opus 4.8, built by a team of just 300 people. Even OpenAI strategist Dea"
       },
       {
         "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
@@ -3424,13 +3480,6 @@ window.SITE_DATA = {
         "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
       },
       {
-        "title": "Linus Torvalds tells AI critics in the Linux kernel community to fork off",
-        "url": "https://the-decoder.com/linus-torvalds-tells-ai-critics-in-the-linux-kernel-community-to-fork-off/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-17T11:12:47.000Z",
-        "summary": "Linux creator Linus Torvalds has come out strongly in favor of AI tools in kernel development. \"Linux is not one of those anti-AI projects,\" he wrote on the ker"
-      },
-      {
         "title": "A scorecard for the AI age",
         "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
         "source": "OpenAI News",
@@ -3438,25 +3487,11 @@ window.SITE_DATA = {
         "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compu"
       },
       {
-        "title": "Netflix's 300 AI productions show how fast the technology is spreading through entertainment",
-        "url": "https://the-decoder.com/netflixs-300-ai-productions-show-how-fast-the-technology-is-spreading-through-entertainment/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-17T08:53:31.000Z",
-        "summary": "Netflix now uses AI in about 300 productions, mostly in post-production. Co-CEO Ted Sarandos put specific numbers to the effort: the docuseries \"The American Ex"
-      },
-      {
         "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
         "url": "https://aws.amazon.com/bedrock/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-07-16T21:29:14.000Z",
         "summary": "In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code ex"
-      },
-      {
-        "title": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
-        "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-16T19:49:39.000Z",
-        "summary": "Kimi is launching K3, a multimodal open-weight model with 2.8 trillion parameters and one million tokens of context. In the company's own benchmarks, it comes c"
       },
       {
         "title": "Introducing Grok on Amazon Bedrock",
@@ -3564,34 +3599,6 @@ window.SITE_DATA = {
         "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the termi"
       },
       {
-        "title": "Why is OpenAI selling a ChatGPT basketball?",
-        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-16T15:31:09.000Z",
-        "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
-      },
-      {
-        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-16T15:02:00.000Z",
-        "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of Cha"
-      },
-      {
-        "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-16T14:40:00.000Z",
-        "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word."
-      },
-      {
-        "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-        "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-16T14:26:29.000Z",
-        "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
-      },
-      {
         "title": "Claude can now use your 1Password credentials for you",
         "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
         "source": "The Verge AI",
@@ -3646,13 +3653,6 @@ window.SITE_DATA = {
         "source": "VentureBeat AI",
         "publishedAt": "2026-07-15T22:24:17.000Z",
         "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity "
-      },
-      {
-        "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-15T21:33:20.000Z",
-        "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a laws"
       }
     ]
   }
