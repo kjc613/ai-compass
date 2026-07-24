@@ -1,6 +1,167 @@
 {
-  "updatedAt": "2026-07-23T23:52:04.924Z",
+  "updatedAt": "2026-07-24T23:54:58.289Z",
   "items": [
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T19:06:58.000Z",
+      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thur"
+    },
+    {
+      "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+      "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T18:36:42.000Z",
+      "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel"
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants i"
+    },
+    {
+      "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+      "url": "https://docs.aws.amazon.com/claude-platform/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-07-24T17:59:03.000Z",
+      "summary": "This post covers Opus 5’s improvements and practical guidance for AI engineers integrating the model into agentic systems and production inference workloads on "
+    },
+    {
+      "title": "You can’t ignore Google Zero anymore",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:29:48.000Z",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and c"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
+    },
+    {
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic"
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI "
+    },
+    {
+      "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+      "url": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T16:06:02.000Z",
+      "summary": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:51:49.000Z",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI"
+    },
+    {
+      "title": "Build an explainable next-best-product recommendation system for banking on AWS",
+      "url": "https://aws.amazon.com/sagemaker/ai/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-07-24T15:42:11.000Z",
+      "summary": "Learn the architecture and design decisions behind an explainable next-best-product recommendation system for banking, built with Amazon SageMaker AI and PyTorc"
+    },
+    {
+      "title": "Get started with OpenAI GPT-5.6 Sol, Terra, and Luna on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-07-24T15:40:08.000Z",
+      "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock. Learn how to select a model, run inference through the Responses API on the b"
+    },
+    {
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:13:57.000Z",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
+    },
+    {
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:09:55.000Z",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T14:43:55.000Z",
+      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effor"
+    },
+    {
+      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
+      "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T14:37:57.000Z",
+      "summary": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The upd"
+    },
+    {
+      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T14:00:00.000Z",
+      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industr"
+    },
+    {
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T13:36:42.000Z",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T12:56:01.000Z",
+      "summary": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA acciden"
+    },
+    {
+      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+      "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T11:31:49.000Z",
+      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assist"
+    },
+    {
+      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-24T09:48:32.000Z",
+      "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 p"
+    },
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T01:00:00.000Z",
+      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guar"
+    },
     {
       "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
       "url": "https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/",
@@ -163,13 +324,6 @@
       "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Departmen"
     },
     {
-      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
-      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-23T14:00:00.000Z",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this te"
-    },
-    {
       "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
       "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
       "source": "The Decoder",
@@ -184,25 +338,11 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that co"
     },
     {
-      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
-      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-23T12:00:00.000Z",
-      "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction "
-    },
-    {
       "title": "How AI helps scientists design the next generation of medicines",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12298131/",
       "source": "MIT Technology Review",
       "publishedAt": "2026-07-23T12:00:00.000Z",
       "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a signifi"
-    },
-    {
-      "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
-      "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-23T11:19:57.000Z",
-      "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the se"
     },
     {
       "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
@@ -233,123 +373,11 @@
       "summary": ""
     },
     {
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T23:47:54.000Z",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
-    },
-    {
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T22:01:52.000Z",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits."
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T20:49:03.000Z",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
-    },
-    {
-      "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-      "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-22T19:33:48.000Z",
-      "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 w"
-    },
-    {
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T19:11:46.000Z",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is w"
-    },
-    {
-      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T18:50:44.000Z",
-      "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
-    },
-    {
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T18:13:58.000Z",
-      "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algor"
-    },
-    {
-      "title": "Monday.com lays off hundreds to focus on AI",
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T17:54:14.000Z",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platf"
-    },
-    {
-      "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
-      "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-22T16:54:26.000Z",
-      "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For"
-    },
-    {
-      "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
-      "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-22T16:41:49.000Z",
-      "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on a"
-    },
-    {
-      "title": "Here’s what Samsung’s smart glasses actually look like",
-      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-22T16:35:34.000Z",
-      "summary": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including"
-    },
-    {
-      "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
-      "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-22T16:28:08.000Z",
-      "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, accordin"
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T16:24:08.000Z",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
-    },
-    {
-      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
-      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-22T16:23:09.000Z",
-      "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted conten"
-    },
-    {
       "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
       "url": "https://aws.amazon.com/bedrock/",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-22T15:54:28.000Z",
       "summary": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders "
-    },
-    {
-      "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
-      "url": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-22T15:45:51.000Z",
-      "summary": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the"
-    },
-    {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-22T14:44:27.000Z",
-      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday"
     },
     {
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -387,39 +415,11 @@
       "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate disco"
     },
     {
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-22T11:00:00.000Z",
-      "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generati"
-    },
-    {
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "source": "OpenAI News",
       "publishedAt": "2026-07-22T05:30:00.000Z",
       "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workf"
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "source": "OpenAI News",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
-    },
-    {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-07-21T20:00:27.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "publishedAt": "2026-07-21T17:00:00.000Z",
-      "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
     }
   ]
 }
