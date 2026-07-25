@@ -3232,8 +3232,57 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-07-24T23:54:58.289Z",
+    "updatedAt": "2026-07-25T23:51:37.046Z",
     "items": [
+      {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-25T16:00:00.000Z",
+        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+      },
+      {
+        "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+        "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-25T13:45:50.000Z",
+        "summary": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI "
+      },
+      {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-25T13:05:00.000Z",
+        "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+      },
+      {
+        "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
+        "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-25T10:43:36.000Z",
+        "summary": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection la"
+      },
+      {
+        "title": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-25T10:04:42.000Z",
+        "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel"
+      },
+      {
+        "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
+        "url": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
+        "source": "The Decoder",
+        "publishedAt": "2026-07-25T09:31:00.000Z",
+        "summary": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest i"
+      },
+      {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-07-25T00:23:11.000Z",
+        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it."
+      },
       {
         "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
         "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
@@ -3247,13 +3296,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-07-24T19:06:58.000Z",
         "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thur"
-      },
-      {
-        "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
-        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-24T18:36:42.000Z",
-        "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel"
       },
       {
         "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
@@ -3452,25 +3494,11 @@ window.SITE_DATA = {
         "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes"
       },
       {
-        "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
-        "url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-23T18:03:01.000Z",
-        "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the "
-      },
-      {
         "title": "Runway launches AI model router as generative media gets crowded",
         "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-07-23T17:07:35.000Z",
         "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes qu"
-      },
-      {
-        "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-23T17:01:30.000Z",
-        "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an emplo"
       },
       {
         "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
@@ -3543,25 +3571,11 @@ window.SITE_DATA = {
         "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
       },
       {
-        "title": "Google’s Gemini nears billion-user milestone",
-        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-23T14:52:44.000Z",
-        "summary": "Gemini had over 750 million monthly users in February."
-      },
-      {
         "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
         "source": "The Verge AI",
         "publishedAt": "2026-07-23T14:13:35.000Z",
         "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Departmen"
-      },
-      {
-        "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
-        "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-23T12:24:53.000Z",
-        "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, rev"
       },
       {
         "title": "The Download: energy transmission and US threats against Chinese AI",
@@ -3576,20 +3590,6 @@ window.SITE_DATA = {
         "source": "MIT Technology Review",
         "publishedAt": "2026-07-23T12:00:00.000Z",
         "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a signifi"
-      },
-      {
-        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-        "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-23T11:00:00.000Z",
-        "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
-      },
-      {
-        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-23T06:09:13.000Z",
-        "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
       },
       {
         "title": "Launching Health in ChatGPT",
