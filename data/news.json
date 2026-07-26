@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-07-25T23:51:37.046Z",
+  "updatedAt": "2026-07-26T23:52:10.994Z",
   "items": [
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T19:40:57.000Z",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+    },
+    {
+      "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+      "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-26T15:09:11.000Z",
+      "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every "
+    },
+    {
+      "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+      "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-26T09:43:02.000Z",
+      "summary": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the "
+    },
+    {
+      "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-26T08:35:49.000Z",
+      "summary": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall"
+    },
+    {
+      "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+      "url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-26T07:56:24.000Z",
+      "summary": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an o"
+    },
+    {
+      "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+      "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+      "source": "The Decoder",
+      "publishedAt": "2026-07-26T06:59:56.000Z",
+      "summary": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exa"
+    },
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T01:30:00.000Z",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
     {
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
       "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
@@ -156,13 +212,6 @@
       "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effor"
     },
     {
-      "title": "Sakana claims its AI model router Fugu Ultra v1.1 now beats Fable 5 without even including it in the pool",
-      "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-24T14:37:57.000Z",
-      "summary": "Sakana AI has updated its Fugu Ultra AI router to version 1.1, claiming gains of up to 7.9 points over v1.0. Independent verification doesn't exist yet. The upd"
-    },
-    {
       "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
       "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
       "source": "TechCrunch AI",
@@ -175,27 +224,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-24T13:36:42.000Z",
       "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-    },
-    {
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-24T12:56:01.000Z",
-      "summary": "The German consortium behind the AI model Soofi S has acknowledged in version 3.0 of its tech report that test questions from the science benchmark GPQA acciden"
-    },
-    {
-      "title": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
-      "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-24T11:31:49.000Z",
-      "summary": "Voice conversations now run on the more powerful Opus and Sonnet models with access to Gmail, Google Calendar, and Slack. Claude is currently the only AI assist"
-    },
-    {
-      "title": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-24T09:48:32.000Z",
-      "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 p"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -224,13 +252,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-23T20:33:02.000Z",
       "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-    },
-    {
-      "title": "ChatGPT will give you worse health advice if you don't pay",
-      "url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-23T19:30:51.000Z",
-      "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask C"
     },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
@@ -315,27 +336,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-23T16:30:20.000Z",
       "summary": "This post focuses on why classic retrieval falls short on multi-part questions, how the AgenticRetrieveStream API works (including request construction and trac"
-    },
-    {
-      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T16:28:50.000Z",
-      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before"
-    },
-    {
-      "title": "Nvidia is sending GPUs to the moon",
-      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there."
-    },
-    {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-23T15:00:00.000Z",
-      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
     },
     {
       "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
