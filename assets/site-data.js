@@ -3232,8 +3232,99 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-07-31T23:53:05.386Z",
+    "updatedAt": "2026-08-01T23:48:06.060Z",
     "items": [
+      {
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-01T20:26:04.000Z",
+        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+      },
+      {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-01T19:45:45.000Z",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for t"
+      },
+      {
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-01T18:20:00.000Z",
+        "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has "
+      },
+      {
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-01T17:07:34.000Z",
+        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+      },
+      {
+        "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+        "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T16:01:31.000Z",
+        "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 P"
+      },
+      {
+        "title": "This $9 key physically locks your most addictive apps",
+        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-01T15:58:17.000Z",
+        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+      },
+      {
+        "title": "AI coding agents can modernize research software but can't judge if the science is right",
+        "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T14:26:28.000Z",
+        "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are "
+      },
+      {
+        "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+        "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T13:51:57.000Z",
+        "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically in"
+      },
+      {
+        "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+        "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T13:33:41.000Z",
+        "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Googl"
+      },
+      {
+        "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T10:40:50.000Z",
+        "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's "
+      },
+      {
+        "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+        "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T09:29:49.000Z",
+        "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has "
+      },
+      {
+        "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
+        "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-01T09:00:04.000Z",
+        "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite ima"
+      },
+      {
+        "title": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-01T00:00:00.000Z",
+        "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and comp"
+      },
       {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -3340,13 +3431,6 @@ window.SITE_DATA = {
         "summary": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon "
       },
       {
-        "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
-        "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-31T15:28:08.000Z",
-        "summary": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context,"
-      },
-      {
         "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
         "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
         "source": "TechCrunch AI",
@@ -3394,20 +3478,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-07-31T13:41:17.000Z",
         "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without"
-      },
-      {
-        "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-31T10:57:37.000Z",
-        "summary": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that in"
-      },
-      {
-        "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
-        "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-31T10:49:05.000Z",
-        "summary": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up "
       },
       {
         "title": "Univé builds an AI-ready workforce",
@@ -3487,32 +3557,11 @@ window.SITE_DATA = {
         "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their "
       },
       {
-        "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
-        "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-30T18:46:24.000Z",
-        "summary": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own "
-      },
-      {
         "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
         "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
         "source": "The Verge AI",
         "publishedAt": "2026-07-30T18:43:26.000Z",
         "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI s"
-      },
-      {
-        "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
-        "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-30T18:07:17.000Z",
-        "summary": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the mo"
-      },
-      {
-        "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-        "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-30T18:05:21.000Z",
-        "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI wri"
       },
       {
         "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
@@ -3536,25 +3585,11 @@ window.SITE_DATA = {
         "summary": "In this post, we demonstrate how Yahoo implemented Amazon Bedrock to enhance their Search Retargeting (SRT) capabilities in the Yahoo DSP ad tech suite. SRT is "
       },
       {
-        "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-        "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-30T16:33:32.000Z",
-        "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC s"
-      },
-      {
         "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
         "url": "https://aws.amazon.com/sagemaker/ai/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-07-30T16:10:10.000Z",
         "summary": "Learn how to build an inference meta-monitoring system for Amazon SageMaker AI endpoints using Amazon Quick. This governance layer sits above production ML infe"
-      },
-      {
-        "title": "Okta buys AI security startup Permiso — source says for about $200M",
-        "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-30T16:09:42.000Z",
-        "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
       },
       {
         "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
@@ -3571,20 +3606,6 @@ window.SITE_DATA = {
         "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality,"
       },
       {
-        "title": "Meta says AI is making it easier to build new apps — and more are coming",
-        "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-30T15:41:16.000Z",
-        "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consume"
-      },
-      {
-        "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-        "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-30T15:19:15.000Z",
-        "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
-      },
-      {
         "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
         "source": "Hugging Face Blog",
@@ -3597,20 +3618,6 @@ window.SITE_DATA = {
         "source": "Google DeepMind Blog",
         "publishedAt": "2026-07-30T15:00:59.000Z",
         "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and m"
-      },
-      {
-        "title": "Language models can't spark scientific revolutions, but world models might",
-        "url": "https://the-decoder.com/language-models-cant-spark-scientific-revolutions-but-world-models-might/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-30T14:01:33.000Z",
-        "summary": "Can language models spark a scientific revolution? In a position paper titled \"LLMs can't jump,\" Google Deepmind's Tom Zahavy argues they can't. They're missing"
-      },
-      {
-        "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
-        "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/",
-        "source": "The Decoder",
-        "publishedAt": "2026-07-30T13:11:48.000Z",
-        "summary": "Microsoft AI is betting on small specialist models instead of expensive general-purpose ones, according to AI CEO Mustafa Suleyman. MAI-Cyber-1-Flash tops the C"
       },
       {
         "title": "The Download: tricking LLMs, and reviving geothermal plants",
@@ -3646,13 +3653,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-07-29T16:20:28.000Z",
         "summary": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an"
-      },
-      {
-        "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-07-29T16:02:10.000Z",
-        "summary": ""
       }
     ]
   }
