@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-08-01T23:48:06.060Z",
+  "updatedAt": "2026-08-02T23:49:50.267Z",
   "items": [
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-02T20:54:22.000Z",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-02T19:36:08.000Z",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew"
+    },
+    {
+      "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+      "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T13:10:21.000Z",
+      "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Worksp"
+    },
+    {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. Th"
+    },
+    {
+      "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+      "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T12:57:38.000Z",
+      "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent mainta"
+    },
+    {
+      "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
+      "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T12:42:49.000Z",
+      "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging th"
+    },
+    {
+      "title": "AI finds plenty of security flaws, but almost none of them get exploited",
+      "url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T10:09:34.000Z",
+      "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw"
+    },
+    {
+      "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+      "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T08:51:07.000Z",
+      "summary": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a "
+    },
+    {
+      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T07:33:17.000Z",
+      "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions."
+    },
+    {
+      "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+      "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-02T06:49:28.000Z",
+      "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. L"
+    },
     {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -58,34 +128,6 @@
       "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically in"
     },
     {
-      "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
-      "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T13:33:41.000Z",
-      "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Googl"
-    },
-    {
-      "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T10:40:50.000Z",
-      "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's "
-    },
-    {
-      "title": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
-      "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T09:29:49.000Z",
-      "summary": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has "
-    },
-    {
-      "title": "Google handed users the easiest possible tool for fake satellite imagery, then pulled it after two days",
-      "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T09:00:04.000Z",
-      "summary": "Google pulled its Nano Banana 2 image model from Google Earth just two days after launch. Users showed how easy it was to generate convincing fake satellite ima"
-    },
-    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "source": "OpenAI News",
@@ -135,20 +177,6 @@
       "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let "
     },
     {
-      "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
-      "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-31T18:25:08.000Z",
-      "summary": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoi"
-    },
-    {
-      "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
-      "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-31T17:41:50.000Z",
-      "summary": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of "
-    },
-    {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "source": "TechCrunch AI",
@@ -168,13 +196,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-07-31T16:49:08.000Z",
       "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance a"
-    },
-    {
-      "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
-      "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
-      "source": "The Decoder",
-      "publishedAt": "2026-07-31T16:39:25.000Z",
-      "summary": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it"
     },
     {
       "title": "The major labels propose rules to keep AI slop off the charts",
@@ -317,32 +338,11 @@
       "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T18:57:58.000Z",
-      "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their "
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-30T18:43:26.000Z",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI s"
-    },
-    {
       "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
       "url": "https://platform.kimi.ai/docs/guide/kimi-k3-quickstart",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-07-30T17:22:32.000Z",
       "summary": "This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and&nbsp; Amazon Elastic Kubernetes Service (Amazon EKS) clust"
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-30T17:18:45.000Z",
-      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a "
     },
     {
       "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
