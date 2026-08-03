@@ -1,12 +1,166 @@
 {
-  "updatedAt": "2026-08-02T23:49:50.267Z",
+  "updatedAt": "2026-08-03T23:59:08.168Z",
   "items": [
+    {
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri"
+    },
+    {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T20:00:00.000Z",
+      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
+    },
+    {
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T19:28:57.000Z",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
+    },
+    {
+      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T19:09:56.000Z",
+      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T18:43:43.000Z",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assist"
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-03T18:43:30.000Z",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usuall"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-03T17:38:45.000Z",
+      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency"
+    },
+    {
+      "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
+      "url": "https://aws.amazon.com/glue/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-03T17:24:15.000Z",
+      "summary": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 c"
+    },
+    {
+      "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+      "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T17:12:23.000Z",
+      "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job"
+    },
+    {
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T16:40:55.000Z",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize "
+    },
+    {
+      "title": "Automated Reasoning policy refinement in Amazon Bedrock",
+      "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/guardrails-automated-reasoning-checks.html",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-03T16:30:58.000Z",
+      "summary": "Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for r"
+    },
+    {
+      "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
+      "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T15:47:08.000Z",
+      "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rar"
+    },
+    {
+      "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
+      "url": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T15:00:28.000Z",
+      "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484"
+    },
+    {
+      "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+      "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T13:52:29.000Z",
+      "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first ope"
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-03T12:08:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents l"
+    },
+    {
+      "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+      "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T12:07:31.000Z",
+      "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article "
+    },
+    {
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-03T11:01:11.000Z",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US fron"
+    },
+    {
+      "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+      "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T10:49:58.000Z",
+      "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours ap"
+    },
+    {
+      "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-03T10:48:50.000Z",
+      "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips au"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-03T10:00:00.000Z",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
+    },
+    {
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/tag/tech-review-explains",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-03T08:30:05.000Z",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more fro"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+    },
     {
       "title": "Sam Altman and AI’s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-02T20:54:22.000Z",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
     },
     {
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -44,34 +198,6 @@
       "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging th"
     },
     {
-      "title": "AI finds plenty of security flaws, but almost none of them get exploited",
-      "url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-02T10:09:34.000Z",
-      "summary": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw"
-    },
-    {
-      "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
-      "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-02T08:51:07.000Z",
-      "summary": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a "
-    },
-    {
-      "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
-      "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-02T07:33:17.000Z",
-      "summary": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions."
-    },
-    {
-      "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
-      "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-02T06:49:28.000Z",
-      "summary": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. L"
-    },
-    {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "source": "TechCrunch AI",
@@ -97,14 +223,7 @@
       "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-01T17:07:34.000Z",
-      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
-    },
-    {
-      "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
-      "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T16:01:31.000Z",
-      "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 P"
+      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of h"
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
@@ -112,20 +231,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-01T15:58:17.000Z",
       "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
-      "title": "AI coding agents can modernize research software but can't judge if the science is right",
-      "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T14:26:28.000Z",
-      "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are "
-    },
-    {
-      "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
-      "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-01T13:51:57.000Z",
-      "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically in"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
@@ -254,13 +359,6 @@
       "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exact"
     },
     {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-31T14:00:00.000Z",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days afte"
-    },
-    {
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
       "source": "The Verge AI",
@@ -275,67 +373,11 @@
       "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work"
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-31T01:06:54.000Z",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-    },
-    {
       "title": "Disrupting a Criminal Scam Operation",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
       "source": "OpenAI News",
       "publishedAt": "2026-07-31T00:00:00.000Z",
       "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-    },
-    {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:25:58.000Z",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-    },
-    {
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T23:08:58.000Z",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
-    },
-    {
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T22:41:41.000Z",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
-    },
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-30T22:29:45.000Z",
-      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want t"
-    },
-    {
-      "title": "The loss of Situational Awareness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "source": "The Verge AI",
-      "publishedAt": "2026-07-30T20:46:25.000Z",
-      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious"
-    },
-    {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T20:26:38.000Z",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the governme"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-07-30T19:44:16.000Z",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price."
     },
     {
       "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
@@ -378,48 +420,6 @@
       "source": "Hugging Face Blog",
       "publishedAt": "2026-07-30T15:09:09.000Z",
       "summary": ""
-    },
-    {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "source": "Google DeepMind Blog",
-      "publishedAt": "2026-07-30T15:00:59.000Z",
-      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and m"
-    },
-    {
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-30T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw lea"
-    },
-    {
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://role-confusion.github.io/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-07-30T10:15:19.000Z",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper"
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "source": "OpenAI News",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
-    },
-    {
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "url": "https://openai.com/index/avatarin",
-      "source": "OpenAI News",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey respon"
-    },
-    {
-      "title": "Authenticate with Private Key JWT using Amazon Bedrock AgentCore Identity",
-      "url": "https://aws.amazon.com/bedrock/agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-07-29T16:20:28.000Z",
-      "summary": "This post explains how Private Key JWT client authentication works in AgentCore Identity and reviews the supported grant flows. We then walk through creating an"
     }
   ]
 }
