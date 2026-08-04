@@ -3232,14 +3232,231 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-03T23:59:08.168Z",
+    "updatedAt": "2026-08-04T23:54:24.141Z",
     "items": [
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T21:07:26.000Z",
+        "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+      },
+      {
+        "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T20:57:49.000Z",
+        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up fro"
+      },
+      {
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T20:47:55.000Z",
+        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other A"
+      },
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T20:05:26.000Z",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful "
+      },
+      {
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T19:48:40.000Z",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+      },
+      {
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T19:34:34.000Z",
+        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+      },
+      {
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T19:28:49.000Z",
+        "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
+      },
+      {
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-04T19:00:00.000Z",
+        "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+      },
+      {
+        "title": "Introducing Web Search on Amazon Bedrock for foundation model grounding",
+        "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-04T18:39:14.000Z",
+        "summary": "Today, we are introducing the general availability of Web Search on Amazon Bedrock. It is a server-side built-in tool that grounds model responses in current we"
+      },
+      {
+        "title": "How an OpenAI influencer trip backfired",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T17:46:41.000Z",
+        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with"
+      },
+      {
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T17:33:46.000Z",
+        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his"
+      },
+      {
+        "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+        "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-04T17:26:03.000Z",
+        "summary": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLM"
+      },
+      {
+        "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-04T16:38:58.000Z",
+        "summary": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and d"
+      },
+      {
+        "title": "Automated web insight extraction with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-04T16:02:21.000Z",
+        "summary": "Extracting insights from dozens of websites by hand quickly becomes overwhelming. This post shows how to build an automated web insight extraction solution with"
+      },
+      {
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T15:50:06.000Z",
+        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered "
+      },
+      {
+        "title": "Texas halts new data centers as governor calls for audits",
+        "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T15:42:35.000Z",
+        "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abu"
+      },
+      {
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
+        "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T15:33:21.000Z",
+        "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on"
+      },
+      {
+        "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+        "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-04T15:21:14.000Z",
+        "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic l"
+      },
+      {
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T15:20:06.000Z",
+        "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
+      },
+      {
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T14:03:01.000Z",
+        "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed co"
+      },
+      {
+        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-04T13:58:29.000Z",
+        "summary": ""
+      },
+      {
+        "title": "The latest AI news we announced in July 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-04T13:00:00.000Z",
+        "summary": "Here are Google’s latest AI updates from July 2026"
+      },
+      {
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T13:00:00.000Z",
+        "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+      },
+      {
+        "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+        "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-04T12:23:43.000Z",
+        "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushe"
+      },
+      {
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-04T12:14:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectioni"
+      },
+      {
+        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-04T12:00:00.000Z",
+        "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
+      },
+      {
+        "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T11:27:55.000Z",
+        "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post"
+      },
+      {
+        "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+        "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-04T10:22:53.000Z",
+        "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show "
+      },
+      {
+        "title": "Can Reddit fend off a new wave of AI SEO spam?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-04T10:00:00.000Z",
+        "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used "
+      },
+      {
+        "title": "New ways to learn and teach with ChatGPT Work and Codex",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+      },
       {
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
         "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-03T23:19:50.000Z",
         "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri"
+      },
+      {
+        "title": "Apple is getting this wrong",
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-03T22:00:00.000Z",
+        "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
       },
       {
         "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
@@ -3326,18 +3543,18 @@ window.SITE_DATA = {
         "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484"
       },
       {
+        "title": "Inside our 353,000-person vibe coding course",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-03T15:00:00.000Z",
+        "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
+      },
+      {
         "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
         "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
         "source": "The Decoder",
         "publishedAt": "2026-08-03T13:52:29.000Z",
         "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first ope"
-      },
-      {
-        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-03T12:08:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents l"
       },
       {
         "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
@@ -3352,20 +3569,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-08-03T11:01:11.000Z",
         "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US fron"
-      },
-      {
-        "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-        "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T10:49:58.000Z",
-        "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours ap"
-      },
-      {
-        "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-        "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T10:48:50.000Z",
-        "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips au"
       },
       {
         "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
@@ -3389,6 +3592,13 @@ window.SITE_DATA = {
         "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
       },
       {
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "url": "https://openai.com/index/circles",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-03T00:00:00.000Z",
+        "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+      },
+      {
         "title": "Sam Altman and AI’s decel debate",
         "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
         "source": "TechCrunch AI",
@@ -3403,34 +3613,6 @@ window.SITE_DATA = {
         "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew"
       },
       {
-        "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
-        "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-02T13:10:21.000Z",
-        "summary": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Worksp"
-      },
-      {
-        "title": "Is paying artists enough to convince them to embrace AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-02T13:00:00.000Z",
-        "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. Th"
-      },
-      {
-        "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
-        "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-02T12:57:38.000Z",
-        "summary": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent mainta"
-      },
-      {
-        "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
-        "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-02T12:42:49.000Z",
-        "summary": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging th"
-      },
-      {
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
         "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
         "source": "TechCrunch AI",
@@ -3438,53 +3620,11 @@ window.SITE_DATA = {
         "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
       },
       {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-01T19:45:45.000Z",
-        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for t"
-      },
-      {
-        "title": "Is this Billboard Hot 100 hit AI slop?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-01T18:20:00.000Z",
-        "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has "
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-01T17:07:34.000Z",
-        "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of h"
-      },
-      {
-        "title": "This $9 key physically locks your most addictive apps",
-        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-01T15:58:17.000Z",
-        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-      },
-      {
         "title": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "publishedAt": "2026-08-01T00:00:00.000Z",
         "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and comp"
-      },
-      {
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T22:47:26.000Z",
-        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-      },
-      {
-        "title": "India is starting to pay for apps, not just download them",
-        "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T21:07:45.000Z",
-        "summary": "India's app market generated a record $345 million in Q2."
       },
       {
         "title": "Claude published malicious code to the Internet and attacked 3 real companies",
@@ -3501,55 +3641,6 @@ window.SITE_DATA = {
         "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and aut"
       },
       {
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T19:47:28.000Z",
-        "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-      },
-      {
-        "title": "Google Earth’s AI deepfake tool only lasted one day",
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-31T19:13:29.000Z",
-        "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let "
-      },
-      {
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T17:26:32.000Z",
-        "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days afte"
-      },
-      {
-        "title": "Here’s the problem with putting an AI image generator in Google Earth",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-31T17:05:46.000Z",
-        "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like "
-      },
-      {
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T16:49:08.000Z",
-        "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance a"
-      },
-      {
-        "title": "The major labels propose rules to keep AI slop off the charts",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-31T16:36:48.000Z",
-        "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for"
-      },
-      {
-        "title": "Siri AI could come with a paywall for power users",
-        "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T16:08:18.000Z",
-        "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-      },
-      {
         "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
         "url": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
         "source": "AWS Machine Learning Blog",
@@ -3557,102 +3648,11 @@ window.SITE_DATA = {
         "summary": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon "
       },
       {
-        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-        "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T15:16:17.000Z",
-        "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-      },
-      {
         "title": "Advancing responsible AI across Europe",
         "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
         "source": "OpenAI News",
         "publishedAt": "2026-07-31T15:00:00.000Z",
         "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI "
-      },
-      {
-        "title": "Building abundant intelligence",
-        "url": "https://openai.com/index/building-abundant-intelligence",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-31T15:00:00.000Z",
-        "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
-      },
-      {
-        "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-        "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-07-31T14:47:11.000Z",
-        "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
-      },
-      {
-        "title": "It’s time to panic about AI safety",
-        "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-31T14:03:04.000Z",
-        "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exact"
-      },
-      {
-        "title": "Anthropic says Claude accidentally hacked real companies too",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-        "source": "The Verge AI",
-        "publishedAt": "2026-07-31T13:41:17.000Z",
-        "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without"
-      },
-      {
-        "title": "Univé builds an AI-ready workforce",
-        "url": "https://openai.com/index/unive",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-31T07:00:00.000Z",
-        "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work"
-      },
-      {
-        "title": "Disrupting a Criminal Scam Operation",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-31T00:00:00.000Z",
-        "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-      },
-      {
-        "title": "Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS",
-        "url": "https://platform.kimi.ai/docs/guide/kimi-k3-quickstart",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-30T17:22:32.000Z",
-        "summary": "This post walks through deploying Kimi K3 on AWS using two approaches: Amazon SageMaker HyperPod, and&nbsp; Amazon Elastic Kubernetes Service (Amazon EKS) clust"
-      },
-      {
-        "title": "How Yahoo enhances search retargeting using Amazon Bedrock",
-        "url": "https://www.yahooinc.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-30T16:40:36.000Z",
-        "summary": "In this post, we demonstrate how Yahoo implemented Amazon Bedrock to enhance their Search Retargeting (SRT) capabilities in the Yahoo DSP ad tech suite. SRT is "
-      },
-      {
-        "title": "Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick",
-        "url": "https://aws.amazon.com/sagemaker/ai/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-30T16:10:10.000Z",
-        "summary": "Learn how to build an inference meta-monitoring system for Amazon SageMaker AI endpoints using Amazon Quick. This governance layer sits above production ML infe"
-      },
-      {
-        "title": "Introducing explicit prompt caching for OpenAI GPT-5.6 models on Amazon Bedrock",
-        "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-30T16:02:32.000Z",
-        "summary": "OpenAI GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, along with explicit prompt caching that gives you precise control over which "
-      },
-      {
-        "title": "Migrate your prompts to new models and optimize them on Amazon Bedrock",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/advanced-prompt-optimization-how.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-30T15:58:32.000Z",
-        "summary": "Amazon Bedrock Advanced Prompt Optimization optimizes your prompts for up to 5 models at once and compares original versus optimized performance across quality,"
-      },
-      {
-        "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-07-30T15:09:09.000Z",
-        "summary": ""
       }
     ]
   }
