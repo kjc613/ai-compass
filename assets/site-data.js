@@ -3232,8 +3232,176 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-04T23:54:24.141Z",
+    "updatedAt": "2026-08-05T23:48:19.590Z",
     "items": [
+      {
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T21:21:28.000Z",
+        "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+      },
+      {
+        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T20:05:00.000Z",
+        "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+      },
+      {
+        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T19:30:19.000Z",
+        "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+      },
+      {
+        "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+        "url": "https://www.lendingtree.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-05T18:50:02.000Z",
+        "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, a"
+      },
+      {
+        "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T18:20:53.000Z",
+        "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves "
+      },
+      {
+        "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore",
+        "url": "https://www.mobileye.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-05T18:09:03.000Z",
+        "summary": "In this post, we'll explore how Mobileye deployed an AI support agentic solution on Amazon Bedrock AgentCore - from the support bottleneck that sparked the idea"
+      },
+      {
+        "title": "How we built an MCP bridge to give our AgentCore-hosted AI agent access to local MCP tools",
+        "url": "https://modelcontextprotocol.io/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-05T18:02:23.000Z",
+        "summary": "AI agents on Amazon Bedrock AgentCore run in the cloud, but users' tools and files live on their laptops. Learn how to build a secure MCP bridge that lets a clo"
+      },
+      {
+        "title": "Run production AI agents in n8n with Amazon Bedrock AgentCore harness",
+        "url": "https://n8n.io/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-05T18:00:57.000Z",
+        "summary": "Amazon Bedrock AgentCore harness is now generally available. Learn how to add it as an agent step in n8n workflows using a new open-source community node, and b"
+      },
+      {
+        "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+        "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T17:59:38.000Z",
+        "summary": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, wat"
+      },
+      {
+        "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size",
+        "url": "https://the-decoder.com/mistrals-open-model-shieldstral-matches-much-larger-safety-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T16:35:07.000Z",
+        "summary": "Mistral's new 3B Shieldstral model checks AI inputs and outputs for safety violations using natural language yes-or-no questions instead of fixed categories. It"
+      },
+      {
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T15:56:14.000Z",
+        "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year"
+      },
+      {
+        "title": "Hark previews its browser use agent for completing tasks",
+        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T15:46:27.000Z",
+        "summary": "Hark claims that its browser use agent is faster and cheaper than competition."
+      },
+      {
+        "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+        "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T15:42:52.000Z",
+        "summary": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields "
+      },
+      {
+        "title": "Rogue AI agents created fake online identities in another hacking attempt",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-05T15:14:57.000Z",
+        "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing "
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T15:05:00.000Z",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the"
+      },
+      {
+        "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+        "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T14:15:50.000Z",
+        "summary": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over"
+      },
+      {
+        "title": "Anthropic is hiring an AI chip design team",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T14:13:18.000Z",
+        "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run fast"
+      },
+      {
+        "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
+        "url": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T13:06:48.000Z",
+        "summary": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 langu"
+      },
+      {
+        "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T12:28:38.000Z",
+        "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
+      },
+      {
+        "title": "Google Assistant will disappear from your phone next month",
+        "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-05T11:12:50.000Z",
+        "summary": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access "
+      },
+      {
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-05T11:00:00.000Z",
+        "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
+      },
+      {
+        "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T10:31:42.000Z",
+        "summary": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It"
+      },
+      {
+        "title": "Trump’s AI testing plan is limited and vague",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-05T10:29:47.000Z",
+        "summary": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios r"
+      },
+      {
+        "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+        "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-05T10:15:49.000Z",
+        "summary": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to s"
+      },
       {
         "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
         "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
@@ -3242,7 +3410,7 @@ window.SITE_DATA = {
         "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
       },
       {
-        "title": "AMD’s datacenter business is booming while gaming takes a backseat",
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
         "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
         "source": "The Verge AI",
         "publishedAt": "2026-08-04T20:57:49.000Z",
@@ -3354,13 +3522,6 @@ window.SITE_DATA = {
         "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on"
       },
       {
-        "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
-        "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-04T15:21:14.000Z",
-        "summary": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old. The article Anthropic l"
-      },
-      {
         "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
         "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
         "source": "TechCrunch AI",
@@ -3396,14 +3557,7 @@ window.SITE_DATA = {
         "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
       },
       {
-        "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
-        "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-04T12:23:43.000Z",
-        "summary": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushe"
-      },
-      {
-        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "title": "The Download: US robot restrictions and ICE’s DNA grab",
         "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-04T12:14:00.000Z",
@@ -3424,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post"
       },
       {
-        "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
-        "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-04T10:22:53.000Z",
-        "summary": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show "
-      },
-      {
         "title": "Can Reddit fend off a new wave of AI SEO spam?",
         "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
         "source": "The Verge AI",
@@ -3445,46 +3592,11 @@ window.SITE_DATA = {
         "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
       },
       {
-        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T23:19:50.000Z",
-        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterpri"
-      },
-      {
         "title": "Apple is getting this wrong",
         "url": "https://openai.com/index/apple-is-getting-this-wrong",
         "source": "OpenAI News",
         "publishedAt": "2026-08-03T22:00:00.000Z",
         "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-      },
-      {
-        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T20:00:00.000Z",
-        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
-      },
-      {
-        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T19:28:57.000Z",
-        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs."
-      },
-      {
-        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T19:09:56.000Z",
-        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
-      },
-      {
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T18:43:43.000Z",
-        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assist"
       },
       {
         "title": "Trump’s AI protectionism has come for robotics",
@@ -3494,32 +3606,11 @@ window.SITE_DATA = {
         "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usuall"
       },
       {
-        "title": "Europe’s AI labeling and transparency rules are now in effect",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-03T17:38:45.000Z",
-        "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency"
-      },
-      {
         "title": "From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations",
         "url": "https://aws.amazon.com/glue/",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-08-03T17:24:15.000Z",
         "summary": "Formula 1® partnered with AWS to build the Data Accelerator, using agentic AI on Amazon Bedrock AgentCore to transform its MarTech data platform. Learn how F1 c"
-      },
-      {
-        "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
-        "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T17:12:23.000Z",
-        "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job"
-      },
-      {
-        "title": "Congress’ favorite AI tool? ChatGPT",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T16:40:55.000Z",
-        "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize "
       },
       {
         "title": "Automated Reasoning policy refinement in Amazon Bedrock",
@@ -3529,53 +3620,11 @@ window.SITE_DATA = {
         "summary": "Amazon Bedrock now supports automatic Automated Reasoning policy refinement. The refinement engine diagnoses failing tests and proposes formal-logic fixes for r"
       },
       {
-        "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
-        "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T15:47:08.000Z",
-        "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rar"
-      },
-      {
-        "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
-        "url": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T15:00:28.000Z",
-        "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484"
-      },
-      {
         "title": "Inside our 353,000-person vibe coding course",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
         "source": "Google AI Blog",
         "publishedAt": "2026-08-03T15:00:00.000Z",
         "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
-      },
-      {
-        "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
-        "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T13:52:29.000Z",
-        "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time. The article China's MiniMax H3 is the first ope"
-      },
-      {
-        "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
-        "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-03T12:07:31.000Z",
-        "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene. The article "
-      },
-      {
-        "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-03T11:01:11.000Z",
-        "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US fron"
-      },
-      {
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-03T10:00:00.000Z",
-        "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
       },
       {
         "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -3599,60 +3648,11 @@ window.SITE_DATA = {
         "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
       },
       {
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-02T20:54:22.000Z",
-        "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\""
-      },
-      {
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-02T19:36:08.000Z",
-        "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew"
-      },
-      {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-01T20:26:04.000Z",
-        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
-      },
-      {
         "title": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "publishedAt": "2026-08-01T00:00:00.000Z",
         "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and comp"
-      },
-      {
-        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "source": "Ars Technica",
-        "publishedAt": "2026-07-31T20:39:14.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Announcing the Agentic Catalog Experience in Amazon Quick",
-        "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-31T19:53:04.000Z",
-        "summary": "Amazon Quick introduces the Agentic Catalog Experience, an AI-powered workflow for data curators to discover upstream catalog assets in natural language and aut"
-      },
-      {
-        "title": "Optimizing production agents with Amazon Bedrock AgentCore Observability",
-        "url": "https://aws.amazon.com/blogs/machine-learning/debugging-production-agents-with-amazon-bedrock-agentcore-observability/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-07-31T15:33:11.000Z",
-        "summary": "As your AI agents move from prototype to production, the challenge shifts from getting them to work to keeping them fast and efficient. Learn how to use Amazon "
-      },
-      {
-        "title": "Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "source": "OpenAI News",
-        "publishedAt": "2026-07-31T15:00:00.000Z",
-        "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI "
       }
     ]
   }
