@@ -1,12 +1,89 @@
 {
-  "updatedAt": "2026-08-07T23:24:26.626Z",
+  "updatedAt": "2026-08-08T23:17:50.392Z",
   "items": [
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T21:24:02.000Z",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th"
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-08T19:41:13.000Z",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-08T17:53:34.000Z",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of green"
+    },
+    {
+      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+      "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T14:58:57.000Z",
+      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier"
+    },
+    {
+      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
+      "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T14:18:55.000Z",
+      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chanc"
+    },
+    {
+      "title": "Claude Code sessions can now talk to each other and share context across terminals",
+      "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T12:28:36.000Z",
+      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's"
+    },
+    {
+      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T11:26:35.000Z",
+      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and exper"
+    },
+    {
+      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
+      "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T11:08:48.000Z",
+      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenario"
+    },
+    {
+      "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
+      "url": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T09:44:06.000Z",
+      "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, t"
+    },
+    {
+      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+      "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T08:22:39.000Z",
+      "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New edit"
+    },
+    {
+      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-08T07:21:06.000Z",
+      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its ow"
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-07T22:48:24.000Z",
-      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess."
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyb"
     },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
@@ -21,13 +98,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-07T20:01:51.000Z",
       "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the produ"
-    },
-    {
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
-      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T19:41:06.000Z",
-      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its ow"
     },
     {
       "title": "Watching Roku’s AI channel is like eating from a trough",
@@ -65,25 +135,11 @@
       "summary": ""
     },
     {
-      "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
-      "url": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T17:35:45.000Z",
-      "summary": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and "
-    },
-    {
       "title": "What’s behind the Google AI shake-up",
       "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
       "source": "The Verge AI",
       "publishedAt": "2026-08-07T16:45:14.000Z",
       "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Goog"
-    },
-    {
-      "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
-      "url": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T16:43:16.000Z",
-      "summary": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to"
     },
     {
       "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
@@ -142,20 +198,6 @@
       "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new governmen"
     },
     {
-      "title": "China's Largest AI Model Is Being Developed at Bytedance",
-      "url": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T12:54:17.000Z",
-      "summary": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, curre"
-    },
-    {
-      "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
-      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T12:50:56.000Z",
-      "summary": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative desi"
-    },
-    {
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "TechCrunch AI",
@@ -163,32 +205,11 @@
       "summary": "Meta's total fine has racked up to $942 million in this case."
     },
     {
-      "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
-      "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T09:22:26.000Z",
-      "summary": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and event"
-    },
-    {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "url": "https://openai.com/index/hsp-gruppe",
       "source": "OpenAI News",
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-    },
-    {
-      "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
-      "url": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T08:54:45.000Z",
-      "summary": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions."
-    },
-    {
-      "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
-      "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T08:29:27.000Z",
-      "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimi"
     },
     {
       "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -261,13 +282,6 @@
       "summary": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex Ope"
     },
     {
-      "title": "Enforcing data residency with single-Region Claude Code on Amazon Bedrock",
-      "url": "https://aws.amazon.com/iam/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:21:54.000Z",
-      "summary": "A regulated customer needed all Claude Code inference processed in a single AWS Region (London), not just in-geography. This post shows two ways to pin Claude C"
-    },
-    {
       "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
       "url": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/",
       "source": "AWS Machine Learning Blog",
@@ -329,13 +343,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-06T13:31:57.000Z",
       "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-    },
-    {
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T13:26:42.000Z",
-      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its larg"
     },
     {
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
@@ -406,13 +413,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-05T20:05:00.000Z",
       "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T19:30:19.000Z",
-      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
     },
     {
       "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
