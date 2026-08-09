@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-08-08T23:17:50.392Z",
+  "updatedAt": "2026-08-09T23:20:08.276Z",
   "items": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T20:35:17.000Z",
+      "summary": "The AI-focused hedge fund is still making some big bets."
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T19:20:32.000Z",
+      "summary": "Programming with Claude Code will soon require even less human oversight."
+    },
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-09T14:30:00.000Z",
+      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry stand"
+    },
+    {
+      "title": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
+      "url": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T13:00:59.000Z",
+      "summary": "AI-powered cheating is spreading at US community colleges. According to The New Yorker, scammers enroll fake students in courses, use AI to complete their assig"
+    },
+    {
+      "title": "Google Deepmind's WeatherNext predicts cyclone tracks and intensity at the same time",
+      "url": "https://the-decoder.com/google-deepminds-weathernext-predicts-cyclone-tracks-and-intensity-at-the-same-time/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T12:29:06.000Z",
+      "summary": "Deepmind's new weather AI forecasts tropical cyclones about a day further ahead than leading operational models, matching a decade of progress in traditional we"
+    },
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-09T12:00:00.000Z",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow "
+    },
+    {
+      "title": "AI is flooding Britain's employment courts with lawsuits",
+      "url": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T10:26:43.000Z",
+      "summary": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,00"
+    },
+    {
+      "title": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+      "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T10:01:26.000Z",
+      "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training bud"
+    },
+    {
+      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+      "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T09:26:28.000Z",
+      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawa"
+    },
+    {
+      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-09T08:56:12.000Z",
+      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take"
+    },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -51,34 +128,6 @@
       "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and exper"
     },
     {
-      "title": "Fields Medalist who published a paper on AI-driven human extinction now works for OpenAI",
-      "url": "https://the-decoder.com/fields-medalist-who-published-a-paper-on-ai-driven-human-extinction-now-works-for-openai/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T11:08:48.000Z",
-      "summary": "Newly awarded Fields Medalist Jacob Tsimerman is leaving the University of Toronto to join OpenAI and work on AI safety. In a recent paper, he analyzes scenario"
-    },
-    {
-      "title": "AI agents use roughly 600 times more energy than a simple chat prompt",
-      "url": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T09:44:06.000Z",
-      "summary": "Climate scientist Zeke Hausfather tracked his Claude Code usage over eight weeks: 3.2 billion tokens and about 170 kWh of data center electricity. Per prompt, t"
-    },
-    {
-      "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
-      "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T08:22:39.000Z",
-      "summary": "xAI has released Imagine Image 2.0 as a new image generator for Grok. The model ranks second in the Arena benchmarks, just behind OpenAI's GPT-Image-2. New edit"
-    },
-    {
-      "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
-      "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T07:21:06.000Z",
-      "summary": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its ow"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch AI",
@@ -112,20 +161,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-07T18:40:34.000Z",
       "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putt"
-    },
-    {
-      "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
-      "url": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T18:35:42.000Z",
-      "summary": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. Th"
-    },
-    {
-      "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
-      "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-07T18:01:32.000Z",
-      "summary": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a sin"
     },
     {
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
@@ -331,13 +366,6 @@
       "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government "
     },
     {
-      "title": "The left and right agree on one thing: no data centers",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers. Gaby recently reported a fantas"
-    },
-    {
       "title": "Amid legal battles, Suno says it will start watermarking songs",
       "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
       "source": "TechCrunch AI",
@@ -357,20 +385,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-06T13:00:00.000Z",
       "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed"
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:30:00.000Z",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users c"
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
@@ -399,20 +413,6 @@
       "source": "Hugging Face Blog",
       "publishedAt": "2026-08-06T00:00:00.000Z",
       "summary": ""
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T21:21:28.000Z",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
-    },
-    {
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-05T20:05:00.000Z",
-      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
     },
     {
       "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
