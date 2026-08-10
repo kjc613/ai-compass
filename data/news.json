@@ -1,6 +1,216 @@
 {
-  "updatedAt": "2026-08-09T23:20:08.276Z",
+  "updatedAt": "2026-08-10T23:25:05.717Z",
   "items": [
+    {
+      "title": "Mark Zuckerberg doesn’t understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T22:00:00.000Z",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, "
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:53:02.000Z",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:04:24.000Z",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+    },
+    {
+      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+      "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T18:20:39.000Z",
+      "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits"
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T18:01:30.000Z",
+      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blo"
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+    },
+    {
+      "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+      "url": "https://aws.amazon.com/eks/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-10T16:34:37.000Z",
+      "summary": "The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This pos"
+    },
+    {
+      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
+      "url": "https://nops.io/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-10T16:30:46.000Z",
+      "summary": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time"
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-10T16:25:36.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T16:20:13.000Z",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI use"
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T15:19:05.000Z",
+      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay s"
+    },
+    {
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth t"
+    },
+    {
+      "title": "What happens to Bose when headphones become AI?",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company s"
+    },
+    {
+      "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction",
+      "url": "https://the-decoder.com/meta-returns-to-open-models-with-zuckerbergs-plan-to-out-copy-china-and-sell-compute-by-auction/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T13:50:19.000Z",
+      "summary": "Meta has released Muse Glimmer, the first open model from its new Superintelligence Labs. It's a 30B agent model that runs on consumer hardware once the weights"
+    },
+    {
+      "title": "Told to book a gym class, an AI agent hacked the site instead to move its user up the waitlist",
+      "url": "https://the-decoder.com/told-to-book-a-gym-class-an-ai-agent-hacked-the-site-instead-to-move-its-user-up-the-waitlist/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T13:21:49.000Z",
+      "summary": "An Australian user just wanted a spot in a class. His AI agent found a security hole instead and exploited it. The article Told to book a gym class, an AI agent"
+    },
+    {
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs r"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
+    },
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
+    },
+    {
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T11:00:00.000Z",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next roa"
+    },
+    {
+      "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
+      "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T10:08:14.000Z",
+      "summary": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations. The article OpenAI acquires NextSlide to"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-10T10:05:36.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security"
+    },
+    {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+    },
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/tag/whats-next-in-tech/?",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-10T09:00:00.000Z",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of th"
+    },
+    {
+      "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
+      "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-10T08:46:36.000Z",
+      "summary": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluen"
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+    },
+    {
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+    },
+    {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "summary": ""
+    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -65,32 +275,18 @@
       "summary": "Instead of training a new model from scratch, Google DeepMind retrofitted Gemma 4 into a diffusion model using less than 10 percent of the original training bud"
     },
     {
-      "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
-      "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-09T09:26:28.000Z",
-      "summary": "The AI industry's hunger for power keeps growing. Nvidia is investing up to $3 billion in Lancium, a power infrastructure developer that already has four gigawa"
-    },
-    {
-      "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
-      "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-09T08:56:12.000Z",
-      "summary": "Google Deepmind is losing its autonomy, and founder Demis Hassabis may leave the AI lab for good in the coming months. AI researcher Koray Kavukcuoglu will take"
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-08T21:24:02.000Z",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in th"
+      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged t"
     },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-08T19:41:13.000Z",
-      "summary": "NextSlide says its team members are now working on ChatGPT."
+      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”"
     },
     {
       "title": "An Amazon data center could have the worst polluting power plant in the country",
@@ -98,34 +294,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-08-08T17:53:34.000Z",
       "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of green"
-    },
-    {
-      "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
-      "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T14:58:57.000Z",
-      "summary": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier"
-    },
-    {
-      "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
-      "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T14:18:55.000Z",
-      "summary": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chanc"
-    },
-    {
-      "title": "Claude Code sessions can now talk to each other and share context across terminals",
-      "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T12:28:36.000Z",
-      "summary": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's"
-    },
-    {
-      "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
-      "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-08T11:26:35.000Z",
-      "summary": "Backflip AI has released an AI model that converts 3D scans into fully editable, parametric CAD models, a process that normally takes significant time and exper"
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -219,13 +387,6 @@
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
     },
     {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-07T14:20:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast ce"
-    },
-    {
       "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
       "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
       "source": "TechCrunch AI",
@@ -254,172 +415,11 @@
       "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
     },
     {
-      "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T20:55:39.000Z",
-      "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shape"
-    },
-    {
       "title": "Securing AI agents with temporal policies in Amazon Bedrock AgentCore",
       "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-temporal.html",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-08-06T18:57:55.000Z",
       "summary": "Temporal policies in Amazon Bedrock AgentCore let you define stateful rules that evaluate authorization based on an agent's session history. Learn how to enforc"
-    },
-    {
-      "title": "Configure rate limits for AI traffic on AgentCore gateway",
-      "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T17:50:42.000Z",
-      "summary": "Learn how to configure rate limits on Amazon Bedrock AgentCore gateway to enforce per-user and per-target traffic controls. Define request, token, and connectio"
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T17:39:43.000Z",
-      "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a leng"
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:34:42.000Z",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T17:00:37.000Z",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T17:00:00.000Z",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats wit"
-    },
-    {
-      "title": "Control agent behaviors and cost beyond a single action: new capabilities in Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/bedrock/agentcore/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:43:19.000Z",
-      "summary": "Learn about new capabilities in Amazon Bedrock AgentCore: temporal policies powered by Dogwood, a new open source policy language for AI agents, and rate limiti"
-    },
-    {
-      "title": "Build visibility for Codex on Amazon Bedrock with OpenTelemetry and Amazon CloudWatch",
-      "url": "https://github.com/openai-on-aws/guidance-codex",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:30:47.000Z",
-      "summary": "As engineering teams adopt coding agents like Codex, leaders need visibility into adoption, consumption, and reliability. This post shows how to route Codex Ope"
-    },
-    {
-      "title": "Agent Skills for Automated Reasoning policies in Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/minimize-generative-ai-hallucinations-with-amazon-bedrock-automated-reasoning-checks/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:12:24.000Z",
-      "summary": "Learn how to run the full Amazon Bedrock Automated Reasoning policy lifecycle from your coding agent. A suite of open source Agent Skills builds, reviews, tests"
-    },
-    {
-      "title": "Building an agentic app deployer with Amazon Bedrock and AWS Lambda",
-      "url": "https://pditechnologies.com/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:11:13.000Z",
-      "summary": "PDI Technologies built PDI Brew, an agentic platform on AWS where non-technical employees describe a tool in plain English and receive a fully provisioned, mult"
-    },
-    {
-      "title": "LLM optimization integration for Amazon SageMaker Python SDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-06T16:08:12.000Z",
-      "summary": "The Amazon SageMaker Python SDK v3 now exposes generative AI inference recommendations in Amazon SageMaker AI directly in your notebook. Benchmark an endpoint, "
-    },
-    {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:53:03.000Z",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
-    },
-    {
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including "
-    },
-    {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "Google DeepMind Blog",
-      "publishedAt": "2026-08-06T15:06:15.000Z",
-      "summary": ""
-    },
-    {
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-06T14:30:00.000Z",
-      "summary": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government "
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:31:57.000Z",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time."
-    },
-    {
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna"
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-06T06:00:00.000Z",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
-    },
-    {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
-      "url": "https://www.lendingtree.com/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-05T18:50:02.000Z",
-      "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, a"
     }
   ]
 }
