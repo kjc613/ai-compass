@@ -1,6 +1,265 @@
 {
-  "updatedAt": "2026-08-11T23:29:12.310Z",
+  "updatedAt": "2026-08-12T23:29:20.332Z",
   "items": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T22:26:37.000Z",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T20:10:40.000Z",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+    },
+    {
+      "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+      "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T18:33:21.000Z",
+      "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, "
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T18:19:12.000Z",
+      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T17:51:00.000Z",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America ca"
+    },
+    {
+      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-12T17:45:20.000Z",
+      "summary": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM prin"
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T17:41:29.000Z",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
+    },
+    {
+      "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
+      "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T17:32:59.000Z",
+      "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect a"
+    },
+    {
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T17:29:10.000Z",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stre"
+    },
+    {
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T16:57:58.000Z",
+      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.deloitte.com/uk/en/issues/generative-ai/state-of-ai-in-enterprise.html",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-08-12T16:51:57.000Z",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the "
+    },
+    {
+      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T16:46:02.000Z",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising "
+    },
+    {
+      "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
+      "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T16:24:32.000Z",
+      "summary": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of"
+    },
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-12T16:14:36.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T16:04:27.000Z",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
+    },
+    {
+      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T15:52:07.000Z",
+      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For"
+    },
+    {
+      "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+      "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T15:50:04.000Z",
+      "summary": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 per"
+    },
+    {
+      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T15:44:56.000Z",
+      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal ca"
+    },
+    {
+      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T14:22:00.000Z",
+      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising "
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T14:20:33.000Z",
+      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+    },
+    {
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind Blog",
+      "publishedAt": "2026-08-12T14:01:59.000Z",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-12T14:00:51.000Z",
+      "summary": ""
+    },
+    {
+      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T14:00:00.000Z",
+      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition."
+    },
+    {
+      "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+      "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T13:51:18.000Z",
+      "summary": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry. The articl"
+    },
+    {
+      "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
+      "url": "https://aws.amazon.com/sagemaker/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-12T13:46:28.000Z",
+      "summary": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMake"
+    },
+    {
+      "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-12T13:44:58.000Z",
+      "summary": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave"
+    },
+    {
+      "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
+      "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-hyperpod.html",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-12T13:42:48.000Z",
+      "summary": "Running large language model inference at scale forces a KV cache trade-off: oversized GPU instances or slow time-to-first-token. This post builds a tiered KV c"
+    },
+    {
+      "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+      "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T12:37:58.000Z",
+      "summary": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models. The article Nvidia's Nemotron 4 aims for on"
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T12:09:34.000Z",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?"
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T11:58:54.000Z",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share"
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://the-decoder.com/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T11:53:31.000Z",
+      "summary": "OpenAI brings its ChatGPT desktop app to Linux. The article OpenAI launches ChatGPT desktop app for Linux appeared first on The Decoder ."
+    },
+    {
+      "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-12T11:00:00.000Z",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
+    },
+    {
+      "title": "Microsoft's new MAI Code 1.1 Flash gets crushed by Deepseek on both price and performance",
+      "url": "https://the-decoder.com/microsofts-new-mai-code-1-1-flash-gets-crushed-by-deepseek-on-both-price-and-performance/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T10:18:46.000Z",
+      "summary": "Microsoft has released MAI Code 1.1 Flash, a code model for GitHub Copilot that's said to be 25 percent more token-efficient at a quarter of the cost of its pre"
+    },
+    {
+      "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
+      "url": "https://the-decoder.com/mistral-now-offers-eu-data-processing-and-priority-access-but-both-come-with-important-limits/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-12T09:59:27.000Z",
+      "summary": "Mistral is giving customers the option to route AI requests through servers in either Europe or the US, and selling priority queue access during peak traffic. B"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-12T00:39:26.000Z",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
+    },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -65,13 +324,6 @@
       "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate."
     },
     {
-      "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
-      "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T17:38:49.000Z",
-      "summary": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between "
-    },
-    {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "source": "Google AI Blog",
@@ -83,7 +335,7 @@
       "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "source": "The Verge AI",
       "publishedAt": "2026-08-11T17:00:00.000Z",
-      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come"
+      "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, wi"
     },
     {
       "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
@@ -128,20 +380,6 @@
       "summary": "Claude apps gateway is a self-hosted governance layer between Claude Code and Claude Desktop and Amazon Bedrock or Claude Platform on AWS. This post presents a "
     },
     {
-      "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
-      "url": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T15:07:44.000Z",
-      "summary": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index de"
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-11T14:45:44.000Z",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers "
-    },
-    {
       "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "source": "Hugging Face Blog",
@@ -149,39 +387,11 @@
       "summary": ""
     },
     {
-      "title": "Why your Amazon order confirmation emails have become so unhelpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-11T13:27:20.000Z",
-      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific it"
-    },
-    {
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-08-11T13:00:00.000Z",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, "
-    },
-    {
-      "title": "Spotify says it won’t recommend music from ‘AI Personas’",
-      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-11T13:00:00.000Z",
-      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see"
-    },
-    {
-      "title": "Anthropic's planned mega-IPO faces investor skepticism over Chinese rivals and political headwinds",
-      "url": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T12:49:15.000Z",
-      "summary": "Anthropic is preparing an IPO for September or October, according to the Wall Street Journal, potentially the largest ever. During investor meetings, the compan"
-    },
-    {
-      "title": "Claude will apply invisible watermarks to AI text and images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-11T12:22:20.000Z",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparen"
     },
     {
       "title": "Anthropic says it will watermark text generated by its AI models",
@@ -198,27 +408,6 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are cha"
     },
     {
-      "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
-      "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T11:51:01.000Z",
-      "summary": "OpenAI is rolling out \"Premium Seats\" for ChatGPT Business customers at $125 per user per month, five times the price of the existing Standard Seats. In return,"
-    },
-    {
-      "title": "Anthropic signs $9.1 billion data center deal with Bitcoin miner Riot Platforms",
-      "url": "https://the-decoder.com/anthropic-signs-9-1-billion-data-center-deal-with-bitcoin-miner-riot-platforms/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T11:33:00.000Z",
-      "summary": "Anthropic is leasing $9.1 billion worth of data center capacity from Bitcoin miner Riot Platforms in Texas, according to Bloomberg. The deal covers 191 megawatt"
-    },
-    {
-      "title": "The AI takeover of mathematics has begun",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-11T11:00:00.000Z",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Field"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "source": "OpenAI News",
@@ -231,195 +420,6 @@
       "source": "OpenAI News",
       "publishedAt": "2026-08-11T10:00:00.000Z",
       "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
-    },
-    {
-      "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing",
-      "url": "https://the-decoder.com/nvidia-guarantees-its-own-chips-value-to-unlock-500-billion-in-ai-infrastructure-financing/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T09:41:03.000Z",
-      "summary": "Nvidia is teaming up with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to mobilize over $500 billion for AI infrastructure. To win over inv"
-    },
-    {
-      "title": "Anthropic watermarks all Claude outputs globally with marks that \"may persist through some editing\"",
-      "url": "https://the-decoder.com/anthropic-watermarks-all-claude-outputs-globally-with-marks-that-may-persist-through-some-editing/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-11T08:45:06.000Z",
-      "summary": "Anthropic will embed invisible watermarks in all Claude-generated text and sign files using the C2PA standard. New models shipping from August 2026 onward will "
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-11T00:03:18.000Z",
-      "summary": "San Francisco's housing market is in trouble again."
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T23:56:15.000Z",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
-    },
-    {
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-10T22:00:00.000Z",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, "
-    },
-    {
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T20:53:02.000Z",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta"
-    },
-    {
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T20:04:24.000Z",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
-    },
-    {
-      "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
-      "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-10T18:20:39.000Z",
-      "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits"
-    },
-    {
-      "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
-      "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-10T18:01:30.000Z",
-      "summary": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blo"
-    },
-    {
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T17:00:00.000Z",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-    },
-    {
-      "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
-      "url": "https://aws.amazon.com/eks/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-10T16:34:37.000Z",
-      "summary": "The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This pos"
-    },
-    {
-      "title": "How nOps shipped FinOps agents 75% faster with Amazon Bedrock AgentCore",
-      "url": "https://nops.io/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-10T16:30:46.000Z",
-      "summary": "nOps rebuilt its Clara FinOps AI agent on Amazon Bedrock AgentCore, replacing a self-managed Amazon EKS stack running LangChain and LangGraph. The move cut time"
-    },
-    {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-10T16:25:36.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T16:20:13.000Z",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI use"
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "source": "Google AI Blog",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-    },
-    {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T14:00:00.000Z",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth t"
-    },
-    {
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-10T12:00:00.000Z",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
-    },
-    {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-10T10:05:36.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security"
-    },
-    {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T10:00:00.000Z",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
-    },
-    {
-      "title": "These startups are chasing the next big thing in LLMs",
-      "url": "https://www.technologyreview.com/tag/whats-next-in-tech/?",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of th"
-    },
-    {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
-    },
-    {
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-    },
-    {
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-    },
-    {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-09T20:35:17.000Z",
-      "summary": "The AI-focused hedge fund is still making some big bets."
     }
   ]
 }
