@@ -3232,8 +3232,134 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-13T23:30:47.509Z",
+    "updatedAt": "2026-08-14T23:11:53.565Z",
     "items": [
+      {
+        "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+        "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T21:29:17.000Z",
+        "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID "
+      },
+      {
+        "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
+        "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T17:01:54.000Z",
+        "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outpe"
+      },
+      {
+        "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+        "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T16:43:43.000Z",
+        "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is store"
+      },
+      {
+        "title": "Google will now allow users to remove visible watermark from its AI generations",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-14T16:13:40.000Z",
+        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
+      },
+      {
+        "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+        "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T16:06:32.000Z",
+        "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The origin"
+      },
+      {
+        "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+        "url": "https://aws.amazon.com/nova/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-14T16:02:10.000Z",
+        "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn r"
+      },
+      {
+        "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
+        "url": "https://strandsagents.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-14T15:58:44.000Z",
+        "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each special"
+      },
+      {
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-14T15:43:28.000Z",
+        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerf"
+      },
+      {
+        "title": "Kog is going deeper to squeeze more inference out of GPUs",
+        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-14T14:50:11.000Z",
+        "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+      },
+      {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-08-14T14:27:14.000Z",
+        "summary": ""
+      },
+      {
+        "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+        "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T14:21:50.000Z",
+        "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $"
+      },
+      {
+        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-14T14:05:00.000Z",
+        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+      },
+      {
+        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-14T14:00:00.000Z",
+        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerf"
+      },
+      {
+        "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+        "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T11:44:38.000Z",
+        "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI"
+      },
+      {
+        "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+        "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-14T10:21:34.000Z",
+        "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over"
+      },
+      {
+        "title": "Apple trained its own AI model for China with help from Alibaba",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-14T09:21:17.000Z",
+        "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across grow"
+      },
+      {
+        "title": "Job titles of the future: Space travel agent",
+        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-14T09:00:00.000Z",
+        "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated e"
+      },
+      {
+        "title": "State of Open Models: Summer 2026 Observations",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-14T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
         "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -3347,13 +3473,6 @@ window.SITE_DATA = {
         "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor w"
       },
       {
-        "title": "Automate legacy web applications with Amazon Bedrock AgentCore Browser Tool",
-        "url": "https://strandsagents.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-13T15:56:07.000Z",
-        "summary": "Learn how to automate legacy web applications that need human-like interaction using Amazon Bedrock AgentCore Browser Tool and Strands Agents. This walkthrough "
-      },
-      {
         "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
         "url": "https://aws.amazon.com/quicksight/",
         "source": "AWS Machine Learning Blog",
@@ -3389,13 +3508,6 @@ window.SITE_DATA = {
         "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
       },
       {
-        "title": "Ling 3.0 Flash is the smartest open model at its size",
-        "url": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T15:03:04.000Z",
-        "summary": "Ling 3.0 Flash is the smartest open model in its size class. The article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder ."
-      },
-      {
         "title": "Apple in talks to pay publishers to provide Siri with current news: report",
         "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
         "source": "TechCrunch AI",
@@ -3422,27 +3534,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-08-13T11:00:00.000Z",
         "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-      },
-      {
-        "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
-        "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T10:46:20.000Z",
-        "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts fo"
-      },
-      {
-        "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
-        "url": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T10:42:05.000Z",
-        "summary": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a n"
-      },
-      {
-        "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
-        "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T10:15:29.000Z",
-        "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. The article Anthropic brings Claude Cowork to its Chrome extension, adding sk"
       },
       {
         "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -3487,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
       },
       {
-        "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
-        "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-12T18:33:21.000Z",
-        "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, "
-      },
-      {
         "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
         "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
         "source": "TechCrunch AI",
@@ -3522,13 +3606,6 @@ window.SITE_DATA = {
         "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
       },
       {
-        "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
-        "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-12T17:32:59.000Z",
-        "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect a"
-      },
-      {
         "title": "Twitch streamers can now opt out from training Amazon’s AI",
         "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
         "source": "The Verge AI",
@@ -3543,27 +3620,6 @@ window.SITE_DATA = {
         "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
       },
       {
-        "title": "Scaling AI agents with trustworthy data",
-        "url": "https://www.deloitte.com/uk/en/issues/generative-ai/state-of-ai-in-enterprise.html",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-12T16:51:57.000Z",
-        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the "
-      },
-      {
-        "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T16:46:02.000Z",
-        "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising "
-      },
-      {
-        "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
-        "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-12T16:24:32.000Z",
-        "summary": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of"
-      },
-      {
         "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
         "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
         "source": "Hugging Face Blog",
@@ -3571,39 +3627,11 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-        "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T16:04:27.000Z",
-        "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
-      },
-      {
         "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
         "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
         "source": "The Verge AI",
         "publishedAt": "2026-08-12T15:52:07.000Z",
         "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For"
-      },
-      {
-        "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-        "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T15:44:56.000Z",
-        "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal ca"
-      },
-      {
-        "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-        "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T14:22:00.000Z",
-        "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising "
-      },
-      {
-        "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T14:20:33.000Z",
-        "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
       },
       {
         "title": "Putting sign language AI into users’ hands",
@@ -3625,34 +3653,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-08-12T14:00:00.000Z",
         "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition."
-      },
-      {
-        "title": "How OneAdvanced deployed over 50 AI agents on UK-sovereign AWS",
-        "url": "https://aws.amazon.com/sagemaker/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-12T13:46:28.000Z",
-        "summary": "Learn how OneAdvanced, a UK enterprise software provider, built a UK-sovereign AI platform by self-hosting Llama 4 Maverick and Llama Guard 4 on Amazon SageMake"
-      },
-      {
-        "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
-        "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-12T13:44:58.000Z",
-        "summary": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave"
-      },
-      {
-        "title": "Tiered KV cache for large LLMs on Amazon SageMaker HyperPod with Curvine",
-        "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-hyperpod.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-12T13:42:48.000Z",
-        "summary": "Running large language model inference at scale forces a KV cache trade-off: oversized GPU instances or slow time-to-first-token. This post builds a tiered KV c"
-      },
-      {
-        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-12T12:09:34.000Z",
-        "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog?"
       }
     ]
   }
