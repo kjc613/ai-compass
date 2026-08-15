@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-14T23:11:53.565Z",
+    "updatedAt": "2026-08-15T23:10:39.937Z",
     "items": [
+      {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-15T21:29:19.000Z",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+      },
+      {
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-15T20:45:00.000Z",
+        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an "
+      },
+      {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-15T18:58:39.000Z",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+      },
+      {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-15T16:30:00.000Z",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX."
+      },
+      {
+        "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+        "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T15:41:02.000Z",
+        "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back "
+      },
+      {
+        "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T11:00:50.000Z",
+        "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropp"
+      },
+      {
+        "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
+        "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T08:00:45.000Z",
+        "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potenti"
+      },
+      {
+        "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+        "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T07:30:48.000Z",
+        "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From "
+      },
+      {
+        "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
+        "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T06:00:52.000Z",
+        "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collect"
+      },
+      {
+        "title": "New benchmark confirms AI models still perform poorly at visual perception",
+        "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-15T05:30:18.000Z",
+        "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accu"
+      },
       {
         "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
         "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
@@ -3249,11 +3319,25 @@ window.SITE_DATA = {
         "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outpe"
       },
       {
+        "title": "Mark Zuckerberg has an Instagzam",
+        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-14T16:54:16.000Z",
+        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look lik"
+      },
+      {
         "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
         "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
         "source": "The Decoder",
         "publishedAt": "2026-08-14T16:43:43.000Z",
         "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is store"
+      },
+      {
+        "title": "You can now turn off Google Gemini’s visible watermarks",
+        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-14T16:39:32.000Z",
+        "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media w"
       },
       {
         "title": "Google will now allow users to remove visible watermark from its AI generations",
@@ -3305,13 +3389,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
-        "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T14:21:50.000Z",
-        "summary": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $"
-      },
-      {
         "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
         "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
         "source": "TechCrunch AI",
@@ -3324,20 +3401,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-14T14:00:00.000Z",
         "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerf"
-      },
-      {
-        "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
-        "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T11:44:38.000Z",
-        "summary": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI"
-      },
-      {
-        "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
-        "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T10:21:34.000Z",
-        "summary": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over"
       },
       {
         "title": "Apple trained its own AI model for China with help from Alibaba",
@@ -3382,13 +3445,6 @@ window.SITE_DATA = {
         "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
       },
       {
-        "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
-        "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T19:39:54.000Z",
-        "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, "
-      },
-      {
         "title": "OpenAI is losing its second executive this week",
         "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
         "source": "The Verge AI",
@@ -3408,13 +3464,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-13T19:19:49.000Z",
         "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-      },
-      {
-        "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
-        "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T18:41:52.000Z",
-        "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, "
       },
       {
         "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -3450,13 +3499,6 @@ window.SITE_DATA = {
         "source": "Google AI Blog",
         "publishedAt": "2026-08-13T16:45:00.000Z",
         "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
-      },
-      {
-        "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
-        "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-13T16:27:32.000Z",
-        "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at"
       },
       {
         "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
@@ -3585,13 +3627,6 @@ window.SITE_DATA = {
         "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
       },
       {
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T17:51:00.000Z",
-        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America ca"
-      },
-      {
         "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
         "url": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
         "source": "AWS Machine Learning Blog",
@@ -3599,39 +3634,11 @@ window.SITE_DATA = {
         "summary": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM prin"
       },
       {
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T17:41:29.000Z",
-        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
-      },
-      {
-        "title": "Twitch streamers can now opt out from training Amazon’s AI",
-        "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-12T17:29:10.000Z",
-        "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stre"
-      },
-      {
-        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-        "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T16:57:58.000Z",
-        "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
-      },
-      {
         "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
         "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
         "source": "Hugging Face Blog",
         "publishedAt": "2026-08-12T16:14:36.000Z",
         "summary": ""
-      },
-      {
-        "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-12T15:52:07.000Z",
-        "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For"
       },
       {
         "title": "Putting sign language AI into users’ hands",
@@ -3646,13 +3653,6 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-08-12T14:00:51.000Z",
         "summary": ""
-      },
-      {
-        "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-        "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-12T14:00:00.000Z",
-        "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition."
       }
     ]
   }
