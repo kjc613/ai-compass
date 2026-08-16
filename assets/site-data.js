@@ -3232,8 +3232,85 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-15T23:10:39.937Z",
+    "updatedAt": "2026-08-16T23:09:57.808Z",
     "items": [
+      {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-16T20:57:04.000Z",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+      },
+      {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-16T20:32:01.000Z",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+      },
+      {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-16T16:53:51.000Z",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+      },
+      {
+        "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+        "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T15:31:21.000Z",
+        "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely"
+      },
+      {
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-16T14:56:40.000Z",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automatio"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-16T12:00:00.000Z",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives"
+      },
+      {
+        "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+        "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T11:23:30.000Z",
+        "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, a"
+      },
+      {
+        "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+        "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T08:12:52.000Z",
+        "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to e"
+      },
+      {
+        "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+        "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T07:20:06.000Z",
+        "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that t"
+      },
+      {
+        "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+        "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T05:50:50.000Z",
+        "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not jus"
+      },
+      {
+        "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+        "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-16T05:00:00.000Z",
+        "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept"
+      },
       {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
         "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
@@ -3291,46 +3368,11 @@ window.SITE_DATA = {
         "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From "
       },
       {
-        "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
-        "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-15T06:00:52.000Z",
-        "summary": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collect"
-      },
-      {
-        "title": "New benchmark confirms AI models still perform poorly at visual perception",
-        "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-15T05:30:18.000Z",
-        "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accu"
-      },
-      {
-        "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
-        "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T21:29:17.000Z",
-        "summary": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID "
-      },
-      {
-        "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
-        "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T17:01:54.000Z",
-        "summary": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outpe"
-      },
-      {
         "title": "Mark Zuckerberg has an Instagzam",
         "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
         "source": "The Verge AI",
         "publishedAt": "2026-08-14T16:54:16.000Z",
         "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look lik"
-      },
-      {
-        "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
-        "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T16:43:43.000Z",
-        "summary": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is store"
       },
       {
         "title": "You can now turn off Google Gemini’s visible watermarks",
@@ -3345,13 +3387,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-14T16:13:40.000Z",
         "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-      },
-      {
-        "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
-        "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-14T16:06:32.000Z",
-        "summary": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The origin"
       },
       {
         "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
@@ -3557,20 +3592,6 @@ window.SITE_DATA = {
         "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
       },
       {
-        "title": "Does Google even want to win at AI?",
-        "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-13T14:10:31.000Z",
-        "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past we"
-      },
-      {
-        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-        "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-13T13:30:00.000Z",
-        "summary": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and M"
-      },
-      {
         "title": "The builder’s guide to GPT‑5.6",
         "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
         "source": "OpenAI News",
@@ -3604,27 +3625,6 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-08-13T00:00:00.000Z",
         "summary": ""
-      },
-      {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T22:26:37.000Z",
-        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
-      },
-      {
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T20:10:40.000Z",
-        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-      },
-      {
-        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-        "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-12T18:19:12.000Z",
-        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
       },
       {
         "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
