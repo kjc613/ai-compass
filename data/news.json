@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-08-16T23:09:57.808Z",
+  "updatedAt": "2026-08-17T23:12:45.404Z",
   "items": [
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO"
+    },
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-17T19:46:21.000Z",
+      "summary": ""
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Lightning now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/sagemaker/ai/jumpstart/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-17T18:06:33.000Z",
+      "summary": "NVIDIA Nemotron 3.5 Lightning, an open model built for high-volume agentic workloads, is now available in Amazon SageMaker JumpStart. This post shows how to dep"
+    },
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:38:44.000Z",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
+    {
+      "title": "Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments",
+      "url": "https://www.openclaw.org/",
+      "source": "AWS Machine Learning Blog",
+      "publishedAt": "2026-08-17T16:19:56.000Z",
+      "summary": "Give an autonomous agent a wallet and spending guardrails so it can pay for paywalled APIs, MCP servers, and web content. This post connects OpenClaw to Amazon "
+    },
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:15:12.000Z",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footpri"
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T15:16:24.000Z",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+    },
+    {
+      "title": "AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T14:43:04.000Z",
+      "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys "
+    },
+    {
+      "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+      "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T14:13:26.000Z",
+      "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and "
+    },
+    {
+      "title": "AI video market has bounced back from Sora's false start",
+      "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T13:29:01.000Z",
+      "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. "
+    },
+    {
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T13:10:05.000Z",
+      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
+    },
+    {
+      "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
+      "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T11:43:19.000Z",
+      "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers a"
+    },
+    {
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-17T10:57:13.000Z",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Frid"
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-17T08:00:00.000Z",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+    },
+    {
+      "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+      "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T07:58:28.000Z",
+      "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on elect"
+    },
+    {
+      "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
+      "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
+      "source": "The Decoder",
+      "publishedAt": "2026-08-17T06:49:10.000Z",
+      "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion. OpenRouter offers ac"
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-17T05:00:00.000Z",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "publishedAt": "2026-08-17T03:15:00.000Z",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-16T21:32:56.000Z",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models pose"
+    },
     {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
@@ -65,20 +205,6 @@
       "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that t"
     },
     {
-      "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
-      "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-16T05:50:50.000Z",
-      "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not jus"
-    },
-    {
-      "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
-      "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-16T05:00:00.000Z",
-      "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept"
-    },
-    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "source": "TechCrunch AI",
@@ -90,7 +216,7 @@
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "source": "The Verge AI",
       "publishedAt": "2026-08-15T20:45:00.000Z",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an "
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an"
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -107,32 +233,11 @@
       "summary": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
-      "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
-      "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-15T15:41:02.000Z",
-      "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back "
-    },
-    {
-      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-15T11:00:50.000Z",
-      "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropp"
-    },
-    {
-      "title": "Plaintiff hid invisible AI instructions in court filings to secretly influence automated review",
-      "url": "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-15T08:00:45.000Z",
-      "summary": "A plaintiff in Connecticut embedded invisible prompt injections in court filings, formatted in 3-point white text on a white background, to manipulate a potenti"
-    },
-    {
-      "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
-      "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
-      "source": "The Decoder",
-      "publishedAt": "2026-08-15T07:30:48.000Z",
-      "summary": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From "
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-15T16:10:00.000Z",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
     },
     {
       "title": "Mark Zuckerberg has an Instagzam",
@@ -261,32 +366,11 @@
       "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
     },
     {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T19:19:49.000Z",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-    },
-    {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T18:28:14.000Z",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture th"
-    },
-    {
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "source": "Hugging Face Blog",
       "publishedAt": "2026-08-13T17:16:04.000Z",
       "summary": ""
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T17:07:13.000Z",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take"
     },
     {
       "title": "Introducing Gemini 3.7 Flash",
@@ -310,13 +394,6 @@
       "summary": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses "
     },
     {
-      "title": "Suno is trying to look more like a real music production tool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-13T16:00:00.000Z",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor w"
-    },
-    {
       "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
       "url": "https://aws.amazon.com/quicksight/",
       "source": "AWS Machine Learning Blog",
@@ -331,34 +408,6 @@
       "summary": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document "
     },
     {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T15:30:52.000Z",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico chara"
-    },
-    {
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "source": "The Verge AI",
-      "publishedAt": "2026-08-13T15:30:00.000Z",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the "
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T15:08:00.000Z",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-08-13T14:34:43.000Z",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-    },
-    {
       "title": "The builder’s guide to GPT‑5.6",
       "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
       "source": "OpenAI News",
@@ -371,55 +420,6 @@
       "source": "OpenAI News",
       "publishedAt": "2026-08-13T10:00:00.000Z",
       "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
-    },
-    {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
-      "title": "How kids feel about AI, in their own words",
-      "url": "https://www.pewresearch.org/internet/2026/02/24/how-teens-use-and-view-ai/",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-08-13T09:00:00.000Z",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a litt"
-    },
-    {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-13T00:00:00.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Part 2: Amazon Bedrock cost attribution with Amazon Athena and CUDOS",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
-      "source": "AWS Machine Learning Blog",
-      "publishedAt": "2026-08-12T17:45:20.000Z",
-      "summary": "Learn how to visualize and analyze Amazon Bedrock cost attribution using Amazon Athena and CUDOS dashboards. This post shows how to set up CUR 2.0 with IAM prin"
-    },
-    {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-12T16:14:36.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "source": "Google DeepMind Blog",
-      "publishedAt": "2026-08-12T14:01:59.000Z",
-      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-    },
-    {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-08-12T14:00:51.000Z",
-      "summary": ""
     }
   ]
 }
