@@ -3232,8 +3232,295 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-17T23:12:45.404Z",
+    "updatedAt": "2026-08-18T23:12:14.893Z",
     "items": [
+      {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T22:14:25.000Z",
+        "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+      },
+      {
+        "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+        "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T19:48:26.000Z",
+        "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier b"
+      },
+      {
+        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T19:28:30.000Z",
+        "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including i"
+      },
+      {
+        "title": "Strengthening democratic oversight in national security",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T19:00:00.000Z",
+        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expert"
+      },
+      {
+        "title": "Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale",
+        "url": "https://docs.privy.io/authentication/overview#api-authentication",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T18:56:14.000Z",
+        "summary": "Amazon Bedrock AgentCore payments is now generally available, enabling AI agents to autonomously transact at scale with built-in spending guardrails, protocol-a"
+      },
+      {
+        "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+        "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T18:43:06.000Z",
+        "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new"
+      },
+      {
+        "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+        "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T18:10:56.000Z",
+        "summary": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers t"
+      },
+      {
+        "title": "How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-18T18:09:38.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T18:00:00.000Z",
+        "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the p"
+      },
+      {
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T17:21:58.000Z",
+        "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
+      },
+      {
+        "title": "Customize Amazon Quick embedded chat into your application",
+        "url": "https://aws.amazon.com/quicksuite/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T17:13:13.000Z",
+        "summary": "Amazon Quick embedded chat brings a conversational AI interface into your web application. This post walks through customizing the embedded chat with container "
+      },
+      {
+        "title": "Implement vector-prompt document classification using Amazon Bedrock",
+        "url": "https://aws.amazon.com/bedrock/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T17:10:37.000Z",
+        "summary": "Learn how to build a multi-agent document classification solution on Amazon Bedrock using the Strands Agents SDK. Three specialized agents combine textual analy"
+      },
+      {
+        "title": "How Jumio built a real-time feature store on AWS",
+        "url": "https://www.jumio.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T17:05:48.000Z",
+        "summary": "Learn how Jumio built a centralized, real-time feature store on AWS with Amazon SageMaker Feature Store, Amazon Managed Service for Apache Flink, and Amazon Kin"
+      },
+      {
+        "title": "Improve contract search accuracy with auto-generated filters in Amazon Bedrock",
+        "url": "https://aws.amazon.com/bedrock/knowledge-bases/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T17:02:52.000Z",
+        "summary": "In this post, we describe how AIDA works at a high level and how it helps address these challenges — grounding users in the right contracts, under the right leg"
+      },
+      {
+        "title": "How Axonius built secure multi-tenant AI agents on Bedrock AgentCore",
+        "url": "https://www.axonius.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-18T16:27:07.000Z",
+        "summary": "Learn how Axonius, a cybersecurity SaaS provider, used Amazon Bedrock AgentCore to deploy fully isolated, multi-tenant AI agents across hundreds of customer env"
+      },
+      {
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T16:19:10.000Z",
+        "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+      },
+      {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
+      },
+      {
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T13:50:30.000Z",
+        "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using"
+      },
+      {
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-18T13:45:40.000Z",
+        "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+      },
+      {
+        "title": "Anthropic CEO says AI centralizes by nature and open models just shift power to whoever owns the chips",
+        "url": "https://the-decoder.com/anthropic-ceo-says-ai-centralizes-by-nature-and-open-models-just-shift-power-to-whoever-owns-the-chips/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T13:07:57.000Z",
+        "summary": "An open fight over AI regulation has broken out on X. Investor Gavin Baker, former White House adviser David Sacks, and Meta researcher Yann LeCun accuse Anthro"
+      },
+      {
+        "title": "Firefox’s Smart Window promises a better AI browser",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T13:00:00.000Z",
+        "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership"
+      },
+      {
+        "title": "Google’s Pet Memory forgot who my cats are",
+        "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T12:01:29.000Z",
+        "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But t"
+      },
+      {
+        "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
+        "url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T11:43:02.000Z",
+        "summary": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks. The authors warn agai"
+      },
+      {
+        "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
+        "url": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T11:35:17.000Z",
+        "summary": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data "
+      },
+      {
+        "title": "OpenAI launches a ChatGPT version built for teens",
+        "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T11:27:29.000Z",
+        "summary": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17. The article OpenAI launches a ChatGPT version built for teens appeared first on The Dec"
+      },
+      {
+        "title": "Partnering with CodeAI to prepare the first AI generation",
+        "url": "https://openai.com/index/partnering-with-codeai",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+      },
+      {
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+      },
+      {
+        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional cont"
+      },
+      {
+        "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+        "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights"
+      },
+      {
+        "title": "ChatGPT is getting a dedicated mode for teens",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid "
+      },
+      {
+        "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+        "url": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T10:45:00.000Z",
+        "summary": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its"
+      },
+      {
+        "title": "We still don’t know how people are really using AI",
+        "url": "https://www.ai-observatory.org/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-18T10:06:43.000Z",
+        "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they w"
+      },
+      {
+        "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+        "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T10:06:16.000Z",
+        "summary": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the term"
+      },
+      {
+        "title": "Apple’s camera-equipped AirPods appear in leaked video",
+        "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-18T09:00:01.000Z",
+        "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The "
+      },
+      {
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "url": "https://ai-2027.com/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-18T09:00:00.000Z",
+        "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate "
+      },
+      {
+        "title": "AI systems quietly drop user instructions when they compress context",
+        "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T08:22:24.000Z",
+        "summary": "When AI systems condense long conversations, they drop an average of 83 percent of user rules, like \"don't send emails without my approval.\" Penn State research"
+      },
+      {
+        "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
+        "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-18T07:37:25.000Z",
+        "summary": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 20"
+      },
+      {
+        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T07:00:00.000Z",
+        "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+      },
+      {
+        "title": "How NVIDIA scales expertise with ChatGPT Work",
+        "url": "https://openai.com/index/nvidia/chatgpt-work",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
+      },
+      {
+        "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "url": "https://huggingface.co/blog/multi-vector-encoder",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-18T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-17T23:56:26.000Z",
+        "summary": "The model maker added $18 billion in annualized revenue in two months."
+      },
       {
         "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
         "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
@@ -3284,27 +3571,6 @@ window.SITE_DATA = {
         "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
       },
       {
-        "title": "AirTag reveals how Amazon destroys rare books for AI training",
-        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T14:43:04.000Z",
-        "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process. The article AirTag reveals how Amazon destroys "
-      },
-      {
-        "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
-        "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T14:13:26.000Z",
-        "summary": "OpenAI has signed a 20-year lease for an 8-gigawatt data center in Ohio. Nvidia is guaranteeing up to $105 billion for the residual value of the facilities and "
-      },
-      {
-        "title": "AI video market has bounced back from Sora's false start",
-        "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T13:29:01.000Z",
-        "summary": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. "
-      },
-      {
         "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
         "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
         "source": "TechCrunch AI",
@@ -3312,11 +3578,11 @@ window.SITE_DATA = {
         "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
       },
       {
-        "title": "Anthropic watermarks Claude's output, but critics question the tradeoffs",
-        "url": "https://the-decoder.com/anthropic-watermarks-claudes-output-but-critics-question-the-tradeoffs/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T11:43:19.000Z",
-        "summary": "Anthropic's text watermarking for Claude is supposed to make AI-generated content detectable. But critics doubt that word choice stays unaffected, and lawyers a"
+        "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+        "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-17T11:00:00.000Z",
+        "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat ow"
       },
       {
         "title": "Anthropic explains how Claude’s invisible text watermarks will work",
@@ -3331,20 +3597,6 @@ window.SITE_DATA = {
         "source": "Google AI Blog",
         "publishedAt": "2026-08-17T08:00:00.000Z",
         "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
-      },
-      {
-        "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
-        "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T07:58:28.000Z",
-        "summary": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on elect"
-      },
-      {
-        "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
-        "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-17T06:49:10.000Z",
-        "summary": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion. OpenRouter offers ac"
       },
       {
         "title": "The Defender’s Window",
@@ -3396,263 +3648,11 @@ window.SITE_DATA = {
         "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
       },
       {
-        "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
-        "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-16T15:31:21.000Z",
-        "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely"
-      },
-      {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-16T14:56:40.000Z",
-        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automatio"
-      },
-      {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-16T12:00:00.000Z",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives"
-      },
-      {
-        "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
-        "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-16T11:23:30.000Z",
-        "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, a"
-      },
-      {
-        "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
-        "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-16T08:12:52.000Z",
-        "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to e"
-      },
-      {
-        "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
-        "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-16T07:20:06.000Z",
-        "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that t"
-      },
-      {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
         "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-15T21:29:19.000Z",
         "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-      },
-      {
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-15T20:45:00.000Z",
-        "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an"
-      },
-      {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-15T18:58:39.000Z",
-        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-15T16:30:00.000Z",
-        "summary": "AI coding startup Cursor is now officially a part of SpaceX."
-      },
-      {
-        "title": "How to tell if your AI platforms’ accounts have been hacked",
-        "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-15T16:10:00.000Z",
-        "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-      },
-      {
-        "title": "Mark Zuckerberg has an Instagzam",
-        "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-14T16:54:16.000Z",
-        "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look lik"
-      },
-      {
-        "title": "You can now turn off Google Gemini’s visible watermarks",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-14T16:39:32.000Z",
-        "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media w"
-      },
-      {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-14T16:13:40.000Z",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-      },
-      {
-        "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
-        "url": "https://aws.amazon.com/nova/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-14T16:02:10.000Z",
-        "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn r"
-      },
-      {
-        "title": "Building agentic workflows with SageMaker AI and Bedrock AgentCore",
-        "url": "https://strandsagents.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-14T15:58:44.000Z",
-        "summary": "Learn how to combine OpenAI-compatible endpoints on Amazon SageMaker AI with Amazon Bedrock AgentCore runtime to build a multi-agent workflow where each special"
-      },
-      {
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-14T15:43:28.000Z",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerf"
-      },
-      {
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-14T14:50:11.000Z",
-        "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-      },
-      {
-        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-        "source": "Ars Technica",
-        "publishedAt": "2026-08-14T14:27:14.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-14T14:05:00.000Z",
-        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-      },
-      {
-        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-14T14:00:00.000Z",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerf"
-      },
-      {
-        "title": "Apple trained its own AI model for China with help from Alibaba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-14T09:21:17.000Z",
-        "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across grow"
-      },
-      {
-        "title": "Job titles of the future: Space travel agent",
-        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-14T09:00:00.000Z",
-        "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated e"
-      },
-      {
-        "title": "State of Open Models: Summer 2026 Observations",
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-14T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-        "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-13T21:42:38.000Z",
-        "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move"
-      },
-      {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-13T21:13:24.000Z",
-        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower "
-      },
-      {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-13T20:14:39.000Z",
-        "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
-      },
-      {
-        "title": "OpenAI is losing its second executive this week",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-13T19:28:39.000Z",
-        "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving"
-      },
-      {
-        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-13T19:22:40.000Z",
-        "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
-      },
-      {
-        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-13T17:16:04.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Introducing Gemini 3.7 Flash",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-08-13T17:04:18.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Bring your spreadsheet data to life with Sheets canvas",
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-13T16:45:00.000Z",
-        "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
-      },
-      {
-        "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-13T16:02:10.000Z",
-        "summary": "Set up Amazon Bedrock AgentCore Observability for AI agents running outside AWS: on-premises, on GCP, on Azure, or on developer machines. This walkthrough uses "
-      },
-      {
-        "title": "Accelerating M&A due diligence with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/quicksight/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-13T15:52:44.000Z",
-        "summary": "Learn how to build a multi-agent M&amp;A due diligence system on Amazon Bedrock AgentCore. This post walks through a reference architecture that combines agent "
-      },
-      {
-        "title": "Amazon Quick for Microsoft 365: Agentic AI where you work",
-        "url": "https://aws.amazon.com/quick/download/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-13T15:48:15.000Z",
-        "summary": "Amazon Quick is now available directly inside Microsoft Word, Excel, PowerPoint, and Outlook. These extensions bring connected data access and agentic document "
-      },
-      {
-        "title": "The builder’s guide to GPT‑5.6",
-        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-13T11:00:00.000Z",
-        "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-      },
-      {
-        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "url": "https://openai.com/index/previewing-ultrafast",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-13T10:00:00.000Z",
-        "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
       }
     ]
   }
