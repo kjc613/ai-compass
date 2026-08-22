@@ -3232,8 +3232,71 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-21T23:13:51.024Z",
+    "updatedAt": "2026-08-22T23:10:51.608Z",
     "items": [
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-22T21:46:56.000Z",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-22T19:00:00.000Z",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innov"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-22T16:30:34.000Z",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-22T16:00:00.000Z",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingl"
+      },
+      {
+        "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+        "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-22T12:15:10.000Z",
+        "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not thr"
+      },
+      {
+        "title": "World models that ignore human beliefs predict the wrong actions, new research shows",
+        "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-22T09:00:20.000Z",
+        "summary": "Current world models like Sora or Genie only simulate physics and ignore what people think, want, or feel. The new \"Mental World Modeling\" framework adds mental"
+      },
+      {
+        "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+        "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-22T08:00:14.000Z",
+        "summary": "RayNeo is launching a new headset without a camera or speakers. The article RayNeo's new AI glasses skip the camera, focus on text overlays appeared first on Th"
+      },
+      {
+        "title": "Netflix tests language model as alternative to hand-built recommendation logic",
+        "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-22T07:30:16.000Z",
+        "summary": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousa"
+      },
+      {
+        "title": "Psychological methods reveal major weaknesses in AI security testing",
+        "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-22T07:00:05.000Z",
+        "summary": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent tr"
+      },
       {
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -3361,46 +3424,11 @@ window.SITE_DATA = {
         "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvi"
       },
       {
-        "title": "Meta spends hundreds of millions on Microsoft's AI services",
-        "url": "https://the-decoder.com/meta-spends-hundreds-of-millions-on-microsofts-ai-services/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T10:54:41.000Z",
-        "summary": "Meta has become one of Microsoft's biggest AI customers, according to Bloomberg. The article Meta spends hundreds of millions on Microsoft's AI services appeare"
-      },
-      {
-        "title": "Anthropic changes data retention policy after enterprise pushback",
-        "url": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T09:59:51.000Z",
-        "summary": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward. The article Anthropic changes data re"
-      },
-      {
         "title": "When AI designs a drug, who gets the credit?",
         "url": "https://artificialinventor.com/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-08-21T09:00:00.000Z",
         "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press r"
-      },
-      {
-        "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
-        "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T08:27:23.000Z",
-        "summary": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees. The article Nvidia is acquirin"
-      },
-      {
-        "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
-        "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T08:26:05.000Z",
-        "summary": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data sho"
-      },
-      {
-        "title": "OpenAI's GPT-Image-2 can now generate images without a background",
-        "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T07:53:40.000Z",
-        "summary": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to"
       },
       {
         "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -3550,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data"
       },
       {
-        "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-        "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T16:00:00.000Z",
-        "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to m"
-      },
-      {
         "title": "It’s Greg Brockman’s OpenAI now",
         "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
         "source": "The Verge AI",
@@ -3585,25 +3606,11 @@ window.SITE_DATA = {
         "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential cri"
       },
       {
-        "title": "Meta AI’s new Mac app wants you to talk to your apps",
-        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T12:11:57.000Z",
-        "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
-      },
-      {
         "title": "Slack is launching collaborative vibe-coding channels",
         "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
         "source": "The Verge AI",
         "publishedAt": "2026-08-20T12:00:00.000Z",
         "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slac"
-      },
-      {
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T09:30:00.000Z",
-        "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
       },
       {
         "title": "Introducing AI Futures",
@@ -3618,13 +3625,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-08-20T00:00:00.000Z",
         "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-      },
-      {
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-19T23:32:00.000Z",
-        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really fo"
       },
       {
         "title": "Domain and publish date filters for Web Search on AgentCore",
