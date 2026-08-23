@@ -3232,8 +3232,71 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-22T23:10:51.608Z",
+    "updatedAt": "2026-08-23T23:10:56.042Z",
     "items": [
+      {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-23T20:01:36.000Z",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-23T19:14:08.000Z",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+      },
+      {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-23T15:30:00.000Z",
+        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+      },
+      {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-23T15:00:00.000Z",
+        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihood"
+      },
+      {
+        "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+        "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-23T12:31:59.000Z",
+        "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scena"
+      },
+      {
+        "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+        "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-23T10:02:00.000Z",
+        "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x."
+      },
+      {
+        "title": "AI could make scientists do more work less well, not less work better, study argues",
+        "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-23T09:01:17.000Z",
+        "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' re"
+      },
+      {
+        "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+        "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-23T08:15:28.000Z",
+        "summary": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micro"
+      },
+      {
+        "title": "How China's gray market sells Claude tokens at a fraction of the price",
+        "url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-23T07:48:33.000Z",
+        "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-ca"
+      },
       {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
         "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
@@ -3326,27 +3389,6 @@ window.SITE_DATA = {
         "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
       },
       {
-        "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
-        "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T19:35:37.000Z",
-        "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with C"
-      },
-      {
-        "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
-        "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T19:08:27.000Z",
-        "summary": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own "
-      },
-      {
-        "title": "Data center opposition surged from 42 to 75 percent in just one year, survey finds",
-        "url": "https://the-decoder.com/data-center-opposition-surged-from-42-to-75-percent-in-just-one-year-survey-finds/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T18:25:44.000Z",
-        "summary": "Three out of four Americans now oppose having a data center built near them, up from an even split just a year ago, according to a Heatmap News survey. 61 perce"
-      },
-      {
         "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
         "url": "https://github.com/aws-samples/sample-Agentic-Ai-Data-Operations",
         "source": "AWS Machine Learning Blog",
@@ -3373,13 +3415,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-08-21T16:57:01.000Z",
         "summary": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue t"
-      },
-      {
-        "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
-        "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T15:18:29.000Z",
-        "summary": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters. The articl"
       },
       {
         "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -3415,13 +3450,6 @@ window.SITE_DATA = {
         "source": "Google DeepMind Blog",
         "publishedAt": "2026-08-21T11:59:48.000Z",
         "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      },
-      {
-        "title": "Waymo builds its own chip for its robotaxis, cutting its reliance on Nvidia",
-        "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-21T11:04:09.000Z",
-        "summary": "Waymo built its own chip for its robotaxis, cutting its reliance on Nvidia. The article Waymo builds its own chip for its robotaxis, cutting its reliance on Nvi"
       },
       {
         "title": "When AI designs a drug, who gets the credit?",
@@ -3508,13 +3536,6 @@ window.SITE_DATA = {
         "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
       },
       {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T18:20:35.000Z",
-        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-      },
-      {
         "title": "Grok keeps sending gibberish responses to users",
         "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
         "source": "TechCrunch AI",
@@ -3522,25 +3543,11 @@ window.SITE_DATA = {
         "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
       },
       {
-        "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T17:18:58.000Z",
-        "summary": "ChatGPT and other AI models are now authoring and editing much of the new web."
-      },
-      {
         "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
         "source": "Hugging Face Blog",
         "publishedAt": "2026-08-20T16:52:57.000Z",
         "summary": ""
-      },
-      {
-        "title": "Ramp launches its own AI model router, called Router",
-        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T16:46:00.000Z",
-        "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API"
       },
       {
         "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
@@ -3562,13 +3569,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-08-20T16:11:18.000Z",
         "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-b"
-      },
-      {
-        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-        "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-20T16:07:26.000Z",
-        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil"
       },
       {
         "title": "AWS vector solutions: Build agentic AI where your data lives",
