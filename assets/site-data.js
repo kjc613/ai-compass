@@ -3232,8 +3232,204 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-24T23:13:37.845Z",
+    "updatedAt": "2026-08-25T23:16:18.594Z",
     "items": [
+      {
+        "title": "Your brain on AI",
+        "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-25T21:00:00.000Z",
+        "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem w"
+      },
+      {
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T19:03:47.000Z",
+        "summary": "The company's new fundraising total now stands at $232 million."
+      },
+      {
+        "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+        "url": "https://docs.aws.amazon.com/opensearch-service/latest/developerguide/opensearch-observability-mcp-app.html#opensearch-observability-mcp-app-setup",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-25T19:00:09.000Z",
+        "summary": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally r"
+      },
+      {
+        "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+        "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T18:54:56.000Z",
+        "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators access"
+      },
+      {
+        "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+        "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T18:00:50.000Z",
+        "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nv"
+      },
+      {
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T17:50:33.000Z",
+        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other contex"
+      },
+      {
+        "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+        "url": "https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-25T16:35:01.000Z",
+        "summary": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a "
+      },
+      {
+        "title": "Google launches Gemini for legal work to automate contracts and research",
+        "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T16:21:09.000Z",
+        "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP"
+      },
+      {
+        "title": "5 ways to upgrade your home decor with Google Search",
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-25T16:00:00.000Z",
+        "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+      },
+      {
+        "title": "Granite 4.2 LLMs: How They&apos;re Built",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-25T15:14:14.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T15:00:00.000Z",
+        "summary": "Lica co-founders are going to work on Gamma's new research team."
+      },
+      {
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T14:22:04.000Z",
+        "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-"
+      },
+      {
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-25T14:00:00.000Z",
+        "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published o"
+      },
+      {
+        "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+        "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T13:43:40.000Z",
+        "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October. The article Meta's paid AI agent Hatc"
+      },
+      {
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T13:00:00.000Z",
+        "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+      },
+      {
+        "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+        "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T12:27:57.000Z",
+        "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the"
+      },
+      {
+        "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+        "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T12:16:41.000Z",
+        "summary": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military A"
+      },
+      {
+        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+        "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T12:00:00.000Z",
+        "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+      },
+      {
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-25T11:39:24.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+        "url": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T10:24:13.000Z",
+        "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, wher"
+      },
+      {
+        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-25T09:15:03.000Z",
+        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing e"
+      },
+      {
+        "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+        "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-25T08:40:14.000Z",
+        "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan network"
+      },
+      {
+        "title": "The full stack behind abundant intelligence",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-25T07:05:00.000Z",
+        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower"
+      },
+      {
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "url": "https://openai.com/index/jalapeno-first-results",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-25T07:00:00.000Z",
+        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern mod"
+      },
+      {
+        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-25T00:23:12.000Z",
+        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
+      },
+      {
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+      },
+      {
+        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "url": "https://openai.com/index/introducing-admin-plugin",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+      },
+      {
+        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-25T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
         "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
@@ -3319,20 +3515,6 @@ window.SITE_DATA = {
         "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
       },
       {
-        "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
-        "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-24T14:23:55.000Z",
-        "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request. The article Rogue AI agent used fake "
-      },
-      {
-        "title": "How to encourage smarter AI use in the classroom",
-        "url": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-24T14:20:19.000Z",
-        "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, "
-      },
-      {
         "title": "Hugging Face reportedly in talks to be acquired for $13B",
         "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
         "source": "TechCrunch AI",
@@ -3340,46 +3522,11 @@ window.SITE_DATA = {
         "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to co"
       },
       {
-        "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
-        "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-24T12:59:43.000Z",
-        "summary": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only s"
-      },
-      {
-        "title": "The Download: kids outlearning AI, and space travel agents",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-24T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and w"
-      },
-      {
         "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
         "url": "https://openai.com/index/gpt-5-6-in-kiro",
         "source": "OpenAI News",
         "publishedAt": "2026-08-24T12:00:00.000Z",
         "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-      },
-      {
-        "title": "Cerebras unveils CS-4 with double the performance on the same chip",
-        "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-24T10:16:06.000Z",
-        "summary": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry. The article Cerebras unveils CS-4 with doubl"
-      },
-      {
-        "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
-        "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-24T10:00:51.000Z",
-        "summary": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation o"
-      },
-      {
-        "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
-        "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-24T08:44:48.000Z",
-        "summary": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information rep"
       },
       {
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -3410,27 +3557,6 @@ window.SITE_DATA = {
         "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihood"
       },
       {
-        "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
-        "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-23T12:31:59.000Z",
-        "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scena"
-      },
-      {
-        "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
-        "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-23T10:02:00.000Z",
-        "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x."
-      },
-      {
-        "title": "AI could make scientists do more work less well, not less work better, study argues",
-        "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-23T09:01:17.000Z",
-        "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' re"
-      },
-      {
         "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
         "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
         "source": "TechCrunch AI",
@@ -3452,46 +3578,11 @@ window.SITE_DATA = {
         "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” a"
       },
       {
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-22T16:00:00.000Z",
-        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingl"
-      },
-      {
-        "title": "Michael Polansky is training an AI model on skin that’s still alive",
-        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-22T01:31:04.000Z",
-        "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup t"
-      },
-      {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-21T23:07:25.000Z",
-        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to g"
-      },
-      {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-21T22:37:38.000Z",
-        "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
-      },
-      {
         "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
         "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
         "source": "The Verge AI",
         "publishedAt": "2026-08-21T21:25:50.000Z",
         "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday "
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-21T19:43:39.000Z",
-        "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
       },
       {
         "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
@@ -3522,20 +3613,6 @@ window.SITE_DATA = {
         "summary": "Panasonic Avionics worked with AWS and the AWS Generative AI Innovation Center to build an agentic AI system on Amazon Bedrock, Amazon SageMaker, and AWS Glue t"
       },
       {
-        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-21T14:00:00.000Z",
-        "summary": "There's about to be a big fight to secure access to space."
-      },
-      {
-        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-21T14:00:00.000Z",
-        "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetr"
-      },
-      {
         "title": "Major YouTube creators are facing backlash for accepting AI money",
         "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
         "source": "The Verge AI",
@@ -3550,11 +3627,11 @@ window.SITE_DATA = {
         "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
       },
       {
-        "title": "When AI designs a drug, who gets the credit?",
-        "url": "https://artificialinventor.com/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-21T09:00:00.000Z",
-        "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press r"
+        "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+        "url": "https://huggingface.co/blog/pwc-search",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-21T00:00:00.000Z",
+        "summary": ""
       },
       {
         "title": "Measuring benchmark optimization in speech recognition",
@@ -3576,83 +3653,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-08-20T21:23:38.000Z",
         "summary": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 of this ser"
-      },
-      {
-        "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
-        "url": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T21:23:29.000Z",
-        "summary": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformatio"
-      },
-      {
-        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-20T16:52:57.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T16:31:28.000Z",
-        "summary": "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now inc"
-      },
-      {
-        "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-        "url": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T16:24:12.000Z",
-        "summary": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series"
-      },
-      {
-        "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T16:11:18.000Z",
-        "summary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-b"
-      },
-      {
-        "title": "AWS vector solutions: Build agentic AI where your data lives",
-        "url": "https://aws.amazon.com/opensearch-service/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T16:06:06.000Z",
-        "summary": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data"
-      },
-      {
-        "title": "It’s Greg Brockman’s OpenAI now",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-20T15:45:55.000Z",
-        "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade sec"
-      },
-      {
-        "title": "Debates over AI consciousness are a trap",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-20T15:42:39.000Z",
-        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at thei"
-      },
-      {
-        "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-        "url": "https://www.hl7.org/fhir/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-20T15:20:03.000Z",
-        "summary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sen"
-      },
-      {
-        "title": "Welcome to the AI crisis in math",
-        "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-20T14:00:00.000Z",
-        "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential cri"
-      },
-      {
-        "title": "Slack is launching collaborative vibe-coding channels",
-        "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-20T12:00:00.000Z",
-        "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slac"
       }
     ]
   }
