@@ -3232,10 +3232,297 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-27T04:08:27.861Z",
+    "updatedAt": "2026-08-28T06:25:25.815Z",
     "items": [
       {
-        "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-28T03:14:06.000Z",
+        "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rol"
+      },
+      {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T23:16:45.000Z",
+        "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+      },
+      {
+        "title": "Build agentic creative workflows with Amazon Quick and fal",
+        "url": "https://www.superside.com/blog/creative-bottlenecks",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-27T23:04:22.000Z",
+        "summary": "Creative teams produce more assets than ever, but fragmented tools and manual context transfer slow production. This post shows how to build a reusable agent ha"
+      },
+      {
+        "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+        "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T19:52:52.000Z",
+        "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
+      },
+      {
+        "title": "Google’s AI note-taking app now allows you to interact with books",
+        "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T19:30:00.000Z",
+        "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to brin"
+      },
+      {
+        "title": "Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India",
+        "url": "https://www.aboutamazon.in/news/aws/openai-gpt-terra-luna-available-india-bedrock",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-27T18:36:08.000Z",
+        "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing "
+      },
+      {
+        "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
+        "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T18:24:20.000Z",
+        "summary": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single exter"
+      },
+      {
+        "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
+        "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T18:15:46.000Z",
+        "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cybe"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T17:43:24.000Z",
+        "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that t"
+      },
+      {
+        "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+        "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T17:01:28.000Z",
+        "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensio"
+      },
+      {
+        "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T16:19:46.000Z",
+        "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face sy"
+      },
+      {
+        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T16:15:52.000Z",
+        "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its b"
+      },
+      {
+        "title": "Gemini Omni 1.1 Flash lets you build with more control",
+        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-08-27T16:11:32.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+        "url": "https://developers.deepgram.com/docs/observability-sagemaker",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-27T16:11:27.000Z",
+        "summary": "Self-hosted speech AI carries an observability trade-off: the numbers that drive capacity planning and cost management stay locked inside the vendor container. "
+      },
+      {
+        "title": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+        "url": "https://www.heidihealth.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-27T16:05:10.000Z",
+        "summary": "Serving automatic speech recognition (ASR) models at scale is costly when each request uses only a fraction of a GPU. Learn how NVIDIA CUDA Multi-Process Servic"
+      },
+      {
+        "title": "3 new ways to plan and book travel in Search",
+        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-08-27T16:00:00.000Z",
+        "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+      },
+      {
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T16:00:00.000Z",
+        "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to a"
+      },
+      {
+        "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+        "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T15:04:20.000Z",
+        "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won'"
+      },
+      {
+        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T14:56:52.000Z",
+        "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”"
+      },
+      {
+        "title": "AI’s memory crunch is coming for Android apps",
+        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T14:27:04.000Z",
+        "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory"
+      },
+      {
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T14:01:42.000Z",
+        "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "url": "https://www.gravitee.io/platform/ai-agent-management",
+        "source": "VentureBeat AI",
+        "publishedAt": "2026-08-27T14:01:00.000Z",
+        "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises d"
+      },
+      {
+        "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+        "url": "https://llmstxt.org/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-08-27T14:00:13.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI’s executive exodus has one big winner",
+        "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T14:00:00.000Z",
+        "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how "
+      },
+      {
+        "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+        "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T13:44:00.000Z",
+        "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preo"
+      },
+      {
+        "title": "Plaud is launching AI earbuds",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T13:11:23.000Z",
+        "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of "
+      },
+      {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T13:00:00.000Z",
+        "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversatio"
+      },
+      {
+        "title": "Adobe is adding more AI to Photoshop",
+        "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-27T13:00:00.000Z",
+        "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Ed"
+      },
+      {
+        "title": "Piloting the world's first double-blind AI evaluations",
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-08-27T12:59:16.000Z",
+        "summary": "Piloting the world's first double-blind AI evaluations"
+      },
+      {
+        "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-08-27T12:58:59.000Z",
+        "summary": ""
+      },
+      {
+        "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-08-27T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on wh"
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "url": "https://www.enterprisedb.com/products/data-ai-governance",
+        "source": "VentureBeat AI",
+        "publishedAt": "2026-08-27T12:01:00.000Z",
+        "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard "
+      },
+      {
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T11:35:59.000Z",
+        "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
+      },
+      {
+        "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
+        "url": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T10:49:35.000Z",
+        "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-doll"
+      },
+      {
+        "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
+        "url": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T10:40:08.000Z",
+        "summary": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word "
+      },
+      {
+        "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
+        "url": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T10:24:49.000Z",
+        "summary": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's In"
+      },
+      {
+        "title": "Claude Cowork now runs its own browser inside the desktop app",
+        "url": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T09:54:46.000Z",
+        "summary": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app. The article Claude Cowork now runs its own browser inside the desktop "
+      },
+      {
+        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-27T09:00:00.000Z",
+        "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+      },
+      {
+        "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+        "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-27T07:14:38.000Z",
+        "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest b"
+      },
+      {
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-27T06:32:51.000Z",
+        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire"
+      },
+      {
+        "title": "Expanding OpenAI’s presence in Brazil",
+        "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-27T03:00:00.000Z",
+        "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
         "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-27T00:24:57.000Z",
@@ -3312,13 +3599,6 @@ window.SITE_DATA = {
         "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an O"
       },
       {
-        "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
-        "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T17:30:29.000Z",
-        "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, "
-      },
-      {
         "title": "Intelligent transcription with Gemini 3.5 Transcribe",
         "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
         "source": "Google DeepMind Blog",
@@ -3373,286 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-26T15:47:28.000Z",
         "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessibl"
-      },
-      {
-        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T15:00:00.000Z",
-        "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
-      },
-      {
-        "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
-        "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T14:40:09.000Z",
-        "summary": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters"
-      },
-      {
-        "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-        "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T14:37:01.000Z",
-        "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
-      },
-      {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "url": "mailto:sales@venturebeat.com",
-        "source": "VentureBeat AI",
-        "publishedAt": "2026-08-26T14:30:00.000Z",
-        "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the arc"
-      },
-      {
-        "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-        "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T14:19:29.000Z",
-        "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
-      },
-      {
-        "title": "Robot brain builders are pushing out of their GPT-2 era",
-        "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T13:30:00.000Z",
-        "summary": "Robot bodies are waiting for their AI brains to catch up."
-      },
-      {
-        "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
-        "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T13:09:04.000Z",
-        "summary": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agen"
-      },
-      {
-        "title": "QueryStory wants you to believe what AI is telling you",
-        "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T13:00:00.000Z",
-        "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent."
-      },
-      {
-        "title": "Arga Labs is building a better way to train enterprise AI agents",
-        "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T12:55:28.000Z",
-        "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
-      },
-      {
-        "title": "Pro-Kremlin deepfakes put surrender rhetoric in the mouths of Ukrainian lawmakers",
-        "url": "https://the-decoder.com/pro-kremlin-deepfakes-put-surrender-rhetoric-in-the-mouths-of-ukrainian-lawmakers/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T12:36:24.000Z",
-        "summary": "Pro-Kremlin Telegram channels are spreading AI-generated deepfake videos of two Ukrainian lawmakers who appear to call for peace talks. The clips racked up 130,"
-      },
-      {
-        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-26T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids "
-      },
-      {
-        "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-        "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T12:00:00.000Z",
-        "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames."
-      },
-      {
-        "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google",
-        "url": "https://the-decoder.com/chinese-moonshot-ai-negotiates-hosting-deals-with-microsoft-amazon-and-google/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T11:54:17.000Z",
-        "summary": "A Chinese AI company could land its model on major US cloud platforms for the first time, taking a cut of the revenue. The article Chinese Moonshot AI negotiate"
-      },
-      {
-        "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-26T11:07:40.000Z",
-        "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now d"
-      },
-      {
-        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-        "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T11:00:00.000Z",
-        "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
-      },
-      {
-        "title": "Bill Gates warns AI is more dangerous than the tech industry will admit",
-        "url": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T10:50:34.000Z",
-        "summary": "Bill Gates warns in an essay and an NYT interview about mass unemployment and easier bioterrorism through AI, and he accuses his own industry of deliberately hi"
-      },
-      {
-        "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
-        "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T10:37:56.000Z",
-        "summary": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. Th"
-      },
-      {
-        "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
-        "url": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-26T10:02:39.000Z",
-        "summary": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO. The article Anthropic sees a market"
-      },
-      {
-        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-26T10:00:00.000Z",
-        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-      },
-      {
-        "title": "Learning never stops: How AI makes learning continuous",
-        "url": "https://openai.com/index/learning-never-stops",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-26T10:00:00.000Z",
-        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-      },
-      {
-        "title": "Raised on AI",
-        "url": "https://anywaymag.com/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-26T09:00:00.000Z",
-        "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her ph"
-      },
-      {
-        "title": "AI models flub these intelligence tests. Can you fare any better?",
-        "url": "https://github.com/stogiannidis/srbench/blob/main/LICENSE",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-26T09:00:00.000Z",
-        "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, deve"
-      },
-      {
-        "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-        "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T03:30:00.000Z",
-        "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
-      },
-      {
-        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-        "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T00:40:59.000Z",
-        "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
-      },
-      {
-        "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-        "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T00:06:20.000Z",
-        "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace "
-      },
-      {
-        "title": "The Hugging Face incident and the road ahead",
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-26T00:00:00.000Z",
-        "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
-      },
-      {
-        "title": "How loveholidays is making everyone a builder with Codex",
-        "url": "https://openai.com/index/loveholidays",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-26T00:00:00.000Z",
-        "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
-      },
-      {
-        "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-        "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-26T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-        "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-25T19:03:47.000Z",
-        "summary": "The company's new fundraising total now stands at $232 million."
-      },
-      {
-        "title": "Agentic observability with Amazon OpenSearch Service MCP Apps",
-        "url": "https://docs.aws.amazon.com/opensearch-service/latest/developerguide/opensearch-observability-mcp-app.html#opensearch-observability-mcp-app-setup",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-25T19:00:09.000Z",
-        "summary": "Amazon OpenSearch Service now supports MCP Apps, which return interactive visualizations alongside your AI agent's text responses. Learn how a single, locally r"
-      },
-      {
-        "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
-        "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-25T18:54:56.000Z",
-        "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators access"
-      },
-      {
-        "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
-        "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-25T18:00:50.000Z",
-        "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nv"
-      },
-      {
-        "title": "Claude Cowork finally remembers what you told the app in chat",
-        "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-25T17:50:33.000Z",
-        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other contex"
-      },
-      {
-        "title": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
-        "url": "https://docs.aws.amazon.com/quick/latest/userguide/amazon-quick-desktop.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-25T16:35:01.000Z",
-        "summary": "Build a governed weekly reporting workflow with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP. An Amazon S3 access point exposes an approved folder to a "
-      },
-      {
-        "title": "5 ways to upgrade your home decor with Google Search",
-        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-08-25T16:00:00.000Z",
-        "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
-      },
-      {
-        "title": "Granite 4.2 LLMs: How They&apos;re Built",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-25T15:14:14.000Z",
-        "summary": ""
-      },
-      {
-        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-25T14:00:00.000Z",
-        "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published o"
-      },
-      {
-        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-08-25T11:39:24.000Z",
-        "summary": ""
-      },
-      {
-        "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-25T09:15:03.000Z",
-        "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing e"
-      },
-      {
-        "title": "The full stack behind abundant intelligence",
-        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "source": "OpenAI News",
-        "publishedAt": "2026-08-25T07:05:00.000Z",
-        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower"
       }
     ]
   }
