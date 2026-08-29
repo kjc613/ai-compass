@@ -3232,14 +3232,133 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-28T06:25:25.815Z",
+    "updatedAt": "2026-08-29T03:57:33.828Z",
     "items": [
+      {
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-28T20:24:11.000Z",
+        "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high c"
+      },
+      {
+        "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+        "url": "https://aws.amazon.com/sagemaker/ai/feature-store/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-28T19:31:05.000Z",
+        "summary": "Amazon SageMaker Feature Store now supports two new APIs: BatchWriteRecord writes up to 25 records across multiple feature groups in a single call, and ListReco"
+      },
+      {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-28T19:30:38.000Z",
+        "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall perf"
+      },
+      {
+        "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+        "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-28T18:46:27.000Z",
+        "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from mate"
+      },
+      {
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-28T18:19:40.000Z",
+        "summary": "There's a lot of capital pouring into the business of giving models away."
+      },
+      {
+        "title": "Trump’s EPA wants to let data centers hide their air pollution",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-28T16:28:40.000Z",
+        "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people "
+      },
+      {
+        "title": "How Decathlon runs demand forecasting at scale with Chronos-2",
+        "url": "https://www.amazon.science/blog/introducing-chronos-2-from-univariate-to-universal-forecasting",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-28T16:22:30.000Z",
+        "summary": "Decathlon, one of the world's largest sporting goods retailers, forecasts weekly demand for tens of thousands of products across multiple continents. Learn how "
+      },
+      {
+        "title": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+        "url": "https://www.salesforce.com/agentforce/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-08-28T16:20:40.000Z",
+        "summary": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availabi"
+      },
+      {
+        "title": "AI benchmarks have a trust problem and Google wants to fix it",
+        "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-28T13:15:10.000Z",
+        "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to "
+      },
+      {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-28T12:46:12.000Z",
+        "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit "
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-28T12:21:06.000Z",
+        "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
+      },
+      {
+        "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
+        "url": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-28T11:43:41.000Z",
+        "summary": "A federal court in San Francisco has ruled that the Pentagon unlawfully classified Anthropic as a supply chain risk. The Department of Defense blacklisted the c"
+      },
+      {
+        "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
+        "url": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-28T11:20:27.000Z",
+        "summary": "Effective immediately, the DJ marketplace Beatport is banning music that is entirely or largely generated by AI. The article Beatport blocks fully AI-generated "
+      },
+      {
+        "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
+        "url": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-28T08:03:22.000Z",
+        "summary": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant cod"
+      },
+      {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-28T06:00:00.000Z",
+        "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+      },
       {
         "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
         "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
         "source": "The Verge AI",
         "publishedAt": "2026-08-28T03:14:06.000Z",
         "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rol"
+      },
+      {
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+        "source": "OpenAI News",
+        "publishedAt": "2026-08-28T02:00:00.000Z",
+        "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+      },
+      {
+        "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-08-28T00:00:00.000Z",
+        "summary": ""
       },
       {
         "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -3466,46 +3585,11 @@ window.SITE_DATA = {
         "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers."
       },
       {
-        "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
-        "url": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T10:49:35.000Z",
-        "summary": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports. The article Anthropic locks in 45-billion-doll"
-      },
-      {
-        "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
-        "url": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T10:40:08.000Z",
-        "summary": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word "
-      },
-      {
-        "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
-        "url": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T10:24:49.000Z",
-        "summary": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's In"
-      },
-      {
-        "title": "Claude Cowork now runs its own browser inside the desktop app",
-        "url": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T09:54:46.000Z",
-        "summary": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app. The article Claude Cowork now runs its own browser inside the desktop "
-      },
-      {
         "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
         "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
         "source": "OpenAI News",
         "publishedAt": "2026-08-27T09:00:00.000Z",
         "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-      },
-      {
-        "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
-        "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T07:14:38.000Z",
-        "summary": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest b"
       },
       {
         "title": "Nvidia closes in on Hugging Face acquisition",
@@ -3569,90 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-26T19:37:34.000Z",
         "summary": "Consumer AI apps need to stop making users learn their product architecture."
-      },
-      {
-        "title": "How do we explain OpenAI’s executive exodus?",
-        "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T19:34:04.000Z",
-        "summary": "Was Greg Brockman the right executive all along?"
-      },
-      {
-        "title": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T19:13:35.000Z",
-        "summary": "Amazon Bedrock AgentCore Evaluations decouples agent evaluation from the framework you build on. As long as your agent emits OpenTelemetry telemetry, the servic"
-      },
-      {
-        "title": "OpenAI releases its official report on the Hugging Face breach",
-        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T19:05:22.000Z",
-        "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-      },
-      {
-        "title": "The inside story on why OpenAI agents hacked Hugging Face",
-        "url": "https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face%20Incident-Technical-Report.pdf",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-08-26T19:00:00.000Z",
-        "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an O"
-      },
-      {
-        "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-08-26T17:01:00.000Z",
-        "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
-      },
-      {
-        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-        "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-26T17:00:00.000Z",
-        "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcri"
-      },
-      {
-        "title": "How GoDaddy transformed its analytics with Amazon Quick",
-        "url": "https://www.godaddy.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T16:51:53.000Z",
-        "summary": "In this post, you will learn how GoDaddy migrated from their legacy business intelligence (BI) tool to Amazon Quick. This was a two-year transformation that del"
-      },
-      {
-        "title": "Natera’s intelligent appointment scheduling with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T16:36:35.000Z",
-        "summary": "Learn how Natera built an automated voice agent on Amazon Bedrock AgentCore that lets patients book mobile phlebotomy appointments through natural conversation."
-      },
-      {
-        "title": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
-        "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-script-mode/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T16:31:32.000Z",
-        "summary": "The SageMaker Python SDK v3 redesigns script mode with unified ModelTrainer and ModelBuilder classes. This post walks through two end-to-end examples, a scikit-"
-      },
-      {
-        "title": "Preparing data for supervised fine-tuning Part 2: Advanced data strategies",
-        "url": "https://aws.amazon.com/blogs/machine-learning/preparing-data-for-supervised-fine-tuning-part-1-formatting-and-quality/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T16:24:05.000Z",
-        "summary": "The advanced side of supervised fine-tuning data prep. This second post in a two-part series covers evaluating data readiness with learning curves, selecting hi"
-      },
-      {
-        "title": "Preparing data for supervised fine-tuning Part 1: Formatting and quality",
-        "url": "https://arxiv.org/abs/2312.00752",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-08-26T16:24:02.000Z",
-        "summary": "Data preparation determines the ceiling of any supervised fine-tuning project. This first post in a two-part series covers the foundations of SFT data prep: qua"
-      },
-      {
-        "title": "Radar makes podcasts searchable — and usable by AI agents",
-        "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T15:47:28.000Z",
-        "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessibl"
       }
     ]
   }
