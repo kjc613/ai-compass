@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-29T03:57:33.828Z",
+    "updatedAt": "2026-08-30T00:54:14.451Z",
     "items": [
+      {
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-29T18:41:59.000Z",
+        "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+      },
+      {
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-29T18:19:53.000Z",
+        "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of t"
+      },
+      {
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-29T17:36:47.000Z",
+        "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shift"
+      },
+      {
+        "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+        "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-29T13:33:35.000Z",
+        "summary": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Mich"
+      },
+      {
+        "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+        "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-29T13:25:56.000Z",
+        "summary": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI"
+      },
+      {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-29T13:00:00.000Z",
+        "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
+      },
+      {
+        "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+        "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-29T12:51:24.000Z",
+        "summary": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, "
+      },
+      {
+        "title": "Musicians-turned-detectives are hunting for AI grifters",
+        "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-29T12:00:00.000Z",
+        "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodi"
+      },
+      {
+        "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+        "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-29T09:36:48.000Z",
+        "summary": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million a"
+      },
+      {
+        "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+        "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-29T09:14:30.000Z",
+        "summary": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integra"
+      },
       {
         "title": "Neocloud Lambda secures $1B in debt to buy more chips",
         "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -3396,39 +3466,11 @@ window.SITE_DATA = {
         "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models, Terra and Luna, in India with India geographic cross-Region inference. If you have local data processing "
       },
       {
-        "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
-        "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T18:24:20.000Z",
-        "summary": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single exter"
-      },
-      {
-        "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
-        "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T18:15:46.000Z",
-        "summary": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cybe"
-      },
-      {
         "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
         "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-27T17:43:24.000Z",
         "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that t"
-      },
-      {
-        "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
-        "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T17:01:28.000Z",
-        "summary": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensio"
-      },
-      {
-        "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-        "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T16:19:46.000Z",
-        "summary": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face sy"
       },
       {
         "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
@@ -3471,13 +3513,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-27T16:00:00.000Z",
         "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to a"
-      },
-      {
-        "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
-        "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-27T15:04:20.000Z",
-        "summary": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won'"
       },
       {
         "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
@@ -3613,46 +3648,11 @@ window.SITE_DATA = {
         "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
       },
       {
-        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T23:47:18.000Z",
-        "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chi"
-      },
-      {
-        "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-        "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-26T21:40:53.000Z",
-        "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly"
-      },
-      {
-        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-        "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T21:37:39.000Z",
-        "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
-      },
-      {
-        "title": "OpenAI’s rogue AI model incident was worse than we thought",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-26T21:36:06.000Z",
-        "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each othe"
-      },
-      {
         "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
         "url": "https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/",
         "source": "Ars Technica",
         "publishedAt": "2026-08-26T21:25:27.000Z",
         "summary": ""
-      },
-      {
-        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-        "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-26T19:37:34.000Z",
-        "summary": "Consumer AI apps need to stop making users learn their product architecture."
       }
     ]
   }
