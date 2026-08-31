@@ -3232,8 +3232,64 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-08-30T00:54:14.451Z",
+    "updatedAt": "2026-08-31T00:59:24.923Z",
     "items": [
+      {
+        "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+        "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-30T16:54:25.000Z",
+        "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a b"
+      },
+      {
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+        "source": "The Verge AI",
+        "publishedAt": "2026-08-30T15:35:10.000Z",
+        "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publicatio"
+      },
+      {
+        "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+        "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-08-30T15:00:00.000Z",
+        "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+      },
+      {
+        "title": "AI sentiment is turning sour as employee reviews reveal growing frustration across the workforce",
+        "url": "https://the-decoder.com/ai-sentiment-is-turning-sour-as-employee-reviews-reveal-growing-frustration-across-the-workforce/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-30T13:12:19.000Z",
+        "summary": "An analysis of Glassdoor reviews shows that positive AI comments have dropped from 81 to 43 percent since 2019. Executives rate AI mostly positive, while insura"
+      },
+      {
+        "title": "AI agents have no sense of time and are not aware of it",
+        "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-30T10:41:36.000Z",
+        "summary": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Code"
+      },
+      {
+        "title": "The skills that earn top grades are the ones AI can fake best",
+        "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-30T10:34:09.000Z",
+        "summary": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether th"
+      },
+      {
+        "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+        "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-30T09:05:19.000Z",
+        "summary": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a"
+      },
+      {
+        "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+        "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+        "source": "The Decoder",
+        "publishedAt": "2026-08-30T08:50:20.000Z",
+        "summary": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical "
+      },
       {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
         "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -3242,11 +3298,11 @@ window.SITE_DATA = {
         "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
       },
       {
-        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
         "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "source": "The Verge AI",
         "publishedAt": "2026-08-29T18:19:53.000Z",
-        "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of t"
+        "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for"
       },
       {
         "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
@@ -3326,13 +3382,6 @@ window.SITE_DATA = {
         "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall perf"
       },
       {
-        "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
-        "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-28T18:46:27.000Z",
-        "summary": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from mate"
-      },
-      {
         "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
         "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
         "source": "TechCrunch AI",
@@ -3361,13 +3410,6 @@ window.SITE_DATA = {
         "summary": "Learn how Salesforce used Amazon SageMaker AI Inference Component placement (the SchedulingConfig parameter) to distribute model copies across multiple Availabi"
       },
       {
-        "title": "AI benchmarks have a trust problem and Google wants to fix it",
-        "url": "https://the-decoder.com/ai-benchmarks-have-a-trust-problem-and-google-wants-to-fix-it/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-28T13:15:10.000Z",
-        "summary": "Google Deepmind is testing a double-blind evaluation of a frontier AI model for the first time. Cryptographic protection through Confidential Space is meant to "
-      },
-      {
         "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
         "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
         "source": "TechCrunch AI",
@@ -3380,27 +3422,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-08-28T12:21:06.000Z",
         "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
-      },
-      {
-        "title": "U.S. court rules Pentagon's blacklisting of Anthropic was unlawful",
-        "url": "https://the-decoder.com/u-s-court-rules-pentagons-blacklisting-of-anthropic-was-unlawful/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-28T11:43:41.000Z",
-        "summary": "A federal court in San Francisco has ruled that the Pentagon unlawfully classified Anthropic as a supply chain risk. The Department of Defense blacklisted the c"
-      },
-      {
-        "title": "Beatport blocks fully AI-generated music from its DJ marketplace",
-        "url": "https://the-decoder.com/beatport-blocks-fully-ai-generated-music-from-its-dj-marketplace/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-28T11:20:27.000Z",
-        "summary": "Effective immediately, the DJ marketplace Beatport is banning music that is entirely or largely generated by AI. The article Beatport blocks fully AI-generated "
-      },
-      {
-        "title": "Always-on and self-starting AI agents might be OpenAI's next big play",
-        "url": "https://the-decoder.com/always-on-and-self-starting-ai-agents-might-be-openais-next-big-play/",
-        "source": "The Decoder",
-        "publishedAt": "2026-08-28T08:03:22.000Z",
-        "summary": "OpenAI is building a \"Persistent Mode\" for its AI agent Codex that stays active indefinitely and generates its own follow-up tasks. WIRED found the relevant cod"
       },
       {
         "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -3578,13 +3599,6 @@ window.SITE_DATA = {
         "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversatio"
       },
       {
-        "title": "Adobe is adding more AI to Photoshop",
-        "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-        "source": "The Verge AI",
-        "publishedAt": "2026-08-27T13:00:00.000Z",
-        "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Ed"
-      },
-      {
         "title": "Piloting the world's first double-blind AI evaluations",
         "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
         "source": "Google DeepMind Blog",
@@ -3627,25 +3641,11 @@ window.SITE_DATA = {
         "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
       },
       {
-        "title": "Nvidia closes in on Hugging Face acquisition",
-        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-27T06:32:51.000Z",
-        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire"
-      },
-      {
         "title": "Expanding OpenAI’s presence in Brazil",
         "url": "https://openai.com/index/expanding-our-presence-in-brazil",
         "source": "OpenAI News",
         "publishedAt": "2026-08-27T03:00:00.000Z",
         "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
-      },
-      {
-        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-        "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-08-27T00:24:57.000Z",
-        "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
       },
       {
         "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
