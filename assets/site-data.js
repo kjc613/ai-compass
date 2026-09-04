@@ -3232,8 +3232,267 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-09-03T00:50:51.991Z",
+    "updatedAt": "2026-09-04T00:31:17.544Z",
     "items": [
+      {
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T19:36:29.000Z",
+        "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
+      },
+      {
+        "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+        "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T19:25:40.000Z",
+        "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, co"
+      },
+      {
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T18:37:57.000Z",
+        "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately im"
+      },
+      {
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T18:19:56.000Z",
+        "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"co"
+      },
+      {
+        "title": "Pangram's biggest flaw is users turning its scores into public shaming",
+        "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T18:07:26.000Z",
+        "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably "
+      },
+      {
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T18:01:45.000Z",
+        "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+      },
+      {
+        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T18:00:00.000Z",
+        "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software"
+      },
+      {
+        "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:16:28.000Z",
+        "summary": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference"
+      },
+      {
+        "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+        "url": "https://langchain-ai.github.io/langgraph/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:14:12.000Z",
+        "summary": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCor"
+      },
+      {
+        "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+        "url": "https://www.gartner.com/en/newsroom/press-releases/2026-05-19-gartner-survey-finds-ai-saves-sellers-nearly-five-hours-per-week-yet-seventy-two-percent-of-sales-organizations-fail-to-reinvest-time-in-high-value-activities",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:11:57.000Z",
+        "summary": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-e"
+      },
+      {
+        "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+        "url": "https://github.com/openai-on-aws/guidance-codex/tree/feat/enterprise-gateway-readiness",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:10:39.000Z",
+        "summary": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route request"
+      },
+      {
+        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+        "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T16:09:01.000Z",
+        "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others."
+      },
+      {
+        "title": "Best practices for building agentic automations with Amazon Quick Automate",
+        "url": "https://aws.amazon.com/quick/automate/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:08:28.000Z",
+        "summary": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing f"
+      },
+      {
+        "title": "Embed Quick Sight visuals using Cognito user authentication",
+        "url": "https://docs.aws.amazon.com/quick/latest/userguide/what-is.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-03T16:01:56.000Z",
+        "summary": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authenticat"
+      },
+      {
+        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T16:00:00.000Z",
+        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Olla"
+      },
+      {
+        "title": "Google now lets you chat with Gmail, Docs, and Keep",
+        "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T16:00:00.000Z",
+        "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversatio"
+      },
+      {
+        "title": "ChatGPT, Grok, and Claude all went down at the same time",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T15:35:14.000Z",
+        "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET"
+      },
+      {
+        "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-09-03T15:02:08.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+        "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T15:00:00.000Z",
+        "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather informat"
+      },
+      {
+        "title": "Google says its AI weather model is getting better",
+        "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T15:00:00.000Z",
+        "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announce"
+      },
+      {
+        "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
+        "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T14:25:37.000Z",
+        "summary": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 comp"
+      },
+      {
+        "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
+        "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T14:15:28.000Z",
+        "summary": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a "
+      },
+      {
+        "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
+        "url": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T14:13:09.000Z",
+        "summary": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out t"
+      },
+      {
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-03T13:15:00.000Z",
+        "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+      },
+      {
+        "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-09-03T13:13:48.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-03T12:42:45.000Z",
+        "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+      },
+      {
+        "title": "Nvidia is buying Hugging Face for almost $13 billion",
+        "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-03T12:12:06.000Z",
+        "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools unde"
+      },
+      {
+        "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
+        "url": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T12:00:56.000Z",
+        "summary": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the cus"
+      },
+      {
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-03T12:00:00.000Z",
+        "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow"
+      },
+      {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-03T12:00:00.000Z",
+        "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+      },
+      {
+        "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+        "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T11:45:41.000Z",
+        "summary": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmark"
+      },
+      {
+        "title": "Scaling agentic AI pilots across the enterprise",
+        "url": "https://technologyreview.tradepub.com/free/w_defa11589/prgm.cgi",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-03T09:30:32.000Z",
+        "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and da"
+      },
+      {
+        "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
+        "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-03T08:22:02.000Z",
+        "summary": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider. The article Anthropic ramps up Claude infrastructure with "
+      },
+      {
+        "title": "Safety overview: GPT-6 Astra",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+      },
+      {
+        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Give Your Coding Agents a Memory You Own",
+        "url": "https://huggingface.co/blog/funes",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
         "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -3296,13 +3555,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-09-02T18:21:20.000Z",
         "summary": "Business intelligence dashboards can fail silently, showing blank, stale, or wrong data even when every infrastructure monitor reports healthy. Learn how an AWS"
-      },
-      {
-        "title": "From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-02T18:18:47.000Z",
-        "summary": "Learn how a global interdealer broker built an automated architecture documentation pipeline on Amazon Bedrock AgentCore that analyzes .NET code bases, generate"
       },
       {
         "title": "Trinity: Agentic AI-powered transition planning for students with disabilities",
@@ -3389,13 +3641,6 @@ window.SITE_DATA = {
         "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
       },
       {
-        "title": "Google is sending MrBeast into the wilderness, armed with AI",
-        "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-02T15:47:03.000Z",
-        "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a"
-      },
-      {
         "title": "Proactive cyber defense for governments and enterprises",
         "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
         "source": "Google AI Blog",
@@ -3408,251 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-09-02T15:01:23.000Z",
         "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-      },
-      {
-        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-        "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-02T14:56:34.000Z",
-        "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the reta"
-      },
-      {
-        "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
-        "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-02T14:40:51.000Z",
-        "summary": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government. The article US military adds ChatGPT and Grok"
-      },
-      {
-        "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-02T14:35:03.000Z",
-        "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tum"
-      },
-      {
-        "title": "NYC bans AI use for students until they reach high school",
-        "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-02T14:30:00.000Z",
-        "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, e"
-      },
-      {
-        "title": "Protests against AI data centers play into China's hands, Trump says",
-        "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-02T14:23:51.000Z",
-        "summary": "President Trump has pushed back hard against growing opposition to AI data centers across the US. The article Protests against AI data centers play into China's"
-      },
-      {
-        "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
-        "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-02T14:20:28.000Z",
-        "summary": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring"
-      },
-      {
-        "title": "Adobe acquires Indian market intelligence startup Rilo",
-        "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-02T14:03:57.000Z",
-        "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
-      },
-      {
-        "title": "Facilitating AI integration with simplicity at scale",
-        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-02T14:00:00.000Z",
-        "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tool"
-      },
-      {
-        "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-09-02T13:49:14.000Z",
-        "summary": ""
-      },
-      {
-        "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
-        "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-02T12:28:36.000Z",
-        "summary": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few ima"
-      },
-      {
-        "title": "The Download: AI puzzles and a path to our nearest star system",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-02T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these i"
-      },
-      {
-        "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-        "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-02T12:09:42.000Z",
-        "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though ev"
-      },
-      {
-        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "url": "https://openai.com/index/atv-big-air-tour",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-02T12:00:00.000Z",
-        "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-      },
-      {
-        "title": "Google Gemini's new agent-based video analysis cuts token usage by up to 88 percent",
-        "url": "https://the-decoder.com/google-geminis-new-agent-based-video-analysis-cuts-token-usage-by-up-to-88-percent/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-02T08:21:38.000Z",
-        "summary": "Google is adding agent-based video analysis to Gemini 3.7 Flash, 3.6 Flash, and 3.5 Flash-Lite. Instead of scanning videos frame by frame at a fixed rate, the m"
-      },
-      {
-        "title": "Google needs Hollywood more than the studios need AI",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-01T22:50:29.000Z",
-        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI mo"
-      },
-      {
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T22:08:24.000Z",
-        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at"
-      },
-      {
-        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-01T22:01:36.000Z",
-        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The co"
-      },
-      {
-        "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "url": "https://huggingface.co/blog/allenai/benchmirt",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-09-01T21:39:07.000Z",
-        "summary": ""
-      },
-      {
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T21:06:24.000Z",
-        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
-      },
-      {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T20:53:05.000Z",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to "
-      },
-      {
-        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-01T20:45:49.000Z",
-        "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Ast"
-      },
-      {
-        "title": "The latest AI news we announced in August 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-01T20:45:00.000Z",
-        "summary": "Here are Google’s latest AI updates from August 2026"
-      },
-      {
-        "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
-        "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-01T20:40:36.000Z",
-        "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requ"
-      },
-      {
-        "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
-        "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-01T20:32:55.000Z",
-        "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and impr"
-      },
-      {
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T19:39:22.000Z",
-        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
-      },
-      {
-        "title": "Introducing Claude Fable 5.1 on AWS",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-01T19:12:43.000Z",
-        "summary": "Claude Fable 5.1 is now available on Amazon Bedrock and Claude Platform on AWS. This post covers Claude Fable 5.1's improvements, the Enterprise Frontier Safegu"
-      },
-      {
-        "title": "How AI plotted an interstellar journey to Alpha Centauri",
-        "url": "https://www.youtube.com/watch?v=PnlvzNy2uUQ&feature=youtu.be",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-01T19:10:36.000Z",
-        "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029."
-      },
-      {
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T17:35:37.000Z",
-        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
-      },
-      {
-        "title": "Introducing agentic video understanding with Gemini",
-        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-09-01T17:08:51.000Z",
-        "summary": ""
-      },
-      {
-        "title": "How AI-native companies turn workflows into operating capability",
-        "url": "https://openai.com/index/ai-native-company-workflows",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-01T17:00:00.000Z",
-        "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-      },
-      {
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T17:00:00.000Z",
-        "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
-      },
-      {
-        "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
-        "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-01T16:49:11.000Z",
-        "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the "
-      },
-      {
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-01T16:31:04.000Z",
-        "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
-      },
-      {
-        "title": "From theory to delivery: How Atos upskilled 400 engineers in agentic AI",
-        "url": "https://aws.amazon.com/partners/atos/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-01T16:17:54.000Z",
-        "summary": "When Atos set out to upskill 400 engineers in agentic AI, hands-on learning was the missing ingredient. Over three days, engineers built multi-agent systems on "
-      },
-      {
-        "title": "Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock",
-        "url": "https://www.jamf.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-01T16:03:41.000Z",
-        "summary": "As generative AI adoption scales, cost governance becomes a top challenge. Learn how Jamf built real-time, per-user spend enforcement for Amazon Bedrock using I"
       }
     ]
   }
