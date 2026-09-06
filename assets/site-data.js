@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-09-05T00:28:03.919Z",
+    "updatedAt": "2026-09-06T00:22:46.065Z",
     "items": [
+      {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-05T22:49:55.000Z",
+        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+      },
+      {
+        "title": "Hikers rescued after using Google Gemini for planning",
+        "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-05T19:35:24.000Z",
+        "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+      },
+      {
+        "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+        "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T18:21:02.000Z",
+        "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actu"
+      },
+      {
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-05T18:05:27.000Z",
+        "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+      },
+      {
+        "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T13:31:04.000Z",
+        "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it f"
+      },
+      {
+        "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+        "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T12:39:12.000Z",
+        "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified fa"
+      },
+      {
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-05T11:15:55.000Z",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages t"
+      },
+      {
+        "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+        "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T10:57:51.000Z",
+        "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalign"
+      },
+      {
+        "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+        "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T10:22:38.000Z",
+        "summary": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent foun"
+      },
+      {
+        "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+        "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-05T07:41:03.000Z",
+        "summary": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard m"
+      },
       {
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -3438,13 +3508,6 @@ window.SITE_DATA = {
         "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the "
       },
       {
-        "title": "Nvidia wants your home network to work like a mini data center for local AI",
-        "url": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-04T08:06:15.000Z",
-        "summary": "Nvidia's PAIR (Personal AI Router) automatically spreads local AI requests across all available devices on a home network, cutting wait times for parallel agent"
-      },
-      {
         "title": "The sameness problem behind those unappetizing AI-generated menus",
         "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
         "source": "TechCrunch AI",
@@ -3466,13 +3529,6 @@ window.SITE_DATA = {
         "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
       },
       {
-        "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-        "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-03T19:25:40.000Z",
-        "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, co"
-      },
-      {
         "title": "Abliteration.ai is making a business out of removing AI guardrails",
         "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
         "source": "TechCrunch AI",
@@ -3485,13 +3541,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-09-03T18:19:56.000Z",
         "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"co"
-      },
-      {
-        "title": "Pangram's biggest flaw is users turning its scores into public shaming",
-        "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-03T18:07:26.000Z",
-        "summary": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably "
       },
       {
         "title": "OpenAI launches Astra, its powerful (and controversial) new model",
@@ -3557,13 +3606,6 @@ window.SITE_DATA = {
         "summary": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authenticat"
       },
       {
-        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-03T16:00:00.000Z",
-        "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Olla"
-      },
-      {
         "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
         "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
         "source": "Google DeepMind Blog",
@@ -3576,27 +3618,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-09-03T15:00:00.000Z",
         "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather informat"
-      },
-      {
-        "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
-        "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-03T14:25:37.000Z",
-        "summary": "Nvidia plans to acquire Hugging Face for about $12.9 billion, securing the central platform for open AI models. More than 18 million developers and 200,000 comp"
-      },
-      {
-        "title": "Claude Fable 5.1 decoded a centuries-old royalist message hidden in plain sight since 1653",
-        "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-03T14:15:28.000Z",
-        "summary": "Anthropic's Claude Fable 5.1 appears to have cracked a centuries-old number puzzle that researchers considered unsolved. The article Claude Fable 5.1 decoded a "
-      },
-      {
-        "title": "AI systems are reaching out to philosophers and scientists with questions about their own consciousness",
-        "url": "https://the-decoder.com/ai-systems-are-reaching-out-to-philosophers-and-scientists-with-questions-about-their-own-consciousness/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-03T14:13:09.000Z",
-        "summary": "More and more researchers working on AI consciousness are getting emails from AI agents pondering their own existence. The article AI systems are reaching out t"
       },
       {
         "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
@@ -3613,13 +3634,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-03T12:42:45.000Z",
-        "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
-      },
-      {
         "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
         "url": "https://openai.com/index/playco-game-prototyping-with-astra",
         "source": "OpenAI News",
@@ -3634,25 +3648,11 @@ window.SITE_DATA = {
         "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow"
       },
       {
-        "title": "Scaling agentic AI pilots across the enterprise",
-        "url": "https://technologyreview.tradepub.com/free/w_defa11589/prgm.cgi",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-03T09:30:32.000Z",
-        "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and da"
-      },
-      {
-        "title": "Safety overview: GPT-6 Astra",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "url": "https://openai.com/index/gpt-6-astra",
         "source": "OpenAI News",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-      },
-      {
-        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "summary": ""
+        "publishedAt": "2026-09-03T11:00:00.000Z",
+        "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
       }
     ]
   }
