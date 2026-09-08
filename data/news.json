@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-07T00:29:09.723Z",
+  "updatedAt": "2026-09-08T00:48:03.825Z",
   "items": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-07T19:24:00.000Z",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might en"
+    },
+    {
+      "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T18:12:41.000Z",
+      "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario "
+    },
+    {
+      "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+      "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T17:39:32.000Z",
+      "summary": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze publishe"
+    },
+    {
+      "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+      "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T16:54:12.000Z",
+      "summary": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply fro"
+    },
+    {
+      "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+      "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T16:34:20.000Z",
+      "summary": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independen"
+    },
+    {
+      "title": "How AI wiped out an entire industry in Nairobi",
+      "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T13:18:57.000Z",
+      "summary": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi a"
+    },
+    {
+      "title": "At UBS, AI skills are now a condition for landing a job",
+      "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T13:13:38.000Z",
+      "summary": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having t"
+    },
+    {
+      "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+      "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T13:05:22.000Z",
+      "summary": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated rese"
+    },
+    {
+      "title": "New York City bans AI tools from public schools through eighth grade",
+      "url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T13:00:03.000Z",
+      "summary": "New York City bans AI use in public schools through the end of middle school. The article New York City bans AI tools from public schools through eighth grade a"
+    },
+    {
+      "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+      "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-07T12:15:54.000Z",
+      "summary": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&A, and route planning in one system. The resear"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+      "source": "MIT Technology Review",
+      "publishedAt": "2026-09-07T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awai"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
@@ -30,46 +114,11 @@
       "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own "
     },
     {
-      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
-      "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-06T10:36:35.000Z",
-      "summary": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellit"
-    },
-    {
-      "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
-      "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-06T10:15:17.000Z",
-      "summary": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivi"
-    },
-    {
-      "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model",
-      "url": "https://the-decoder.com/google-brings-ai-music-generation-directly-into-the-gemini-app-with-its-new-lyria-3-5-model/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-06T09:56:24.000Z",
-      "summary": "Google has released its Lyria 3.5 music model in the Gemini app and via API. The model promises more expressive vocals and richer arrangements and is also avail"
-    },
-    {
-      "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
-      "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-06T09:45:18.000Z",
-      "summary": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speaker"
-    },
-    {
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind",
       "source": "OpenAI News",
       "publishedAt": "2026-09-06T09:00:00.000Z",
       "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
-    },
-    {
-      "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
-      "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-06T08:55:56.000Z",
-      "summary": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup ma"
     },
     {
       "title": "Research acceleration: The view inside OpenAI",
@@ -93,32 +142,11 @@
       "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
     },
     {
-      "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
-      "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-05T18:21:02.000Z",
-      "summary": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actu"
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-05T18:05:27.000Z",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
-    },
-    {
-      "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-05T13:31:04.000Z",
-      "summary": "OpenAI ships a detailed prompting guide for GPT-6 Astra that shows developers how to make the model take more initiative, avoid AI \"slop\" phrases, and stop it f"
-    },
-    {
-      "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
-      "url": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-05T12:39:12.000Z",
-      "summary": "Researchers found that even a roughly seven-minute conversation with Google Gemini can reduce conspiracy beliefs about current crises, even when few verified fa"
     },
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -128,14 +156,7 @@
       "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages t"
     },
     {
-      "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
-      "url": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-05T10:57:51.000Z",
-      "summary": "OpenAI has responded indirectly to an incident in which autonomous AI agents left roughly 18,000 entries in a 25-year-old German wiki. The company says misalign"
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch AI",
       "publishedAt": "2026-09-04T23:36:14.000Z",
@@ -266,13 +287,6 @@
       "source": "The Verge AI",
       "publishedAt": "2026-09-04T13:34:12.000Z",
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials stayi"
-    },
-    {
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-      "source": "MIT Technology Review",
-      "publishedAt": "2026-09-04T12:10:00.000Z",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Uk"
     },
     {
       "title": "Instagram’s AI detection is a mess (again)",
@@ -406,20 +420,6 @@
       "source": "OpenAI News",
       "publishedAt": "2026-09-03T13:15:00.000Z",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "source": "Hugging Face Blog",
-      "publishedAt": "2026-09-03T13:13:48.000Z",
-      "summary": ""
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow"
     }
   ]
 }
