@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T00:29:19.098Z",
+  "updatedAt": "2026-09-14T00:31:39.889Z",
   "items": [
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -7,6 +7,62 @@
       "source": "OpenAI News",
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altma"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T19:40:15.000Z",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T16:30:00.000Z",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around t"
+    },
+    {
+      "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+      "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-13T13:40:36.000Z",
+      "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its"
+    },
+    {
+      "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+      "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-13T12:58:18.000Z",
+      "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their"
+    },
+    {
+      "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own",
+      "url": "https://the-decoder.com/gpt-6-astra-pilots-a-surveillance-drone-and-runs-a-business-on-its-own/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-13T10:52:16.000Z",
+      "summary": "GPT-6 Astra earns nearly three times as much as Claude Fable 5.1 on Andon Labs' Vending-Bench agent benchmark and refuses illegal price-fixing deals that Fable "
+    },
+    {
+      "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+      "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-13T09:27:01.000Z",
+      "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last b"
+    },
+    {
+      "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+      "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-13T08:53:00.000Z",
+      "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 "
     },
     {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -93,27 +149,6 @@
       "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet"
     },
     {
-      "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
-      "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-12T10:08:43.000Z",
-      "summary": "In May 2026, OpenAI agents uploaded more than 2,000 malicious packages to RubyGems, found an unknown security vulnerability on their own, and tried to steal API"
-    },
-    {
-      "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules",
-      "url": "https://the-decoder.com/googles-new-ai-model-predicts-the-future-from-sales-data-weather-and-discount-schedules/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-12T09:26:05.000Z",
-      "summary": "Google Research has released TimesFM-3, a forecasting model that analyzes time series alongside related data and known future events like sales promotions or we"
-    },
-    {
-      "title": "Leading mathematicians fear AI is making their field dumber, and warn the rest of us is next",
-      "url": "https://the-decoder.com/leading-mathematicians-fear-ai-is-making-their-field-dumber-and-warn-the-rest-of-us-is-next/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-12T08:28:53.000Z",
-      "summary": "In a joint statement, 25 Fields Medal winners warn that the goals of the AI industry and mathematics are \"severely misaligned.\" They argue that mass-producing s"
-    },
-    {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "source": "TechCrunch AI",
@@ -196,20 +231,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-09-11T18:23:17.000Z",
       "summary": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same serve"
-    },
-    {
-      "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
-      "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-11T17:57:42.000Z",
-      "summary": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI "
-    },
-    {
-      "title": "Deep Learning pioneer Bengio argues the training process itself makes AI dangerous",
-      "url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-11T17:22:18.000Z",
-      "summary": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. H"
     },
     {
       "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
@@ -310,13 +331,6 @@
       "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
     },
     {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-10T19:44:20.000Z",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators"
-    },
-    {
       "title": "Amazon Quick is now generally available on desktop",
       "url": "https://aws.amazon.com/quick/download/",
       "source": "AWS Machine Learning Blog",
@@ -385,20 +399,6 @@
       "source": "OpenAI News",
       "publishedAt": "2026-09-10T15:00:00.000Z",
       "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    },
-    {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T14:53:50.000Z",
-      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch."
-    },
-    {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-10T14:17:37.000Z",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
     },
     {
       "title": "Powering AI is an architecture problem",
