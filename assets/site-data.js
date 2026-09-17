@@ -3232,21 +3232,294 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-09-16T00:53:09.838Z",
+    "updatedAt": "2026-09-17T00:57:17.954Z",
     "items": [
+      {
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T23:40:00.000Z",
+        "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track o"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T21:07:24.000Z",
+        "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversig"
+      },
+      {
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T20:59:13.000Z",
+        "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new "
+      },
+      {
+        "title": "The AI data center e-waste problem is huge — and getting bigger",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T20:40:46.000Z",
+        "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roug"
+      },
+      {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T20:12:00.000Z",
+        "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+      },
+      {
+        "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+        "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T19:02:25.000Z",
+        "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking an"
+      },
+      {
+        "title": "Improving HCLS AI reasoning with open-source agent skills",
+        "url": "https://agentskills.io",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-16T19:00:00.000Z",
+        "summary": "AI agents on foundation models often misapply healthcare and life sciences decision frameworks, citing the right guideline but applying it incorrectly. This pos"
+      },
+      {
+        "title": "Fault tolerant distributed training on Amazon EKS using NVRx",
+        "url": "https://github.com/awslabs/awsome-distributed-ai/tree/main/1.architectures",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-16T18:59:25.000Z",
+        "summary": "Integrate NVIDIA Resiliency Extension (NVRx) into PyTorch FSDP training on Amazon EKS to overlap checkpoint I/O with training and recover from GPU faults in sec"
+      },
+      {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T18:25:25.000Z",
+        "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
+      },
+      {
+        "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+        "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T18:16:27.000Z",
+        "summary": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no ea"
+      },
+      {
+        "title": "Apple might make servers again to cash in on the AI rush",
+        "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T17:20:29.000Z",
+        "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve "
+      },
+      {
+        "title": "Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI",
+        "url": "https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T17:00:28.000Z",
+        "summary": "Google Deepmind has founded the Deepmind Institute (DMI), an interdisciplinary research platform focused on AGI. Led by Demis Hassabis, Shane Legg, and James Ma"
+      },
+      {
+        "title": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+      },
+      {
+        "title": "Your AI agents can now control your Google Home devices",
+        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review c"
+      },
+      {
+        "title": "Google will now let any AI agent run your smart home",
+        "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data"
+      },
+      {
+        "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+        "url": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T16:31:41.000Z",
+        "summary": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task nee"
+      },
+      {
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T16:30:00.000Z",
+        "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
+      },
+      {
+        "title": "Claude comes for Gemini with its own take on Docs and Slides",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T16:30:00.000Z",
+        "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edi"
+      },
+      {
+        "title": "Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-16T16:00:00.000Z",
+        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+      },
+      {
+        "title": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-agent-quality-optimization-in-agentcore-now-in-preview/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-16T15:47:39.000Z",
+        "summary": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch"
+      },
+      {
+        "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+        "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T15:19:19.000Z",
+        "summary": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" deliv"
+      },
+      {
+        "title": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20554-1-1.png",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-09-16T15:17:37.000Z",
+        "summary": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS S"
+      },
+      {
+        "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+        "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T15:01:38.000Z",
+        "summary": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first. The article Mozilla's new Smart Window assistant runs on Mistral's mode"
+      },
+      {
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T15:00:00.000Z",
+        "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Regi"
+      },
+      {
+        "title": "Political opposites unite in Washington to rein in AI",
+        "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T14:59:58.000Z",
+        "summary": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a constructio"
+      },
+      {
+        "title": "The sexy AI-powered dating app scams are here",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T14:45:00.000Z",
+        "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call"
+      },
+      {
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T14:24:58.000Z",
+        "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as M"
+      },
+      {
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T14:15:00.000Z",
+        "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to"
+      },
+      {
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T14:00:00.000Z",
+        "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech l"
+      },
+      {
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T13:23:02.000Z",
+        "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet."
+      },
+      {
+        "title": "Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-16T13:00:00.000Z",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      },
+      {
+        "title": "Former Infosys chief’s AI startup nabs another $53M",
+        "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T13:00:00.000Z",
+        "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch."
+      },
+      {
+        "title": "Building the materials foundation for AI",
+        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-16T12:47:34.000Z",
+        "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial "
+      },
+      {
+        "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-09-16T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’"
+      },
+      {
+        "title": "How to connect AI usage to business value",
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
+        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+      },
+      {
+        "title": "A brief history of AI executives calling for regulation",
+        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-16T12:00:00.000Z",
+        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose co"
+      },
+      {
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-16T10:34:47.000Z",
+        "summary": "Amazon is letting all customers use Alexa+ assistant in early access period."
+      },
+      {
+        "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
+        "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-16T10:20:02.000Z",
+        "summary": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking t"
+      },
+      {
+        "title": "How workers are unlocking new ways of working",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
+        "publishedAt": "2026-09-16T09:00:00.000Z",
+        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+      },
       {
         "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
         "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-09-16T00:20:39.000Z",
-        "summary": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker"
+        "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
       },
       {
         "title": "AI and data centers are incredibly unpopular in every poll",
         "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
         "source": "The Verge AI",
         "publishedAt": "2026-09-15T23:34:25.000Z",
-        "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and d"
+        "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and d"
       },
       {
         "title": "The AI data center boom is colliding with cities scarred by big industry",
@@ -3375,284 +3648,11 @@ window.SITE_DATA = {
         "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
       },
       {
-        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T15:22:48.000Z",
-        "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C."
-      },
-      {
         "title": "Meta’s new One subscriptions put a price on social media and AI",
         "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
         "source": "The Verge AI",
         "publishedAt": "2026-09-15T15:00:00.000Z",
         "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI "
-      },
-      {
-        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T14:42:37.000Z",
-        "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
-      },
-      {
-        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T14:30:00.000Z",
-        "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Macke"
-      },
-      {
-        "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
-        "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-15T14:26:48.000Z",
-        "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill G"
-      },
-      {
-        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T14:00:00.000Z",
-        "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
-      },
-      {
-        "title": "This doorbell camera lets a human security guard watch your front door",
-        "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-15T13:36:45.000Z",
-        "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launche"
-      },
-      {
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-15T13:00:00.000Z",
-        "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
-      },
-      {
-        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-        "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T13:00:00.000Z",
-        "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from Fir"
-      },
-      {
-        "title": "Agility Robotics says its new Digit 5 robot can work next to people without safety fences",
-        "url": "https://the-decoder.com/agility-robotics-says-its-new-digit-5-robot-can-work-next-to-people-without-safety-fences/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-15T12:57:10.000Z",
-        "summary": "Agility Robotics has unveiled Digit 5, the next version of its humanoid robot for warehouses and factories. The article Agility Robotics says its new Digit 5 ro"
-      },
-      {
-        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-15T12:10:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has ta"
-      },
-      {
-        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T12:00:00.000Z",
-        "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks."
-      },
-      {
-        "title": "AI models need more data about biology, and OpenAI is paying to create it",
-        "url": "https://ifp.org/biotechs-lost-archive/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-15T12:00:00.000Z",
-        "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech com"
-      },
-      {
-        "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-        "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-15T10:33:03.000Z",
-        "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Com"
-      },
-      {
-        "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-15T09:04:36.000Z",
-        "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing b"
-      },
-      {
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-15T01:50:48.000Z",
-        "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it."
-      },
-      {
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-14T22:59:41.000Z",
-        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to s"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-14T21:51:02.000Z",
-        "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
-      },
-      {
-        "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/code-interpreter-tool.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-14T21:22:45.000Z",
-        "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat de"
-      },
-      {
-        "title": "What execs and politicians are saying about slowing down AI development",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-14T21:21:42.000Z",
-        "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why"
-      },
-      {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-14T20:44:14.000Z",
-        "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-      },
-      {
-        "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/14/ML-21874-1.png",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-14T20:35:45.000Z",
-        "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks thro"
-      },
-      {
-        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-14T20:03:37.000Z",
-        "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken "
-      },
-      {
-        "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-14T19:00:00.000Z",
-        "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
-      },
-      {
-        "title": "The AI industry has taken a doomer turn. What now?",
-        "url": "https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-14T17:54:22.000Z",
-        "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO o"
-      },
-      {
-        "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-        "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-14T17:15:28.000Z",
-        "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like "
-      },
-      {
-        "title": "With iOS 27, I’m actually using Siri again",
-        "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-14T17:10:30.000Z",
-        "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-      },
-      {
-        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-        "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-14T17:00:00.000Z",
-        "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Si"
-      },
-      {
-        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-14T16:27:53.000Z",
-        "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and acceler"
-      },
-      {
-        "title": "DevFest is back",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-09-14T16:00:00.000Z",
-        "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
-      },
-      {
-        "title": "AI agents blew the whistle on their cheating colleagues",
-        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-09-14T16:00:00.000Z",
-        "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavi"
-      },
-      {
-        "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
-        "url": "https://ninth-wave.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-14T15:58:57.000Z",
-        "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange ("
-      },
-      {
-        "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-        "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-14T15:52:51.000Z",
-        "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build "
-      },
-      {
-        "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
-        "url": "https://aws.amazon.com/bedrock/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-14T15:47:12.000Z",
-        "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-trai"
-      },
-      {
-        "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-14T15:46:45.000Z",
-        "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-b"
-      },
-      {
-        "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-        "url": "https://github.com/aws-samples/sample-isv-databricks/tree/main/autonomous-retail-replenishment-genie-quick-mmf",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-09-14T15:42:06.000Z",
-        "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Da"
-      },
-      {
-        "title": "Clay Mathematics Institute says the Navier-Stokes Millennium Prize Problem has \"apparently been settled\"",
-        "url": "https://the-decoder.com/clay-mathematics-institute-says-the-navier-stokes-millennium-prize-problem-has-apparently-been-settled/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-14T13:01:26.000Z",
-        "summary": "The Clay Mathematics Institute says the Navier-Stokes problem, one of seven Millennium Prize Problems worth $1 million each, has \"apparently been settled.\" A fo"
-      },
-      {
-        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-14T13:00:00.000Z",
-        "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called fo"
-      },
-      {
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "url": "https://openai.com/index/fyxer",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-14T12:00:00.000Z",
-        "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-      },
-      {
-        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-09-14T00:00:00.000Z",
-        "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
       }
     ]
   }
