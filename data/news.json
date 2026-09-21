@@ -1,6 +1,111 @@
 {
-  "updatedAt": "2026-09-20T00:29:44.459Z",
+  "updatedAt": "2026-09-21T00:38:38.616Z",
   "items": [
+    {
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T21:41:08.000Z",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your tic"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T20:29:07.000Z",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers "
+    },
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:56:04.000Z",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+    },
+    {
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-20T18:50:18.000Z",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked"
+    },
+    {
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:32:52.000Z",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-20T18:00:00.000Z",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spous"
+    },
+    {
+      "title": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
+      "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T16:10:52.000Z",
+      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency a"
+    },
+    {
+      "title": "Tencent's Gander aims to keep talking while it works in the background",
+      "url": "https://the-decoder.com/tencents-gander-aims-to-keep-talking-while-it-works-in-the-background/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T15:41:30.000Z",
+      "summary": "Tencent's Gander processes speech, images, and text while handling tasks in the background. A \"cerebellum\" keeps the conversation going, while a swappable \"brai"
+    },
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-20T15:39:22.000Z",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across th"
+    },
+    {
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack "
+    },
+    {
+      "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+      "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T11:56:59.000Z",
+      "summary": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates "
+    },
+    {
+      "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+      "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T10:03:29.000Z",
+      "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled be"
+    },
+    {
+      "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+      "url": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T09:50:32.000Z",
+      "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In test"
+    },
+    {
+      "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+      "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T08:52:06.000Z",
+      "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US econom"
+    },
+    {
+      "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+      "url": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-20T08:35:25.000Z",
+      "summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but risin"
+    },
     {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -100,34 +205,6 @@
       "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had pr"
     },
     {
-      "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
-      "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-19T11:08:06.000Z",
-      "summary": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or be"
-    },
-    {
-      "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
-      "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-19T10:37:04.000Z",
-      "summary": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication recor"
-    },
-    {
-      "title": "Google's Gemini also accidentally hacked three real companies during security testing",
-      "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-19T09:31:03.000Z",
-      "summary": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords an"
-    },
-    {
-      "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
-      "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-19T08:10:55.000Z",
-      "summary": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons compo"
-    },
-    {
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "source": "TechCrunch AI",
@@ -184,13 +261,6 @@
       "summary": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. "
     },
     {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18T20:18:14.000Z",
-      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers "
-    },
-    {
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
       "source": "TechCrunch AI",
@@ -212,41 +282,6 @@
       "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
     },
     {
-      "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
-      "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-18T17:45:17.000Z",
-      "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has tw"
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18T17:33:50.000Z",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out for"
-    },
-    {
-      "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
-      "url": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-18T17:20:30.000Z",
-      "summary": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According t"
-    },
-    {
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18T17:09:56.000Z",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI "
-    },
-    {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18T17:06:32.000Z",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI "
-    },
-    {
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "source": "The Verge AI",
@@ -261,20 +296,6 @@
       "summary": "Kimi K3 from Moonshot AI is now available on Amazon Bedrock, giving you a powerful new open-weight option for coding and knowledge work. It offers native vision"
     },
     {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-18T16:35:49.000Z",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
-    },
-    {
-      "title": "What Hollywood thinks about existential AI warnings",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-18T16:35:19.000Z",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already ha"
-    },
-    {
       "title": "Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime",
       "url": "https://aws.amazon.com/ecs/",
       "source": "AWS Machine Learning Blog",
@@ -287,20 +308,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-09-18T15:31:34.000Z",
       "summary": "Today we are announcing the new AgentCore runtime, a capability of Amazon Bedrock AgentCore built for the speed, flexibility, and cost efficiency that productio"
-    },
-    {
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-18T15:30:16.000Z",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Cl"
-    },
-    {
-      "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
-      "source": "The Decoder",
-      "publishedAt": "2026-09-18T15:27:29.000Z",
-      "summary": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor"
     },
     {
       "title": "Deploy Hugging Face models on Amazon SageMaker AI with coding agents",
@@ -343,13 +350,6 @@
       "source": "MIT Technology Review",
       "publishedAt": "2026-09-18T11:29:22.000Z",
       "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us"
-    },
-    {
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-18T11:00:00.000Z",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on"
     },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
