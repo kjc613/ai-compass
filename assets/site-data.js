@@ -3232,8 +3232,99 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-09-27T01:00:26.207Z",
+    "updatedAt": "2026-09-28T01:17:44.261Z",
     "items": [
+      {
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-27T20:46:36.000Z",
+        "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle"
+      },
+      {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-27T20:34:28.000Z",
+        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+      },
+      {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-27T19:57:30.000Z",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+      },
+      {
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "source": "The Verge AI",
+        "publishedAt": "2026-09-27T17:21:07.000Z",
+        "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times b"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-27T16:30:00.000Z",
+        "summary": "\"AI is the devil and I its maker.\""
+      },
+      {
+        "title": "AI agents do more of the work in model development, but humans still make the decisions",
+        "url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T15:18:39.000Z",
+        "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 per"
+      },
+      {
+        "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+        "url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T13:03:05.000Z",
+        "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI"
+      },
+      {
+        "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
+        "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T11:01:13.000Z",
+        "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a f"
+      },
+      {
+        "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
+        "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T10:59:11.000Z",
+        "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a spe"
+      },
+      {
+        "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
+        "url": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T10:36:29.000Z",
+        "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a sing"
+      },
+      {
+        "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning",
+        "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T09:23:36.000Z",
+        "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or "
+      },
+      {
+        "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates",
+        "url": "https://the-decoder.com/goldman-sachs-expects-big-tech-to-spend-1-2-trillion-on-ai-infrastructure-by-2027-dwarfing-wall-street-estimates/",
+        "source": "The Decoder",
+        "publishedAt": "2026-09-27T08:17:47.000Z",
+        "summary": "Goldman Sachs projects that Amazon, Alphabet, Microsoft, Oracle, and Meta will pour a combined $1.2 trillion into AI infrastructure in 2027, more than 50 percen"
+      },
+      {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-09-27T01:30:00.000Z",
+        "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+      },
       {
         "title": "Insurers claim AI is already increasing healthcare costs",
         "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -3282,27 +3373,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-09-26T14:00:00.000Z",
         "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on"
-      },
-      {
-        "title": "Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
-        "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-26T10:30:32.000Z",
-        "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environme"
-      },
-      {
-        "title": "OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
-        "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-26T09:44:54.000Z",
-        "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in Novemb"
-      },
-      {
-        "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-        "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-26T09:06:36.000Z",
-        "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down env"
       },
       {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
@@ -3354,13 +3424,6 @@ window.SITE_DATA = {
         "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
       },
       {
-        "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
-        "url": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-25T18:40:22.000Z",
-        "summary": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restr"
-      },
-      {
         "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
         "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
         "source": "TechCrunch AI",
@@ -3373,13 +3436,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-09-25T18:22:47.000Z",
         "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop"
-      },
-      {
-        "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
-        "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-25T17:55:51.000Z",
-        "summary": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI "
       },
       {
         "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
@@ -3401,13 +3457,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-09-25T16:49:53.000Z",
         "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under t"
-      },
-      {
-        "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
-        "url": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-25T16:30:57.000Z",
-        "summary": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in th"
       },
       {
         "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
@@ -3494,39 +3543,11 @@ window.SITE_DATA = {
         "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of "
       },
       {
-        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-        "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-25T15:00:00.000Z",
-        "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between"
-      },
-      {
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-25T14:15:00.000Z",
-        "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
-      },
-      {
-        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-        "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-25T14:00:00.000Z",
-        "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss y"
-      },
-      {
         "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
         "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
         "source": "The Verge AI",
         "publishedAt": "2026-09-25T13:00:00.000Z",
         "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ign"
-      },
-      {
-        "title": "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
-        "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
-        "source": "The Decoder",
-        "publishedAt": "2026-09-25T12:22:27.000Z",
-        "summary": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process moni"
       },
       {
         "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
@@ -3536,32 +3557,11 @@ window.SITE_DATA = {
         "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into "
       },
       {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-09-25T05:00:00.000Z",
-        "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-      },
-      {
         "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
         "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
         "source": "The Verge AI",
         "publishedAt": "2026-09-24T19:59:26.000Z",
         "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" w"
-      },
-      {
-        "title": "Jensen Huang talks about AI and climate change like a supervillain",
-        "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-24T18:04:44.000Z",
-        "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed t"
-      },
-      {
-        "title": "Meta is going to let you build games with AI right on your phone",
-        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-        "source": "The Verge AI",
-        "publishedAt": "2026-09-24T17:52:29.000Z",
-        "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create "
       },
       {
         "title": "Introducing Gemini 3.8 Live with Live Avatar",
