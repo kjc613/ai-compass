@@ -3232,8 +3232,113 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-03T01:33:01.189Z",
+    "updatedAt": "2026-10-04T02:13:59.438Z",
     "items": [
+      {
+        "title": "The Agent Said It Was Done. The Database Disagreed.",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-10-03T22:56:48.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+        "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T18:56:30.000Z",
+        "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meeti"
+      },
+      {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-03T18:43:57.000Z",
+        "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+      },
+      {
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-03T16:49:10.000Z",
+        "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 "
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-03T16:30:01.000Z",
+        "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job."
+      },
+      {
+        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-03T15:00:00.000Z",
+        "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have fou"
+      },
+      {
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-03T14:31:56.000Z",
+        "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaki"
+      },
+      {
+        "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+        "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T14:28:51.000Z",
+        "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. T"
+      },
+      {
+        "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+        "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T14:01:14.000Z",
+        "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally relea"
+      },
+      {
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-03T14:00:00.000Z",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      },
+      {
+        "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+        "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T10:21:23.000Z",
+        "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will "
+      },
+      {
+        "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+        "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T09:19:23.000Z",
+        "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle phys"
+      },
+      {
+        "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+        "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T08:31:04.000Z",
+        "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 per"
+      },
+      {
+        "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+        "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T08:06:35.000Z",
+        "summary": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected "
+      },
+      {
+        "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+        "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-03T07:12:09.000Z",
+        "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to re"
+      },
       {
         "title": "Meta wants your next gadget to be Muse-infused",
         "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -3289,13 +3394,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-02T19:15:51.000Z",
         "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
-      },
-      {
-        "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
-        "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T18:19:51.000Z",
-        "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it mo"
       },
       {
         "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -3417,13 +3515,6 @@ window.SITE_DATA = {
         "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will a"
       },
       {
-        "title": "Three firings and a fourth departure shake up OpenAI's safety team",
-        "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T12:51:08.000Z",
-        "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street J"
-      },
-      {
         "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
         "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
         "source": "MIT Technology Review",
@@ -3452,46 +3543,11 @@ window.SITE_DATA = {
         "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blo"
       },
       {
-        "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
-        "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T11:15:24.000Z",
-        "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they"
-      },
-      {
-        "title": "AI music maker Suno now generates spoken words",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-02T09:42:19.000Z",
-        "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now "
-      },
-      {
-        "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-        "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T09:20:39.000Z",
-        "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-s"
-      },
-      {
-        "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-        "url": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T09:09:21.000Z",
-        "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and payi"
-      },
-      {
         "title": "Don’t be fooled—LLMs don’t reason",
         "url": "https://vialogue.wordpress.com/2018/02/16/alphago-reflections-and-quotes/",
         "source": "MIT Technology Review",
         "publishedAt": "2026-10-02T08:00:00.000Z",
         "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human o"
-      },
-      {
-        "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-        "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T07:44:44.000Z",
-        "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, "
       },
       {
         "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -3529,13 +3585,6 @@ window.SITE_DATA = {
         "summary": "With Live Data in Apps in Amazon Quick, AI-built apps query your governed Quick Sight datasets in real time instead of static, build-time snapshots. Each query "
       },
       {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-01T19:47:51.000Z",
-        "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's "
-      },
-      {
         "title": "ChatGPT can now virtually try on clothes for you",
         "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
         "source": "TechCrunch AI",
@@ -3557,13 +3606,6 @@ window.SITE_DATA = {
         "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
       },
       {
-        "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
-        "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-01T18:03:40.000Z",
-        "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, "
-      },
-      {
         "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
         "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
         "source": "TechCrunch AI",
@@ -3576,20 +3618,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-01T17:34:56.000Z",
         "summary": "Learn how to use Amazon S3 Vectors as the persistent memory layer within the NVIDIA NeMo Agent Toolkit (NAT), deployed on Amazon Elastic Kubernetes Service (Ama"
-      },
-      {
-        "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-        "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-01T17:33:03.000Z",
-        "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starti"
-      },
-      {
-        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-        "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-01T17:12:21.000Z",
-        "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of dri"
       },
       {
         "title": "The eternal complement",
@@ -3613,13 +3641,6 @@ window.SITE_DATA = {
         "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
       },
       {
-        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-01T16:44:35.000Z",
-        "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes hap"
-      },
-      {
         "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
         "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/25/ML-19851-1.png",
         "source": "AWS Machine Learning Blog",
@@ -3632,27 +3653,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-01T16:32:23.000Z",
         "summary": "Learn how to configure secure, multi-environment access to Claude Platform on AWS from a single subscription: cross-account SigV4 for AWS workloads, workspace-s"
-      },
-      {
-        "title": "Simplify dashboard drill-down with the Amazon Quick Sight hierarchy filter",
-        "url": "https://aws.amazon.com/quicksight/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-01T16:28:14.000Z",
-        "summary": "Amazon Quick Sight is a fully managed, cloud-native business intelligence (BI) capability for building and publishing interactive dashboards. The new hierarchy "
-      },
-      {
-        "title": "How Albertsons Companies is reimagining retail from the inside out",
-        "url": "https://openai.com/index/albertsons-reimagining-retail",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-01T16:00:00.000Z",
-        "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-      },
-      {
-        "title": "How uniopen customized Amazon Nova to their retail moderation policies for production deployment",
-        "url": "https://aws.amazon.com/sagemaker/ai/?trk=047fc009-5bd4-4337-800d-8b880665cece&amp;sc_channel=ps&amp;ef_id=CjwKCAjwtp7VBhBjEiwAJfpV-yKW4t89QXsCc4cxWZWS3f52xxMc7gfEMw4qDvmIjc-OHKOh4W_n9BoCpCwQAvD_BwE:G:s&amp;gads_camp=23532472972&amp;gads_ag=194311071804&amp;gads_ad=795877020716&amp;gads_kw=amazon%20sagemaker%20ai&amp;gads_matchtype=e&amp;gads_network=g&amp;gads_device=c&amp;gads_geo=9033313&amp;gad_campaignid=23532472972&amp;gbraid=0AAAAADjHtp-agjlPsqkVJj2uJ3Wve5A88&amp;gclid=CjwKCAjwtp7VBhBjEiwAJfpV-yKW4t89QXsCc4cxWZWS3f52xxMc7gfEMw4qDvmIjc-OHKOh4W_n9BoCpCwQAvD_BwE",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-01T15:33:01.000Z",
-        "summary": "See how uniopen, a retail platform from Taiwan's Uni-President Enterprises Group, adapted Amazon Nova 2 Lite to its content-moderation policies using supervised"
       }
     ]
   }
