@@ -3232,8 +3232,78 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-04T02:13:59.438Z",
+    "updatedAt": "2026-10-05T01:23:34.495Z",
     "items": [
+      {
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-04T20:31:07.000Z",
+        "summary": "AI slop seems to be overwhelming bug bounty programs."
+      },
+      {
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-04T20:08:34.000Z",
+        "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+      },
+      {
+        "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+        "url": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-04T17:41:58.000Z",
+        "summary": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National "
+      },
+      {
+        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-04T16:16:04.000Z",
+        "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeat"
+      },
+      {
+        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-04T15:21:59.000Z",
+        "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentia"
+      },
+      {
+        "title": "Trump unveils his new Super Intelligence Force",
+        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-04T15:15:10.000Z",
+        "summary": "This new task force is Trump's latest response to the debate over AI safety."
+      },
+      {
+        "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+        "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-04T12:40:37.000Z",
+        "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in"
+      },
+      {
+        "title": "NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+        "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-04T10:10:12.000Z",
+        "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostl"
+      },
+      {
+        "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+        "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-04T08:47:52.000Z",
+        "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers "
+      },
+      {
+        "title": "Google's new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+        "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-04T07:28:54.000Z",
+        "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Fla"
+      },
       {
         "title": "The Agent Said It Was Done. The Database Disagreed.",
         "url": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -3319,27 +3389,6 @@ window.SITE_DATA = {
         "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle phys"
       },
       {
-        "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
-        "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-03T08:31:04.000Z",
-        "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 per"
-      },
-      {
-        "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
-        "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-03T08:06:35.000Z",
-        "summary": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected "
-      },
-      {
-        "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-        "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-03T07:12:09.000Z",
-        "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to re"
-      },
-      {
         "title": "Meta wants your next gadget to be Muse-infused",
         "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
         "source": "TechCrunch AI",
@@ -3373,20 +3422,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-10-02T20:08:40.000Z",
         "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Appl"
-      },
-      {
-        "title": "AI music generator Suno can now create spoken audio with matching background music",
-        "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T20:07:36.000Z",
-        "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company "
-      },
-      {
-        "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-        "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-02T19:41:05.000Z",
-        "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah descri"
       },
       {
         "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -3529,20 +3564,6 @@ window.SITE_DATA = {
         "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will "
       },
       {
-        "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-        "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-02T12:00:00.000Z",
-        "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office building"
-      },
-      {
-        "title": "Amazon writes scary blog warning communities not to block data centers",
-        "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-02T11:52:20.000Z",
-        "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blo"
-      },
-      {
         "title": "Don’t be fooled—LLMs don’t reason",
         "url": "https://vialogue.wordpress.com/2018/02/16/alphago-reflections-and-quotes/",
         "source": "MIT Technology Review",
@@ -3599,20 +3620,6 @@ window.SITE_DATA = {
         "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers."
       },
       {
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-01T18:14:42.000Z",
-        "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
-      },
-      {
-        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-        "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-01T17:50:19.000Z",
-        "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-      },
-      {
         "title": "Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors",
         "url": "https://aws.amazon.com/blogs/storage/building-persistent-memory-for-multi-agent-ai-systems-with-amazon-s3-vectors/",
         "source": "AWS Machine Learning Blog",
@@ -3632,13 +3639,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-01T16:51:04.000Z",
         "summary": "Generative AI makes it cheap to produce personalized content at scale, but which variation do you show each customer? Amazon Payments used a multi-objective con"
-      },
-      {
-        "title": "Amazon releases its own Jev clone as decision models flood the web",
-        "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-01T16:49:22.000Z",
-        "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
       },
       {
         "title": "Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows",
