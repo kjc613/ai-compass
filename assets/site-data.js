@@ -3232,8 +3232,106 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-10T01:58:46.733Z",
+    "updatedAt": "2026-10-11T01:24:30.264Z",
     "items": [
+      {
+        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-10T22:10:17.000Z",
+        "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we ca"
+      },
+      {
+        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-10T21:47:51.000Z",
+        "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+      },
+      {
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-10T19:50:00.000Z",
+        "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+      },
+      {
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-10T18:52:07.000Z",
+        "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge th"
+      },
+      {
+        "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+        "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T15:15:40.000Z",
+        "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately "
+      },
+      {
+        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+        "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-10T15:00:00.000Z",
+        "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers a"
+      },
+      {
+        "title": "Microsoft's Decision-1 model enters the fast-growing AI decision model race",
+        "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T14:57:33.000Z",
+        "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent "
+      },
+      {
+        "title": "Anthropic is cutting off its internal evaluations from the internet",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-10T14:41:16.000Z",
+        "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-10T14:00:00.000Z",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      },
+      {
+        "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T13:03:59.000Z",
+        "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers"
+      },
+      {
+        "title": "AI agent makers are promising privacy — will they deliver?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-10T13:00:00.000Z",
+        "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for pri"
+      },
+      {
+        "title": "Few people pay for AI, but those who do spend big",
+        "url": "https://the-decoder.com/few-people-pay-for-ai-but-those-who-do-spend-bigonly-a-few-users-pay-for-ai-but-those-who-do-pay-a-lot/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T10:54:56.000Z",
+        "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percen"
+      },
+      {
+        "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+        "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T10:16:26.000Z",
+        "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access "
+      },
+      {
+        "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+        "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-10T08:59:49.000Z",
+        "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business I"
+      },
       {
         "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
         "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -3249,6 +3347,13 @@ window.SITE_DATA = {
         "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
       },
       {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-09T21:15:38.000Z",
+        "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. "
+      },
+      {
         "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
         "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
         "source": "TechCrunch AI",
@@ -3256,11 +3361,25 @@ window.SITE_DATA = {
         "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
       },
       {
+        "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-09T19:09:44.000Z",
+        "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in"
+      },
+      {
         "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
         "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
         "source": "The Decoder",
         "publishedAt": "2026-10-09T18:28:25.000Z",
         "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a singl"
+      },
+      {
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-09T18:06:57.000Z",
+        "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" B"
       },
       {
         "title": "Anthropic launches a free AI scanner for open-source projects",
@@ -3368,20 +3487,6 @@ window.SITE_DATA = {
         "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post "
       },
       {
-        "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
-        "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-09T09:22:25.000Z",
-        "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents"
-      },
-      {
-        "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-        "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-09T08:45:34.000Z",
-        "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Lat"
-      },
-      {
         "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
         "url": "https://openai.com/index/sophos",
         "source": "OpenAI News",
@@ -3403,13 +3508,6 @@ window.SITE_DATA = {
         "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a gen"
       },
       {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T21:53:51.000Z",
-        "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that o"
-      },
-      {
         "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
         "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
         "source": "TechCrunch AI",
@@ -3417,32 +3515,11 @@ window.SITE_DATA = {
         "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simula"
       },
       {
-        "title": "California is trying to shut down robot vs. human cage matches",
-        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T20:06:56.000Z",
-        "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by "
-      },
-      {
         "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
         "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-08T20:04:26.000Z",
         "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a c"
-      },
-      {
-        "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
-        "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-08T19:17:22.000Z",
-        "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion ge"
-      },
-      {
-        "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
-        "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-08T19:03:14.000Z",
-        "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule b"
       },
       {
         "title": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
@@ -3480,46 +3557,11 @@ window.SITE_DATA = {
         "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use"
       },
       {
-        "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-08T18:17:07.000Z",
-        "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI ha"
-      },
-      {
         "title": "Anthropic changes usage policy to ban model abuse and election interference",
         "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-08T18:16:24.000Z",
         "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still"
-      },
-      {
-        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-        "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-08T18:10:55.000Z",
-        "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab."
-      },
-      {
-        "title": "USA Today becomes the latest publisher to sue OpenAI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T17:58:33.000Z",
-        "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train"
-      },
-      {
-        "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-        "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T17:57:01.000Z",
-        "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the O"
-      },
-      {
-        "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T17:00:00.000Z",
-        "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference"
       },
       {
         "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
@@ -3534,48 +3576,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-10-08T16:00:00.000Z",
         "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-      },
-      {
-        "title": "Natura’s $99 smart ring puts AI agents on your finger",
-        "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-08T16:00:00.000Z",
-        "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling"
-      },
-      {
-        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-        "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-08T16:00:00.000Z",
-        "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors pe"
-      },
-      {
-        "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-        "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T15:27:30.000Z",
-        "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, c"
-      },
-      {
-        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-08T15:00:00.000Z",
-        "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a se"
-      },
-      {
-        "title": "Google is launching a one-stop Gemini agent for your work tasks",
-        "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-08T14:28:03.000Z",
-        "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work eve"
-      },
-      {
-        "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
-        "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-08T13:52:54.000Z",
-        "summary": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature sche"
       },
       {
         "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
