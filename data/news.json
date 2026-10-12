@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-10-11T01:24:30.264Z",
+  "updatedAt": "2026-10-12T01:54:31.380Z",
   "items": [
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11T21:14:40.000Z",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a lau"
+    },
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50"
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-10-11T18:33:56.000Z",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would "
+    },
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11T16:52:33.000Z",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    },
+    {
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T15:39:26.000Z",
+      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 s"
+    },
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-10-11T14:00:00.000Z",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    },
+    {
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T13:44:32.000Z",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-cr"
+    },
+    {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge AI",
+      "publishedAt": "2026-10-11T11:00:00.000Z",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major"
+    },
+    {
+      "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+      "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T09:49:59.000Z",
+      "summary": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand fas"
+    },
+    {
+      "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+      "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T09:17:32.000Z",
+      "summary": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've "
+    },
+    {
+      "title": "Microsoft's Nadella bows to Trump's language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T09:08:35.000Z",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred la"
+    },
+    {
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "source": "The Decoder",
+      "publishedAt": "2026-10-11T07:48:01.000Z",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text "
+    },
     {
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -86,20 +170,6 @@
       "summary": "Andreessen Horowitz tracks actual US consumer spending for the first time in its latest Top 100 AI list. Nearly half of US consumers use AI, but only 4.5 percen"
     },
     {
-      "title": "Anthropic cuts off Claude's internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-      "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-10T10:16:26.000Z",
-      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access "
-    },
-    {
-      "title": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
-      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-10T08:59:49.000Z",
-      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business I"
-    },
-    {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "source": "TechCrunch AI",
@@ -135,32 +205,11 @@
       "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in"
     },
     {
-      "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-09T18:28:25.000Z",
-      "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a singl"
-    },
-    {
       "title": "Nikon microscopic video competition winner disqualified for using generative AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "source": "The Verge AI",
       "publishedAt": "2026-10-09T18:06:57.000Z",
       "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" B"
-    },
-    {
-      "title": "Anthropic launches a free AI scanner for open-source projects",
-      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-09T17:54:44.000Z",
-      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and P"
-    },
-    {
-      "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-09T17:20:34.000Z",
-      "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method"
     },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -233,27 +282,6 @@
       "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save "
     },
     {
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "source": "The Verge AI",
-      "publishedAt": "2026-10-09T14:00:00.000Z",
-      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, a"
-    },
-    {
-      "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-09T11:45:04.000Z",
-      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff an"
-    },
-    {
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "source": "The Verge AI",
-      "publishedAt": "2026-10-09T09:48:26.000Z",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post "
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "source": "OpenAI News",
@@ -301,34 +329,6 @@
       "source": "TechCrunch AI",
       "publishedAt": "2026-10-08T18:20:32.000Z",
       "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:19:45.000Z",
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such"
-    },
-    {
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:19:42.000Z",
-      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:18:00.000Z",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-08T18:16:24.000Z",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still"
     },
     {
       "title": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
