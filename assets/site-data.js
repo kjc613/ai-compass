@@ -3232,14 +3232,77 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-17T00:53:50.013Z",
+    "updatedAt": "2026-10-18T00:29:35.462Z",
     "items": [
       {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
         "source": "TechCrunch AI",
-        "publishedAt": "2026-10-16T21:22:28.000Z",
-        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never an"
+        "publishedAt": "2026-10-17T21:31:32.000Z",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+      },
+      {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-17T20:21:19.000Z",
+        "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-17T18:48:08.000Z",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform"
+      },
+      {
+        "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+        "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-17T15:36:11.000Z",
+        "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted ser"
+      },
+      {
+        "title": "Meta removes language that may have allowed it to scrape news sites",
+        "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-17T15:04:36.000Z",
+        "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Sp"
+      },
+      {
+        "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+        "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-17T14:42:56.000Z",
+        "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provide"
+      },
+      {
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-17T13:00:00.000Z",
+        "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anyt"
+      },
+      {
+        "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+        "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-17T10:33:28.000Z",
+        "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predece"
+      },
+      {
+        "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+        "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-17T09:54:36.000Z",
+        "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out n"
+      },
+      {
+        "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+        "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-17T09:00:26.000Z",
+        "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the c"
       },
       {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -3375,13 +3438,6 @@ window.SITE_DATA = {
         "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. T"
       },
       {
-        "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
-        "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T13:11:55.000Z",
-        "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic give"
-      },
-      {
         "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
         "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
         "source": "TechCrunch AI",
@@ -3394,6 +3450,13 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-10-16T01:44:47.000Z",
         "summary": ""
+      },
+      {
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "url": "https://openai.com/index/benefit-street-partners",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
       },
       {
         "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -3494,13 +3557,6 @@ window.SITE_DATA = {
         "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites "
       },
       {
-        "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
-        "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-15T18:34:32.000Z",
-        "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of con"
-      },
-      {
         "title": "Meta and Apple team up to make Muse AI models run better on Macs",
         "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
         "source": "The Verge AI",
@@ -3520,34 +3576,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-15T17:43:35.000Z",
         "summary": "Muse Spark Open, Meta's coding-optimized open-weight model, is now available in Amazon SageMaker JumpStart. Deploy it to a SageMaker AI endpoint in your own AWS"
-      },
-      {
-        "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
-        "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-15T16:57:14.000Z",
-        "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, a"
-      },
-      {
-        "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-        "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-15T16:35:47.000Z",
-        "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores"
-      },
-      {
-        "title": "Friends don’t let friends feed their data to AI agents",
-        "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-15T16:21:45.000Z",
-        "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actu"
-      },
-      {
-        "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-        "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-15T16:09:44.000Z",
-        "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents"
       },
       {
         "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
@@ -3571,13 +3599,6 @@ window.SITE_DATA = {
         "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
       },
       {
-        "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-        "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-15T14:30:00.000Z",
-        "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a"
-      },
-      {
         "title": "Google’s Universal Cart shopping tool launches in the US",
         "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
         "source": "TechCrunch AI",
@@ -3597,20 +3618,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-10-15T13:00:00.000Z",
         "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      },
-      {
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-15T12:00:00.000Z",
-        "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to sm"
-      },
-      {
-        "title": "Figma announces new features to define how agents work on its platform",
-        "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-15T04:30:00.000Z",
-        "summary": "Figma is also releasing its code layers feature in open beta."
       },
       {
         "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -3646,13 +3653,6 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-10-14T16:12:42.000Z",
         "summary": ""
-      },
-      {
-        "title": "Generate presentations with Amazon Bedrock AgentCore",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-14T13:58:43.000Z",
-        "summary": "This post walks you through building an AI agent system with Amazon Bedrock AgentCore that automates PowerPoint presentation creation from enterprise documents."
       }
     ]
   }
