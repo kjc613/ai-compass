@@ -3232,8 +3232,71 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-18T00:29:35.462Z",
+    "updatedAt": "2026-10-19T00:35:49.877Z",
     "items": [
+      {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-18T20:37:40.000Z",
+        "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+      },
+      {
+        "title": "A woman was arrested in Philly for blocking a delivery robot",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-18T18:28:10.000Z",
+        "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin tol"
+      },
+      {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-18T16:30:00.000Z",
+        "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so"
+      },
+      {
+        "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T13:22:26.000Z",
+        "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025"
+      },
+      {
+        "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+        "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T12:39:51.000Z",
+        "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous ru"
+      },
+      {
+        "title": "Two German courts now hold Google liable for what its AI overviews say",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T10:52:39.000Z",
+        "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Cou"
+      },
+      {
+        "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+        "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T09:11:29.000Z",
+        "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on beh"
+      },
+      {
+        "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+        "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T08:49:41.000Z",
+        "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right "
+      },
+      {
+        "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+        "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-18T08:15:04.000Z",
+        "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, an"
+      },
       {
         "title": "Meta removes language that raised scraping and AI training concerns",
         "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -3298,13 +3361,6 @@ window.SITE_DATA = {
         "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out n"
       },
       {
-        "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-        "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-17T09:00:26.000Z",
-        "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the c"
-      },
-      {
         "title": "OpenAI models hacked a crypto wallet and breached more websites",
         "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
         "source": "Ars Technica",
@@ -3326,13 +3382,6 @@ window.SITE_DATA = {
         "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s "
       },
       {
-        "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-        "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T18:10:27.000Z",
-        "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare produc"
-      },
-      {
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
         "url": "https://www.technologyreview.com/innovator/samuel-king-ai-designed-viruses/",
         "source": "MIT Technology Review",
@@ -3345,13 +3394,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-16T17:52:24.000Z",
         "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-      },
-      {
-        "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-        "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T17:42:47.000Z",
-        "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trill"
       },
       {
         "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -3389,13 +3431,6 @@ window.SITE_DATA = {
         "summary": "Reflection AI's Beam is an open-weight model for agentic coding and long-horizon tasks. This post shows how to deploy Beam on AWS: start with an Amazon SageMake"
       },
       {
-        "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-        "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T15:03:46.000Z",
-        "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the"
-      },
-      {
         "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
         "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
         "source": "The Verge AI",
@@ -3422,20 +3457,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-16T14:00:00.000Z",
         "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to"
-      },
-      {
-        "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
-        "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T13:48:08.000Z",
-        "summary": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI sa"
-      },
-      {
-        "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-        "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-16T13:15:09.000Z",
-        "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. T"
       },
       {
         "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
@@ -3557,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites "
       },
       {
-        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-        "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-15T18:15:36.000Z",
-        "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \""
-      },
-      {
         "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
         "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
         "source": "TechCrunch AI",
@@ -3597,20 +3611,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-15T15:02:36.000Z",
         "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
-      },
-      {
-        "title": "Google’s Universal Cart shopping tool launches in the US",
-        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-15T14:29:33.000Z",
-        "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Last day",
-        "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-15T14:00:00.000Z",
-        "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
       },
       {
         "title": "Teaching students to think and learn through questions",
