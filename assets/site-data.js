@@ -3232,8 +3232,85 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-25T00:40:23.127Z",
+    "updatedAt": "2026-10-26T00:51:09.639Z",
     "items": [
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-25T21:31:16.000Z",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+      },
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-25T16:57:32.000Z",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-25T14:10:00.000Z",
+        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+      },
+      {
+        "title": "r/opensource just banned AI, non-English speakers, and more",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-25T13:25:32.000Z",
+        "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If "
+      },
+      {
+        "title": "Google’s AI search changes upended online publishing",
+        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-25T12:00:00.000Z",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The St"
+      },
+      {
+        "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+        "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T10:08:49.000Z",
+        "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open s"
+      },
+      {
+        "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+        "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T09:37:46.000Z",
+        "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co"
+      },
+      {
+        "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+        "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T09:12:10.000Z",
+        "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture compariso"
+      },
+      {
+        "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+        "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T08:09:32.000Z",
+        "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other c"
+      },
+      {
+        "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+        "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T07:30:11.000Z",
+        "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after "
+      },
+      {
+        "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+        "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-25T06:55:22.000Z",
+        "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 "
+      },
       {
         "title": "Blue Planet III is keeping the rough edges in the age of AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
@@ -3305,13 +3382,6 @@ window.SITE_DATA = {
         "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached t"
       },
       {
-        "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
-        "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-24T09:21:39.000Z",
-        "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning"
-      },
-      {
         "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
         "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
         "source": "TechCrunch AI",
@@ -3347,32 +3417,11 @@ window.SITE_DATA = {
         "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customer"
       },
       {
-        "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5",
-        "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-23T19:00:07.000Z",
-        "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. "
-      },
-      {
-        "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-        "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-23T18:00:32.000Z",
-        "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found "
-      },
-      {
         "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
         "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/model-customize-mtrl-agent.html",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-23T17:48:54.000Z",
         "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on"
-      },
-      {
-        "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-        "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-23T17:19:49.000Z",
-        "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went r"
       },
       {
         "title": "The iPhone Duo should have been an iPad",
@@ -3424,13 +3473,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-        "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-23T15:42:18.000Z",
-        "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignm"
-      },
-      {
         "title": "Meta delays new business terms after publisher pushback on AI scraping",
         "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
         "source": "The Verge AI",
@@ -3443,13 +3485,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-10-23T12:00:00.000Z",
         "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Br"
-      },
-      {
-        "title": "Canva launches Craft, its first in-house image model",
-        "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-23T11:36:30.000Z",
-        "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appe"
       },
       {
         "title": "Securing our frontier model training environment",
@@ -3501,25 +3536,11 @@ window.SITE_DATA = {
         "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
       },
       {
-        "title": "Canva’s first AI image model plans designs before generating them",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-22T21:51:25.000Z",
-        "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model"
-      },
-      {
         "title": "Designing an AI serving harness built to last",
         "url": "https://www.exlservice.com/insights/white-paper/engineering-memory-reliable-enterprise-ai-agents?utm_source=technologyreview&utm_medium=native&utm_content=sponsored_content_hosting&utm_campaign=2026_q4_go_beyond",
         "source": "MIT Technology Review",
         "publishedAt": "2026-10-22T21:17:29.000Z",
         "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For th"
-      },
-      {
-        "title": "Meta’s AI could still scrape news sites, legal experts say",
-        "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-22T20:32:05.000Z",
-        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say"
       },
       {
         "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -3536,18 +3557,18 @@ window.SITE_DATA = {
         "summary": "Fast, focused, low-cost decisions for any application."
       },
       {
-        "title": "Canva releases its first image generation model",
-        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-22T19:00:00.000Z",
-        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-      },
-      {
         "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
         "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-22T19:00:00.000Z",
         "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+      },
+      {
+        "title": "Canva releases its first image generation model",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-22T19:00:00.000Z",
+        "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
       },
       {
         "title": "The Foundations of Scalable AI",
@@ -3632,27 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-22T16:00:00.000Z",
         "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-      },
-      {
-        "title": "Spotify’s current AI bet is about being the music service that agents choose",
-        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-22T15:03:58.000Z",
-        "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
-      },
-      {
-        "title": "Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-10-22T14:30:24.000Z",
-        "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-      },
-      {
-        "title": "Claude Duet app is Anthropic’s bet on agents",
-        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-22T13:53:26.000Z",
-        "summary": "Claude Duet is available through waitlist for Pro and Max plan users."
       }
     ]
   }
