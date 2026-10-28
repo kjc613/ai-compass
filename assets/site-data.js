@@ -3232,14 +3232,301 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-27T01:42:24.710Z",
+    "updatedAt": "2026-10-28T01:54:20.312Z",
     "items": [
+      {
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-28T01:15:28.000Z",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+      },
+      {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T23:34:27.000Z",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in Febr"
+      },
+      {
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T22:55:41.000Z",
+        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+      },
+      {
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T21:44:34.000Z",
+        "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+      },
+      {
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T21:38:28.000Z",
+        "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+      },
+      {
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T20:48:58.000Z",
+        "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to "
+      },
+      {
+        "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+        "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T19:45:49.000Z",
+        "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3."
+      },
+      {
+        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T18:55:35.000Z",
+        "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+      },
+      {
+        "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
+        "url": "https://aws.amazon.com/resources/analyst-reports/gartner/global-mq-ardm-26-contact-center-as-a-service/?trk=21a9418a-9a81-4797-8372-7df087f349c5&amp;sc_channel=el",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-10-27T18:03:12.000Z",
+        "summary": "AWS has been named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service (CCaaS) for AWS Connect Customer. This recognition marks an impor"
+      },
+      {
+        "title": "VisionQuest is what happens when AI really goes rogue",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T17:30:00.000Z",
+        "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artifici"
+      },
+      {
+        "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+        "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T17:25:09.000Z",
+        "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan "
+      },
+      {
+        "title": "Build specialized multimodal models with LFM3",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-10-27T17:16:52.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T17:08:08.000Z",
+        "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+      },
+      {
+        "title": "Announcing SOCI-indexed images for faster SageMaker AI jobs",
+        "url": "https://github.com/awslabs/soci-snapshotter",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-10-27T17:00:39.000Z",
+        "summary": "Seekable OCI (SOCI) indexing for Amazon SageMaker AI training and processing jobs takes full container image download off the critical path. SageMaker AI lazy-l"
+      },
+      {
+        "title": "Fix evaluation bias to unlock better models on Amazon Bedrock",
+        "url": "https://www.propertyfinder.ae/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-10-27T16:53:02.000Z",
+        "summary": "Property Finder found that 96.8% of their vision-AI evaluation labels were inherited from the incumbent model, hiding its true accuracy. See how they built unbi"
+      },
+      {
+        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T16:51:22.000Z",
+        "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise it"
+      },
+      {
+        "title": "Exowatt beats frontier models on accuracy with SageMaker serverless model customization",
+        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22072-1.png",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-10-27T16:50:55.000Z",
+        "summary": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tun"
+      },
+      {
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T16:30:57.000Z",
+        "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+      },
+      {
+        "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T16:14:18.000Z",
+        "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs"
+      },
+      {
+        "title": "Can we trust LLMs to judge whether a research idea is novel?",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-10-27T16:12:42.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Genie 4: A new generation of world simulation",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-10-27T16:01:38.000Z",
+        "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+      },
+      {
+        "title": "Google’s next Genie AI model generates more realistic experiences",
+        "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T16:00:00.000Z",
+        "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for "
+      },
+      {
+        "title": "Retell uses OpenAI models to help power 100M monthly calls",
+        "url": "https://openai.com/index/retell-ai",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-27T15:00:00.000Z",
+        "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      },
+      {
+        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T14:59:09.000Z",
+        "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aim"
+      },
+      {
+        "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+        "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T13:55:24.000Z",
+        "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledg"
+      },
+      {
+        "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T13:50:51.000Z",
+        "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Appl"
+      },
+      {
+        "title": "Japan internet giant GMO says hackers posted stolen customer data",
+        "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T13:32:57.000Z",
+        "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+      },
+      {
+        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T13:00:00.000Z",
+        "summary": "The new standard, WebAI, is designed to work with a variety of AI models."
+      },
+      {
+        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+        "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T13:00:00.000Z",
+        "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+      },
+      {
+        "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T12:37:24.000Z",
+        "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Pr"
+      },
+      {
+        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-10-27T12:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropi"
+      },
+      {
+        "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+        "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T11:39:24.000Z",
+        "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article "
+      },
+      {
+        "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+        "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T11:20:51.000Z",
+        "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to "
+      },
+      {
+        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+        "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T11:00:00.000Z",
+        "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
+      },
+      {
+        "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+        "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T10:09:26.000Z",
+        "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication an"
+      },
+      {
+        "title": "Data center backlash is uniting America",
+        "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-27T10:00:00.000Z",
+        "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and "
+      },
+      {
+        "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+        "url": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-27T09:58:16.000Z",
+        "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spen"
+      },
+      {
+        "title": "How solid-state transformers could help power the AI boom",
+        "url": "https://news.ncsu.edu/2026/08/solid-state-transformer-success/",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-10-27T09:00:00.000Z",
+        "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in "
+      },
+      {
+        "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-27T07:00:00.000Z",
+        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      },
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-27T02:00:00.000Z",
+        "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+      },
       {
         "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
         "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-10-27T01:12:21.000Z",
         "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk"
+      },
+      {
+        "title": "How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "source": "OpenAI News",
+        "publishedAt": "2026-10-27T00:00:00.000Z",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer"
       },
       {
         "title": "OpenAI announces three big science discoveries and a new way to work with academics",
@@ -3284,13 +3571,6 @@ window.SITE_DATA = {
         "summary": "Fleet-wide computer vision needs a model per camera, not one model for the whole fleet. This post presents a working Amazon SageMaker SDK v3 reference architect"
       },
       {
-        "title": "Researchers find six patterns that make AI text so exhausting to read",
-        "url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-26T17:50:15.000Z",
-        "summary": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are h"
-      },
-      {
         "title": "Will the real Anthropic please stand up",
         "url": "https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/",
         "source": "MIT Technology Review",
@@ -3312,25 +3592,11 @@ window.SITE_DATA = {
         "summary": "Every time an agent takes a step, it re-reads its entire context before acting. Here is how prompt caching for OpenAI models on Amazon Bedrock lets your agent r"
       },
       {
-        "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
-        "url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-26T17:19:40.000Z",
-        "summary": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a ye"
-      },
-      {
         "title": "Build agentic retrieval on a Managed Amazon Bedrock Knowledge Base with CDK",
         "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-26T17:15:14.000Z",
         "summary": "Build enterprise agentic retrieval on a Managed Amazon Bedrock Knowledge Base with the AWS CDK: an agent that routes across two knowledge bases, retrieves throu"
-      },
-      {
-        "title": "Five weird details from Anthropic’s IPO filing",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-26T17:10:23.000Z",
-        "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its exec"
       },
       {
         "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -3354,13 +3620,6 @@ window.SITE_DATA = {
         "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
       },
       {
-        "title": "Microsoft offers buyouts to 60,000 employees",
-        "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-26T15:58:27.000Z",
-        "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people office"
-      },
-      {
         "title": "Anthropic officially files for its public debut",
         "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
         "source": "TechCrunch AI",
@@ -3375,46 +3634,11 @@ window.SITE_DATA = {
         "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
       },
       {
-        "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
-        "url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-26T14:21:23.000Z",
-        "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout "
-      },
-      {
-        "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-        "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-26T14:00:00.000Z",
-        "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI ind"
-      },
-      {
         "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
         "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
         "source": "OpenAI News",
         "publishedAt": "2026-10-26T13:45:00.000Z",
         "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
-      },
-      {
-        "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-26T13:32:49.000Z",
-        "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO."
-      },
-      {
-        "title": "Can AI help solve the COBOL code crisis?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-26T13:15:00.000Z",
-        "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer c"
-      },
-      {
-        "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-10-26T12:40:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on "
       },
       {
         "title": "ChatGPT’s expanding world of work",
@@ -3424,235 +3648,11 @@ window.SITE_DATA = {
         "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
       },
       {
-        "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
-        "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-26T09:49:33.000Z",
-        "summary": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power. The article Wall Street's fastest traders are"
-      },
-      {
-        "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
-        "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-26T09:18:15.000Z",
-        "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betti"
-      },
-      {
         "title": "The focus on AI safety disasters ignores everyday harms",
         "url": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html?eafs_enabled=false",
         "source": "MIT Technology Review",
         "publishedAt": "2026-10-26T09:01:00.000Z",
         "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more"
-      },
-      {
-        "title": "How Fanatics and OpenAI streamline the fan experience",
-        "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-26T07:00:00.000Z",
-        "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
-      },
-      {
-        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-        "url": "https://openai.com/index/openai-cut-incident-investigation",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-26T07:00:00.000Z",
-        "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
-      },
-      {
-        "title": "Introducing GPT-6.1 Terra",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-26T00:00:00.000Z",
-        "summary": "Bringing fast and capable computer use to everyone"
-      },
-      {
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-25T21:31:16.000Z",
-        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-      },
-      {
-        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-25T16:57:32.000Z",
-        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside"
-      },
-      {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-25T14:10:00.000Z",
-        "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-      },
-      {
-        "title": "r/opensource just banned AI, non-English speakers, and more",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-25T13:25:32.000Z",
-        "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If "
-      },
-      {
-        "title": "Google’s AI search changes upended online publishing",
-        "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-25T12:00:00.000Z",
-        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The St"
-      },
-      {
-        "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-        "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-25T10:08:49.000Z",
-        "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open s"
-      },
-      {
-        "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-        "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-25T09:37:46.000Z",
-        "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co"
-      },
-      {
-        "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-        "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-25T09:12:10.000Z",
-        "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture compariso"
-      },
-      {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-24T20:15:33.000Z",
-        "summary": "The moment you realize the internet is \"held together by glue and dreams.\""
-      },
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-24T19:00:00.000Z",
-        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-      },
-      {
-        "title": "Block’s new voice model sounds eerily human",
-        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-24T16:00:00.000Z",
-        "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it"
-      },
-      {
-        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-24T15:00:00.000Z",
-        "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than"
-      },
-      {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-24T14:00:00.000Z",
-        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-      },
-      {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-23T23:05:49.000Z",
-        "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-      },
-      {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-23T21:59:19.000Z",
-        "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-      },
-      {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-23T19:06:23.000Z",
-        "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customer"
-      },
-      {
-        "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-        "url": "https://docs.aws.amazon.com/sagemaker/latest/dg/model-customize-mtrl-agent.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-23T17:48:54.000Z",
-        "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on"
-      },
-      {
-        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-23T17:00:00.000Z",
-        "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-      },
-      {
-        "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-20841-1.png",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-23T16:30:10.000Z",
-        "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to buil"
-      },
-      {
-        "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
-        "url": "https://aws.amazon.com/blogs/business-intelligence/create-custom-shape-maps-in-amazon-quicksight/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-23T16:24:55.000Z",
-        "summary": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between t"
-      },
-      {
-        "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
-        "url": "https://aws.amazon.com/bedrock/agentcore/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-10-23T16:21:36.000Z",
-        "summary": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask"
-      },
-      {
-        "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "url": "https://huggingface.co/blog/allenai/litpivot",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-10-23T16:15:50.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Securing our frontier model training environment",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-23T10:00:00.000Z",
-        "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-      },
-      {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-        "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-23T04:00:00.000Z",
-        "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-      },
-      {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-23T00:45:37.000Z",
-        "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
-      },
-      {
-        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-        "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-        "source": "OpenAI News",
-        "publishedAt": "2026-10-23T00:00:00.000Z",
-        "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-      },
-      {
-        "title": "Does Your Model Run on AWS Trainium? Look It Up",
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-10-23T00:00:00.000Z",
-        "summary": ""
       }
     ]
   }
