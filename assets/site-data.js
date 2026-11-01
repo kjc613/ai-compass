@@ -3232,8 +3232,85 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-10-31T01:55:11.201Z",
+    "updatedAt": "2026-11-01T01:38:03.736Z",
     "items": [
+      {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-31T21:41:00.000Z",
+        "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-31T21:36:07.000Z",
+        "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections tha"
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-31T21:17:03.000Z",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+      },
+      {
+        "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+        "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T19:20:55.000Z",
+        "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4"
+      },
+      {
+        "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+        "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T16:38:37.000Z",
+        "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-u"
+      },
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-10-31T16:12:55.000Z",
+        "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+      },
+      {
+        "title": "I built an AI Tamagotchi before Meta could",
+        "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "source": "The Verge AI",
+        "publishedAt": "2026-10-31T16:05:00.000Z",
+        "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can "
+      },
+      {
+        "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+        "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T15:06:14.000Z",
+        "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiv"
+      },
+      {
+        "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+        "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T10:43:58.000Z",
+        "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The comp"
+      },
+      {
+        "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+        "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T10:15:45.000Z",
+        "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primar"
+      },
+      {
+        "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+        "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+        "source": "The Decoder",
+        "publishedAt": "2026-10-31T09:22:52.000Z",
+        "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls sho"
+      },
       {
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
         "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
@@ -3445,13 +3522,6 @@ window.SITE_DATA = {
         "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale."
       },
       {
-        "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-        "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-30T12:22:18.000Z",
-        "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It auton"
-      },
-      {
         "title": "Maine’s data center revolt will decide who controls the Senate",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
         "source": "The Verge AI",
@@ -3471,13 +3541,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-10-30T09:00:00.000Z",
         "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-      },
-      {
-        "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-        "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-        "source": "The Verge AI",
-        "publishedAt": "2026-10-30T09:00:00.000Z",
-        "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs"
       },
       {
         "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -3515,41 +3578,6 @@ window.SITE_DATA = {
         "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
       },
       {
-        "title": "Rivian expands joint venture with VW to include AI assistant",
-        "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-29T20:05:47.000Z",
-        "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
-      },
-      {
-        "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-        "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-29T20:01:27.000Z",
-        "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More effici"
-      },
-      {
-        "title": "OpenAI-backed Thrive Holdings acquires ADT",
-        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-29T19:56:19.000Z",
-        "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
-      },
-      {
-        "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-        "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-29T19:33:37.000Z",
-        "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment ca"
-      },
-      {
-        "title": "Meta quietly launches an AI fashion app called Style Sketch",
-        "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-29T19:14:36.000Z",
-        "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick"
-      },
-      {
         "title": "Building intent-driven UI testing with Amazon Nova Act",
         "url": "https://www.epsilon.com/",
         "source": "AWS Machine Learning Blog",
@@ -3562,13 +3590,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-29T18:14:17.000Z",
         "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechani"
-      },
-      {
-        "title": "Granola crunches up a dictation feature to compete with Wispr",
-        "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-10-29T17:54:38.000Z",
-        "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesti"
       },
       {
         "title": "An updated Model Spec for more capable and beneficial AI",
@@ -3597,27 +3618,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-10-29T16:11:08.000Z",
         "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores it"
-      },
-      {
-        "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
-        "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-29T15:25:27.000Z",
-        "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at co"
-      },
-      {
-        "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-        "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-29T14:07:49.000Z",
-        "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizin"
-      },
-      {
-        "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-        "source": "The Decoder",
-        "publishedAt": "2026-10-29T13:42:38.000Z",
-        "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jense"
       },
       {
         "title": "Granite Switch 4.1.1 — Update models like you update software",
