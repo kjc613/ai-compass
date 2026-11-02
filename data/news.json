@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-01T01:38:03.736Z",
+  "updatedAt": "2026-11-02T01:57:56.044Z",
   "items": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
+    {
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T14:56:44.000Z",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor o"
+    },
+    {
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T14:36:49.000Z",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough t"
+    },
+    {
+      "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T12:33:01.000Z",
+      "summary": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questio"
+    },
+    {
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T12:05:04.000Z",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accou"
+    },
+    {
+      "title": "Google wants video AI to understand what people need as they work",
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T11:25:21.000Z",
+      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmar"
+    },
+    {
+      "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "source": "The Decoder",
+      "publishedAt": "2026-11-01T09:51:06.000Z",
+      "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for "
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -63,20 +119,6 @@
       "source": "The Decoder",
       "publishedAt": "2026-10-31T10:43:58.000Z",
       "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The comp"
-    },
-    {
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-31T10:15:45.000Z",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primar"
-    },
-    {
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-31T09:22:52.000Z",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls sho"
     },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
@@ -163,25 +205,11 @@
       "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Se"
     },
     {
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-30T19:42:59.000Z",
-      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead resea"
-    },
-    {
       "title": "Google’s satellite AI server transmits its first response to Earth",
       "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "source": "The Verge AI",
       "publishedAt": "2026-10-30T18:21:38.000Z",
       "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's"
-    },
-    {
-      "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-      "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-30T18:16:10.000Z",
-      "summary": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remo"
     },
     {
       "title": "nemotron-halloween",
@@ -198,13 +226,6 @@
       "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
     },
     {
-      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-30T17:44:59.000Z",
-      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. "
-    },
-    {
       "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
       "source": "The Verge AI",
@@ -217,13 +238,6 @@
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-10-30T17:32:20.000Z",
       "summary": "Worldwide Express automated its less-than-truckload freight billing-exception process with a multi-agent solution built on Amazon Bedrock. Six months after laun"
-    },
-    {
-      "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "source": "The Decoder",
-      "publishedAt": "2026-10-30T17:15:24.000Z",
-      "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings"
     },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
@@ -324,25 +338,11 @@
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training "
     },
     {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spendi"
-    },
-    {
       "title": "How the UK Amazon Quick User Group grew in 2026",
       "url": "https://www.linkedin.com/groups/16948010/",
       "source": "AWS Machine Learning Blog",
       "publishedAt": "2026-10-29T20:16:40.000Z",
       "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agent"
-    },
-    {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
     },
     {
       "title": "Building intent-driven UI testing with Amazon Nova Act",
