@@ -3232,8 +3232,106 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-07T02:26:50.373Z",
+    "updatedAt": "2026-11-08T01:56:35.586Z",
     "items": [
+      {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-07T22:07:22.000Z",
+        "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
+      },
+      {
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-07T21:17:08.000Z",
+        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      },
+      {
+        "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+        "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T17:37:25.000Z",
+        "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude d"
+      },
+      {
+        "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+        "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T16:56:38.000Z",
+        "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent o"
+      },
+      {
+        "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+        "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T16:31:00.000Z",
+        "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. Th"
+      },
+      {
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-07T15:50:00.000Z",
+        "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken"
+      },
+      {
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-07T15:43:45.000Z",
+        "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle"
+      },
+      {
+        "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+        "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T15:35:50.000Z",
+        "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepS"
+      },
+      {
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-07T15:00:00.000Z",
+        "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This e"
+      },
+      {
+        "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+        "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T12:32:45.000Z",
+        "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to l"
+      },
+      {
+        "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-07T12:30:00.000Z",
+        "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a"
+      },
+      {
+        "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+        "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T11:13:42.000Z",
+        "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets a"
+      },
+      {
+        "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+        "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T09:54:09.000Z",
+        "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-p"
+      },
+      {
+        "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+        "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-07T09:45:23.000Z",
+        "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billi"
+      },
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -3382,20 +3480,6 @@ window.SITE_DATA = {
         "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roa"
       },
       {
-        "title": "How Akai and Moog are embracing vibe-coded mods",
-        "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T16:34:39.000Z",
-        "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic C"
-      },
-      {
-        "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-        "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T15:55:23.000Z",
-        "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Googl"
-      },
-      {
         "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
         "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
         "source": "TechCrunch AI",
@@ -3415,27 +3499,6 @@ window.SITE_DATA = {
         "source": "Hugging Face Blog",
         "publishedAt": "2026-11-06T14:00:48.000Z",
         "summary": ""
-      },
-      {
-        "title": "Amazon will let you text Alexa your shopping list",
-        "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T14:00:00.000Z",
-        "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the produc"
-      },
-      {
-        "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-        "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T13:40:07.000Z",
-        "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 8"
-      },
-      {
-        "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-        "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T13:25:09.000Z",
-        "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The com"
       },
       {
         "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -3459,27 +3522,6 @@ window.SITE_DATA = {
         "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
       },
       {
-        "title": "Protesters break into Microsoft data center site in Amsterdam",
-        "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T11:55:19.000Z",
-        "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the"
-      },
-      {
-        "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
-        "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T11:38:17.000Z",
-        "summary": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hit"
-      },
-      {
-        "title": "Anthropic adds bank account access to Claude so users can track their spending",
-        "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T11:33:13.000Z",
-        "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about the"
-      },
-      {
         "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
         "url": "https://openai.com/index/partnering-with-hacktron",
         "source": "OpenAI News",
@@ -3492,13 +3534,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-06T06:28:32.000Z",
         "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
-      },
-      {
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T00:37:56.000Z",
-        "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities"
       },
       {
         "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -3527,13 +3562,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-11-05T21:04:24.000Z",
         "summary": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve"
-      },
-      {
-        "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-        "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-05T20:36:25.000Z",
-        "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to Open"
       },
       {
         "title": "Cult.fit builds operational muscle with Codex",
@@ -3571,13 +3599,6 @@ window.SITE_DATA = {
         "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
       },
       {
-        "title": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-        "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-05T19:05:31.000Z",
-        "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by s"
-      },
-      {
         "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
         "url": "https://arxiv.org/abs/2010.11929",
         "source": "AWS Machine Learning Blog",
@@ -3597,13 +3618,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-05T18:00:00.000Z",
         "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
-      },
-      {
-        "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-        "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-05T17:56:41.000Z",
-        "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so develop"
       },
       {
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -3632,20 +3646,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-05T16:16:45.000Z",
         "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the fi"
-      },
-      {
-        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-05T15:19:05.000Z",
-        "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-      },
-      {
-        "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-        "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-05T14:42:00.000Z",
-        "summary": "Aina's ring can also take calls and help you dictate notes on your Mac."
       },
       {
         "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
