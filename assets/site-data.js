@@ -3232,8 +3232,71 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-08T01:56:35.586Z",
+    "updatedAt": "2026-11-09T02:12:32.333Z",
     "items": [
+      {
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-08T22:54:50.000Z",
+        "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese go"
+      },
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-08T21:00:11.000Z",
+        "summary": "In a memo to the company, Huang admitted that he had an affair."
+      },
+      {
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-08T20:22:39.000Z",
+        "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly rec"
+      },
+      {
+        "title": "Apple is racing to make Siri more agentic",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-08T19:18:19.000Z",
+        "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compe"
+      },
+      {
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-08T17:23:19.000Z",
+        "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing "
+      },
+      {
+        "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+        "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-08T14:23:00.000Z",
+        "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own rec"
+      },
+      {
+        "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+        "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-08T13:49:21.000Z",
+        "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on s"
+      },
+      {
+        "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+        "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-08T11:44:41.000Z",
+        "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-Ope"
+      },
+      {
+        "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+        "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-08T09:50:59.000Z",
+        "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top"
+      },
       {
         "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
         "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -3319,20 +3382,6 @@ window.SITE_DATA = {
         "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets a"
       },
       {
-        "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
-        "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-07T09:54:09.000Z",
-        "summary": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-p"
-      },
-      {
-        "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-        "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-07T09:45:23.000Z",
-        "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billi"
-      },
-      {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
         "source": "TechCrunch AI",
@@ -3361,20 +3410,6 @@ window.SITE_DATA = {
         "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
       },
       {
-        "title": "All the latest updates on AI data centers",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T20:02:22.000Z",
-        "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry server"
-      },
-      {
-        "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-        "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T19:47:04.000Z",
-        "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among ope"
-      },
-      {
         "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
         "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
         "source": "TechCrunch AI",
@@ -3387,13 +3422,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-06T18:44:20.000Z",
         "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-      },
-      {
-        "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T18:10:10.000Z",
-        "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a "
       },
       {
         "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
@@ -3445,13 +3473,6 @@ window.SITE_DATA = {
         "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you"
       },
       {
-        "title": "AI is the new dating dealbreaker",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T17:00:00.000Z",
-        "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who ca"
-      },
-      {
         "title": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
         "url": "https://www.taxbit.com/",
         "source": "AWS Machine Learning Blog",
@@ -3459,25 +3480,11 @@ window.SITE_DATA = {
         "summary": "Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they g"
       },
       {
-        "title": "Perplexity now has its own always-on AI agent",
-        "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-06T16:47:28.000Z",
-        "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $20"
-      },
-      {
         "title": "Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls",
         "url": "https://github.com/aws-samples/sample-remote-coding-agent",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-11-06T16:45:58.000Z",
         "summary": "Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes thro"
-      },
-      {
-        "title": "Big Tech lost big in the 2026 election",
-        "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-06T16:38:02.000Z",
-        "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roa"
       },
       {
         "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -3639,13 +3646,6 @@ window.SITE_DATA = {
         "source": "Google AI Blog",
         "publishedAt": "2026-11-05T17:00:00.000Z",
         "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-      },
-      {
-        "title": "Axiom Math wants to keep AI slop out of mathematics",
-        "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-05T16:16:45.000Z",
-        "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the fi"
       },
       {
         "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
