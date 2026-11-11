@@ -3229,6 +3229,26 @@ window.SITE_DATA = {
       "editorPickRank": 2,
       "editorPickReason": "知识工作和长文档场景热度高",
       "editorPickReasonEn": "Popular for knowledge work and long-document tasks"
+    },
+    {
+      "name": "agent-qa",
+      "url": "https://vostride.com",
+      "category": "开发者工具",
+      "summary": "vostride 推出的应用测试智能体，以自然语言测试网页、Android 和 iOS，结合持久记忆与经过验证的自我改进，支持 CLI 和 MCP。",
+      "tags": [
+        "应用测试",
+        "持久记忆",
+        "CLI",
+        "MCP"
+      ],
+      "featured": false,
+      "summaryEn": "An app-testing agent by vostride for natural-language web, Android, and iOS tests, with persistent memory, validated self-improvement, CLI, and MCP tools.",
+      "tagsEn": [
+        "App Testing",
+        "Persistent Memory",
+        "CLI",
+        "MCP"
+      ]
     }
   ],
   "newsData": {
