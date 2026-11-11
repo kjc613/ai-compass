@@ -3232,21 +3232,385 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-10T04:24:56.944Z",
+    "updatedAt": "2026-11-11T02:22:02.143Z",
     "items": [
+      {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-12T00:00:00.000Z",
+        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      },
+      {
+        "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-11T01:07:19.000Z",
+        "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Conve"
+      },
+      {
+        "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/web-search-api.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-10T23:34:05.000Z",
+        "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a d"
+      },
+      {
+        "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-21893-1.png",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-10T22:35:03.000Z",
+        "summary": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows ho"
+      },
+      {
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+        "source": "Ars Technica",
+        "publishedAt": "2026-11-10T21:12:59.000Z",
+        "summary": ""
+      },
+      {
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T21:08:52.000Z",
+        "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+      },
+      {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T20:52:13.000Z",
+        "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and re"
+      },
+      {
+        "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+        "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T20:17:00.000Z",
+        "summary": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users intera"
+      },
+      {
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T19:57:52.000Z",
+        "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpo"
+      },
+      {
+        "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+        "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T19:48:40.000Z",
+        "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside C"
+      },
+      {
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T19:23:34.000Z",
+        "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+      },
+      {
+        "title": "The US is winning the AI race. Jensen Huang could have blown it",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T19:04:05.000Z",
+        "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls "
+      },
+      {
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T19:03:52.000Z",
+        "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
+      },
+      {
+        "title": "Gemini Intelligence: New features, on more devices",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-10T19:00:00.000Z",
+        "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
+      },
+      {
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T18:49:52.000Z",
+        "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
+      },
+      {
+        "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+        "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T18:41:52.000Z",
+        "summary": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from vid"
+      },
+      {
+        "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+        "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T18:19:13.000Z",
+        "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthrop"
+      },
+      {
+        "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/10/ML-22181-1.png",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-10T18:11:08.000Z",
+        "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deploy"
+      },
+      {
+        "title": "ChatGPT is getting verified AI ‘Business Agents’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T18:00:00.000Z",
+        "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available"
+      },
+      {
+        "title": "The indie game community is in disarray over AI and Big Walk",
+        "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T17:32:47.000Z",
+        "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon"
+      },
+      {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T17:30:00.000Z",
+        "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected "
+      },
+      {
+        "title": "Anthropic has its own AI-powered office suite now",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T17:30:00.000Z",
+        "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs -"
+      },
+      {
+        "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+        "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T17:11:10.000Z",
+        "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T17:04:19.000Z",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+      },
+      {
+        "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+        "url": "https://aws.amazon.com/bedrock/agentcore/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-10T16:59:43.000Z",
+        "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its B"
+      },
+      {
+        "title": "Amazon Bedrock tokenomics data lake",
+        "url": "https://aws.amazon.com/bedrock/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-10T16:56:36.000Z",
+        "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake th"
+      },
+      {
+        "title": "eBay appears to have shut the door on third-party AI agents",
+        "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T16:20:30.000Z",
+        "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Ve"
+      },
+      {
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-11-10T16:03:47.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T16:00:00.000Z",
+        "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ag"
+      },
+      {
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T15:54:08.000Z",
+        "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
+      },
+      {
+        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T15:29:30.000Z",
+        "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
+      },
+      {
+        "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+        "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T14:07:47.000Z",
+        "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Op"
+      },
+      {
+        "title": "Anthropic targets $1.4 trillion IPO",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T14:06:54.000Z",
+        "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be"
+      },
+      {
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T14:05:10.000Z",
+        "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
+      },
+      {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T14:01:39.000Z",
+        "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
+      },
+      {
+        "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+      },
+      {
+        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
+      },
+      {
+        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+        "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
+      },
+      {
+        "title": "Adobe is going all in on agentic AI",
+        "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tas"
+      },
+      {
+        "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
+        "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T14:00:00.000Z",
+        "summary": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicate"
+      },
+      {
+        "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+        "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T13:37:16.000Z",
+        "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel"
+      },
+      {
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T13:30:00.000Z",
+        "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses."
+      },
+      {
+        "title": "Hands-on with Ring’s new AI drone camera for your home",
+        "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-10T13:30:00.000Z",
+        "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie"
+      },
+      {
+        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-11-10T13:10:00.000Z",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replace"
+      },
+      {
+        "title": "Google Cloud launches Gemini for healthcare.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+        "source": "Google AI Blog",
+        "publishedAt": "2026-11-10T13:00:00.000Z",
+        "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      },
+      {
+        "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T13:00:00.000Z",
+        "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibil"
+      },
+      {
+        "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+        "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-10T12:13:03.000Z",
+        "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is secu"
+      },
+      {
+        "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "source": "Google DeepMind Blog",
+        "publishedAt": "2026-11-10T12:02:28.000Z",
+        "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
+      },
+      {
+        "title": "Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-10T12:00:00.000Z",
+        "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      },
+      {
+        "title": "Introducing Businesses in ChatGPT",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-10T10:00:00.000Z",
+        "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      },
+      {
+        "title": "Closing the AI guidance gap in education",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-10T09:00:00.000Z",
+        "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+      },
+      {
+        "title": "Work at the Frontier: AI’s effect on freelance work",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-10T07:00:00.000Z",
+        "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      },
+      {
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-10T07:00:00.000Z",
+        "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages."
+      },
       {
         "title": "Anthropic reportedly plans to move forward with IPO plans",
         "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-10T01:27:12.000Z",
         "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
-      },
-      {
-        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-        "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-10T00:28:49.000Z",
-        "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In "
       },
       {
         "title": "How skills and agents work in AWS Quick",
@@ -3256,18 +3620,18 @@ window.SITE_DATA = {
         "summary": "Repeatable tasks like status updates, release notes, and ticket creation can be encoded in AWS Quick through agents and skills. This post covers how agents, ski"
       },
       {
-        "title": "What could China get from Jensen Huang?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T23:51:58.000Z",
-        "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being bui"
+        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": ""
       },
       {
-        "title": "Here’s what Trump said he knew about Jensen Huang",
-        "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T23:47:46.000Z",
-        "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with "
+        "title": "Decision Models in Hugging Face",
+        "url": "https://huggingface.co/blog/decision",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-10T00:00:00.000Z",
+        "summary": ""
       },
       {
         "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
@@ -3277,13 +3641,6 @@ window.SITE_DATA = {
         "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
       },
       {
-        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T23:07:59.000Z",
-        "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and inten"
-      },
-      {
         "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
         "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
         "source": "TechCrunch AI",
@@ -3291,368 +3648,11 @@ window.SITE_DATA = {
         "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
       },
       {
-        "title": "The race is on to sue Nvidia",
-        "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T22:23:42.000Z",
-        "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law e"
-      },
-      {
         "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
         "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
         "source": "The Decoder",
         "publishedAt": "2026-11-09T21:15:23.000Z",
         "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified or"
-      },
-      {
-        "title": "Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/kb-test-agentic-retrieve.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T20:13:18.000Z",
-        "summary": "Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside agentic retrieval. This "
-      },
-      {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T20:09:06.000Z",
-        "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-      },
-      {
-        "title": "Introducing Claude Fable 5.2 on AWS",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/claude-messages-fallback-credit.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T20:04:37.000Z",
-        "summary": "Claude Fable 5.2 and Claude Mythos 5.2 are now available on Amazon Bedrock and Claude Platform on AWS. Learn what's new in both models, why Fable 5.2 matters fo"
-      },
-      {
-        "title": "NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart",
-        "url": "https://openmdw.ai/license/1-1/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T20:01:20.000Z",
-        "summary": "NVIDIA Nemotron 3.5 Super VL, a 120B-parameter multimodal vision-language model, is now available in Amazon SageMaker JumpStart. Deploy the NVFP4 or BF16 varian"
-      },
-      {
-        "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-        "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T19:41:51.000Z",
-        "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction."
-      },
-      {
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T19:24:51.000Z",
-        "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
-      },
-      {
-        "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-        "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T19:09:58.000Z",
-        "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an opt"
-      },
-      {
-        "title": "Pluggable Agentic AI Framework: A seven-layer composable enterprise agentic AI reference architecture on Amazon Bedrock AgentCore",
-        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/06/ML-22256-1.png",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T19:05:54.000Z",
-        "summary": "A seven-layer composable reference architecture for taking enterprise agentic AI from prototype to production on Amazon Bedrock AgentCore. Each layer has a stab"
-      },
-      {
-        "title": "ChatGPT Enterprise now available in AWS Marketplace",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-09T19:00:00.000Z",
-        "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationship"
-      },
-      {
-        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T19:00:00.000Z",
-        "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The"
-      },
-      {
-        "title": "How CrossnoKaye grounds physical AI with Amazon Bedrock AgentCore",
-        "url": "https://crossnokaye.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T18:55:43.000Z",
-        "summary": "CrossnoKaye brought physical AI to heavy industry with Amazon Bedrock AgentCore. Its ATLAS platform and AURA agentic system ground AI reasoning in live plant da"
-      },
-      {
-        "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-        "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T18:50:01.000Z",
-        "summary": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 ite"
-      },
-      {
-        "title": "Professional work deserves professional tools. Meet AWS Quick.",
-        "url": "https://aws.amazon.com/quick/download/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-09T18:43:30.000Z",
-        "summary": "Introducing AWS Quick, formerly Amazon Quick, and the debut of our first brand campaign celebrating teams who keep business moving. AWS Quick is the AI workspac"
-      },
-      {
-        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-        "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T18:09:52.000Z",
-        "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintai"
-      },
-      {
-        "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-        "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T18:07:23.000Z",
-        "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts wi"
-      },
-      {
-        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-        "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T18:00:00.000Z",
-        "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
-      },
-      {
-        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T17:36:08.000Z",
-        "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who cou"
-      },
-      {
-        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-        "url": "https://missionlocal.org/2026/10/scott-wiener-connie-chan-ai-debate/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-09T17:05:43.000Z",
-        "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for fo"
-      },
-      {
-        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T16:56:54.000Z",
-        "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
-      },
-      {
-        "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
-        "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T16:54:16.000Z",
-        "summary": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-saf"
-      },
-      {
-        "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-        "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T16:12:28.000Z",
-        "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
-      },
-      {
-        "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T15:50:38.000Z",
-        "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and "
-      },
-      {
-        "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
-        "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T15:44:53.000Z",
-        "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models"
-      },
-      {
-        "title": "Disney and Adobe are building generative AI tools together",
-        "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-09T15:38:56.000Z",
-        "summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear"
-      },
-      {
-        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-11-09T15:05:57.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-        "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T14:00:00.000Z",
-        "summary": "Automattic aims to compete with the likes of Lovable with Spacefast."
-      },
-      {
-        "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-        "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-09T13:15:00.000Z",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate c"
-      },
-      {
-        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-        "url": "https://openai.com/index/control-room",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-09T13:00:00.000Z",
-        "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-      },
-      {
-        "title": "Innovating with AI in the special chemicals industry",
-        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-09T13:00:00.000Z",
-        "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technol"
-      },
-      {
-        "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
-        "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T12:59:02.000Z",
-        "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doub"
-      },
-      {
-        "title": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
-        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-11-09T12:34:29.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
-        "url": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-09T11:38:43.000Z",
-        "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has la"
-      },
-      {
-        "title": "The climate case for AI has not been made",
-        "url": "https://www.climatechangenews.com/2026/09/21/cop31-presidency-announces-ai-pledge-as-un-climate-chief-says-big-tech-on-thin-ice/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-09T10:00:00.000Z",
-        "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intellige"
-      },
-      {
-        "title": "CodeRabbit scales agentic software development and ships 20x more",
-        "url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-09T08:00:00.000Z",
-        "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
-      },
-      {
-        "title": "Kuken Industries searches 70 years of drawings in minutes",
-        "url": "https://openai.com/index/kuken",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-09T08:00:00.000Z",
-        "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly "
-      },
-      {
-        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-09T05:26:29.000Z",
-        "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip w"
-      },
-      {
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-08T21:00:11.000Z",
-        "summary": "In a memo to the company, Huang admitted that he had an affair."
-      },
-      {
-        "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
-        "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-08T14:23:00.000Z",
-        "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own rec"
-      },
-      {
-        "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
-        "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-08T13:49:21.000Z",
-        "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on s"
-      },
-      {
-        "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-        "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-08T11:44:41.000Z",
-        "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-Ope"
-      },
-      {
-        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-        "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-07T22:07:22.000Z",
-        "summary": "On Equity, we unpacked what the midterms mean for the tech industry."
-      },
-      {
-        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-07T21:17:08.000Z",
-        "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-      },
-      {
-        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-        "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-07T04:16:43.000Z",
-        "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that im"
-      },
-      {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-07T01:40:28.000Z",
-        "summary": "The deal highlights the challenges of developing massive AI data centers."
-      },
-      {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-06T22:53:46.000Z",
-        "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-      },
-      {
-        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-06T18:44:38.000Z",
-        "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-      },
-      {
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-06T18:44:20.000Z",
-        "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
-      },
-      {
-        "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
-        "url": "https://docs.nvidia.com/datacenter/tesla/mig-user-guide/latest/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-06T18:01:00.000Z",
-        "summary": "Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you ca"
-      },
-      {
-        "title": "Taxonomy of agentic primitives in AWS Quick",
-        "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/03/ML-21505-1.png",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-06T17:34:45.000Z",
-        "summary": "As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This p"
-      },
-      {
-        "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
-        "url": "https://modelcontextprotocol.io/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-06T17:13:13.000Z",
-        "summary": "Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an ent"
       }
     ]
   }
