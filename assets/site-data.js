@@ -3232,8 +3232,253 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-13T03:01:09.689Z",
+    "updatedAt": "2026-11-14T02:47:45.664Z",
     "items": [
+      {
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-13T23:49:11.000Z",
+        "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available "
+      },
+      {
+        "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+        "url": "https://www.gscaltex.com/en",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T23:22:09.000Z",
+        "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineer"
+      },
+      {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T22:43:00.000Z",
+        "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+      },
+      {
+        "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+        "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T22:30:12.000Z",
+        "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with "
+      },
+      {
+        "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+        "url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T22:02:39.000Z",
+        "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image siz"
+      },
+      {
+        "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+        "url": "https://aws.amazon.com/sagemaker/jumpstart/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T21:53:40.000Z",
+        "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post "
+      },
+      {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-13T20:45:10.000Z",
+        "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for Cha"
+      },
+      {
+        "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+        "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T20:07:34.000Z",
+        "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those pra"
+      },
+      {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T19:37:57.000Z",
+        "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+      },
+      {
+        "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+        "url": "https://www.assemblyai.com/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T19:35:35.000Z",
+        "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retr"
+      },
+      {
+        "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+        "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T18:55:21.000Z",
+        "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and c"
+      },
+      {
+        "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-granular-cost-attribution-for-amazon-bedrock/",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T18:44:02.000Z",
+        "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows"
+      },
+      {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T18:40:30.000Z",
+        "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+      },
+      {
+        "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+        "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T18:01:53.000Z",
+        "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export contr"
+      },
+      {
+        "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+        "url": "https://github.com/awslabs/awsome-distributed-ai/tree/main/examples/use-cases/sagemaker-hyperpod-data-capture-flywheel",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-13T18:01:15.000Z",
+        "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a suppo"
+      },
+      {
+        "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-13T18:00:39.000Z",
+        "summary": ""
+      },
+      {
+        "title": "XYBench: Helping with the problem behind the question",
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-13T17:02:35.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+        "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T16:37:01.000Z",
+        "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI dr"
+      },
+      {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T16:00:12.000Z",
+        "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T15:58:00.000Z",
+        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a"
+      },
+      {
+        "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+        "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T15:53:49.000Z",
+        "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining "
+      },
+      {
+        "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+        "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T15:21:04.000Z",
+        "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's late"
+      },
+      {
+        "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+        "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T15:15:08.000Z",
+        "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscrib"
+      },
+      {
+        "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+        "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T15:12:44.000Z",
+        "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has "
+      },
+      {
+        "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+        "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-13T15:08:57.000Z",
+        "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first"
+      },
+      {
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-13T15:00:00.000Z",
+        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      },
+      {
+        "title": "What’s really at stake in the Jensen Huang saga",
+        "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-13T14:47:16.000Z",
+        "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But"
+      },
+      {
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T14:44:48.000Z",
+        "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+      },
+      {
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-13T14:05:22.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-13T14:00:00.000Z",
+        "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the"
+      },
+      {
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T12:52:19.000Z",
+        "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+      },
+      {
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-13T12:28:23.000Z",
+        "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+      },
+      {
+        "title": "Let’s talk about Jensen Huang’s many affairs!",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-13T12:00:00.000Z",
+        "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvi"
+      },
+      {
+        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "url": "https://www.businessinsider.com/facebook-f8-ten-year-roadmap-2016-4",
+        "source": "MIT Technology Review",
+        "publishedAt": "2026-11-13T10:00:00.000Z",
+        "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the "
+      },
+      {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-13T08:00:00.000Z",
+        "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their ju"
+      },
       {
         "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
         "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -3270,13 +3515,6 @@ window.SITE_DATA = {
         "summary": "Natera built SWARM, an agentic AI system on Amazon Bedrock AgentCore that captures institutional lab-operations knowledge and deploys it at scale. This post wal"
       },
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T21:35:00.000Z",
-        "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a"
-      },
-      {
         "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
         "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
         "source": "TechCrunch AI",
@@ -3310,13 +3548,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-11-12T20:00:00.000Z",
         "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures"
-      },
-      {
-        "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-        "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T19:58:43.000Z",
-        "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis In"
       },
       {
         "title": "No, AI agents did not discover a previously unknown Maya site",
@@ -3422,237 +3653,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-12T17:17:58.000Z",
         "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
-      },
-      {
-        "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T17:00:52.000Z",
-        "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
-      },
-      {
-        "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-        "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T17:00:00.000Z",
-        "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to "
-      },
-      {
-        "title": "AI chatbots are recommending fake retail websites, study finds",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T17:00:00.000Z",
-        "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The stud"
-      },
-      {
-        "title": "More game developers are starting to use generative AI",
-        "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T17:00:00.000Z",
-        "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry s"
-      },
-      {
-        "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-        "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T16:58:11.000Z",
-        "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training"
-      },
-      {
-        "title": "Jensen Huang agrees to testify before Congress",
-        "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T16:36:37.000Z",
-        "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior"
-      },
-      {
-        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T16:32:33.000Z",
-        "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industr"
-      },
-      {
-        "title": "Jensen Huang is out. What did China want from him?",
-        "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T16:30:00.000Z",
-        "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before"
-      },
-      {
-        "title": "Migrate to Amazon Bedrock Managed Knowledge Base with your coding agent",
-        "url": "https://aws.amazon.com/bedrock/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T16:16:45.000Z",
-        "summary": "The migration guide in the amazon-bedrock skill helps you migrate a customer-managed Amazon Bedrock knowledge base to a Managed Knowledge Base. Your coding agen"
-      },
-      {
-        "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-        "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T16:12:44.000Z",
-        "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
-      },
-      {
-        "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T15:48:12.000Z",
-        "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation i"
-      },
-      {
-        "title": "Build composable, interoperable multi-agent systems with A2A on AWS",
-        "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-the-agent2agent-protocol-project-to-enable-secure-intelligent-communication-between-ai-agents",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T15:42:21.000Z",
-        "summary": "Build a composable, interoperable multi-agent system on AWS with the Agent-to-Agent (A2A) protocol. A LangChain orchestrator on Amazon ECS communicates with a S"
-      },
-      {
-        "title": "Fine-grained access control for Amazon Bedrock Managed Knowledge Base tools",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/kb-build-managed.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T15:40:24.000Z",
-        "summary": "Learn how to expose an Amazon Bedrock Managed Knowledge Base to AI agents as MCP tools through Amazon Bedrock AgentCore Gateway while keeping per-user access co"
-      },
-      {
-        "title": "From prototype to production: Engineering agents with Agent DLC",
-        "url": "https://github.com/aws-samples/sample-eval-first-building-enterprise-agents-with-agentcore",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T15:38:47.000Z",
-        "summary": "Agents stall between demo and release when teams lack a repeatable way to measure how good an agent is and whether the last change helped. This post covers thre"
-      },
-      {
-        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-        "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T15:37:29.000Z",
-        "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
-      },
-      {
-        "title": "Norwest pushes deeper into AI with new $4B fund",
-        "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T15:18:14.000Z",
-        "summary": "This is the investment firm's largest fund to date."
-      },
-      {
-        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-        "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T15:02:28.000Z",
-        "summary": "This is Fireworks' second data breach in as many months."
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T15:01:31.000Z",
-        "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially"
-      },
-      {
-        "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
-        "url": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T14:11:40.000Z",
-        "summary": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026. The article Jensen Hua"
-      },
-      {
-        "title": "I reviewed the Apple HomeView, ask me anything",
-        "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T14:10:00.000Z",
-        "summary": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been tes"
-      },
-      {
-        "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-        "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T13:48:19.000Z",
-        "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk"
-      },
-      {
-        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-        "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T13:26:25.000Z",
-        "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S."
-      },
-      {
-        "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
-        "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T12:09:43.000Z",
-        "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more"
-      },
-      {
-        "title": "Gondola doubles revenue as its team builds more with Codex",
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-12T12:00:00.000Z",
-        "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work."
-      },
-      {
-        "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
-        "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T10:09:56.000Z",
-        "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A "
-      },
-      {
-        "title": "Holiday Extras is rethinking what it can build with Codex",
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-12T09:30:00.000Z",
-        "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-      },
-      {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T03:13:10.000Z",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
-      },
-      {
-        "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-        "url": "https://spring.io/projects/spring-ai",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T01:18:23.000Z",
-        "summary": "Learn how Java developers can build production-ready autonomous AI agents using Amazon Bedrock and Spring AI. This post walks through tool calling, conversation"
-      },
-      {
-        "title": "Supporting research on AI and children’s safety",
-        "url": "https://openai.com/index/children-first-declaration",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-12T00:00:00.000Z",
-        "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-      },
-      {
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-12T00:00:00.000Z",
-        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-      },
-      {
-        "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-        "url": "https://huggingface.co/blog/3d-lora-finetuning",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-11-12T00:00:00.000Z",
-        "summary": ""
-      },
-      {
-        "title": "OpenAI Codex on Amazon Bedrock",
-        "url": "https://docs.aws.amazon.com/bedrock/latest/userguide/models-regions.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-11T23:35:47.000Z",
-        "summary": "A practical guide for enterprises rolling out OpenAI Codex to developers on AWS, with Amazon Bedrock as the model backend, covering the access, governance, and "
-      },
-      {
-        "title": "Semantic diffing of formal policies with anti-unification",
-        "url": "https://github.com/yaspar-org/semi-persistent",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-11T23:33:03.000Z",
-        "summary": "A textual diff of two formal policies flags every cosmetic change and hides the one that alters behavior. This post shows how to compute a symbolic, determinist"
       }
     ]
   }
