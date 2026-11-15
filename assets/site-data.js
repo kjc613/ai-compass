@@ -3232,8 +3232,92 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-14T02:47:45.664Z",
+    "updatedAt": "2026-11-15T02:15:53.327Z",
     "items": [
+      {
+        "title": "Where was Nvidia’s security team?",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-15T00:08:07.000Z",
+        "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a comp"
+      },
+      {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-14T21:41:22.000Z",
+        "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+      },
+      {
+        "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+        "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T19:05:17.000Z",
+        "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthrop"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-14T17:30:00.000Z",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      },
+      {
+        "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+        "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T16:48:01.000Z",
+        "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 So"
+      },
+      {
+        "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+        "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T16:42:56.000Z",
+        "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to d"
+      },
+      {
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-14T16:34:15.000Z",
+        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+      },
+      {
+        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-14T15:00:00.000Z",
+        "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part tw"
+      },
+      {
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-14T12:00:00.000Z",
+        "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers o"
+      },
+      {
+        "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+        "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T11:40:51.000Z",
+        "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently con"
+      },
+      {
+        "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+        "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T11:21:41.000Z",
+        "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms"
+      },
+      {
+        "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+        "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-14T09:45:45.000Z",
+        "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for rob"
+      },
       {
         "title": "Amazon has a plan to index the world’s online shopping data",
         "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
@@ -3375,41 +3459,6 @@ window.SITE_DATA = {
         "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a"
       },
       {
-        "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-        "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-13T15:53:49.000Z",
-        "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining "
-      },
-      {
-        "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-        "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-13T15:21:04.000Z",
-        "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's late"
-      },
-      {
-        "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
-        "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-13T15:15:08.000Z",
-        "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscrib"
-      },
-      {
-        "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
-        "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-13T15:12:44.000Z",
-        "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has "
-      },
-      {
-        "title": "OpenAI enters the cybersecurity market with two Daybreak products",
-        "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-13T15:08:57.000Z",
-        "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first"
-      },
-      {
         "title": "Introducing ChatGPT Wallet",
         "url": "https://openai.com/index/introducing-chatgpt-wallet",
         "source": "OpenAI News",
@@ -3529,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "Your Amazon Bedrock inference bill can keep climbing even after you tune prompts and application logic. Four request-level choices (cache duration, service tier"
       },
       {
-        "title": "Claude Meetings lets Anthropic's AI join your video calls",
-        "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-12T20:26:50.000Z",
-        "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real tim"
-      },
-      {
         "title": "Jensen Huang was having a third affair, Reuters reports",
         "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
         "source": "TechCrunch AI",
@@ -3611,48 +3653,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-11-12T18:06:54.000Z",
         "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were"
-      },
-      {
-        "title": "Introducing Gemini 4 Hydrogen",
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-11-12T18:00:50.000Z",
-        "summary": ""
-      },
-      {
-        "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-12T18:00:00.000Z",
-        "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses."
-      },
-      {
-        "title": "Run agents securely and efficiently with the next generation AgentCore runtime",
-        "url": "https://metr.org/time-horizons/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-12T17:59:59.000Z",
-        "summary": "AI agents now run multi-step workloads for hours and act on behalf of users, raising the bar for secure, scalable agent compute. Learn how the next generation o"
-      },
-      {
-        "title": "The Jensen Huang scandal is hardly over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-12T17:44:33.000Z",
-        "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably"
-      },
-      {
-        "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T17:36:40.000Z",
-        "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
-      },
-      {
-        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-        "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-12T17:17:58.000Z",
-        "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
       }
     ]
   }
