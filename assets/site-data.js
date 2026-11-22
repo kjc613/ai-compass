@@ -3232,8 +3232,113 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-21T03:38:08.639Z",
+    "updatedAt": "2026-11-22T02:44:04.868Z",
     "items": [
+      {
+        "title": "Meta ads is now available in AWS Quick",
+        "url": "https://quick.aws.com/sn?offer_type=meta-ads-quick-promo",
+        "source": "AWS Machine Learning Blog",
+        "publishedAt": "2026-11-22T01:59:13.000Z",
+        "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected t"
+      },
+      {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-21T21:37:10.000Z",
+        "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-21T21:07:42.000Z",
+        "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+      },
+      {
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-21T20:03:37.000Z",
+        "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"kil"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-21T17:00:00.000Z",
+        "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      },
+      {
+        "title": "Nvidia researchers argue huge AI context windows are a dead end",
+        "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T16:23:45.000Z",
+        "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternat"
+      },
+      {
+        "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+        "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T16:04:29.000Z",
+        "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New"
+      },
+      {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-21T16:00:00.000Z",
+        "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes"
+      },
+      {
+        "title": "Can Anthropic afford to put safety first?",
+        "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-21T15:00:00.000Z",
+        "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real lif"
+      },
+      {
+        "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+        "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-21T14:00:00.000Z",
+        "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games"
+      },
+      {
+        "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+        "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T13:32:35.000Z",
+        "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up quest"
+      },
+      {
+        "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+        "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T11:19:49.000Z",
+        "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalize"
+      },
+      {
+        "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+        "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T10:33:02.000Z",
+        "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason intern"
+      },
+      {
+        "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+        "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T10:27:44.000Z",
+        "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting"
+      },
+      {
+        "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+        "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-21T09:17:24.000Z",
+        "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just thre"
+      },
       {
         "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
         "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22322-3.png",
@@ -3354,32 +3459,11 @@ window.SITE_DATA = {
         "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Cl"
       },
       {
-        "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-        "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T15:56:03.000Z",
-        "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry"
-      },
-      {
-        "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-        "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T15:03:25.000Z",
-        "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices."
-      },
-      {
         "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
         "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-20T14:55:44.000Z",
         "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and pro"
-      },
-      {
-        "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-        "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T14:53:50.000Z",
-        "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language"
       },
       {
         "title": "The week everything fell apart",
@@ -3396,13 +3480,6 @@ window.SITE_DATA = {
         "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
       },
       {
-        "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-        "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T13:19:31.000Z",
-        "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and cr"
-      },
-      {
         "title": "Signal is blocking Gemini and Siri AI from reading your screen",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
         "source": "The Verge AI",
@@ -3415,13 +3492,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-11-20T10:00:00.000Z",
         "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-      },
-      {
-        "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-        "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T09:59:51.000Z",
-        "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom"
       },
       {
         "title": "Apple may be developing its own AI agent that runs your Mac",
@@ -3543,13 +3613,6 @@ window.SITE_DATA = {
         "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to de"
       },
       {
-        "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-        "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-19T21:15:01.000Z",
-        "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent rec"
-      },
-      {
         "title": "Meta’s Muse Charm might cost $300",
         "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
         "source": "The Verge AI",
@@ -3562,13 +3625,6 @@ window.SITE_DATA = {
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-19T20:18:49.000Z",
         "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a"
-      },
-      {
-        "title": "Google is putting AI chats right on the homepage",
-        "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-19T20:05:06.000Z",
-        "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsibl"
       },
       {
         "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
@@ -3585,13 +3641,6 @@ window.SITE_DATA = {
         "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice "
       },
       {
-        "title": "AI industry growth remains strong, but the pace is slowing",
-        "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-19T19:28:19.000Z",
-        "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59"
-      },
-      {
         "title": "Anthropic’s IPO could deliver $156B to charity",
         "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
         "source": "TechCrunch AI",
@@ -3604,55 +3653,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-11-19T18:48:55.000Z",
         "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows"
-      },
-      {
-        "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
-        "url": "https://aws.amazon.com/ai/aileague/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T18:26:22.000Z",
-        "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI Lea"
-      },
-      {
-        "title": "Gemini on Mac can now use your computer",
-        "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-19T18:21:13.000Z",
-        "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the "
-      },
-      {
-        "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T18:20:54.000Z",
-        "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, "
-      },
-      {
-        "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-        "url": "https://www.skyflow.com/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T18:14:36.000Z",
-        "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-iden"
-      },
-      {
-        "title": "Google gives Gemini the ability to use your Mac for you",
-        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-19T18:09:11.000Z",
-        "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-      },
-      {
-        "title": "Introducing Tool Retrieval in the Gemini API",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-        "source": "Google AI Blog",
-        "publishedAt": "2026-11-19T18:00:00.000Z",
-        "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API."
-      },
-      {
-        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-19T17:38:40.000Z",
-        "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders t"
       }
     ]
   }
