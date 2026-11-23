@@ -3232,14 +3232,105 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-22T02:44:04.868Z",
+    "updatedAt": "2026-11-23T03:21:15.120Z",
     "items": [
+      {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-23T01:25:53.000Z",
+        "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      },
+      {
+        "title": "We haven’t seen the last of the major tech outages",
+        "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-22T22:48:02.000Z",
+        "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking out"
+      },
+      {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-22T21:14:07.000Z",
+        "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+      },
+      {
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-22T18:08:43.000Z",
+        "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+      },
+      {
+        "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+        "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-22T17:25:20.000Z",
+        "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game u"
+      },
+      {
+        "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+        "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T15:15:48.000Z",
+        "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep devel"
+      },
+      {
+        "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+        "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T14:20:28.000Z",
+        "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model"
+      },
+      {
+        "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+        "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T13:00:43.000Z",
+        "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule"
+      },
+      {
+        "title": "The vibe-coding revolution is coming to all the gadgets",
+        "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-22T13:00:00.000Z",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce"
+      },
+      {
+        "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+        "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T12:07:56.000Z",
+        "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised p"
+      },
+      {
+        "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+        "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T11:08:31.000Z",
+        "summary": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the "
+      },
+      {
+        "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+        "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-22T09:41:37.000Z",
+        "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's "
+      },
       {
         "title": "Meta ads is now available in AWS Quick",
         "url": "https://quick.aws.com/sn?offer_type=meta-ads-quick-promo",
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-11-22T01:59:13.000Z",
         "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected t"
+      },
+      {
+        "title": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "OpenAI News",
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
       },
       {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -3319,27 +3410,6 @@ window.SITE_DATA = {
         "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalize"
       },
       {
-        "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-        "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-21T10:33:02.000Z",
-        "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason intern"
-      },
-      {
-        "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-        "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-21T10:27:44.000Z",
-        "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting"
-      },
-      {
-        "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-        "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-21T09:17:24.000Z",
-        "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just thre"
-      },
-      {
         "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
         "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/20/ML-22322-3.png",
         "source": "AWS Machine Learning Blog",
@@ -3382,13 +3452,6 @@ window.SITE_DATA = {
         "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its "
       },
       {
-        "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-        "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T20:31:50.000Z",
-        "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the su"
-      },
-      {
         "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
         "url": "https://aws.amazon.com/textract/",
         "source": "AWS Machine Learning Blog",
@@ -3403,25 +3466,11 @@ window.SITE_DATA = {
         "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building."
       },
       {
-        "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-        "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T19:50:27.000Z",
-        "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls i"
-      },
-      {
         "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
         "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-20T19:32:08.000Z",
         "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-      },
-      {
-        "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-        "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-20T18:50:31.000Z",
-        "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live"
       },
       {
         "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -3557,13 +3606,6 @@ window.SITE_DATA = {
         "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on "
       },
       {
-        "title": "Apple is hiring engineers to build its own AI agent",
-        "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-19T22:31:41.000Z",
-        "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling servi"
-      },
-      {
         "title": "How the BMW Group governs hundreds of agents across thousands of developers",
         "url": "https://aws.amazon.com/architecture/well-architected/",
         "source": "AWS Machine Learning Blog",
@@ -3576,13 +3618,6 @@ window.SITE_DATA = {
         "source": "AWS Machine Learning Blog",
         "publishedAt": "2026-11-19T22:16:22.000Z",
         "summary": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening i"
-      },
-      {
-        "title": "A brief history of Nvidia’s recent stock fluctuations",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-19T21:59:35.000Z",
-        "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursd"
       },
       {
         "title": "Meta’s new Muse Charm device may cost $300",
@@ -3613,46 +3648,11 @@ window.SITE_DATA = {
         "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to de"
       },
       {
-        "title": "Meta’s Muse Charm might cost $300",
-        "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-19T20:22:17.000Z",
-        "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO M"
-      },
-      {
         "title": "The unfolding Jensen Huang scandal: a timeline",
         "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "source": "TechCrunch AI",
         "publishedAt": "2026-11-19T20:18:49.000Z",
         "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most a"
-      },
-      {
-        "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-        "url": "https://strandsagents.com/docs/user-guide/harness/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T20:01:06.000Z",
-        "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, pr"
-      },
-      {
-        "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
-        "url": "https://pages.awscloud.com/amazon-polly-voice-cloning-20261119.html",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T19:53:32.000Z",
-        "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice "
-      },
-      {
-        "title": "Anthropic’s IPO could deliver $156B to charity",
-        "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-19T19:10:45.000Z",
-        "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-      },
-      {
-        "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-        "url": "https://aws.amazon.com/bedrock/",
-        "source": "AWS Machine Learning Blog",
-        "publishedAt": "2026-11-19T18:48:55.000Z",
-        "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows"
       }
     ]
   }
