@@ -3232,8 +3232,92 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-26T04:35:03.438Z",
+    "updatedAt": "2026-11-27T04:39:02.218Z",
     "items": [
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-26T20:03:54.000Z",
+        "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips o"
+      },
+      {
+        "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+        "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T19:31:46.000Z",
+        "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences"
+      },
+      {
+        "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+        "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T17:28:56.000Z",
+        "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. A"
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "source": "TechCrunch AI",
+        "publishedAt": "2026-11-26T16:00:00.000Z",
+        "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+      },
+      {
+        "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+        "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T15:45:08.000Z",
+        "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI an"
+      },
+      {
+        "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+        "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T13:41:07.000Z",
+        "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches i"
+      },
+      {
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-26T11:37:17.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+        "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T11:30:06.000Z",
+        "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almo"
+      },
+      {
+        "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+        "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-26T11:21:16.000Z",
+        "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls "
+      },
+      {
+        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-26T09:54:40.000Z",
+        "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a d"
+      },
+      {
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-26T05:05:36.000Z",
+        "summary": ""
+      },
+      {
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "url": "https://huggingface.co/blog/training-swarms",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-26T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
         "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -3361,32 +3445,11 @@ window.SITE_DATA = {
         "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
       },
       {
-        "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
-        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T13:23:36.000Z",
-        "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recur"
-      },
-      {
-        "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
-        "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T13:14:27.000Z",
-        "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heav"
-      },
-      {
         "title": "The Download: AI swamping open records, and firefighting for permafrost",
         "url": "https://forms.technologyreview.com/newsletters/briefing-the-download/?_ga=2.179569122.736533416.1649661040-405833893.1649413289",
         "source": "MIT Technology Review",
         "publishedAt": "2026-11-25T13:10:00.000Z",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining Americ"
-      },
-      {
-        "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
-        "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T13:07:44.000Z",
-        "summary": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach "
       },
       {
         "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
@@ -3401,20 +3464,6 @@ window.SITE_DATA = {
         "source": "The Verge AI",
         "publishedAt": "2026-11-25T13:00:00.000Z",
         "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to "
-      },
-      {
-        "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
-        "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T11:51:49.000Z",
-        "summary": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB langu"
-      },
-      {
-        "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
-        "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T10:47:51.000Z",
-        "summary": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates "
       },
       {
         "title": "An Indic Voice Agent with CUGA",
@@ -3473,13 +3522,6 @@ window.SITE_DATA = {
         "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
       },
       {
-        "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
-        "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-24T20:42:29.000Z",
-        "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, an"
-      },
-      {
         "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
         "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
         "source": "The Verge AI",
@@ -3522,39 +3564,11 @@ window.SITE_DATA = {
         "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
       },
       {
-        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-24T16:46:00.000Z",
-        "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated."
-      },
-      {
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-        "source": "Hugging Face Blog",
-        "publishedAt": "2026-11-24T16:34:13.000Z",
-        "summary": ""
-      },
-      {
         "title": "Jensen Huang deepfakes are the hot new AI slop",
         "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
         "source": "The Verge AI",
         "publishedAt": "2026-11-24T16:30:00.000Z",
         "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne g"
-      },
-      {
-        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-        "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-        "source": "TechCrunch AI",
-        "publishedAt": "2026-11-24T16:10:00.000Z",
-        "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice."
-      },
-      {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-24T16:09:23.000Z",
-        "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that m"
       },
       {
         "title": "How Gemini is changing the game for Golden State's organization and fans.",
@@ -3639,20 +3653,6 @@ window.SITE_DATA = {
         "source": "Google AI Blog",
         "publishedAt": "2026-11-23T17:00:00.000Z",
         "summary": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode."
-      },
-      {
-        "title": "Finding faster quantum algorithms with agents and formal verification",
-        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-        "source": "Google DeepMind Blog",
-        "publishedAt": "2026-11-23T16:59:40.000Z",
-        "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
-      },
-      {
-        "title": "Connected intelligence for in-house legal",
-        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-        "source": "OpenAI News",
-        "publishedAt": "2026-11-23T08:00:00.000Z",
-        "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business co"
       }
     ]
   }
