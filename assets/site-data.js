@@ -3232,8 +3232,71 @@ window.SITE_DATA = {
     }
   ],
   "newsData": {
-    "updatedAt": "2026-11-27T04:39:02.218Z",
+    "updatedAt": "2026-11-28T04:24:16.046Z",
     "items": [
+      {
+        "title": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+        "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T19:38:37.000Z",
+        "summary": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit fro"
+      },
+      {
+        "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+        "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T18:27:02.000Z",
+        "summary": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A ser"
+      },
+      {
+        "title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+        "url": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T16:58:56.000Z",
+        "summary": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal worl"
+      },
+      {
+        "title": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+        "url": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T16:06:43.000Z",
+        "summary": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared f"
+      },
+      {
+        "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+        "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T16:05:23.000Z",
+        "summary": "OpenAI's data agent in ChatGPT Work still isn't accurate enough. Under the codename \"Athena,\" the company is building a semantic layer that gives agents standar"
+      },
+      {
+        "title": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+        "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T15:37:47.000Z",
+        "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launc"
+      },
+      {
+        "title": "SAP plans to cut at least 10,000 jobs as it pivots to AI",
+        "url": "https://the-decoder.com/sap-plans-to-cut-at-least-10000-jobs-as-it-pivots-to-ai/",
+        "source": "The Decoder",
+        "publishedAt": "2026-11-27T14:57:25.000Z",
+        "summary": "SAP is preparing to eliminate at least 10,000 positions as part of a sweeping AI restructuring, Bloomberg reports, citing people familiar with the matter. The a"
+      },
+      {
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "source": "The Verge AI",
+        "publishedAt": "2026-11-27T14:00:00.000Z",
+        "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-"
+      },
+      {
+        "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "url": "https://huggingface.co/blog/video-trainium3",
+        "source": "Hugging Face Blog",
+        "publishedAt": "2026-11-27T00:00:00.000Z",
+        "summary": ""
+      },
       {
         "title": "Nvidia hits pause on chip shipments to Southeast Asia",
         "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -3270,32 +3333,11 @@ window.SITE_DATA = {
         "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI an"
       },
       {
-        "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
-        "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-26T13:41:07.000Z",
-        "summary": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches i"
-      },
-      {
         "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
         "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
         "source": "Hugging Face Blog",
         "publishedAt": "2026-11-26T11:37:17.000Z",
         "summary": ""
-      },
-      {
-        "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
-        "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-26T11:30:06.000Z",
-        "summary": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almo"
-      },
-      {
-        "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
-        "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-26T11:21:16.000Z",
-        "summary": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls "
       },
       {
         "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -3333,20 +3375,6 @@ window.SITE_DATA = {
         "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements"
       },
       {
-        "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
-        "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T20:51:02.000Z",
-        "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba"
-      },
-      {
-        "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
-        "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T20:15:50.000Z",
-        "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"t"
-      },
-      {
         "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
         "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
         "source": "TechCrunch AI",
@@ -3375,13 +3403,6 @@ window.SITE_DATA = {
         "summary": ""
       },
       {
-        "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
-        "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T18:22:02.000Z",
-        "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the d"
-      },
-      {
         "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
         "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
         "source": "TechCrunch AI",
@@ -3408,13 +3429,6 @@ window.SITE_DATA = {
         "source": "MIT Technology Review",
         "publishedAt": "2026-11-25T17:00:00.000Z",
         "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of "
-      },
-      {
-        "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-        "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
-        "source": "The Decoder",
-        "publishedAt": "2026-11-25T16:44:37.000Z",
-        "summary": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenu"
       },
       {
         "title": "Nothing offers a full look at its AI earbuds and charging case",
@@ -3564,13 +3578,6 @@ window.SITE_DATA = {
         "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
       },
       {
-        "title": "Jensen Huang deepfakes are the hot new AI slop",
-        "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-        "source": "The Verge AI",
-        "publishedAt": "2026-11-24T16:30:00.000Z",
-        "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne g"
-      },
-      {
         "title": "How Gemini is changing the game for Golden State's organization and fans.",
         "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
         "source": "Google AI Blog",
@@ -3639,13 +3646,6 @@ window.SITE_DATA = {
         "source": "OpenAI News",
         "publishedAt": "2026-11-23T21:20:00.000Z",
         "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-      },
-      {
-        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-        "url": "https://forms.technologyreview.com/newsletters/ai-demystified-the-algorithm/",
-        "source": "MIT Technology Review",
-        "publishedAt": "2026-11-23T17:36:08.000Z",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public la"
       },
       {
         "title": "A more tailored Google Search that’s uniquely yours",
